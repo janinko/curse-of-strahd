@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/okwcvs0o#mRTfjI9N09jzwMlTUpaxI6YMIHFdkFSjLwMoVodjepc
-share_updated: 2024-04-26T13:40:13+02:00
----
 # 10. Flamerule 1492
 - Rozhodlo se, že se půjde spát do [[Místa - panství Dorstových#Přízemí|loveckého salonku]]
 	- **Abukai** se v noci vrtěl, pravděpodobně z důvodu nějakého zmateného snu.
