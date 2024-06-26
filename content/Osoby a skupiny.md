@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/qz85lldg#iWcW0sidgpKai3+ZAUZd6t1mLqgifiWJcS8vWLnETn8
-share_updated: 2024-06-25T19:30:28+02:00
----
 # Alena
 Majitelka hostince [[Místa - Materiální pláň#Hold Fast Inn|Hold fast Inn]] v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]]
 ## Kelen
