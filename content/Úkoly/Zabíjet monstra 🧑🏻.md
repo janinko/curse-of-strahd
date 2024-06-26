@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/3fuc5jbg#ftnaJzQ0AuycK8HjJoXlKUz/zRJBK4RG0S9/cWVP8uw
-share_updated: 2024-06-24T16:46:13+02:00
----
 - V [[Místa - Materiální pláň#Liamova Tvrz|Liamově Tvrzi]] jsme zabili 2 vlky a jednoho obrovského vlka
 - **Malakai** zabil [[Osoby a skupiny#Vaslov †|jednoho vlkodlaka]] na cestě z [[Místa - Materiální pláň#Liamova Tvrz|Liamovy Tvrze]] k [[Místa - panství Dorstových#Druhé patro|domu Dorstových]]
 - Zabili jsme Oživlé brnění a Oživlé koště v [[Místa - panství Dorstových#Druhé patro|domě Dorstových]]
