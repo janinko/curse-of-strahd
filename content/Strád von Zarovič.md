@@ -1,0 +1,58 @@
+---
+share_link: https://share.note.sx/v6wq42hw#YVOZRRygyFaAhalaeJAbZmjSXRVEZrCrDXbEi/owVU4
+share_updated: 2024-06-17T17:47:01+02:00
+---
+"Děsivý lord a pán", "ďábel"
+- Vysoký, aristokraticky vypadající muž
+	- Má bledou tvář a černé vlasy
+	- Nosí prsten, šarlatovou tuniku
+	- Nehty má dlouhé jako drápy
+- Tvrdí, že [[Místa - Barovie#Barovie, území|Barovie]] je jeho panství
+- Podle [[#Bildrath|Bildratha]] je to ďábel, podle [[#Ismark Koljanovič|Ismarka]] jde o upíra
+- Údajně žije na [[Místa - Barovie#Ravenloft|hradě Ravenloft]] nad [[Místa - Barovie#Barovie, vesnice|Barovií]]
+- Adresoval svůj [[Dopis Gustavovi Durstovi od Stráda von Zaroviče|dopis]] [[#Gustav|Gustavovi Dorstovi]].
+- 4. Oťávra se [[012 Setkání s ďáblem Strádem|setkal s dobroduhy]]
+## Pozorování
+- Z [[012 Setkání s ďáblem Strádem|prvního setkání]]:
+	- Poroučel 6 obřím vlkům
+	- Měl černý vůz a 2 koně (Abukaiovi se je nepodařilo popohnat)
+	- "Prý jsem tyran, ale já to tak nevidím. Starám se o ty, kteří mi prokážou úctu a umím odměnit lidi, kteří jsou mi přátelští." "Vždy se najde někdo, kdo nemá dost úcty a respektu."
+	- Při pohledu do očí očaroval Aurelia a Malakaie
+	- I když byl den, v lese na odbočce k [[Místa - Barovie#Ravenloft|Ravenloftu]] mu slunce neubližovalo, i když údajně mělo
+	- Použil counterspell proti Netharovu Hold Person
+- Z [[016 Nezvaní hosté|druhého setkání]]:
+	- Opakovaně se ptal jestli jej pozveme dál, ale když jsme mu vstup odmítli, do domu nevešel.
+	- Při útoku na hospodu útočili netopíři a zombie
+	- Hospodu zahalila mlha
+	- Vrhnul do hospody ohnivou kouli
+## Zvěsti
+- Podle [[#Ismark Koljanovič|Ismarka]]:
+	- prý mu slouží [[#Vistani|Vistani]], protože prý můžou opustit [[Místa - Barovie#Barovie, území|Barovii]]
+	- stojí za [[Těžké časy v Barovii|těžkými časy v Barovii]] a pije [[#Irina Koljanovna|Irině]] krev
+	- dokáže upřít pohled svých rudých očí tak, že dokáže kohokoli donutit udělat co se Strádovi zachce
+	- Podle vyprávěné legendy, dojel před 220 lety k [[Místa - panství Dorstových|panství Dorstů]] v kočáře taženém koněm, co dýchal plameny, a pak o [[#Rodina Dorstových|Dorstových]] už nikdo neslyšel
+- Podle [[#Irina Koljanovna|Iriny]]:
+	- pamatuje si jen červené oči a v nich hlad
+	- traduje se, že kousne, koho si zamane
+	- Strád prý dobil [[Místa - Barovie#Barovie, území|Barovii]] spolu se svým otcem
+	- Myši, netopíři a další havěť jsou prý Strádovi špioni
+- Podle knihy o upírech z [[Místa - Barovie#Rychtářův dům|rychtářova domu]]:
+	- Na upíry platí tekoucí voda a slunce
+	- Musí přes den spát v rakvi
+	- Umí se přeměňovat v mlhu, netopíry a vlka
+	- Umí povolat netopíry, vlky a další havěť
+- Podle [[#Donovič|kněze Donoviče]]:
+	- na upíry funguje sluneční světlo
+- Podle [[#Madam Eva|madam Evy]]:
+	- "Myslím si, že stav v jakém Strád je, je prokletí pro něj i pro [[Místa - Barovie#Barovie, území|Barovii]]"
+	- Čas od času si zve do [[Místa - Barovie#Barovie, území|Barovie]] dobrodruhy
+	- Strád si nás nějak označil, aby zajistil zajistil, že do [[Místa - Barovie#Barovie, území|Barovie]] přijdeme
+	- Z Aurelia cítila stejný typ energie, který cítila ze Stráda
+		- Strád při setkání s Aureliem projevil zaujetí jeho elementální magií
+- Podle [[#Oleg|Olega]] a jeho [[Skazka o kouzelníku, jež se vzepřel Strádovi|příběhu]]:
+	- Umí sesílat kouzla:
+		- "ozval se hrom a čaroděje zavalil obrovský kámen"
+		- "zasáhl \[čarodějě] blesk z nebe"
+	- Jezdí v černém voze taženém koňmi
+- Podle [[Zápisky mocného čarodějě|zápisků]] [[#Mocný čaroděj|mocného čaroděje]]:
+	- je třeba jej dostat z hradu, protože přece "medvěda nelovíš v jeho doupěti"
