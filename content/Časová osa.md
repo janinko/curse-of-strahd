@@ -12,7 +12,6 @@ Kalendář:
 11. měsíc
 12. měsíc
 13. ???
-
 # Léta 3xx
 - Podle [[Dopis od Koljana Indiroviče|dopis]] od [[Osoby a skupiny#Koljan Indirovič †|Koljana]] "před více jak 400 lety" od roku 735 začal [[Strád von Zarovič|Strád]] vysávat krev občanům [[Místa - Barovie#Barovie, území]] 
 # Rok 389
