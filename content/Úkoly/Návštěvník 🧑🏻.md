@@ -1,5 +1,5 @@
 ---
-showSidebar: "false"
+showSidebar: false
 ---
 
 Po příchodu do [[Místa - Barovie#Barovie, území|Barovie]] jsem cítil nával emocí jako strach, naštvání a prustraci
