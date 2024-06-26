@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/oz3jdfdr#fNOUZGwSPY8Dl6NNwpfambnsUS7g4TSDbvDDJN36yP8
-share_updated: 2024-04-26T13:40:25+02:00
----
 # 2. Oťávra (měsíc lovců) 735
 - Dobrodruzi dokončili rozhovor s [[Osoby a skupiny#Ismark Koljanovič|Ismarkem]] otázkami o [[Místa - Barovie|okolí]] a místním [[Pochopit neznámý kalendář|kalendáři]] 
 - **Abukai** vymyslel plán, že [[Osoby a skupiny#Irina Koljanovna|Irinu]] převlečou za Vistánku a chtěl po **Netharovi** ať od nich získá jejich šaty
