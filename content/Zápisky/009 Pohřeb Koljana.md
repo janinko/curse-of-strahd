@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/7extlgdv#9A572f2Qav3v4ho+aylpYhTV5nZxBGgNL9M6eWC0KDo
-share_updated: 2024-04-26T13:40:29+02:00
----
 # 3. Oťávra (měsíc lovců) 735
 ## Po půlnoci
 - Po cestě ze hřbitova uviděla družina [[Osoby a skupiny#Koláčová Bába|bábu prodávající koláče]]
