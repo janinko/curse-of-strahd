@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/aoytn36f#787TfNtyv1s4zz7yjM9dVeqDnNmvGXqJKsOvzIVSdVk
-share_updated: 2024-04-26T13:40:46+02:00
----
 Pozdravy mocným a udatným.
 
 Já, starosta [[Místa - Barovie#Barovie, vesnice|Barovie]], Vám vzdávám čest - v zoufalství.
