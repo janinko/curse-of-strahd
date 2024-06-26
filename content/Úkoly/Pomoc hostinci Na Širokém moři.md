@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/0kt1rwlv#7USmvhdpUv+5w1z6mJrZo5GNT8EOSc/lO3rYHyT+iP0
-share_updated: 2024-06-25T19:31:00+02:00
----
 # Sehnat dřevo na opravy
 [[Osoby a skupiny#Danika Martikovová|Danika Martikovová]] a [[Osoby a skupiny#Urvin]] z [[Místa - Barovie#Hostinec Na Širokém moři|hostince Na Širokém moři]] nás požádali, jestli bysme mohli dovézt nějaké dřevo na opravu spáleného hostince
 - [ ] Vyzvednout vůz
