@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/r3v71bfh#9qh5N91xvDHN9ehj/LFFl3OkBm0rVw4a0mWkw4ckaBw
-share_updated: 2024-04-26T13:41:28+02:00
----
 Zápisky [[Osoby a skupiny#Mocný čaroděj|mocného čaroděje]], které jsme našli v jeskyni u [[Místa - Barovie#Tserské vodopády|Tserských vodopádů]]:
 
 - Nalezl knihy v [[Místa - Materiální pláň#Candlekeep|Candlekeep]] pojednávající o demipláních "Panství Hrůzy" a začal jejich výzkum
