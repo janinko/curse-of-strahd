@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/fiqxkmkn#2YFUkrRYySUNlKdYssMofWmi4lm34PizMgfEFwAsSnA
-share_updated: 2024-02-29T13:56:01+01:00
----
 [[Osoby a skupiny#Alena|Alena]] nás informovala, že se jí ztratil syn [[Osoby a skupiny#Kelen|Kelen]] a jeho kamarád [[Osoby a skupiny#Marcus|Marcus]]. Podle Aleny a Marcusova otce šli směrem k [[Místa - Materiální pláň#Mlžný Hvozd|Mlžnému hvozdu]] prozkoumat nějaký dům (možná [[Místa - panství Dorstových|Strašidelné panství]]) a už se nevrátili
 
 - [[Osoby a skupiny#Vaslov †|Vaslov]] tvrdil, že kluky unesli [[Osoby a skupiny#Vlkodlaci|vlkodlaci]] do svého [[Místa#Vlkodlačí doupě|doupěte]]
