@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/tc6lwbkg#WJyDxrGbzo+VGgqIPjP2liUuU4tiPJvzkcsaC8zGPKo
-share_updated: 2024-04-09T22:06:48+02:00
----
 # 3. Oťávra (měsíc lovců) 735
 - Rozhodlo se, že se na noc utáboříme u [[Osoby a skupiny#Vistani|Vistani]] v táboře u [[Místa - Barovie#Tserské jezero|Tserského jezera]] 
 - Abukai si dal s [[Osoby a skupiny#Irina Koljanovna|Irinou]] další souboj, který k Malakaiově radosti prohrál
