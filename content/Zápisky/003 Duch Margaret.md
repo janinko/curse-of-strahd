@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/qb3n8gqg#8Xy1RAqyxQYy3ntHp0aPjrTu1mVs95SLFqhqnsQngdU
-share_updated: 2024-02-19T17:43:18+01:00
----
 # 10. Flamerule 1492
 - Zatímco **Aurelius** a **Malakai** odpočívali, **Abukai** se vydal hledat kuchyni a **Nethar** hlídal
 - **Abukai** zatopil v kamnech v kuchyni a pak v krbu v hale. Načež si to rozmyslel a oheň přenesl do loveckého salónku, aby zahřál **Aurelia**.
