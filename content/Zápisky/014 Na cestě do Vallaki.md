@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/y03hznpq#lumfNcAOwvQ1JOAKiPXweL25kgk2jG6UbLpVzrE36tg
-share_updated: 2024-05-29T17:38:18+02:00
----
 # 4. Oťávra 735
 - Družina se uložila k odpočinku v [[Místa - Barovie#Západní brána|Západní bráně]]
 	- Kolem půlnoci k bráně přijel [[Osoby a skupiny#Nemrtvý jezdec|nemrtvý jezdec]], **Malakai** se jej pokusil zdržet zastavením otevírání brány, pak jsme se ale rozhodli nechat jej projet
