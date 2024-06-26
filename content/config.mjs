@@ -3,6 +3,7 @@ const config = {
   showSidebar: true,
   search: {
     provider: "kbar",
+    config: {}
   },
 };
 
