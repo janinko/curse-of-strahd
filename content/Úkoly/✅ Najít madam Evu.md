@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/qilrg6s5#paNIKqfLlAG23slppBUdUaCe34UwZGh35jG7AxRBWN8
-share_updated: 2024-04-26T13:40:03+02:00
----
 Ve společné [[001 Česnekové speciality|vizi]] jsme viděli [[Osoby a skupiny#Madam Eva|madam Evu]], která nám řekla o hlubokém tmavém lese a o [[Osoby a skupiny#Pavouk|Pavoukovi]] v [[Místa - Barovie#Barovie, území|údolí]] a že se nám možná podaří uniknout nebezpečí, nebo alespoň přežít.
 Ve vhodnou příležitost ji máme vyhledat, aby nám znovu vyložila budoucnost a s touto pomocí se nám pak snad [[Osoby a skupiny#Pavouk|Pavouka]] podaří porazit.
 
