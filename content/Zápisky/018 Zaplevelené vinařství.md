@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/nj8l99jn#9eP9ClpF87zqRno8t4W8Y80Js4jnpargxoydFxnnyF4
-share_updated: 2024-06-25T19:30:52+02:00
----
 # 6. Oťávra
 - Vyjeli jsme z [[Místa - Barovie#Vallaki|Vallaki]] s vozem na víno na západ, s cílem dojet do večera do [[Místa - Barovie#Vinařství U mága|vinařství u mága]]
 	- Viděli jsme odbočku kudy jely vozy, pravděpodobně do [[Osoby a skupiny#Luvašův tábor|Luvašova tábora]]
