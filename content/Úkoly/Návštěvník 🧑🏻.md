@@ -1,7 +1,3 @@
----
-showSidebar: false
----
-
 Po příchodu do [[Místa - Barovie#Barovie, území|Barovie]] jsem cítil nával emocí jako strach, naštvání a prustraci
 
 Při meditaci jsem se cítil, jako bych byl sám v místnosti, ale přesto mě někdo sledoval.
