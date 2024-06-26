@@ -8,9 +8,9 @@ share_updated: 2024-06-17T17:47:01+02:00
 	- Nosí prsten, šarlatovou tuniku
 	- Nehty má dlouhé jako drápy
 - Tvrdí, že [[Místa - Barovie#Barovie, území|Barovie]] je jeho panství
-- Podle [[#Bildrath|Bildratha]] je to ďábel, podle [[#Ismark Koljanovič|Ismarka]] jde o upíra
+- Podle [[Osoby a skupiny#Bildrath|Bildratha]] je to ďábel, podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] jde o upíra
 - Údajně žije na [[Místa - Barovie#Ravenloft|hradě Ravenloft]] nad [[Místa - Barovie#Barovie, vesnice|Barovií]]
-- Adresoval svůj [[Dopis Gustavovi Durstovi od Stráda von Zaroviče|dopis]] [[#Gustav|Gustavovi Dorstovi]].
+- Adresoval svůj [[Dopis Gustavovi Durstovi od Stráda von Zaroviče|dopis]] [[Osoby a skupiny#Gustav|Gustavovi Dorstovi]].
 - 4. Oťávra se [[012 Setkání s ďáblem Strádem|setkal s dobroduhy]]
 ## Pozorování
 - Z [[012 Setkání s ďáblem Strádem|prvního setkání]]:
@@ -26,12 +26,12 @@ share_updated: 2024-06-17T17:47:01+02:00
 	- Hospodu zahalila mlha
 	- Vrhnul do hospody ohnivou kouli
 ## Zvěsti
-- Podle [[#Ismark Koljanovič|Ismarka]]:
-	- prý mu slouží [[#Vistani|Vistani]], protože prý můžou opustit [[Místa - Barovie#Barovie, území|Barovii]]
-	- stojí za [[Těžké časy v Barovii|těžkými časy v Barovii]] a pije [[#Irina Koljanovna|Irině]] krev
+- Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]]:
+	- prý mu slouží [[Osoby a skupiny#Vistani|Vistani]], protože prý můžou opustit [[Místa - Barovie#Barovie, území|Barovii]]
+	- stojí za [[Těžké časy v Barovii|těžkými časy v Barovii]] a pije [[Osoby a skupiny#Irina Koljanovna|Irině]] krev
 	- dokáže upřít pohled svých rudých očí tak, že dokáže kohokoli donutit udělat co se Strádovi zachce
 	- Podle vyprávěné legendy, dojel před 220 lety k [[Místa - panství Dorstových|panství Dorstů]] v kočáře taženém koněm, co dýchal plameny, a pak o [[#Rodina Dorstových|Dorstových]] už nikdo neslyšel
-- Podle [[#Irina Koljanovna|Iriny]]:
+- Podle [[Osoby a skupiny#Irina Koljanovna|Iriny]]:
 	- pamatuje si jen červené oči a v nich hlad
 	- traduje se, že kousne, koho si zamane
 	- Strád prý dobil [[Místa - Barovie#Barovie, území|Barovii]] spolu se svým otcem
@@ -41,18 +41,18 @@ share_updated: 2024-06-17T17:47:01+02:00
 	- Musí přes den spát v rakvi
 	- Umí se přeměňovat v mlhu, netopíry a vlka
 	- Umí povolat netopíry, vlky a další havěť
-- Podle [[#Donovič|kněze Donoviče]]:
+- Podle [[Osoby a skupiny#Donovič|kněze Donoviče]]:
 	- na upíry funguje sluneční světlo
-- Podle [[#Madam Eva|madam Evy]]:
+- Podle [[Osoby a skupiny#Madam Eva|madam Evy]]:
 	- "Myslím si, že stav v jakém Strád je, je prokletí pro něj i pro [[Místa - Barovie#Barovie, území|Barovii]]"
 	- Čas od času si zve do [[Místa - Barovie#Barovie, území|Barovie]] dobrodruhy
 	- Strád si nás nějak označil, aby zajistil zajistil, že do [[Místa - Barovie#Barovie, území|Barovie]] přijdeme
 	- Z Aurelia cítila stejný typ energie, který cítila ze Stráda
 		- Strád při setkání s Aureliem projevil zaujetí jeho elementální magií
-- Podle [[#Oleg|Olega]] a jeho [[Skazka o kouzelníku, jež se vzepřel Strádovi|příběhu]]:
+- Podle [[Osoby a skupiny#Oleg|Olega]] a jeho [[Skazka o kouzelníku, jež se vzepřel Strádovi|příběhu]]:
 	- Umí sesílat kouzla:
 		- "ozval se hrom a čaroděje zavalil obrovský kámen"
 		- "zasáhl \[čarodějě] blesk z nebe"
 	- Jezdí v černém voze taženém koňmi
-- Podle [[Zápisky mocného čarodějě|zápisků]] [[#Mocný čaroděj|mocného čaroděje]]:
+- Podle [[Zápisky mocného čarodějě|zápisků]] [[Osoby a skupiny#Mocný čaroděj|mocného čaroděje]]:
 	- je třeba jej dostat z hradu, protože přece "medvěda nelovíš v jeho doupěti"
