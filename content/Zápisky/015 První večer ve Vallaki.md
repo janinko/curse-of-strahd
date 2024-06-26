@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/ovdubl1o#0COtcFpOKOUFBicAaLW4+7NAmvQj16RpQG8j7x+IT4c
-share_updated: 2024-05-29T17:38:25+02:00
----
 # 5. Oťávra 735 
 - Dorazili jsme k bráně do [[Místa - Barovie#Vallaki|Vallaki]], strážní nás po odbavení pustili do města a doproručili ať zůstaneme na Oslavy zářícího slunce za 4-5 dní
 - Při prohlídce města zašel **Abukai** s [[Osoby a skupiny#Ismark Koljanovič|Ismarkem]] a [[Osoby a skupiny#Irina Koljanovna|Irinou]] do [[Místa - Barovie#Kostel sv. Andrela|Kostel sv. Andrela]]
