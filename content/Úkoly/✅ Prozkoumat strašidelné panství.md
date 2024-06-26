@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/mia30722#7Jzvd9vCemFSKABYwhNG8aPDR+GerMoBYZGZcIKbrao
-share_updated: 2024-02-29T13:55:39+01:00
----
 Při pátrání po [[Místa#Vlkodlačí doupě|doupěti vlkodlaků]] nás [[Osoby a skupiny#Vaslov †|Vaslov]] zavedl k [[Místa - panství Dorstových|panství Dorstových]]. Měli by jsme jej prozkoumat.
 
 - Do domu vešlo 6 "zlých" postav (pravděpodobně vlkodlaci)
