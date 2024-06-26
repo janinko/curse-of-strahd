@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/ltmzws0m#ixl7pdSdwBcF5VYIoBedBI8OHd8JmW3mbFZL4UObLsk
-share_updated: 2024-02-19T17:43:26+01:00
----
 # 9. Flamerule 1492
 - **Aurelius Halloway** a **Nethar Lirieneth** cestovali z [[Místa - Materiální pláň#Brod Dýky|Brodu dýky]] na jihovýchod, aby prozkoumali zvěsti o útocích na zdejší osady.
 	- Dorazili do osady [[Místa - Materiální pláň#Liamova tvrz|Liamova Tvrz]], kde se dověděli o nedávných útocích na [[Místa - Materiální pláň#Bowshot|Bowshot]].
