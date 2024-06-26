@@ -13,3 +13,4 @@ Tvůj děsivý lord a pán
 
 # Pečeť
 Na dopise byla podivná pečeť ptáka/orla/příšery
+![[Pečeť Strád.png]]
