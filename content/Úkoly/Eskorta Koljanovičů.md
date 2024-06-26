@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/nhxgazbg#xAKkFt2Z9eNK/aZa5XM7P1hSZdqMauiJTyKOUZtb0hg
-share_updated: 2024-04-04T18:13:51+02:00
----
 Po [[Těžké časy v Barovii|útocích na jejich dům]], [[Osoby a skupiny#Ismark Koljanovič|Ismark]] plánuje, že poté co pohřbí [[Osoby a skupiny#Koljan Indirovič †|otce]] u [[Místa - Barovie#Kostel Pána Jitra|kostela]] za vesnicí, odejdou s [[Osoby a skupiny#Irina Koljanovna|Irinou]] do [[Místa - Barovie#Vallaki|Vallaki]] a rád by si nás najal jako ostrahu.
 
 - Před odjezdem je potřeba pohřbít jejich otce
