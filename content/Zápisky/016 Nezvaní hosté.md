@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/gjjwxjzt#xzeIaa9ZBeLWVncfMknAEHvs8LducE+91y4OntfIRDs
-share_updated: 2024-06-18T19:01:17+02:00
----
 # kolem půlnoci z 5. na 6. Oťávra 735 
 - Hejna netopýrů vtrhly do pokoje a zaútočily na družinu
 - **Aurelius**, **Malakai** a **Nethar** bojovali s netopýry v pokoji,zatímco **Abukai** šel zkontrolovat [[Osoby a skupiny#Irina Koljanovna|Irinu]], kterou společně s [[Osoby a skupiny#Ismark Koljanovič|Ismarkem]] rozruch zburcoval
