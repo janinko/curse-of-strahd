@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/xdlpcy2t#txp4rZnc6Oy+0b1rq1OkliwSx/DjxcXKO5MwiGyn73Y
-share_updated: 2024-02-29T13:31:39+01:00
----
 Dobrodruzi šli prozkoumat [[Místa - Barovie#Dům Mařky a Gertrůdy|dům Mařky a Gertrůdy]], odkud slyšeli vzlykot.
 	- [[Osoby a skupiny#Mařka|Mařka]] jim řekla, že její dcera [[Osoby a skupiny#Gertruda|Gertruda]] před týdnem zmizela a že by ji [[Ztracená dcera|chtěla najít]]
 	- Vyšetřování domu a rozhovor s Mařkou odhalil, že dcera zůstávala celý život doma a že zmizela spolu se svými věcmi
