@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/v6wq42hw#YVOZRRygyFaAhalaeJAbZmjSXRVEZrCrDXbEi/owVU4
-share_updated: 2024-06-17T17:47:01+02:00
----
 "Děsivý lord a pán", "ďábel"
 - Vysoký, aristokraticky vypadající muž
 	- Má bledou tvář a černé vlasy
