@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/ptcmbkf6#PdHWCzctYtVmLFvvdyr+XpoNam+M085muyH4ONF7fJY
-share_updated: 2024-04-26T13:40:18+02:00
----
 # 1. Oťávra (měsíc lovců) 735
 - **Malakai** se probral a jak se lehký déšť změnil v průtrž mračen, rozhodlo se že se přesunou do [[Místa - Barovie#Travnatý vrcholek poblíž vesnice Barovie|nedaleké stodoly]]
 	- Když seděli kolem ohně a pálili vlhké dřevo, **Nethar** si povzdychl, že už začíná vidět psisko ze svých vizí i přes den, načež **Malakai** vystartoval, protože jej ve stínech viděl taky.
