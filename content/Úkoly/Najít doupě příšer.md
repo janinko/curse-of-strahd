@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/t5ehvgpa#vn2MIqqfdTrJK+sf11p7Up6yfLIXaVUSESG7VSf/DwY
-share_updated: 2024-04-09T22:08:07+02:00
----
 Rytíř [[Osoby a skupiny#Lanniver Strayl|Lanniver Strayl]] z Řádu Rukavice Aurelia s Natharem poslal na jihovýchod od [[Místa - Materiální pláň#Brod Dýky|Brodu Dýky]] abysme prozkoumali zprávy o útocích monster. Máme najít jejich doupě a podat zprávu zpátky, aby to mohl Řád Rukavice vyčistit.
 
 - Před časem na [[Místa - Materiální pláň#Liamova Tvrz|Liamovu Tvrz]] 
