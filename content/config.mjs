@@ -1,5 +1,9 @@
+const config = {
+  title: "Strádova Kletba",
+  showSidebar: true,
+  search: {
+    provider: "kbar",
+  },
+};
 
-/**
- * @type {import("../config/siteConfig").UserConfig}
- */
-export default {};
+export default config;
