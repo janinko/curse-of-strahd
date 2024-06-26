@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/vvuxbfqo#AG7VC4b2s5blTsgVamgIaR1qgJ9Nyvng9Tb7Ca9CyNw
-share_updated: 2024-02-19T17:43:22+01:00
----
 # 10. Flamerule 1492
 - **Malakai** s **Netharem** vyzvedli **Abukaie** a **Aurelia** z kuchyně a vlkodlak [[Osoby a skupiny#Vaslov †|Vaslov]] je zavedl poblíž jednoho [[Místa - panství Dorstových|panství]].
 - Vaslov jim řekl, že [[Osoby a skupiny#Vlkodlaci|vlkodlaci]] mají své [[Místa#Vlkodlačí doupě|doupě]] směrem k tomu domu. Byl podezřele nejasný ve svých instrukcích.
