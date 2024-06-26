@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/b36zcjwi#eJxN0jupVXpHuNxbok1aXcTK07E0Zddhfb+SNd2VUz8
-share_updated: 2024-04-26T13:41:21+02:00
----
 [[Osoby a skupiny#Madam Eva|Madam Eva]] nám vyložila karty a pronesla [[Věštba madam Evy|věštbu]].
 
 # První karta
