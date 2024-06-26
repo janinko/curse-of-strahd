@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/xb07ldzb#xhD2pG6obaMPGTN8CeNllGaSxgi3+9y2fWBQfYbS0sE
-share_updated: 2024-04-26T13:40:08+02:00
----
 Po útěku ze [[Místa - panství Dorstových|strašidelného domu Dorstových]] jsme se ocitli [[Místa - Barovie#Barovie, území|neznámo kde]]. Měli bychom zjistit, kde se nacházíme a jaké jsou naše další možnosti. Je možné, že jsme se dostali do [[Místa - Barovie#Barovie, území|Barovie]]?
 
 - Viděli jsme vesnici a hrad tyčící se nad ní, to jsou 2 nejbližší místa, kde se můžeme něco dovědět
