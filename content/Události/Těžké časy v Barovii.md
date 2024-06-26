@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/ulcgpewy#yQRmAbQ5jPJQ0snAfBQSsvmdVwaCIzM8HFSMK7YmoJM
-share_updated: 2024-04-26T13:41:15+02:00
----
 [[Osoby a skupiny#Bildrath|Bildrath]] informoval dobrodruhy, že v posledních dnech je v [[Místa - Barovie#Barovie, vesnice|Barovii]] těžko, protože jsou v okolí příšery. [[Osoby a skupiny#Ismark Koljanovič|Ismark]] 2. oťávra řekl dobrodruhům, že je to asi týden co na jejich dům útočí příšery a navštěvuje je [[Strád von Zarovič|Strád von Zarovič]].
 
 Vypadá to, že se skoro celá vesnice obává vyjít z domu.
