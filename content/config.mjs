@@ -2,7 +2,7 @@ const config = {
   title: "Strádova Kletba",
   showSidebar: true,
   search: {
-    provider: "kbar",
+    provider: "kbar" as const,
     config: {}
   },
 };
