@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/km62acwo#JwY8Y7HqnkTdV1sq09SifzxIPjuvbjjNBUsK6xzCOrE
-share_updated: 2024-06-25T19:30:33+02:00
----
 # Argynvosholt
 - Staré panství nebo zámeček, nedaleko trosek [[#Starý Berez|Starého Berezu]]
 - Podle [[Osoby a skupiny#Oleg|Olega]] tam je armáda nemrtvých rytířů
