@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/5hwysj6s#ecvDGfRi8MZwq5iIJ/b0dE/LzC9ZTRzmb/zN2+ZnFHQ
-share_updated: 2024-06-24T17:19:12+02:00
----
 # 6. Oťávra
 - Ráno družinu probudil [[Osoby a skupiny#Urvin|Urvin]] s přednáškou, jak bezpečně vycházet ve [[Místa - Barovie#Vallaki|Vallaki]]
 	- Není dobré se protivit názoru [[Osoby a skupiny#Baron Valakovič|barona Valakoviče]] že oslavy dvakrát do měsíce jsou prospěšné lidu
