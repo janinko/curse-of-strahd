@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/c4dlcw89#goym2jrB875YnNvyF8sgtCleDqLMj0G8XGOfbWh5hak
-share_updated: 2024-04-04T18:14:10+02:00
----
 Věštba z karet, jak ji vyložila [[Osoby a skupiny#Madam Eva|madam Eva]]:
 
 **První karta**: Tato karta popisuje historii. Znalosti o všem starobylém ti pomůžou lépe pochopit tvého nepřítele.
