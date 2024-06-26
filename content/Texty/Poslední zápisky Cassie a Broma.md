@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/mvo5jf2k#2iOJ/ofHeuqtt+7ff7oVlT7pedvJHJLQCnLDpGisO5w
-share_updated: 2024-04-26T13:23:47+02:00
----
 Zápisky nalezené u dvou mrtvých těl [[Osoby a skupiny#Cassie|Cassie]] a [[Osoby a skupiny#Brom|Broma]], nalezené v přízemí pravé věže [[Místa - Barovie#Západní brána|Západní brány.]]
 # Cassia's Entry - Day 13 in Barovia
 
