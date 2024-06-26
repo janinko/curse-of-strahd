@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/vsejoql2#f0CkK/QznrB5/fQvpAveLeW9eEQIWAFPELmR4EUr84g
-share_updated: 2024-04-26T13:40:34+02:00
----
 # 4. Oťávra (měsíc lovců) 735
 - Odešli jsme z jeskyně [[Osoby a skupiny#Mocný čaroděj|mocného čaroděje]] a zjistili jsme že Abukaiovi nějaké žabí příšery ukradly batoh
 	- Abukai se vrhl za nimi s Netharem v patách
