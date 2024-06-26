@@ -1,0 +1,30 @@
+---
+share_link: https://share.note.sx/qb3n8gqg#8Xy1RAqyxQYy3ntHp0aPjrTu1mVs95SLFqhqnsQngdU
+share_updated: 2024-02-19T17:43:18+01:00
+---
+# 10. Flamerule 1492
+- Zatímco **Aurelius** a **Malakai** odpočívali, **Abukai** se vydal hledat kuchyni a **Nethar** hlídal
+- **Abukai** zatopil v kamnech v kuchyni a pak v krbu v hale. Načež si to rozmyslel a oheň přenesl do loveckého salónku, aby zahřál **Aurelia**.
+- Když se **Aurelius** probral, vydali se všichni na průzkum kuchyně a spižírny
+	- Spousta jídla vůbec nijak nevoněla a jablko, krásné z venku, bylo uvnitř zkažené
+- V jídelně našli pozůstatky hostiny, která jakoby před nedávnem skončila
+	- Pod stolem byl hrnek s vylitým čajem a na stole 2 hrnky s čajem
+	- Malakai studoval obraz, který vyjevil strašidelné výjevy
+- **Abukai** se pokusil vyjít z [[Místa - panství Dorstových|domu]] skrz mlhu, ale ryhle se vrátil zkřehlý a promrzlý.
+- Na prvním patře zkoumali dobrodruzi pokoj služebnictva (na jehož délce nebylo vůbec nic podezřelého)
+	- Když **Nethar** zkoumal šachtu výtahu na jídlo, výtah mu málem urazil hlavu, když se v podezřelý čas utrhl z lana
+- V hudebním salónku **Malakai** pod pianem objevil [[Osoby a skupiny#Lancelot|psa Lancelota]], kterému dal **Abukai** najist salámu, který našel ve spíži a pes si jej tak oblíbil
+- Ve druhém patře prozkoumali hlavní ložnici, ze které někteří členové ukradli šperky
+- Když **Nethar** prozkoumával komoru, zaútočilo na něj oživlé koště.
+	- Koště se pak vrhlo po nejšpinavějším **Abukaiovi**, kterého se pokoušelo agresivně vyčistit.
+	- Aby se **Aurelius** zbavil dotěrného koštěte, na chvíli předstíral, že padnul
+	- Nakonec se koště podařilo zlikvidovat.
+- V pokoji ze kterého vycházel chlad, našli ducha [[Osoby a skupiny#Margaret †|chůvy Margaret]]
+	- Než si všimla dobrodruhů, říkala "Paní [[Osoby a skupiny#Rodina Dorstových|Dorstová]], hned tam budu."
+	- Při zmíňce [[Osoby a skupiny#Volter †|Voltera]] plačtivě: "Proč? Proč?"
+	- Zmínila, že  [[Osoby a skupiny#Rodina Dorstových|Rosa a Trn]] mají pokoj v podkroví
+	- Po otázce zda je paní Dorstrová matkou voltera (ne)odpověděla: "Nepřísluší mi o takových věcech mluvit."
+	- Zmínila že Dorstové mají hosty, kteří přijdou, ale pak už neodejdou.
+	- Poté se vznesla a prošla stropem
+	- Potácela se mezi uvědoměním si že je mrtvá a reagováním jako by byla naživu
+- Při průzkumu Volterova pokoje jsme našli kolébku přikrytou černým plátnem, ale vevnitř byl jen prázdný uzlíček
