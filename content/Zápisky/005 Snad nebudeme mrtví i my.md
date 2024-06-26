@@ -1,5 +1,4 @@
 ---
-share_link: https://share.note.sx/q3jpxtme#PncBJYS4lqt8H7nsQMMuHDHvwtswu38WM8gBLEIchF8
 share_updated: 2024-02-19T17:43:10+01:00
 ---
 # 11. Flamerule 1492 ??
