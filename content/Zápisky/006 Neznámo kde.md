@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/ydk6e1y7#4o6frlLb61c+THIvdHJCAXFwodAncbWAIYvl57EKK3E
-share_updated: 2024-02-19T17:43:06+01:00
----
 # 1. Oťávra (měsíc lovců) 735
 - Dobrodruzi utíkali před hnilobnou příšerou
 	- **Malakai** nesl bezvládné **Abukaiovo** tělo, zatímco **Aurelius** a **Nethar** se pokoušeli při ústupu ještě zasypávat příšeru kouzly
