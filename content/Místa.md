@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/xpcrvd8c#O6RnYutGu2z6ed/Bt2dCAlBPtpfRFBjBHNC0N7QVFOU
-share_updated: 2024-06-25T19:30:34+02:00
----
 # Gloomwrought
 - Město v Shadowfellu
 - Pochází odtud **Nethar**
