@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/nz0t9nwa#/uCJnKXzzqsAZuf0/xpjrWMg2wqNXMz7eSInipv5PfY
-share_updated: 2024-04-24T15:39:26+02:00
----
 # Bowshot
 - Osada na jihovýchod od [[#Brod Dýky]]
 	 - na jih od [[#Liamova tvrz]]
