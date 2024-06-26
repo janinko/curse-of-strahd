@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/7ix2gnsn#d8jCarNRnu2BCEu2HYuJpu+/jE0X5RqWcn5CUgyfiNA
-share_updated: 2024-04-26T13:41:10+02:00
----
 Příběh, jež vyprávěl [[Osoby a skupiny#Oleg|Oleg]]:
 
 Před více než rokem přišel do této země [[Osoby a skupiny#Mocný čaroděj|mocný čaroděj]]. Pamatuju si ho, jako by to bylo včera. Stál přesně tam, kde teď stojíte vy. Byl to velmi charismatický muž a myslel si, že dokáže vyburcovat lid [[Místa - Barovie#Barovie, území|Barovie]] proti ďábelskému [[Strád von Zarovič|Strádovi]]. Nabudil je myšlenkami na vzpouru a přiměl je k hromadnému pochodu na hrad. Když se upír objevil, čarodějova armáda sedláků se v hrůze rozutekla. Jen pár se jich postavilo na odpor, ale ty už nikdy nikdo neviděl. Čaroděj a upír po sobě začali vrhat kouzla. Bitva se přelila z nádvoří [[Místa - Barovie#Ravenloft|Ravenloftu]] na sráz nad [[Místa - Barovie#Tserské vodopády|vodopády]]. Tu bitvu jsem viděl na vlastní oči. Úbočím hory otřásl hrom a čaroděje zavalil obrovský kámen. Čaroděj však přežil. Zasáhl ho blesk z nebe a stejně zase vstal. Když na něj ale ďábelský [[Strád von Zarovič|Strád]] skočil, čarodějova kouzla ho nemohla spasit. Viděl jsem, jak padá 200 sáhů hluboko vstříc jisté smrti. Sešplhal jsem dolů k [[Místa - Barovie#Ivlis|řece]] , abych nalezl jeho tělo a podíval se, jestli nemá něco cenného, ale [[Místa - Barovie#Ivlis|Ivlis]] si ho mezitím odnesla.
