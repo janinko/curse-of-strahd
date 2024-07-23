@@ -54,6 +54,7 @@ Kalendář:
 - [[016 Nezvaní hosté]]
 - [[017 Kápě a zlaťáky]]
 - [[018 Zaplevelené vinařství]]
+- [[019 Druidi ve vinařství]]
 ## 9. Oťávra
 - Dle strážného, Potencionální den Oslav zářícího slunce ve [[Místa - Barovie#Vallaki|Vallaki]]
 ## 10. Oťávra
