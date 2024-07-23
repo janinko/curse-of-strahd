@@ -73,6 +73,11 @@ Druidi uctívající strom u [[Místa - Barovie#Zarovich, jezero|jezera Zarovich
 - Měly na sobě plášť z listí, neupravené vlasy a hole
 - Agresivně chránili kruh země kolem stromu, který prohlašovali za posvátnou zemi
 - Podle lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] jsou to hajzlíci co pobíhají po lese, okolo stromů a zabíjí pocestné a lovce
+# Druidi z Vinařství u Mága
+Druidi, co napadli [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
+ - Podle slov jedné z nich, mají v plánu udělat rituál, kterým získají vládu nad územím
+ - Používali nějakou tekutinu, kterou lili do vína
+ - Jeden vinný sud proměnili na chodící stromky
 # Elminster
 - Známý a mocný čaroděj
 # Evon
