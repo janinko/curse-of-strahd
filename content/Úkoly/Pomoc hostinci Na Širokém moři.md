@@ -18,10 +18,12 @@
 	- Rostliny některé šli dovnitř a některé zůstaly venku
 	- Zabili jednu postavu z lián
 - Odpočali jsme si po cestě a vydali se k domu, brzo ale na nás zaútočili hordy postav jakoby spletených z trnitých keřů
+- Když jsme odpočívali, přišla nás vyhnat druidka, zemřela
+- Další druidi byli: v hlavní místnost s velkými káděmi, ve sklepě, v etiketovací místnosti, na jeřábu v nakladišti
 
 - [x] Vyzvednout vůz
 - [x] Dojed do [[Místa - Barovie#Vinařství U mága|Vinařství u mága]]
-- [ ] Osvobodit vinařství od druidů a oživlých rostlin
+- [x] Osvobodit vinařství od druidů a oživlých rostlin
 - [ ] Vyzvednou víno
 	- Stačí říct, že je pro Daniku
 - [ ] Dovézt jej zpátky Danice
