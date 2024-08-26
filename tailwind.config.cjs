@@ -23,6 +23,9 @@ module.exports = {
         mono: ["ui-monospace", ...defaultTheme.fontFamily.mono],
         headings: ["-apple-system", ...defaultTheme.fontFamily.sans],
       },
+      backgroundImage: {
+        'barovia': "url('/assets/jon-pintar-barovia-jonpintar.jpg')",
+      },
       colors: {
         background: {
           DEFAULT: colors.white,
