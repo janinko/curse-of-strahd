@@ -85,7 +85,7 @@ export const Layout: React.FC<Props> = ({
                 <meta charSet="utf-8" />
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
-            <div className="min-h-screen bg-barovia bg-background dark:bg-background-dark">
+            <div className="min-h-screen bg-barovia bg-no-repeat bg-cover bg-center bg-fixed">
                 {/* NAVBAR */}
                 <div
                     className={clsx(
