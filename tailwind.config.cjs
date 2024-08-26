@@ -24,7 +24,7 @@ module.exports = {
         headings: ["-apple-system", ...defaultTheme.fontFamily.sans],
       },
       backgroundImage: {
-        'barovia': "url('/assets/jon-pintar-barovia-jonpintar.jpg')",
+        'barovia': "linear-gradient(to bottom right, rgb(46 37 63 / 70%), rgb(64 34 79 / 75%)), url(/assets/jon-pintar-barovia-jonpintar.jpg)",
       },
       colors: {
         background: {
