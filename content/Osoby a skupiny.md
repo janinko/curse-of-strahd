@@ -28,6 +28,11 @@ Majitel hostince [[Místa - Barovie#Hostinec Krvavé Víno|Krvavé Víno]] v [[M
 - Má synovce Ňoumu
 ## Ňouma
  - Obrovský člověk s holou hlavou
+# Bukefalos
+- Nápis na malém černém houpacím koni, se znázorněním plamenů
+- Kůň byl v dětském pokoji ve [[Místa - Barovie#Vinařství U mága|Vinařství U mága]], patří prý [[#Martin|Martinovi]] a [[#Viggo|Viggovi]]
+- Další nápis na koni: "Není srandy bez [[#Blinsky|Blinskyho]]"
+- Kůň byl prý pořízen ve [[Místa - Barovie#Vallaki]]
 # Cosmin Miklos
 - Burgomeister (17. Rotting 435)
 - Svědek na [[Smlouva o koupi mlýna|smlouvě]]
@@ -358,6 +363,11 @@ Obchodník s oblečením ve [[Místa - Barovie#Vallaki|Vallaki]]
 - malé dítě v náručí
 ## Vinařský muž 3
 - špinavo-bledé vlasy
+## Martin
+- jedno z dětí
+## Viggo
+- jedno z dětí
+
 ## Vinařské děti 1-4
 # Vetřelec v domě Dorstových
 Osoba, která byla nalezena mrtvá v tajné místnosti [[Místa - panství Dorstových|domu Dorstových]]
