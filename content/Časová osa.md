@@ -70,7 +70,7 @@ Kalendář:
 - [[020 Druidi kam se podíváš]]
 - [[021 Vinařství bez druidů]]
 ## 7. Oťávra
-- [[022]]
+- [[022 Cesta na Kopec Minulosti]]
 ## 9. Oťávra
 - Dle strážného, Potencionální den Oslav zářícího slunce ve [[Místa - Barovie#Vallaki|Vallaki]]
 ## 10. Oťávra
