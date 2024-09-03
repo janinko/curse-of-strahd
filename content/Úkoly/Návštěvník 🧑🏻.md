@@ -25,3 +25,5 @@ Po [[016 Nezvaní hosté|útoku Stráda na hospodu]]:
  - Vypadal jako starší muž v dlouhém plášti
  - Řekl že obraz Stráda co jsem viděl byl jeho pokus o varování
  - Za tu truhlu, pokusí se nás 1x nebo 2x varovat pokud bude Strád na blízku nebo bude hrozit nebezpečí.
+Ve [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]:
+- Při pohledu do zrcadla jsem zahlédl jeho postavu v kouři
