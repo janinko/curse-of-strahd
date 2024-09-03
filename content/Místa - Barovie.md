@@ -2,6 +2,7 @@
 - Staré panství nebo zámeček, nedaleko trosek [[#Starý Berez|Starého Berezu]]
 - Podle [[Osoby a skupiny#Oleg|Olega]] tam je armáda nemrtvých rytířů
 - Podle lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] tam býval drak
+- Podle [[Osoby a skupiny#Davian|Daviana]] tam býval drak a skupina rytířů, co jej uctívala
 # Baratocké hory
 - Hory na severovýchod od [[#Zarovich, jezero|jezera Zarovich]]
 # Baratok, jezero
@@ -39,6 +40,9 @@
 - bydlí zde [[Osoby a skupiny#Mařka|Mařka]] a [[Osoby a skupiny#Gertruda|Gertruda]]
 - dům byl zabedněný
 - Pokoj [[Osoby a skupiny#Gertruda|Gertrudy]] byl prázdný a když z něj zmizela, zmizela i spousta jejich věcí. Zůstal jen víceméně prázdný šatník a skříňky a místní květiny
+# Ghakis, hora
+- Hora mezi [[#Vinařství U mága|Vinařstvím U mága]] a [[#Starý Berez|Starým Berezem]]
+- Zahlédli jsme kolem ní létat něco velikého
 ## Hostinec Krvavé Víno
 - Někdo nedávno zvandalizoval jeho vývěsní šít - střapec vína, ze kterého padají rudé kapky do číše - a přepsal jej na Krvavé Věno
 - Hostinský [[Osoby a skupiny#Aryk|Aryk]] je notně podivný, opakuje jen:
@@ -67,6 +71,15 @@
 - Jedna z řek protékajících [[#Barovie, území|Barovií]]
 - Leží na ní [[#Tserské vodopády|Tserské vodopády]], [[#Tserské jezero|Tserské jezero]] a protéká poblíž [[#Barovie, vesnice|vesnice Barovie]]
 - Most přes řeku, poblíž [[#Tserské vodopády|Tserských vodopádů]] je vysoko na útesech a jsou na něm na kraji vždy 2 chrliči
+# Kopec Minulosti
+- Kopec asi 3 hodiny cesty na jih od [[#Vinařství U mága]]
+- Usadili se tam [[Osoby a skupiny#Druidi z Kopce minulosti|druidi]]
+- Děje se tam něco podivného s mlhou
+- Černé, jakoby oslizlé kameny jsou navršeny do homolí, pravidelně rozmístěných ve dvou kruzích po vrstevnicích kopečku
+- Na vrcholu je
+	- 10 stop vysoká, zeď ze stejného, černého oslizlého kamene do kruhu
+	- Malý lesík odpudivě vypadajících stromů, s jedním obzvláště velkým
+- Za zdí je obrovská, 50 stop vysoká socha z propletených větví, s dlouhým černým pláštěm, znázorňující pravděpodobně [[Strád von Zarovič|Stráda]]
 # Kostel Pána Jitra
 - Pán jitra znám také jako [[Osoby a skupiny#Pán Jitra|Morninglord]], nalézající se blízko [[Místa - Barovie#Barovie, vesnice|Barovie]]
 - V kostele slouží [[Osoby a skupiny#Dono]]
@@ -93,13 +106,15 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 # Ravenloft
 - Hrad, tyčící se nad [[#Barovie, vesnice|vesnicí Barovií]]
 - Obývá [[Strád von Zarovič|Strád von Zarovič]]
-- Podle [[Osoby a skupiny#Oleg|Olega]] jsou pod hradem krypty
+- Podle [[Osoby a skupiny#Oleg|Olega]] a [[Osoby a skupiny#Davian|Daviana]] jsou pod hradem krypty
 - Cesta k hradu od odbočky u [[#Západní brána|Západní brány]] je dlážděná
+- Podle [[Osoby a skupiny#Davian|Daviana]] jej pomohl postavit [[Osoby a skupiny#Čaroděj z Baratockého jezera|jeden čaroděj]]
 # Starý Berez
 - Trosky vesnice, nedaleko [[#Argynvosholt|panství Argynvosholt]]
 - Bažina
 - Podle [[Osoby a skupiny#Koláčová Bába|koláčové báby]] se tam dají najít nějaké byliny
 - Podle [[Osoby a skupiny#Oleg|Olega]] tam jsou světýlka, co zavedou lidi ke smrti
+- Podle [[Osoby a skupiny#Davian|Daviana]] byl Berez vesnice jako [[#Vallaki]], [[#Barovie, vesnice|Barovie]] nebo [[#Krezk]], ale [[Strád von Zarovič]] ji zničil
 # Svalichská cesta
 - Hlavní cesta procházející [[#Barovie, území|údolím Barovie]]
 - Spojuje [[#Barovie, vesnice|vesnici Barovii]] na východě, [[#Vallaki|Vallaki]] uprostřed a [[#Krezk|Krezk]] na západě údolí
@@ -175,7 +190,10 @@ Dům [[Smlouva o koupi rezidence|koupený]] Dorstovými
 - vlastní jej [[Osoby a skupiny#Udolukovič|Udolukovič]]
 # Vinařství U mága
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] se nachází mezi [[#Vallaki|Vallaki]] a [[#Krezk|Krezkem]]
-- Podle lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] jej nějaký mág založil (dávno)
+- Založil jej nějaký mág, který vytvořil 3 magické artefakty, díky kterým rostlo víno
+- [[Osoby a skupiny#Rodina Krezků|rodina krezků]] jej dostala od [[Strád von Zarovič|Stráda]], poté co dobil Barovii
+- [[Osoby a skupiny#Rodina Martikovů|rodina Martikovů]] později vinařství vyženila
+- Je [[Vinařství v ohrožení|v ohrožení]], protože byly ukradeny všechny 3 artefakty, co produkovali víno
 - Dvoupatrový dům
 	- přízemí: stáj, nakladiště, dílna, sklářská dílna, zpravcovní vína
 	- patro: obytné prostory
