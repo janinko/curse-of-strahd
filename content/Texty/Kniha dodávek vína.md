@@ -1,4 +1,4 @@
-- První zápisy jsou z [[Časová osa#Léta 35x|okolo roku 350]]
+- První zápisy jsou z [[Časová osa#Léta 32x|okolo roku 350]]
 - Poslední zápis zní:
 > Komu: K. 2 sudy Rudodračího vína
 - Dodávky byli pro:
@@ -6,4 +6,7 @@
 	- KV - [[Místa - Barovie#Hostinec Krvavé Víno|Hostinec Krvavé Víno?]]
 	- Vistani
 	- NŠM - [[Místa - Barovie#Hostinec Na Širokém moři|Hostinec Na Širokém moři?]]
-	- S - pouze na dřívějších dodávkách, žeby [[Strád von Zarovič|Strád]]?
+	- S - [[Strád von Zarovič]], začalo se mu vozit roku 320, skončilo roku 450
+- Před [[Osoby a skupiny#Rodina Martikovů|rodinou Martikovů]] vlastnila vinařství [[Osoby a skupiny#Rodina Krezků|rodina Krezků]]
+	- Krezkovi dodávali víno Strádovi
+	- Díky sňatku přešlo vinařství do Martikovovi rodiny
