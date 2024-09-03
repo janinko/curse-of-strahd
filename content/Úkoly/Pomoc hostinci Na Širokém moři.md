@@ -9,7 +9,7 @@
 - Blíže u domu na nás zavolal [[Osoby a skupiny#Davian|starý muž]] a **Aurelius** s **Netharem** se vydali k němu
 	- Starý muž se ukázal být jedním z obyvatel vinařství
 	- Stěžoval si že je z vinařství vyhnali stromy
-	- Za ním se z úkrytu vynořil zbytek [[Osoby a skupiny#Vinařská rodina|vinařské rodiny]]
+	- Za ním se z úkrytu vynořil zbytek [[Osoby a skupiny#Rodina Martikovů|vinařské rodiny]]
 	- Strašáky do vinohradů posílá prý [[Osoby a skupiny#Ježibaba z Berezu|Ježibaba z Berezu]] už delší dobu a jsou na obtíž
 - Řekli nám více o tom co se stalo:
 	- Před 2 dny (4. Oťávra) přišlo 5 špinavých postav od hlíny
@@ -20,10 +20,11 @@
 - Odpočali jsme si po cestě a vydali se k domu, brzo ale na nás zaútočili hordy postav jakoby spletených z trnitých keřů
 - Když jsme odpočívali, přišla nás vyhnat druidka, zemřela
 - Další druidi byli: v hlavní místnost s velkými káděmi, ve sklepě, v etiketovací místnosti, na jeřábu v nakladišti
+- Zjistili jsme, že [[Vinařství v ohrožení|Vinařství je v ohrožení]]
 
 - [x] Vyzvednout vůz
 - [x] Dojed do [[Místa - Barovie#Vinařství U mága|Vinařství u mága]]
 - [x] Osvobodit vinařství od druidů a oživlých rostlin
-- [ ] Vyzvednou víno
+- [x] Vyzvednou víno
 	- Stačí říct, že je pro Daniku
 - [ ] Dovézt jej zpátky Danice
