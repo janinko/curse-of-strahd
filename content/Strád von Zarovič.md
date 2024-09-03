@@ -52,3 +52,6 @@
 	- Jezdí v černém voze taženém koňmi
 - Podle [[Zápisky mocného čarodějě|zápisků]] [[Osoby a skupiny#Mocný čaroděj|mocného čaroděje]]:
 	- je třeba jej dostat z hradu, protože přece "medvěda nelovíš v jeho doupěti"
+- Podle [[Osoby a skupiny#Davian|Daviana]]:
+	- poté co dobil [[Místa - Barovie#Barovie, území|Barovii]] daroval [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] [[Osoby a skupiny#Rodina Krezků|rodině Krezků]]
+	- 
