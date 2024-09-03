@@ -13,22 +13,29 @@ Kalendář:
 12. měsíc
 13. ???
 # Léta 3xx
-- Podle [[Dopis od Koljana Indiroviče|dopis]] od [[Osoby a skupiny#Koljan Indirovič †|Koljana]] "před více jak 400 lety" od roku 735 začal [[Strád von Zarovič|Strád]] vysávat krev občanům [[Místa - Barovie#Barovie, území]] 
-# Léta 35x
-- Kolem roku 350 začíná [[Kniha dodávek vína]] z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
+- Podle [[Dopis od Koljana Indiroviče|dopis]] od [[Osoby a skupiny#Koljan Indirovič †|Koljana]] "před více jak 400 lety" od roku 735 začal [[Strád von Zarovič|Strád]] vysávat krev občanům [[Místa - Barovie#Barovie, území|Barovie]] 
+# Léta 32x
+- Kolem roku 320 začíná [[Kniha dodávek vína]] z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
+- [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] začalo [[Strád von Zarovič|Strádovi]] vozit víno
 # Rok 389
 ## 17. Time of Flowers
 - Podepsána [[Smlouva o koupi rezidence|smlouva o koupi rezidence]]
 # Rok 435
 ## 1. Rotting
 - Podepsána [[Smlouva o koupi mlýna]]
+# Rok 45x
+- [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] přestalo [[Strád von Zarovič|Strádovi]] vozit víno
 # Rok 505 ±
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] "pred 220 lety" přijel [[Strád von Zarovič|Strád]] k [[Místa - panství Dorstových|domu Dorstových]] a od té doby o [[Osoby a skupiny#Rodina Dorstových|nich]] už nikdo neslyšel
 # Rok 666
 - Ročník, ze kterého je šapaňské de la Dasoan, které jsme nalezli v jeskyni ve sklepě ve [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
+# Rok 725
+- Byl [[Vinařství v ohrožení|ukraden první]] artefakt z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
 # Rok 734
 - Podle [[Osoby a skupiny#Oleg|Olegova]] [[Skazka o kouzelníku, jež se vzepřel Strádovi|vyprávění]] a zmínek od [[Osoby a skupiny#Donovič|otce Donoviče]] se [[Osoby a skupiny#Mocný čaroděj|mocný čaroděj]] pokusil zaútočit na [[Strád von Zarovič|Stráda]]
 # Rok 735
+## 14. Sintára 735
+- Byl [[Vinařství v ohrožení|ukraden druhý]] artefakt z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]], asi [[Osoby a skupiny#Ježibaba z Berezu|Ježibabou z Berezu]]
 ## 24. Sintára  735
 - [[Osoby a skupiny#Koljan Indirovič †|Koljan]] poslal [[Dopis od Koljana Indiroviče|dopis dobrodruhům]]
 ## 28. Sintára 735
@@ -36,7 +43,8 @@ Kalendář:
 ## 1. Oťávra 🌕
 - [[006 Neznámo kde]]
 - [[007 Vítejte v Barovii]]
-## 2. Oťávra 
+## 2. Oťávra 735
+- Byl [[Vinařství v ohrožení|ukraden třetí]] artefakt z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]],  [[Osoby a skupiny#Druidi z Kopce minulosti|druidy]]
 - [[007 Vítejte v Barovii]]
 - [[008 Půlnoční show]]
 ## 3. Oťávra
@@ -61,6 +69,8 @@ Kalendář:
 - [[019 Druidi ve vinařství]]
 - [[020 Druidi kam se podíváš]]
 - [[021 Vinařství bez druidů]]
+## 7. Oťávra
+- [[022]]
 ## 9. Oťávra
 - Dle strážného, Potencionální den Oslav zářícího slunce ve [[Místa - Barovie#Vallaki|Vallaki]]
 ## 10. Oťávra
