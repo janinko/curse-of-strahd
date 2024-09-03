@@ -14,6 +14,7 @@
 
 - Potencionální lokace k prozkoumání:
 	- [ ] Věž na jezeře [[Místa - Barovie#Baratok, jezero|Baratok]]
+		- Podle [[Osoby a skupiny#Davian|Daviana]] tam žil mág, který [[Strád von Zarovič|Stráda]] učil magii a pomohl mu postavit [[Místa - Barovie#Ravenloft|hrad Ravenloft]]
 	- [ ] Věž na jezeře [[Místa - Barovie#Luna, jezero|Luna]]
 # Třetí karta
 > Tohle je karta moci a síly, popisuje zbraň odplaty, meč slunečního světla.
@@ -21,6 +22,7 @@
 
 - [ ] Zjistit, kdo by mohl být onen ordinérní kouzelník
 - [ ] Zjistit, kde by mohly být krypty kouzelníků
+	- Podle [[Osoby a skupiny#Davian|Daviana]] jsou nějaké krypty na hradě [[Místa - Barovie#Ravenloft|Ravenloft]]
 - [ ] [[Najít tělo čaroděje]]
 - [ ] Poptat se u [[Místa - Barovie#Vinařství U mága|Vinařství u mága]]
 # Čtvrtá karta
