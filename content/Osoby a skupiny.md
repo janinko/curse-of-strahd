@@ -29,13 +29,18 @@ Majitel hostince [[Místa - Barovie#Hostinec Krvavé Víno|Krvavé Víno]] v [[M
 ## Ňouma
  - Obrovský člověk s holou hlavou
 # Bukefalos
+- Podle [[#Davian|Daviana]] je to kůň [[Strád von Zarovič|Stráda von Zaroviče]]
 - Nápis na malém černém houpacím koni, se znázorněním plamenů
 - Kůň byl v dětském pokoji ve [[Místa - Barovie#Vinařství U mága|Vinařství U mága]], patří prý [[#Martin|Martinovi]] a [[#Viggo|Viggovi]]
-- Další nápis na koni: "Není srandy bez [[#Blinsky|Blinskyho]]"
-- Kůň byl prý pořízen ve [[Místa - Barovie#Vallaki]]
+- Další nápis na koni: "Není srandy bez [[#Gadolt Blinsky|Blinskyho]]"
+- Kůň byl prý pořízen ve [[Místa - Barovie#Vallaki|Vallaki]] od [[#Gadolt Blinsky|Blinskyho]]
 # Cosmin Miklos
 - Burgomeister (17. Rotting 435)
 - Svědek na [[Smlouva o koupi mlýna|smlouvě]]
+# Čaroděj z Baratockého jezera
+Podle [[#Davian|Daviana]] čaroděj co naučil [[Strád von Zarovič|Stráda]] magii
+- Podle [[#Davian|Daviana]] také pomohl postavit hrad [[Místa - Barovie#Ravenloft|Ravenloft]]
+- Patřila mu věž na [[Místa - Barovie#Baratok, jezero|Baratockém jezeře]]
 # Daniel Arcos
 - Svědek na [[Smlouva o koupi mlýna|smlouvě]]
 # Danika Martikovová
@@ -43,6 +48,7 @@ Hospodská v [[Místa - Barovie#Hostinec Na Širokém moři|hostinci Na Široké
 - postarší žena s černými vlasy do drdolu s červenými pírky
 - jednoduché, pěkné zelené šaty
 - Má manžela a dvě děti
+- Při její zmínce se [[Osoby a skupiny#Davian|Davian]] tvářil hněvivě a zamračeně
 ## Brei
 ## Brom
  - Mladší z dětí
@@ -51,6 +57,7 @@ Hospodská v [[Místa - Barovie#Hostinec Na Širokém moři|hostinci Na Široké
  - Středního věku, černé prošedivělé husté vlasy a vousy
  - Oblečení od fleků
  - Dělá kuchaře
+ - Spřízněný s [[#Rodina Martikovů]],
 # Dávná sekta
 Dávná sekta, která žila v [[Místa - Materiální pláň#Klášter dávné sekty|klášteře]] a která před mnoha lety bojovala s [[#Sunder Halynd Liam|Liamem]]
 # Dimitry Milosovici
@@ -78,11 +85,15 @@ Druidi uctívající strom u [[Místa - Barovie#Zarovich, jezero|jezera Zarovich
 - Měly na sobě plášť z listí, neupravené vlasy a hole
 - Agresivně chránili kruh země kolem stromu, který prohlašovali za posvátnou zemi
 - Podle lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] jsou to hajzlíci co pobíhají po lese, okolo stromů a zabíjí pocestné a lovce
-# Druidi z Vinařství u Mága
+# Druidi z Kopce minulosti
 Druidi, co napadli [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
  - Podle slov jedné z nich, mají v plánu udělat rituál, kterým získají vládu nad územím
  - Používali nějakou tekutinu, kterou lili do vína
  - Jeden vinný sud proměnili na chodící stromky
+ - Měli u sebe symbol [[Strád von Zarovič|Stráda von Zaroviče]]
+ - Mají základnu na posvátném kopečku na jih od [[Místa - Barovie#Vinařství U mága|vinařství]] - na [[Místa - Barovie#Kopec Minulosti|kopci minulosti]]
+ - Dělají něco podivného s mlhou
+ - Krom chodících rostlinných potvor jim prý pomáhají i nějací divoši.
 # Elminster
 - Známý a mocný čaroděj
 # Evon
@@ -93,6 +104,10 @@ Kamarád [[#Kelen|Kelena]] a syn Evona
 📔 Máme jej [[Záchrana Kelena a Marcuse|najít a zachránit]]
 - Šel s Kelenem [[Místa - Materiální pláň#Mlžná brána|Mlžnou branou]] ven a do lesa, prozkoumat nějaký dům a už se nevrátili
 - Podle [[#Vaslov †]] byli uneseni do [[Místa#Vlkodlačí doupě]] aby rozšířili smečku
+# Gadolt Blinsky
+Výrobce hraček ve [[Místa - Barovie#Vallaki|Vallaki]]
+ - Podle [[#Davian|Daviana]] je excentrický, ale zcela neškodný
+ - Vyrobil například houpacího koně podle [[Strád von Zarovič|Strádova]] koně [[#Bukefalos|Bukefalose]]
 # Gavin Maha
 Velitel stráží v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]], úřad zastává v tamní tvrzi
 ## Thomas
@@ -311,6 +326,29 @@ Muž, černé polodlouhé vlasy, hnědá prošívaná vesta.
 - Řekl o [[#Mařka|Mařce]]: "Někteří lidé zvládají stres různým způsobem, slušně řečeno."
 - Od mala se učil bojovat
 - Nazývají jej "Menší"
+# Rodina Martikovů
+- V jejich erbu jsou havrani
+## Davian
+ - zelený plášť, hrubá vyřezávaná palice, počasím zvrásněná tvář, sluncem bronzová pokožka, dlouhé bílé vlasy a vousy
+ - ověšený tretkami, například stříbrný čajník na opasku
+## Elvir
+- černé vlasy, plášť
+- mladý
+## Adrian
+- černé prošedivělé vlasy, plášť
+## Stephanie
+- tmavé vlasy, pírko ve vlasech
+- malé dítě v náručí
+## Vinařský muž 3
+- špinavo-bledé vlasy
+## Martin
+- jedno z dětí
+## Viggo
+- jedno z dětí
+## Vinařské děti 3-4
+# Rodina Krezků
+Rodina rychtářů z [[Místa - Barovie#Krezk|Krezku]]
+- Kdysi vlastnili [[Místa - Barovie#Vinařství U mága|Vinařství U mága]], které dostali od [[Strád von Zarovič|Stráda]] poté, co dobil [[Místa - Barovie#Barovie, území|Barovii]]
 # Rodina Vachterů
 Významná rodina ve [[Místa - Barovie#Vallaki|Vallaki]]
 - Podle [[#Lucian Petrovič|kněze Petroviče]] nejsou nepřátelští ke [[Strád von Zarovič|Strádovi]]
@@ -350,25 +388,6 @@ Osoba ve špinavém hnědém plášti, co nás sledovala ve [[Místa - Barovie#V
 - menší postavy
 # Udolukovič
 Obchodník s oblečením ve [[Místa - Barovie#Vallaki|Vallaki]]
-# Vinařská rodina
-## Davian
- - zelený plášť, hrubá vyřezávaná palice, počasím zvrásněná tvář, sluncem bronzová pokožka, dlouhé bílé vlasy a vousy
- - ověšený tretkami, například stříbrný čajník na opasku
-## Vinařský muž 1
-- černé vlasy, plášť
-## Vinařský muž 2
-- černé prošedivělé vlasy, plášť
-## Vinařský žena
-- tmavé vlasy, pírko ve vlasech
-- malé dítě v náručí
-## Vinařský muž 3
-- špinavo-bledé vlasy
-## Martin
-- jedno z dětí
-## Viggo
-- jedno z dětí
-
-## Vinařské děti 1-4
 # Vetřelec v domě Dorstových
 Osoba, která byla nalezena mrtvá v tajné místnosti [[Místa - panství Dorstových|domu Dorstových]]
 - V ruce držel [[Dopis Gustavovi Durstovi od Stráda von Zaroviče|dopis]]
