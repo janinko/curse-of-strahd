@@ -11,7 +11,10 @@ Podle [[Osoby a skupiny#Davian|Daviana]]:
 - Potom [[Osoby a skupiny#Davian|Davian]] a ostatní udělali nájezd na druidy, ale musieli se stáhnout
 	- Druidi jsou na jih od vinařství na 
 	- Viděli tam další rostlinné příšery a zdivočelé bojovníky
+- Porazili jsme [[Osoby a skupiny#Druidi z Kopce minulosti|druidy]] na [[Místa - Barovie#Kopec Minulosti|Kopeci Minulosti]] a získali jeden z artefaktů
 
 Vinařství teď tedy není schopno produkovat další víno.
 
-- [ ] 
+- [x] Vyrazit na [[Místa - Barovie#Kopec Minulosti|Kopec Minulosti]] a získat tam jeden z artefaktů od [[Osoby a skupiny#Druidi z Kopce minulosti|druidů]]
+- [ ] Vyrazit do [[Místa - Barovie#Starý Berez|Starého Berezu]] a získat tam jeden z artefaktů od [[Osoby a skupiny#Ježibaba z Berezu|ježibaby]]
+- [ ] Najít vodítka kde nalézt třetí z artefaktů
