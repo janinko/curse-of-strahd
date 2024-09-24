@@ -40,39 +40,61 @@ Kalendář:
 - [[Osoby a skupiny#Koljan Indirovič †|Koljan]] poslal [[Dopis od Koljana Indiroviče|dopis dobrodruhům]]
 ## 28. Sintára 735
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] zemřel [[Osoby a skupiny#Koljan Indirovič †|Koljan Indirovič]]
-## 1. Oťávra 🌕
+## 1. Oťávra 735 🌕
 - [[006 Neznámo kde]]
 - [[007 Vítejte v Barovii]]
 ## 2. Oťávra 735
 - Byl [[Vinařství v ohrožení|ukraden třetí]] artefakt z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]],  [[Osoby a skupiny#Druidi z Kopce minulosti|druidy]]
 - [[007 Vítejte v Barovii]]
 - [[008 Půlnoční show]]
-## 3. Oťávra
+## 3. Oťávra 735
 - [[Strašení na hřbitově u kostela Pána Jitra]] 
 - [[008 Půlnoční show]]
 - [[009 Pohřeb Koljana]]
 - [[010 Věštby a příběhy]]
 - [[011 Jeskyně u vodopádu]]
-## 4. Oťávra 🌖
+## 4. Oťávra 735 🌖
 - [[011 Jeskyně u vodopádu]]
 - [[012 Setkání s ďáblem Strádem]]
 - [[013 Vlci u Západní brány]]
 - [[014 Na cestě do Vallaki]]
-## 5. Oťávra
+## 5. Oťávra 735 🌖
 - [[014 Na cestě do Vallaki]]
 - [[015 První večer ve Vallaki]]
 - [[016 Nezvaní hosté]]
-## 6. Oťávra
+## 6. Oťávra 735
 - [[016 Nezvaní hosté]]
 - [[017 Kápě a zlaťáky]]
 - [[018 Zaplevelené vinařství]]
 - [[019 Druidi ve vinařství]]
 - [[020 Druidi kam se podíváš]]
 - [[021 Vinařství bez druidů]]
-## 7. Oťávra
+## 7. Oťávra 735
 - [[022 Cesta na Kopec Minulosti]]
 - [[023 "A kurva" havran]]
+- [[024 A kurva, zase Strád]]
+- Strád nam zadal úkol [[Pátrání po van Richtenovi]], který máme splnit do týdne
+## 8. Oťávra 735 🌗
 ## 9. Oťávra
 - Dle strážného, Potencionální den Oslav zářícího slunce ve [[Místa - Barovie#Vallaki|Vallaki]]
 ## 10. Oťávra
 - Dle strážného, Potencionální den Oslav zářícího slunce ve [[Místa - Barovie#Vallaki|Vallaki]]
+## 11. Oťávra 🌘
+## 12. Oťávra 🌘
+## 13. Oťávra 735 
+## 14. Oťávra 735 
+- Do tohoto dne by melě dojít [[Strád von Zarovič|Strádův]] služebník zjistit stav úkolu [[Pátrání po van Richtenovi]]
+## 15. Oťávra 735 🌑
+## 16. Oťávra 735 
+## 17. Oťávra 735 
+## 18. Oťávra 735 🌒
+## 19. Oťávra 735 🌒
+## 20. Oťávra 735 
+## 21. Oťávra 735 
+## 22. Oťávra 735 🌓
+## 23. Oťávra 735 
+## 24. Oťávra 735 
+## 25. Oťávra 735 🌔
+## 26. Oťávra 735 🌔
+## 27. Oťávra 735 
+## 28. Oťávra 735 
