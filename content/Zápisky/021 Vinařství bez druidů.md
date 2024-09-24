@@ -1,3 +1,4 @@
+# 6. Oťávra
 - Při prohledávání etiketovací místnosti jsme ještě našli velmi starou [[Kniha dodávek vína|knihu dodávek vína]]
 - Při prohledávaní dalších pokojů jsme našli nasledujícící:
 	- Dětský pokoj:
