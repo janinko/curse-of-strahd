@@ -13,4 +13,18 @@ Známé měsíce:
 
 - Je u smluv 17. náhoda nebo šlo o nějaké výročí?
 
+
 - [ ] Zjistit jaký vztah mají tato data k Harptosovu kalendáři
+# Měsíce
+- Yinyavr (měsíc chladu)
+- Fenravr (měsíc vlka)
+- Martavr (měsíc havrana)
+- Prylla (měsíc deště)
+- Mada (měsíc květin)
+- Eyun (měsíc Léta)
+- Eyul (měsíc války)
+- Ugavr (měsíc vína)
+- Sintavr (měsíc sklizně)
+- Ottyavr \[Oťávr] (Lovcův měsíc)
+- Neyavr (měsíc hniloby)
+- Dekavr (měsíc Zimy)
