@@ -1,3 +1,4 @@
+# 7. Oťávra
 - V noci se po meditaci snažil **Nethar** zahnat kocovinu tím, že spolubojovníkům vyčistil a opravil boty
 - Ráno přišel [[Osoby a skupiny#Davian|Davian]] postěžovat si, jak se jim špatně daří
 	- Jako odměnu nám dal 40 zlatých a 80 stříbrných
@@ -11,5 +12,6 @@
 - Po cestě na jih jsme záhlédli:
 	- Něco vélikého létajícího okolo hory [[Místa - Barovie#Ghakis, hora|Ghakis]]
 	- Strom se šedobílou kůrou, který **Abukai** poznal jako léčivý
+- **Malaki** slyšel hlas, který mu říkal: "Dlouho jsem vyčkával na toho, kdo bude hoden. Moje kopí touží po krvi."
 - Došli jsme na [[Místa - Barovie#Kopec Minulosti|Kopec Minulosti]], vystoupali na něj a po letmém obhlédnutí hájku na jeho vrcholu, jsme zamířili do obezděného prostranství
 	- Tam jsme spatřili obrovskou sochu [[Strád von Zarovič|Stráda]] jakoby spletenou z větví
