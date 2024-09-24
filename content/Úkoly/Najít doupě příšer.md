@@ -10,6 +10,7 @@ Rytíř [[Osoby a skupiny#Lanniver Strayl|Lanniver Strayl]] z Řádu Rukavice Au
 	- Vistánské ženy údajně viděly vlkodlaky v západní části [[Místa - Barovie#Barovie, území|údolí]], západně o [[Místa - Barovie#Vallaki|Vallaki]]
 - Podle [[Osoby a skupiny#Oleg|Olega]] by se mělo nalézat na západ od [[Místa - Barovie#Zarovich, jezero|jezera Zarovich]]
 - Kus cesty na jihozápad od křižovaty [[Místa - Barovie#Starý Berez|Starý Berez]] - [[Místa - Barovie#Baratok, jezero|jezero Baratok]] x [[Místa - Barovie#Krezk|Krezk]] - [[Místa - Barovie#Vallaki|Vallaki]] šlo na severozápad slyšet vytí vlků
+- [[Strád von Zarovič|Strád]] se vyjádříl, že by bylo zajímavé, když bysme se s vlkodlaki vypořádali
 
 - [ ] ~~Zjistit jak funguje cestování mezi [[Místa - Barovie#Barovie, území|Barovií]] a okolím [[Místa - Materiální pláň#Liamova Tvrz|Liamovy Tvrze]]  -> [[✅ Prozkoumat strašidelné panství]]~~
 	- Nezjistili jsme jak cestování funguje, ale dům nás přenesl jinam
