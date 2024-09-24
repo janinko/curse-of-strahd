@@ -74,7 +74,9 @@
 # Kopec Minulosti
 - Kopec asi 3 hodiny cesty na jih od [[#Vinařství U mága]]
 - Usadili se tam [[Osoby a skupiny#Druidi z Kopce minulosti|druidi]]
-- Děje se tam něco podivného s mlhou
+- Nalézá se na kraji [[#Mlha|Mlhy]]
+	- Podle [[Osoby a skupiny#Davian|Daviana]], když se zde někdo do mlhy zahledí, tak vidí nějaké věci
+	- [[Strád von Zarovič|Strád]] zde stál u mlhy a hleděl do ní
 - Černé, jakoby oslizlé kameny jsou navršeny do homolí, pravidelně rozmístěných ve dvou kruzích po vrstevnicích kopečku
 - Na vrcholu je
 	- 10 stop vysoká, zeď ze stejného, černého oslizlého kamene do kruhu
@@ -95,6 +97,7 @@
 - Měl by se nacházet někde u [[#Vallaki|Vallaki]]
 # Mlha
 Okolí [[#Barovie, území|Barovie]] halí mlha
+- Jeden konec je u [[#Kopec Minulosti|Kopce Minulosti]], kde (podle [[Osoby a skupiny#Davian|Daviana]]) když se někdo zahledí do mlhy, vidí nějaké věci
 # Měsíční, jezero
 - Známé taky jako Luna
 - Na jihozápadě [[#Barovie, území|Barovie]]
