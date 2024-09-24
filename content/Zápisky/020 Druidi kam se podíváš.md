@@ -1,3 +1,4 @@
+# 6. Oťávra
 - Vydali jsme se do sklepa, kde jsme našli dalšího druida, schovávajícího se za regálem vína
 	- Šlahounovité příšery stěžovaly pohyb a poutaly 
 - Vyčerpaní z boje jsme si šli odpočinout do stáje
