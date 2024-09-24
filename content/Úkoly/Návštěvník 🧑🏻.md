@@ -27,3 +27,5 @@ Po [[016 Nezvaní hosté|útoku Stráda na hospodu]]:
  - Za tu truhlu, pokusí se nás 1x nebo 2x varovat pokud bude Strád na blízku nebo bude hrozit nebezpečí.
 Ve [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]:
 - Při pohledu do zrcadla jsem zahlédl jeho postavu v kouři
+### 7. Oťávra
+Před [[024 A kurva, zase Strád|příchodem Stráda]] jsem viděl že se můj stín změnil na podobu Návštěvníka. Poté co [[Strád von Zarovič|Strád]] odešel, jsem pocítil opadnutí úzkosti, která byla nejen moje.
