@@ -6,3 +6,5 @@ Zjistit více o [[Osoby a skupiny#Opeřenec|opeřenci]] a jestli je nějak spjat
 Jednou nám pomohl, mohl by pomoci více?
 
 - U [[Místa - Barovie#Arasekovy sklady|Arasekových skladů]] **Nethar** z venku uslyšel zakrákání havrana, tak vyběhl ven aby jej nakrmil a pokusil se domluvit setkání s [[Osoby a skupiny#Opeřenec|opeřencem]]
+- V souboji na [[Místa - Barovie#Kopec Minulosti|Kopci Minulosti]] se k nám přidal opeřenec, který se ukázal být havranodlakem [[Osoby a skupiny#Davian|Davianem]]
+- Prozradil, že [[Osoby a skupiny#Opeřenec|opeřenec]] by mohl být jeho syn [[Osoby a skupiny#Urvin|Urvin]]
