@@ -7,7 +7,16 @@
 - Podle [[Osoby a skupiny#Bildrath|Bildratha]] je to ďábel, podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] jde o upíra
 - Údajně žije na [[Místa - Barovie#Ravenloft|hradě Ravenloft]] nad [[Místa - Barovie#Barovie, vesnice|Barovií]]
 - Adresoval svůj [[Dopis Gustavovi Durstovi od Stráda von Zaroviče|dopis]] [[Osoby a skupiny#Gustav|Gustavovi Dorstovi]].
-- 4. Oťávra se [[012 Setkání s ďáblem Strádem|setkal s dobroduhy]]
+- 4. Oťávra se poprvé [[012 Setkání s ďáblem Strádem|setkal s dobroduhy]]
+- [[Osoby a skupiny#Druidi z Kopce minulosti|Druidi]] měli amulet se symbolem Stráda a postavili mu sochu z větvoví
+	- Strád při pohledu na sochu hodnotil: "Nevím, jestli mám být poctěn, nebo ne"
+- Chce se [[Pátrání po van Richtenovi|vypořádat]] s [[Osoby a skupiny#Rudolf van Richten|Rudolfem van Richtenem]] a nabídl odměnu za informace o něm
+- [[Osoby a skupiny#Davian|Davianovi]] řekl, že jej zatím toleruje, ale že jeho netopýři můžou Daviana kdykoli najít a roztrhat
+- Tvrdí, že neovládá [[Místa - Barovie#Mlha|mlhu]]
+- Tvrdí, že s **Aureliem** cítí zvláštní druh pouta
+- O svých cílech tvrdi:
+	- "Mým cílem je blaho mého lidu, s větší důvěrou bych vám řekl více"
+	- "Má touha je, abyste chránili [[Osoby a skupiny#Irina Koljanovna|Irinu]]" "Máv v plánu ji přesvědčit svým šarmem" (řekl s pohledem predátora, který se nezastaví při běžném šarmu)
 ## Pozorování
 - Z [[012 Setkání s ďáblem Strádem|prvního setkání]]:
 	- Poroučel 6 obřím vlkům
@@ -21,6 +30,10 @@
 	- Při útoku na hospodu útočili netopíři a zombie
 	- Hospodu zahalila mlha
 	- Vrhnul do hospody ohnivou kouli
+		- Že to byl on přiznal při třetím setkání se slovy "Přiznávám, že jsem se nechal unést. Nejsem zvyklý na neposlušnost."
+- Z [[024 A kurva, zase Strád|třetího setkání]]
+	- Viděli jsme jej za dne, ale byly těžké dešťové mraky nad námi
+	- Strnule stál a hleděl do [[Místa - Barovie#Mlha|Mlhy]] u [[Místa - Barovie#Kopec Minulosti|Kopce Minulosti]]
 ## Zvěsti
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]]:
 	- prý mu slouží [[Osoby a skupiny#Vistani|Vistani]], protože prý můžou opustit [[Místa - Barovie#Barovie, území|Barovii]]
