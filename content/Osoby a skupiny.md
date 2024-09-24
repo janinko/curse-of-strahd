@@ -94,6 +94,7 @@ Druidi, co napadli [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
  - Mají základnu na posvátném kopečku na jih od [[Místa - Barovie#Vinařství U mága|vinařství]] - na [[Místa - Barovie#Kopec Minulosti|kopci minulosti]]
  - Dělají něco podivného s mlhou
  - Krom chodících rostlinných potvor jim prý pomáhají i nějací divoši.
+ - Podle [[Strád von Zarovič|Stráda]] jednali druidi za sebe: "Mí poddaní mají různé způsoby, jak vyjádřit úctu."
 # Elminster
 - Známý a mocný čaroděj
 # Evon
@@ -225,6 +226,7 @@ Nemrtvý jezdec na nemrtvém koni
 Postava v opeřeném plášti
 - Podle [[Místa - Barovie#Vallaki|Vallackých]] legend se říká, že kdo ublíží havranům, havrani ublíží jemu a kdo havranům pomůže a/nebo nakrmí, tomu zase havrani pomůžou
 - Pomohl při hašení požáru v [[Místa - Barovie#Hostinec Na Širokém moři|Hostinci Na Širokém moři]]
+- Podle [[#Davian|Daviana]], který je havranodlakem, šlo o jeho syna [[#Urvin|Urvina]]
 # Osýbovi kněží
 Sekta, která stála za několika knížkami nepřesných rituálů v tajné místnosti v [[Místa - panství Dorstových|domově Dorstových]]
 # Pán Jitra
@@ -331,6 +333,8 @@ Muž, černé polodlouhé vlasy, hnědá prošívaná vesta.
 ## Davian
  - zelený plášť, hrubá vyřezávaná palice, počasím zvrásněná tvář, sluncem bronzová pokožka, dlouhé bílé vlasy a vousy
  - ověšený tretkami, například stříbrný čajník na opasku
+ - je to havranodlak
+ - [[Strád von Zarovič|Strád]] jej varoval: "Toleruji tě, malý havrane, ale to se může změnit. Moji netopýři tě můžou kdykoli najít a roztrhat."
 ## Elvir
 - černé vlasy, plášť
 - mladý
@@ -366,6 +370,11 @@ Rodina rychtáře ve [[Místa - Barovie#Vallaki|Vallaki]]
 	- Je dobrá dávat si pozor na jeho pohůnka [[Osoby a skupiny#Isek Strážný|Iseka Strážného]]
 	- Není dobré zmiňovat před ním [[Strád von Zarovič|Stráda]], neb by mohl pojat podezření, že jsme jeho špioni
 	- Bylo by dobré předstírat, že za požár v hostinci může nehoda se svíčkou
+# Rudolf van Richten
+Podle [[Strád von Zarovič|Stráda]] se jedná o krvelačného vraha
+- Podle [[Strád von Zarovič|Stráda]] zabil 37 [[#Vistani|vistánců]], včetně žen a dětí
+- [[Strád von Zarovič|Strád]] chtěl, aby jsme jej [[Pátrání po van Richtenovi|nalezli]] a podali o něm informace
+- [[Strád von Zarovič|Strád]] se s ním "chce vypořádat"
 # Sekta Dorstových
 Sekta, která pod [[Místa - panství Dorstových|domem Dorstových]] prováděla temné rituály
 - Viděli jsme 13 artefaktů a 13 přízraků ve [[Místa - panství Dorstových#Sklep - druhé patro|sklepě]]. Pravděpodobně tedy 13 členů?
