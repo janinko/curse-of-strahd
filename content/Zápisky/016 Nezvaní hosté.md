@@ -14,5 +14,5 @@
 - Danika dovolila dobrodruhům nadále setrvat v hostinci a potvrdila nějaké informace k [[Vyřešit věštbu od Madam Evy|řešení věštb]]
 	- Šlo se spát
 	- **Abukai** se způsobem svým vlastním pokusil utěšit Irinu, když se probrala ze zranění
-	- **Nethar** při meditaci obětoval [[Osoby a skupiny#Návštěvník|návštěvníkovi]] magickou bleskovou truhlu od [[Osoby a skupiny#Mocný čaroděj|mocného čarodějě]] za příslib včasného varování, pokud bude Strád na blízku
+	- **Nethar** při meditaci obětoval [[Osoby a skupiny#Firan|návštěvníkovi]] magickou bleskovou truhlu od [[Osoby a skupiny#Mocný čaroděj|mocného čarodějě]] za příslib včasného varování, pokud bude Strád na blízku
 	- **Aurelius** měl sen, ale když se z něj probral, nebyl si jistý v něm svému pánovi poklekl nebo ne
