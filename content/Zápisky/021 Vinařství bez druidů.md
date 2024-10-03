@@ -11,7 +11,7 @@
 		- Tapiserie kostela na kopci, obehnaného zdí
 		- Psací stůl s mapkou vinařství: 3 sekce, jedna (kterou jsme přišli) s poznámkami, druhá přeškrtlá s poznámkami a na třetí nic zaznačeného
 			- Poznámky zemědělskéhotypu: tady zalét, tady pokopat
-		- Vysoké zrcadlo, když se do něj **Nethar** zahleděl a zkusil se ho zeptat na radu, uviděl v něm dým a vysokou postavu, snad [[Osoby a skupiny#Návštěvník|Návštěvníka]]
+		- Vysoké zrcadlo, když se do něj **Nethar** zahleděl a zkusil se ho zeptat na radu, uviděl v něm dým a vysokou postavu, snad [[Osoby a skupiny#Firan|Návštěvníka]]
 		- Zamklá truhla
 	- Pozn.: Žádný z koberců se nezdál býti létajícím kobercem
 - Poté jsme se vydali do nakladiště
