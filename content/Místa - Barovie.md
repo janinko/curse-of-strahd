@@ -3,6 +3,7 @@
 - Podle [[Osoby a skupiny#Oleg|Olega]] tam je armáda nemrtvých rytířů
 - Podle lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] tam býval drak
 - Podle [[Osoby a skupiny#Davian|Daviana]] tam býval drak a skupina rytířů, co jej uctívala
+- Podle [[Osoby a skupiny#Danika Martikovová|Daniky]] pochází zámek (nebo jeho zříceni?) z dob kdy vznikla [[#Barovie, území|Barovie]]
 # Baratocké hory
 - Hory na severovýchod od [[#Zarovich, jezero|jezera Zarovich]]
 # Baratok, jezero
