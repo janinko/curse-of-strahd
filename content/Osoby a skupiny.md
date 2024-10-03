@@ -12,7 +12,7 @@ Bývalý majitel [[Místa - Barovie#Rezidence Dorstových|rezidence]], který [[
 - Pochází z [[Místa - Barovie#Barovie, vesnice|Barovie]]
 # Arasek
 Majitel [[Místa - Barovie#Arasekovy sklady|skladů ve Vallaki]]
-- Mohl by mít pivo
+- Prodává všelijaké zboží, včetně piva
 # Arkasha Indrovich
 - Burgomeister (17. Time of Flowers 389)
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
@@ -22,6 +22,8 @@ Majitel hostince [[Místa - Barovie#Hostinec Krvavé Víno|Krvavé Víno]] v [[M
 	- "Sklenička vína, 1 měděný"
 	- "Karafa vína, 1 stříbrný"
 - Donesl 3 a 3 skleničky, i když u stolu sedělo 5 osob
+# Beluarian
+Velitel ve Flaming Fist
 # Bildrath
 Člověk, vlastník [[Místa - Barovie#Bildrathův koloniál|koloniálu v Barovii]]
 - Stěžoval si na [[Těžké časy v Barovii|těžké časy]] 
@@ -105,6 +107,8 @@ Kamarád [[#Kelen|Kelena]] a syn Evona
 📔 Máme jej [[Záchrana Kelena a Marcuse|najít a zachránit]]
 - Šel s Kelenem [[Místa - Materiální pláň#Mlžná brána|Mlžnou branou]] ven a do lesa, prozkoumat nějaký dům a už se nevrátili
 - Podle [[#Vaslov †]] byli uneseni do [[Místa#Vlkodlačí doupě]] aby rozšířili smečku
+# Firan
+- **Netharem** nazývaný "Návštěvník"
 # Gadolt Blinsky
 Výrobce hraček ve [[Místa - Barovie#Vallaki|Vallaki]]
  - Podle [[#Davian|Daviana]] je excentrický, ale zcela neškodný
@@ -115,6 +119,12 @@ Velitel stráží v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]]
 Strážný u brány v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]]
 ## Mara
 Strážný u brány v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]]
+# Gorwin
+Tiefling a bojovník Flaming Fist
+- jeho tělo bylo nalezeno u stromu na [[Místa - Barovie#Kopec Minulosti|Kopci Minulosti]]
+- Měl u sebe rozkazy od [[#Beluarian|Beluariana]] z Flaming Fist:
+	- Vyšetřit podezřelé pocestné - [[#Vistani|Vistany]]. Zjistit odkud jsou a jejich úmysly.
+- Zemřel pravděpodobně na začátku Sintára
 # Isek Strážný
 Pohůnek rychtáře [[Místa - Barovie#Vallaki|Vallaki]], [[#Baron Valakovič|barona Valakoviče]]
 - Podle [[#Urvin|Urvina]] má vysokou hrubiánskou postavu a jeho pravá ruka je znetvořená
@@ -171,7 +181,7 @@ Kněz v [[Místa - Barovie#Kostel sv. Andrela|kostele sv. Andrela]] ve [[Místa 
 - Mladý kluk, asi kolem 15 let věku
 ## Milivoj
 - zmíněn knězem "Jisko, kde je Miluvoj"
-- Podle [[#Urvin|Urvina]] je to vcelku velký pomocník kněze, starší než jiska
+- Podle [[#Urvin|Urvina]] je to vcelku velký pomocník kněze, starší než Jiska
 # Madam Eva
 [[#Vistani|Vistani]] Vědma ze sdíleného snu
 - Vyložila dobrodruhům karty (diviner, monk, mists, marionet, broken one)
@@ -215,8 +225,6 @@ Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašideln�
 - podle svých [[Zápisky mocného čarodějě|zápisků]] se přátelil s [[#Elminster|Elminsterem]]
 - Podle [[#Danika Martikovová|Daniky]] a lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] byl u [[Místa - Barovie#Zarovich, jezero|jezera Zarovich]] viděn podivný mág, který blesky útočil na jezero se slovy že se pomstí rybám
 	- Podle nich by mohl být někde v [[Místa - Barovie#Baratocké hory|Baratockých horách]]
-# Návštěvník
-// TODO
 # Nemrtvý jezdec
 Nemrtvý jezdec na nemrtvém koni
 - Vypadá průsvitně a namordrale
@@ -227,6 +235,11 @@ Postava v opeřeném plášti
 - Podle [[Místa - Barovie#Vallaki|Vallackých]] legend se říká, že kdo ublíží havranům, havrani ublíží jemu a kdo havranům pomůže a/nebo nakrmí, tomu zase havrani pomůžou
 - Pomohl při hašení požáru v [[Místa - Barovie#Hostinec Na Širokém moři|Hostinci Na Širokém moři]]
 - Podle [[#Davian|Daviana]], který je havranodlakem, šlo o jeho syna [[#Urvin|Urvina]]
+# Opeřený drak
+Obrovský létající tvor
+- Rozpětí křídel má alespoň 150 stop
+- Možná jsme jej viděli létat kolem [[Místa - Barovie#Ghakis, hora|hory Ghakis]]
+- Přelétl kolem křižovatky [[Místa - Barovie#Vallaki|Vallaki]] x [[Místa - Barovie#Krezk|Krezk]] x [[Místa - Barovie#Vinařství U mága|Vinařství]]
 # Osýbovi kněží
 Sekta, která stála za několika knížkami nepřesných rituálů v tajné místnosti v [[Místa - panství Dorstových|domově Dorstových]]
 # Pán Jitra
@@ -258,6 +271,7 @@ Elf, bard a bývalý cirkusák
 - Nosí plášť z barevných záplat
 - Prý přišel asi před měsícem (t.j. začátek Sintára) společně s [[#Vistani|Vistani]]
 - Sbírá příběhy a chtěl by založit nový cirkus
+- Má zaparkovanou maringotku u [[Místa - Barovie#Arasekovy sklady|Arasekových skladů]]
 # Rodina Dorstových
 Rodina, která žije ve [[Místa - panství Dorstových|Strašidelném panství]]
 ## Elizabeth
@@ -342,20 +356,25 @@ Muž, černé polodlouhé vlasy, hnědá prošívaná vesta.
 - černé prošedivělé vlasy, plášť
 ## Stephanie
 - tmavé vlasy, pírko ve vlasech
-- malé dítě v náručí
+- malé dítě v náručí - Johanka
 ## Vinařský muž 3
 - špinavo-bledé vlasy
 ## Martin
 - jedno z dětí
 ## Viggo
 - jedno z dětí
-## Vinařské děti 3-4
+# Johanka
+Nemluvně
+## Vinařské dítě 4
+
 # Rodina Krezků
 Rodina rychtářů z [[Místa - Barovie#Krezk|Krezku]]
 - Kdysi vlastnili [[Místa - Barovie#Vinařství U mága|Vinařství U mága]], které dostali od [[Strád von Zarovič|Stráda]] poté, co dobil [[Místa - Barovie#Barovie, území|Barovii]]
 # Rodina Vachterů
 Významná rodina ve [[Místa - Barovie#Vallaki|Vallaki]]
 - Podle [[#Lucian Petrovič|kněze Petroviče]] nejsou nepřátelští ke [[Strád von Zarovič|Strádovi]]
+## Lady Vachterova
+- Podle [[#Lucian Petrovič|kněze Petroviče]] by mohla mít knihy o magii
 # Rodina Valakovičů
 Rodina rychtáře ve [[Místa - Barovie#Vallaki|Vallaki]]
 ## Baron Valakovič
@@ -365,6 +384,7 @@ Rodina rychtáře ve [[Místa - Barovie#Vallaki|Vallaki]]
 	- průvod vlčích hlav na konci Sintára
 	- oslavy zářícího slunce na začátku Oťávra
 - Podle lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] platí za zabití vlků
+- Podle [[#Lucian Petrovič|kněze Petroviče]] by mohl mít knihy o magických věcech
 - [[#Urvin|Urvin]] dal několik doporučení, jak s ním vyházet:
 	- Není dobré se protivit jeho názoru že oslavy dvakrát do měsíce jsou prospěšné lidu
 	- Je dobrá dávat si pozor na jeho pohůnka [[Osoby a skupiny#Isek Strážný|Iseka Strážného]]
