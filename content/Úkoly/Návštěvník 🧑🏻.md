@@ -1,4 +1,4 @@
-Po příchodu do [[Místa - Barovie#Barovie, území|Barovie]] jsem cítil nával emocí jako strach, naštvání a prustraci
+Po příchodu do [[Místa - Barovie#Barovie, území|Barovie]] jsem cítil nával emocí jako strach, naštvání a frustraci, pocházející od [[Osoby a skupiny#Firan|Firana]] kterého jsem přezdíval Návštěvník.
 
 Při meditaci jsem se cítil, jako bych byl sám v místnosti, ale přesto mě někdo sledoval.
 Ke konci jsem slyšel slabé frustrované: "Není úniku".
@@ -29,3 +29,9 @@ Ve [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]:
 - Při pohledu do zrcadla jsem zahlédl jeho postavu v kouři
 ### 7. Oťávra
 Před [[024 A kurva, zase Strád|příchodem Stráda]] jsem viděl že se můj stín změnil na podobu Návštěvníka. Poté co [[Strád von Zarovič|Strád]] odešel, jsem pocítil opadnutí úzkosti, která byla nejen moje.
+
+Večer jsem začal meditovat s druidskou temnou holí položenou na kolenou
+- Přivolal jsem [[Osoby a skupiny#Firan|Návštěvníka]], kterému jsem nabídl hůl a zeptal se jej na jeho původ
+	- Jeho vzpomínky jsou zamlžené, pamatuje si jen bloudění v husté [[Místa - Barovie#Mlha|Mlze]], své jméno - [[Osoby a skupiny#Firan|Firan]] - a hořící nenávist k mlhám a ke [[Strád von Zarovič|Strádovi]]
+- Když Firan pozřel hůl, jeho obrysy nabyli jasnějších tvarů
+- Rozloučil se se slovy: "Doufám že přežijete, protože nevím, co se stane se mnou, když ne."
