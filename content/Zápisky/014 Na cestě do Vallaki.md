@@ -1,7 +1,7 @@
 # 4. Oťávra 735
 - Družina se uložila k odpočinku v [[Místa - Barovie#Západní brána|Západní bráně]]
 	- Kolem půlnoci k bráně přijel [[Osoby a skupiny#Nemrtvý jezdec|nemrtvý jezdec]], **Malakai** se jej pokusil zdržet zastavením otevírání brány, pak jsme se ale rozhodli nechat jej projet
-- **Nethar** při meditaci viděl nějakou [[Osoby a skupiny#Návštěvník|osobu]], která mu nabídla vzájemnou pomoc
+- **Nethar** při meditaci viděl nějakou [[Osoby a skupiny#Firan|osobu]], která mu nabídla vzájemnou pomoc
 # 5. Oťávra 735
 - Před rozbřeskem se celá družina vydala na další cestu směr [[Místa - Barovie#Vallaki|Vallaki]]
 - Po cestě jsme narazili na 3 spadené stromy přes cestu
