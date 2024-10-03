@@ -21,6 +21,8 @@
 - Když jsme odpočívali, přišla nás vyhnat druidka, zemřela
 - Další druidi byli: v hlavní místnost s velkými káděmi, ve sklepě, v etiketovací místnosti, na jeřábu v nakladišti
 - Zjistili jsme, že [[Vinařství v ohrožení|Vinařství je v ohrožení]]
+	- Pomohli jsme vinařství
+- Vzali jsme sudy a vyrazili zpátky do [[Místa - Barovie#Vallaki|Vallaki]]
 
 - [x] Vyzvednout vůz
 - [x] Dojed do [[Místa - Barovie#Vinařství U mága|Vinařství u mága]]
@@ -28,3 +30,4 @@
 - [x] Vyzvednou víno
 	- Stačí říct, že je pro Daniku
 - [ ] Dovézt jej zpátky Danice
+	- [  Js
