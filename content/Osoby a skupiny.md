@@ -13,6 +13,9 @@ Bývalý majitel [[Místa - Barovie#Rezidence Dorstových|rezidence]], který [[
 # Arasek
 Majitel [[Místa - Barovie#Arasekovy sklady|skladů ve Vallaki]]
 - Prodává všelijaké zboží, včetně piva
+# Arigal
+Vistanec z [[#Luvašův tábor|Luvašova tábora]]
+- Možná příbuzný s ### Lovašem
 # Arkasha Indrovich
 - Burgomeister (17. Time of Flowers 389)
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
@@ -409,6 +412,8 @@ Skupina, o které se píše v [[Poslední zápisky Cassie a Broma|posledních z�
 - žena, zemřela v [[Místa - Barovie#Západní brána|Západní bráně]] vyhladověním
 ## Michail
 
+# Soumrační elfové
+- Žijou pod [[Místa - Barovie#Lavašův tábor|Lavašovým táborem]]
 # Sunder Halynd Liam
 Kouzelník, který žil ve své věži v [[Místa - Materiální pláň#Liamova tvrz|Liamově Tvrzi]]
 - Před mnoha lety bojoval s [[#Dávná sekta|dávnou sektou]]
@@ -430,6 +435,9 @@ Potulný národ
 	- [[Místa - Barovie#Barovie, území|Barovie]] je jejich domovem, proto podle [[#Madam Eva|madam Evy]] neodejdou, i když by mohli
 ## Luvašův tábor
 - Měl by se nacházet jižně od [[Místa - Barovie#Vallaki|Vallaki]]
+### Alexej, vistanec
+- někdo jiný, než [[#Alexej|Alexej]]??
+- neuhlídal [[Osoby a skupiny#Lava]]
 ## Oleg
 Vypravěč příběhů z Lovašova tábora
 ### Alenka, Mirabel a Sabia
