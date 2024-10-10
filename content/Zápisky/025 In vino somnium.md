@@ -7,7 +7,7 @@
 	- Kořeny obrůstaly kusy mrtvých těl humanoidů
 - Abukai se šel podívat do [[Místa - Barovie#Mlha|Mlhy]]
 	- Zahlédl tam sedícího [[Strád von Zarovič|Stráda]]
-	- V mlhách viděl bílou pevnost nad městem, nádherným městem plným pšží a domů, jakoby v dálce za mlhou
+	- V mlhách viděl bílou pevnost nad městem, nádherným městem plným věží a domů, jakoby v dálce za mlhou
 - Vyrazili jsme do vinařství, kde jsme odpočívali do večera a pak se uložili na noc.
 # Snění
 Když jsme se uložili na noc, měli členové naší družiny roztodivné sny a vidiny
