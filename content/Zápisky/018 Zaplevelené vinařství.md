@@ -1,6 +1,6 @@
 # 6. Oťávra
 - Vyjeli jsme z [[Místa - Barovie#Vallaki|Vallaki]] s vozem na víno na západ, s cílem dojet do večera do [[Místa - Barovie#Vinařství U mága|vinařství u mága]]
-	- Viděli jsme odbočku kudy jely vozy, pravděpodobně do [[Osoby a skupiny#Luvašův tábor|Luvašova tábora]]
+	- Viděli jsme odbočku kudy jely vozy, pravděpodobně do [[Místa - Barovie#Luvašův tábor|Luvašova tábora]]
 	- Střetli jsme [[Osoby a skupiny#Jevgenij Krušnin|Jevgenije]]
 	- Na křižovatce ke [[Místa - Barovie#Starý Berez|Starému Berezu]] a [[Místa - Barovie#Baratok, jezero|jezeru Baratok]] byl dav lidí z ovčařské osady u [[Místa - Barovie#Vallaki|Vallaki]], hledající [[Osoby a skupiny#Léčitelka / Čarodějnice|čarodějnici]]
 	- Severozápadně od cesty šlo slyšet vytí vlků
