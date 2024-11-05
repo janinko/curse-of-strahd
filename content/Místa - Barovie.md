@@ -93,7 +93,7 @@
 - Obec v západní části [[#Barovie, území|Barovijského údolí]]
 ## Opatství sv. Markovie
 - Zmínil jej [[Osoby a skupiny#Donovič|Kněz Donovič]] jako vhodné místo na ukrytí [[Osoby a skupiny#Irina Koljanovna|Iriny]]
-# Lavašův tábor
+# Luvašův tábor
 - Tábor [[Osoby a skupiny#Vistani|Vistani]], odkud pochází [[Osoby a skupiny#Alenka, Mirabel a Sabia|Alenka, Mirabel a Sabia]]
 - Nachází se na jihozápad od [[#Vallaki|Vallaki]], na západní cestě, odbočkou na jih
 - Je na kopci, ve kterém žijou v domcíh [[Osoby a skupiny#Soumrační elfové|soumrační elfové]]
