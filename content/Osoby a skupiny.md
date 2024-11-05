@@ -13,9 +13,10 @@ Bývalý majitel [[Místa - Barovie#Rezidence Dorstových|rezidence]], který [[
 # Arasek
 Majitel [[Místa - Barovie#Arasekovy sklady|skladů ve Vallaki]]
 - Prodává všelijaké zboží, včetně piva
-# Arigal
-Vistanec z [[#Luvašův tábor|Luvašova tábora]]
-- Možná příbuzný s ### Lovašem
+# Arrigal
+Vistanec z [[Místa - Barovie#Luvašův tábor|Luvašova tábora]]
+- Možná příbuzný s [[Osoby a skupiny#Luvaš|Luvašem]]
+- Je mladší, v dobré kondici a s bradkou
 # Arkasha Indrovich
 - Burgomeister (17. Time of Flowers 389)
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
@@ -122,6 +123,8 @@ Velitel stráží v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]]
 Strážný u brány v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]]
 ## Mara
 Strážný u brány v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]]
+# Gorgul
+Temná bytost, nazývaná "kníže temnoty" [[#Kultisti z Vallaki|Kultisty z Vallaki]] 
 # Gorwin
 Tiefling a bojovník Flaming Fist
 - jeho tělo bylo nalezeno u stromu na [[Místa - Barovie#Kopec Minulosti|Kopci Minulosti]]
@@ -150,6 +153,10 @@ Prodavačka masových koláčů a údajná čarodějnice
 - Prodává také bylinky, některé si Abukai koupil
 - Podle [[#Irina Koljanovna|Iriny]] a [[#Ismark Koljanovič|Ismarka]] se povídá že je to čarodějnice co prodává magické koláče
 	- Údajně bydlí ve [[Místa - Barovie#Mlýn Dorstových|mlýně u Vallaki]]
+# Kultisti z Vallaki
+Skupina kultistů uctívající [[#Gorgul|Gorgula]]
+- Byli spatřeni v opuštěném domě u [[Místa - Barovie#Vallaki|Vallaki]]
+- Mají v úmyslu "zachránit Vallaki od šíleného starosty"
 # Lanniver Strayl
 Rytíř Řádu Rukavice v [[Místa - Materiální pláň#Brod Dýky|Brodu dýky]]
 - Poslal Aurelia a Nethara aby prozkoumali zvěsti o útocích příšer na jihovýchod od [[Místa - Materiální pláň#Brod Dýky|Brodu dýky]]
@@ -185,6 +192,13 @@ Kněz v [[Místa - Barovie#Kostel sv. Andrela|kostele sv. Andrela]] ve [[Místa 
 ## Milivoj
 - zmíněn knězem "Jisko, kde je Miluvoj"
 - Podle [[#Urvin|Urvina]] je to vcelku velký pomocník kněze, starší než Jiska
+# Luvaš
+Vůdce [[Místa - Barovie#Luvašův tábor|tábora]] [[#Vistani|Vistanců]]
+- Je velký, svalnatý s černohnědými vlasy a divokými vousy. Nosí červenohnědou vestu
+- má mladou dceru
+## Arabela
+- Dcera Luvaše, má 7 let
+- černé vlasy
 # Madam Eva
 [[#Vistani|Vistani]] Vědma ze sdíleného snu
 - Vyložila dobrodruhům karty (diviner, monk, mists, marionet, broken one)
@@ -213,7 +227,7 @@ Kněz v [[Místa - Barovie#Kostel sv. Andrela|kostele sv. Andrela]] ve [[Místa 
 Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašidelného panství]]
 - Na známkách měl napsáno "Lancelot, Mary a Gertruda, [[Místa - Barovie#Barovie, vesnice|Barovie]]"
 - Abukai psa nakrmil a ten jej pak následoval
-# # Matka Noci
+# Matka Noci
 - Někdo, kdo je uctíván vlkodlakem [[#Vaslov †|Vaslovem]]
 - Podle [[#Donovič|kněze Donoviče]]:
 	- je další bohyní v [[Místa - Barovie#Barovie, území|Barovii]]
@@ -413,7 +427,7 @@ Skupina, o které se píše v [[Poslední zápisky Cassie a Broma|posledních z�
 ## Michail
 
 # Soumrační elfové
-- Žijou pod [[Místa - Barovie#Lavašův tábor|Lavašovým táborem]]
+- Žijou pod [[Místa - Barovie#Luvašův tábor|Luvašovým táborem]]
 # Sunder Halynd Liam
 Kouzelník, který žil ve své věži v [[Místa - Materiální pláň#Liamova tvrz|Liamově Tvrzi]]
 - Před mnoha lety bojoval s [[#Dávná sekta|dávnou sektou]]
@@ -433,13 +447,11 @@ Potulný národ
 - [[#Ismark Koljanovič|Ismark]] tvrdil, že snad slouží [[Strád von Zarovič|Strádovi]], protože můžou opustiti [[Místa - Barovie#Barovie, území|Barovii]]
 - Mají od [[Strád von Zarovič|Stráda]] povolení cestovat skrze Mlhy
 	- [[Místa - Barovie#Barovie, území|Barovie]] je jejich domovem, proto podle [[#Madam Eva|madam Evy]] neodejdou, i když by mohli
-## Luvašův tábor
-- Měl by se nacházet jižně od [[Místa - Barovie#Vallaki|Vallaki]]
 ### Alexej, vistanec
 - někdo jiný, než [[#Alexej|Alexej]]??
 - neuhlídal [[Osoby a skupiny#Lava]]
 ## Oleg
-Vypravěč příběhů z Lovašova tábora
+Vypravěč příběhů z Luvašova tábora
 ### Alenka, Mirabel a Sabia
 Skupina 3 vistani žen, které navštěvují [[Místa - Barovie#Hostinec Krvavé Víno|hostinec Krvavé Víno]]
 - Rády hrají karetní hry, jako třeba Krysí Poker
