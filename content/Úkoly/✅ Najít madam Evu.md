@@ -13,4 +13,4 @@ Setkali jsme se s madam Evou ve [[Osoby a skupiny#Vistani|vistánském]] táboř
 - [x] V [[Místa - Barovie#Hostinec Krvavé Víno|hostinci Krvavé Víno]] jsme zahlédli [[Osoby a skupiny#Alenka, Mirabel a Sabia|3 vistánské ženy]] , měli bysme se jich na Madam Evu zeptat.
 - [x] Vyhledat madam Evu u [[Místa - Barovie#Tserské jezero|Tserského jezera]]
 - [x] Vyptat se na podrobnosti věštby, kterou jim přednesla
-- [x] Viřídit Madam Evě pozdravy od [[Osoby a skupiny#Alenka, Mirabel a Sabia|Mirabel]], a vzkázat, že by měla navštívit [[Místa - Barovie#Lavašův tábor|Lavašův tábor]]
+- [x] Viřídit Madam Evě pozdravy od [[Osoby a skupiny#Alenka, Mirabel a Sabia|Mirabel]], a vzkázat, že by měla navštívit [[Místa - Barovie#Luvašův tábor|Luvašův tábor]]
