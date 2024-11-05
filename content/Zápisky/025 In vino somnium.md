@@ -48,4 +48,4 @@ Když jsme se uložili na noc, měli členové naší družiny roztodivné sny a
 	- Později jsme slyšeli jak drak muže asi sežral a poté jsme našli asi zbytek mužových věcí, včetně ženských bílých šatů
 - Na křižovatce nedaleko od Vallačského mostu jsme viděli viset oběšené tělo mladé ženy
 	- Pravděpodobně šlo o "čarodějnici", kterou [[018 Zaplevelené vinařství|naháněl dav vesničanů]]
-- Před [[Místa - Barovie#Vallaki|Vallaki]] jsme odbočili na jih k [[Místa - Barovie#Lavašův tábor|Lovašovu táboru]] 
+- Před [[Místa - Barovie#Vallaki|Vallaki]] jsme odbočili na jih k [[Místa - Barovie#Luvašův tábor|Luvašovu táboru]] 
