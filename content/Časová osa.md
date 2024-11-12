@@ -80,10 +80,12 @@ Kalendář:
 - [[025 In vino somnium]]
 ## 8. Oťávra 735 🌗
 - [[025 In vino somnium]]
+- [[026 Dlouhá cesta do hospody]]
+- [[027 Pobýhaní po Vallaki]]
 ## 9. Oťávra
-- Dle strážného, Potencionální den Oslav zářícího slunce ve [[Místa - Barovie#Vallaki|Vallaki]]
+- Den Oslav zářícího slunce ve [[Místa - Barovie#Vallaki|Vallaki]]
+- [[027 Pobýhaní po Vallaki]]
 ## 10. Oťávra
-- Dle strážného, Potencionální den Oslav zářícího slunce ve [[Místa - Barovie#Vallaki|Vallaki]]
 ## 11. Oťávra 🌘
 ## 12. Oťávra 🌘
 ## 13. Oťávra 735 
