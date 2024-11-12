@@ -1,0 +1,24 @@
+# 8. Oťávra
+- Informovali jsme se s [[Osoby a skupiny#Ismark Koljanovič|Ismarkem]] o vzájemných plánech
+	- Ismark bude asi chtít odvést [[Osoby a skupiny#Irina Koljanovna|Irinu]] do [[Místa - Barovie#Krezk|Krezku]]
+- **Abukai** odešel zanést víno strážnému u brány
+	- Spícímu strážnému zavázal tkaničky a pak jej vzbudil aby mu podal víno
+	- Stavil se do kostela, kde potkal Irinu, která se tam potajmu vytratila z hostince
+# 9. Oťávra
+- Šli jsme se podívat do obchodu s oblečením [[Osoby a skupiny#Udolukovič|Udolukoviče]] na náměstí
+	- Na náměstí jsme viděli několik mužů, žen a dětí v kládách a dospělí ještě s oslíma hlavama
+		- **Abukai** šel hned zkontrolovat, jestli je s nimi dobře zacházeno
+	- [[Osoby a skupiny#Isek Strážný|Strážný Isek]] sprdával další strážné za to, že nevyvěsili včas letáky o nadcházející oslavě 
+	- Obchod [[Osoby a skupiny#Udolukovič|Udolukoviče]] byl zavřený s cedulkou: "Obchod dočasně zavřený, dokud si majitel neodpyká trest. Urážet rychtáře se nevyplatí."
+- **Aurelius**, **Malakai** a **Nethar** nechali **Abukaie** na náměstí a šli se podívat do [[Místa - Barovie#Arasekovy sklady|Arasekových skladů]]
+	- Po cestě nás zastavil [[Osoby a skupiny#Evrst Lavhak|Evrst Lavhak]], člověk který nás před několika dny sledoval v ulicích [[Místa - Barovie#Vallaki|Vallaki]]
+		- Vyřídil nám pozvání od [[Osoby a skupiny#Fiona Vachterová|Lady Vachterové]] na večeři toho dne. Pro potvrzení si přijde po slavnosti
+	- U [[Osoby a skupiny#Arasek|Araseka]] se **Nethar** rozčílil nad jeho nehoráznými cenami 
+- **Malakai** se pak vydal lovit ryby k jezeru a **Aurelius** zpátky na náměstí
+- **Nethar** se stavil znova do kostela, protože [[Osoby a skupiny#Lucian Petrovič|knězi]] slíbil, že dojde
+	- Kněz řekl že jim fyzické nebezpečí při večeři u [[Osoby a skupiny#Rodina Vachterů|Vachterů]] asi nehrozí, politické nebezpečí to je jiná
+	- Taky informoval, že [[Osoby a skupiny#Vilemína|Vilemína Udolukovičová]] postrádá svého manžela, který byl zavřený asi v domě [[Osoby a skupiny#Baron Valakovič|Barona Valakoviče]], ale nejsou o něm žádné zprávy
+- **Abukai** s Ismarkem se mezitím přemístili do obchodu [[Osoby a skupiny#Gadolt Blinsky|Gadolta Blinskyho]]
+	- **Abukaiovi** bystré oči si všimly panenky, která byla až příliš podobná Irině
+	- Blinsky se začal velmi vykrucovat a nechtěl povědět, kdo a proč po něm tu panenku chtěl.
+- Všichni se poté setkali nedaleko Blinskyho obchodu
