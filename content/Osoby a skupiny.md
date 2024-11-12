@@ -215,6 +215,10 @@ Vůdce [[Místa - Barovie#Luvašův tábor|tábora]] [[#Vistani|Vistanců]]
 	- [[Místa - Barovie#Barovie, území|Barovie]] je jejich domovem, proto podle madam Evy neodejdou, i když by mohli
 - O [[Strád von Zarovič|Strádovi]] řekla: "Myslím si, že stav v jakém Strád je, je prokletí pro něj i pro [[Místa - Barovie#Barovie, území|Barovii]]"
 	- Chtěla by aby se **něco** změnilo, bez konkrétní specifikace co.
+# Marika
+Žena z [[Místa - Barovie#Vallaki|Vallaki]], která byla zavřená v kládě
+- Byla potrestána za to, že se "nedostatečně" účastnila oslav ve [[Místa - Barovie#Vallaki|Vallaki]]
+- Má malé děti
 # Mařka
 Žena z [[Místa - Barovie#Barovie, vesnice|Barovie]], 40-45 let
 - Matka Gertrudy
