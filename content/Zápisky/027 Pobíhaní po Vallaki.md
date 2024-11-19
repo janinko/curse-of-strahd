@@ -25,3 +25,4 @@
 - Většina se poté setkali nedaleko Blinskyho obchodu a vydali se zkontrolovat dům [[Osoby a skupiny#Marika|Mariky]]
 	- **Abukai** šel zkontrolovat jestli jsou její děti v pořádku. Když je nenašel, nechal jim tam nějaké jídlo a panenky
 - S **Malakaiem** se střetli u severní brány, když se vracel z rybolovu a vyměnili si vzájemně informace
+
