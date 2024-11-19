@@ -138,8 +138,8 @@ Tiefling a bojovník Flaming Fist
 - Zemřel pravděpodobně na začátku Sintára
 # Isek Strážný
 Pohůnek rychtáře [[Místa - Barovie#Vallaki|Vallaki]], [[#Baron Valakovič|barona Valakoviče]]
-- Podle [[#Urvin|Urvina]] má vysokou hrubiánskou postavu a jeho pravá ruka je znetvořená
-- Také podle Urvina má nadpřirozené schopnosti, dokáže vyčarovat pekelný plamen
+- Má vysokou hrubiánskou postavu a jeho pravá ruka je znetvořená, jakoby popálená
+- Dokáže vyčarovat plamen (Podle [[#Urvin|Urvina]] pekelný)
 # Hortensia Verzi
 Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlouva o koupi mlýna|prodala]] [[#Rodina Dorstových|Dorstovým]]
 - Pochází z [[Místa - Barovie#Vallaki|Vallaki]]
@@ -251,6 +251,11 @@ Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašideln�
 - podle svých [[Zápisky mocného čarodějě|zápisků]] se přátelil s [[#Elminster|Elminsterem]]
 - Podle [[#Danika Martikovová|Daniky]] a lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] byl u [[Místa - Barovie#Zarovich, jezero|jezera Zarovich]] viděn podivný mág, který blesky útočil na jezero se slovy že se pomstí rybám
 	- Podle nich by mohl být někde v [[Místa - Barovie#Baratocké hory|Baratockých horách]]
+# Nešťastný strážný
+- Chtěl po nás víno, za to že nás pustí do města
+- Abukai spícímu strážnému svázal tkaničky, předtím než jej vzbudil a dal mu víno
+- Šeptal něco o [[#Marika|Marice]]
+- Při [[Oslava zářícího slunce|Oslavě zářícího slunce]] se zasmál [[#Baron Valakovič|Baronovi]] a byl za to odvlečen za koněm
 # Nemrtvý jezdec
 Nemrtvý jezdec na nemrtvém koni
 - Vypadá průsvitně a namordrale
@@ -284,6 +289,11 @@ Obrovský pavouk, který podle [[#Madam Eva]] žije uprostřed [[Místa - Barovi
 - "Pavouk" byla metafora pro [[Strád von Zarovič|Stráda]]
 # Petru Varzaru
 - Svědek na [[Smlouva o koupi mlýna|smlouvě]]
+# Podezřelý rybář
+- Rybář na [[Místa - Barovie#Zarovich, jezero|jezeře Zarovich]]
+- Říkal, že aby ryby braly, je třeba vodě obětovat "Někoho, kdo má více štěstí, než vy."
+- Hodil do vody pytel s mrtvým dítětem
+- Mluví a chová se monotoně, podobně jako [[#Aryk|Aryk]]
 # Rab
 Gnom, trhovec z [[Místa - Materiální pláň#Liamova tvrz|Liamovy Tvrze]], zabývající se pěstováním česneku.
 - Prodal dobrodruhům 3 speciálně vypěstované odrůdy česneku
@@ -298,6 +308,8 @@ Elf, bard a bývalý cirkusák
 - Prý přišel asi před měsícem (t.j. začátek Sintára) společně s [[#Vistani|Vistani]]
 - Sbírá příběhy a chtěl by založit nový cirkus
 - Má zaparkovanou maringotku u [[Místa - Barovie#Arasekovy sklady|Arasekových skladů]]
+## Drápek
+- 10 ft dlouhá kočkovitá šelma
 # Rodina Dorstových
 Rodina, která žije ve [[Místa - panství Dorstových|Strašidelném panství]]
 ## Elizabeth
@@ -417,6 +429,8 @@ Rodina rychtáře ve [[Místa - Barovie#Vallaki|Vallaki]]
 	- Je dobrá dávat si pozor na jeho pohůnka [[Osoby a skupiny#Isek Strážný|Iseka Strážného]]
 	- Není dobré zmiňovat před ním [[Strád von Zarovič|Stráda]], neb by mohl pojat podezření, že jsme jeho špioni
 	- Bylo by dobré předstírat, že za požár v hostinci může nehoda se svíčkou
+## Paní Valakovičová
+- Zdá se být poněkud pomalejší
 # Rudolf van Richten
 Podle [[Strád von Zarovič|Stráda]] se jedná o krvelačného vraha
 - Podle [[Strád von Zarovič|Stráda]] zabil 37 [[#Vistani|vistánců]], včetně žen a dětí
