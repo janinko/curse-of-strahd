@@ -86,6 +86,7 @@ Kalendář:
 - Den Oslav zářícího slunce ve [[Místa - Barovie#Vallaki|Vallaki]]
 - [[027 Pobíhaní po Vallaki]]
 - [[028 Otřesný úlovek]]
+- [[029 Rozhodnutí o Abukaiovi]]
 ## 10. Oťávra
 ## 11. Oťávra 🌘
 ## 12. Oťávra 🌘
