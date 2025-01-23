@@ -2,8 +2,8 @@
 - Vydali jsme se na náměstí, zůčastnit se [[Oslava zářícího slunce|oslavy zářícího slunce]]
 	- Byli jsme přinuceni aktivně se zůčastnit pokropením koule olejem
 	- Přesunuli jsme se na místo, na kterém nehrozilo smetení ohnivou koulí
-- Po skonční oslavy se **Nethar** šel zeptat [[Osoby a skupiny#Isek Strážný|Iseka]] na prodej zbroje a zavření [[Osoby a skupiny#Udolukovič|Udolukoviče]]
-	- Vyptávat se na [[Osoby a skupiny#Udolukovič|Udolukoviče]] prý znamená dělat problémy
+- Po skonční oslavy se **Nethar** šel zeptat [[Osoby a skupiny#Isek Strážný|Iseka]] na prodej zbroje a zavření [[Osoby a skupiny#Udo Lukovič|Udolukoviče]]
+	- Vyptávat se na [[Osoby a skupiny#Udo Lukovič|Udolukoviče]] prý znamená dělat problémy
 	- Mít s [[Osoby a skupiny#Baron Valakovič|rychtářem]] za dobře by mohlo pomoci v propuštění Udolukoviče dříve
 	- Pro prodej zbroje i dělání úkolů pro rychtáře se máme zastavit 10. Oťávra u Barona
 - Zaslechli jsme křik polekaných lidí, které vylekal [[Osoby a skupiny#Riktavio|Riktáviův]] mazlíček [[Osoby a skupiny#Drápek|Drápek]]
@@ -17,7 +17,7 @@
 		- O odměny se všichni podělili
 - Vydali jsme se k jezeru
 - **Abukai** uspořádal nadrogované závody
-	- **Abukai**, [[Osoby a skupiny#Irina Koljanovna|Irina]] a **Nethar** si dali nějakou bylinu po které rychlej běhali a vystartovali
+	- **Abukai**, [[Osoby a skupiny#Irina Koljanovna|Irina]] a **Nethar** si dali bylinu kamiš po které rychlej běhali a vystartovali
 	- I přes pokus **Nethara** podvádět a kouzlem zastavit **Abukaie** doběhl **Nethar** poslední
 	- O první místo se dělili **Abukai** s Irinou
 - Na jezeře se **Malakai** pustil znovu do chytání ryb
@@ -28,4 +28,4 @@
 	- Prozradil, že aby ryby braly, je třeba vodě obětovat "Někoho, kdo má více štěstí než vy"
 	- **Nethar** mu dal zlaťák a on se slovy "konečně jsem něco ulovil, se vydal ke břehu"
 	- **Abukai** se ovázal lanem a potopil se aby k tomu co bylo vrženo do vody přivázal magické lano
-	- Když nachlazený **Abukai** vylezl, vytáhli jsme na laně mrtvé dětské tělo.
+	- Když nachlazený **Abukai** vylezl, vytáhli jsme na laně mrtvé dětské tělo v pytli.
