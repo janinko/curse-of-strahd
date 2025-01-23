@@ -10,3 +10,9 @@
 		- Rozhodli jsme se, že budeme nadále pokračovat v cestách s **Abuklaiem**, ale pokud by nám jeho činy měly přivést problémy, nebudeme se za něj stavět
 	- **Abukaie** kontaktoval nějaký [[Osoby a skupiny#Vasilij von Holz|Vasilij von Holz]]
 - Dostali jsme pozvání na večeří do [[Osoby a skupiny#Rodina Wachterů|Wachter]] Hausu
+
+Plány:
+ - Vydáme se na večeři k [[Osoby a skupiny#Rodina Wachterů|Wachterům]]
+	- Abukai se rozhoduje jestli se přidá
+- Ráno hodláme vyrazit s [[Osoby a skupiny#Ismark Koljanovič|Ismarkem]] a [[Osoby a skupiny#Irina Koljanovna|Irinou]] do [[Místa - Barovie#Krezk|Krezku]]
+- Po návštěvě [[Místa - Barovie#Krezk|Krezku]] se vydáme do [[Místa - Barovie#Baratok, jezero|věže na baratockém Jezeře]]
