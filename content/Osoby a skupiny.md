@@ -114,7 +114,7 @@ Kamarád [[#Kelen|Kelena]] a syn Evona
 # Evrst Lavhak
 Osoba ve špinavém hnědém plášti, co nás sledovala ve [[Místa - Barovie#Vallaki|Vallaki]]
 - menší postavy
-- Slouží [[#Rodina Vachterů|Vachterovým]]
+- Slouží [[#Rodina Wachterů|Vachterovým]]
 - Drzý: "Byla to jen moje chyba, že jste si mě všimli"
 # Firan
 - **Netharem** nazývaný "Návštěvník"
@@ -204,6 +204,7 @@ Vůdce [[Místa - Barovie#Luvašův tábor|tábora]] [[#Vistani|Vistanců]]
 ## Arabela
 - Dcera Luvaše, má 7 let
 - černé vlasy
+- rybář ji hodil do jezera, **Abukai** vylovil její tělo a **Nethar** jej předal [[#Arrigal|Arigalovi]]
 # Madam Eva
 [[#Vistani|Vistani]] Vědma ze sdíleného snu
 - Vyložila dobrodruhům karty (diviner, monk, mists, marionet, broken one)
@@ -408,10 +409,10 @@ Nemluvně
 # Rodina Krezků
 Rodina rychtářů z [[Místa - Barovie#Krezk|Krezku]]
 - Kdysi vlastnili [[Místa - Barovie#Vinařství U mága|Vinařství U mága]], které dostali od [[Strád von Zarovič|Stráda]] poté, co dobil [[Místa - Barovie#Barovie, území|Barovii]]
-# Rodina Vachterů
+# Rodina Wachterů
 Významná rodina ve [[Místa - Barovie#Vallaki|Vallaki]]
 - Podle [[#Lucian Petrovič|kněze Petroviče]] nejsou nepřátelští ke [[Strád von Zarovič|Strádovi]]
-## Fiona Vachterová
+## Fiona Wachterová
 - Oslovovaná "Lady"
 - Podle [[#Lucian Petrovič|kněze Petroviče]] by mohla mít knihy o magii
 # Rodina Valakovičů
@@ -455,10 +456,12 @@ Skupina, o které se píše v [[Poslední zápisky Cassie a Broma|posledních z�
 # Sunder Halynd Liam
 Kouzelník, který žil ve své věži v [[Místa - Materiální pláň#Liamova tvrz|Liamově Tvrzi]]
 - Před mnoha lety bojoval s [[#Dávná sekta|dávnou sektou]]
-# Udolukovič
+# Udo Lukovič
 Obchodník s oblečením ve [[Místa - Barovie#Vallaki|Vallaki]]
 ## Vilemína
  - Manželka Udolukoviče
+# Vasilij von Holz
+- Bydlí na náměstí v [[Místa - Barovie#Vallaki]]
 # Vetřelec v domě Dorstových
 Osoba, která byla nalezena mrtvá v tajné místnosti [[Místa - panství Dorstových|domu Dorstových]]
 - V ruce držel [[Dopis Gustavovi Durstovi od Stráda von Zaroviče|dopis]]
