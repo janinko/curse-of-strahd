@@ -151,7 +151,7 @@ Dům [[Smlouva o koupi rezidence|koupený]] Dorstovými
 	- Na ochozu stráží strážní
 - Asi 2,5 - 3 dny cesty z [[#Barovie, vesnice|vesnice Barovie]]
 - Rychtářem je [[Osoby a skupiny#Baron Valakovič|Baron Valakovič]]
-- další významnou rodinou jsou [[Osoby a skupiny#Rodina Vachterů|Vachterovi]]
+- další významnou rodinou jsou [[Osoby a skupiny#Rodina Wachterů|Vachterovi]]
 - Podle [[Osoby a skupiny#Bildrath|Bildratha]] by měla vesnice prodávat pivo
 - Pochází z tama [[Osoby a skupiny#Hortensia Verzi|Hortensia Verzi]]
 - Ve Vallaki se koná jí často různé oslavy a události na popud [[Osoby a skupiny#Baron Valakovič|rychtáře Valakoviče]]
@@ -192,7 +192,7 @@ Dům [[Smlouva o koupi rezidence|koupený]] Dorstovými
 - u kostela je zahrada s náhrobky, obehnaná plotem
 - knězem je [[Osoby a skupiny#Lucian Petrovič|Lucian Petrovič]]
 ## Obchod s oblečením
-- vlastní jej [[Osoby a skupiny#Udolukovič|Udolukovič]]
+- vlastní jej [[Osoby a skupiny#Udo Lukovič|Udolukovič]]
 # Vinařství U mága
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] se nachází mezi [[#Vallaki|Vallaki]] a [[#Krezk|Krezkem]]
 - Založil jej nějaký mág, který vytvořil 3 magické artefakty, díky kterým rostlo víno
