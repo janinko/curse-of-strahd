@@ -4,7 +4,7 @@
 	- **Abukai** tam jistě způsobem svým vlastním svými dotazy vyvedl z míry [[Osoby a skupiny#Lucian Petrovič|kněze Petroviče]]
 - **Malakai** využil rozdělení a zamířil si to rovnou do [[Místa - Barovie#Hostinec Na Širokém moři|hostince Na Širokém moři]], kde jej brzo následovali **Aurelius** a **Nethar**
 - V hostinci zjišťovali od hostinské [[Osoby a skupiny#Danika Martikovová|Daniky]] a lovců [[Osoby a skupiny#Jevgenij Krušnin|Jevgenij]] a [[Osoby a skupiny#Soldar Soldarovič|Soldar]] informace o jak zdejších poměrech, tak které by se jim hodily při [[Vyřešit věštbu od Madam Evy|řešení věštby]]
-	- Ve Vallaki jsou dvě významné rodiny: [[Osoby a skupiny#Rodina Valakovičů|Valakoviči]] a [[Osoby a skupiny#Rodina Vachterů|Vachterovi]]
+	- Ve Vallaki jsou dvě významné rodiny: [[Osoby a skupiny#Rodina Valakovičů|Valakoviči]] a [[Osoby a skupiny#Rodina Wachterů|Vachterovi]]
 	- U [[Místa - Barovie#Zarovich, jezero|jezera Zarovich]] byl viděn bláznivý mág "z [[Místa - Barovie#Baratocké hory|Baratockých hor]]" - jde snad o [[Najít tělo čaroděje|čaroděje]], jež se utkal se [[Strád von Zarovič|Strádem]]
 	- Na břehu [[Místa - Barovie#Baratok, jezero|jezera Baratok]] a [[Místa - Barovie#Měsíční, jezero|Měsíčního jezera]] se nachází věže
 	- Hrad je tu jen [[Místa - Barovie#Ravenloft|Ravenloft]], pak jen [[Místa - Barovie#Argynvosholt|zřícenina]] na jih od [[Místa - Barovie#Vallaki|Vallaki]]
