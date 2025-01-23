@@ -8,7 +8,7 @@
 - **Malakai** se na radu **Abukaie** vydal do [[Místa - Barovie#Kostel sv. Andrela|kostela sv. Andrela]] za [[Osoby a skupiny#Lucian Petrovič|knězem Lucienem]] aby mu identifikoval magické kůly
 	- **Aurelius** a **Nethar** se k němu přidali
 	- V kostele se dověděli, že **Abukai** na knězi zanechal silný dojem, ale kněz se v magických věcech nevyzná
-		- doporučil [[Osoby a skupiny#Baron Valakovič|barona Valakoviče]] nebo [[Osoby a skupiny#Rodina Vachterů|lady Vachterovou]], kteří prý mají spoustu knih
+		- doporučil [[Osoby a skupiny#Baron Valakovič|barona Valakoviče]] nebo [[Osoby a skupiny#Rodina Wachterů|lady Vachterovou]], kteří prý mají spoustu knih
 - Při cestě zpět nás [[Osoby a skupiny#Evrst Lavhak|někdo]] sledoval
 	- **Nethar** se skryl, aby jej načapal, ale osobě se podařilo utéct
 - V hostinci nám [[Osoby a skupiny#Danika Martikovová|Danika]] řekla, že by nám zaplatila za to, že [[Pomoc hostinci Na Širokém moři#Dovézt sudy od Mága|dovezeme sudy s vínem]] a že by byla ráda kdyby jsme [[Pomoc hostinci Na Širokém moři#Sehnat dřevo na opravy|sehnali nějaké dřevo]] na opravu poničeného hostince
