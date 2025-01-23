@@ -1,0 +1,12 @@
+# 9. Oťávra
+- **Abukai** bez souhlasu družiny zabil rybáře, který do jezera hodil [[Osoby a skupiny#Arabela|Arabelu]]
+	- Poté jej **Abukai** pohřbil v jezeře
+- Odnesli jsme tělo do tábora vistani a **Nethar** jej předal [[Osoby a skupiny#Arrigal|Arrigalovi]]
+	- Řekl, že rybář byl za to zabit a když se Vistani naštvali tak jim odmítl říct, kdo jej zabil
+- Našli jsme balíček s oblečením schovaný v kořenech stromu nedaleko [[Místa - Barovie#Vallaki|Vallaki]], prozatím jsme jej tam nechali
+	- V balíčku byl i jednoduchý náhrdelník z naleštěného broznu, který měl na sobě symboly mnoha různých bohů ([[Osoby a skupiny#Pán Jitra|Pán Jitra]], [[Osoby a skupiny#Raven Queen|Raven Queen]], ...)
+- **Abukai** šel do kostela a zbytek do hospody
+	- **Aurelius**, **Malakai** a **Nethar** se bavili o budoucnosti spolupráce s **Abukaiem**
+		- Rozhodli jsme se, že budeme nadále pokračovat v cestách s **Abuklaiem**, ale pokud by nám jeho činy měly přivést problémy, nebudeme se za něj stavět
+	- **Abukaie** kontaktoval nějaký [[Osoby a skupiny#Vasilij von Holz|Vasilij von Holz]]
+- Dostali jsme pozvání na večeří do [[Osoby a skupiny#Rodina Wachterů|Wachter]] Hausu
