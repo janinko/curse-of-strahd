@@ -35,3 +35,13 @@ Večer jsem začal meditovat s druidskou temnou holí položenou na kolenou
 	- Jeho vzpomínky jsou zamlžené, pamatuje si jen bloudění v husté [[Místa - Barovie#Mlha|Mlze]], své jméno - [[Osoby a skupiny#Firan|Firan]] - a hořící nenávist k mlhám a ke [[Strád von Zarovič|Strádovi]]
 - Když Firan pozřel hůl, jeho obrysy nabyli jasnějších tvarů
 - Rozloučil se se slovy: "Doufám že přežijete, protože nevím, co se stane se mnou, když ne."
+### 9. Oťávra
+"Díky tvému minulému daru (hůl od druidů) cítím, ýe jsem na chvíli nabral tochu síly. Pokud budeš ochotný pomoci více, můžu pomoc odplatit."
+
+- Říkal že hůl se stříbrnou dýkou, kterou jsem našel po přechodu do materiální pláně, není jeho.
+- Stále si nepamatuje kdo je, jen že putoval nekonečnými mlhami
+	- Získává ale útržky vzpomínek
+- Chce se dostat z Barovie pryč
+- Darování magickách předmětů je jen dočasná pomoc, pro posílení pouta je třeba udělat jednoduchý rituál:
+	- Vytetovat si tuto runu na tělo
+	- \*Runa překreslena do poznámek*
