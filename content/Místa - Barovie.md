@@ -193,6 +193,11 @@ Dům [[Smlouva o koupi rezidence|koupený]] Dorstovými
 - knězem je [[Osoby a skupiny#Lucian Petrovič|Lucian Petrovič]]
 ## Obchod s oblečením
 - vlastní jej [[Osoby a skupiny#Udo Lukovič|Udolukovič]]
+## Wachterhaus
+- domov [[Osoby a skupiny#Rodina Wachterů|rodiny Wachterů]]
+- dům to byl dříve majestání, teď ale už poněkud zanedbaný a sešlý
+- Portréty v jídelně zobrazují členy [[Osoby a skupiny#Rodina Wachterů|rodiny Wachterů]]: muže, dceru a 2 syny
+- Velká knihovna, plná koček
 # Vinařství U mága
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] se nachází mezi [[#Vallaki|Vallaki]] a [[#Krezk|Krezkem]]
 - Založil jej nějaký mág, který vytvořil 3 magické artefakty, díky kterým rostlo víno
