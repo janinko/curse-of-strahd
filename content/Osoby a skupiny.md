@@ -111,7 +111,7 @@ Kamarád [[#Kelen|Kelena]] a syn Evona
 📔 Máme jej [[Záchrana Kelena a Marcuse|najít a zachránit]]
 - Šel s Kelenem [[Místa - Materiální pláň#Mlžná brána|Mlžnou branou]] ven a do lesa, prozkoumat nějaký dům a už se nevrátili
 - Podle [[#Vaslov †]] byli uneseni do [[Místa#Vlkodlačí doupě]] aby rozšířili smečku
-# Evrst Lavhak
+# Ernst Larnak
 Osoba ve špinavém hnědém plášti, co nás sledovala ve [[Místa - Barovie#Vallaki|Vallaki]]
 - menší postavy
 - Slouží [[#Rodina Wachterů|Vachterovým]]
@@ -139,7 +139,9 @@ Tiefling a bojovník Flaming Fist
 # Isek Strážný
 Pohůnek rychtáře [[Místa - Barovie#Vallaki|Vallaki]], [[#Baron Valakovič|barona Valakoviče]]
 - Má vysokou hrubiánskou postavu a jeho pravá ruka je znetvořená, jakoby popálená
+	- Podle [[Osoby a skupiny#Fiona Wachterová|lady Wachterové]] kdysi v lese přišel o ruku, když mu ji něco uhryzlo. Uhryznutou ruku poté nahradilo něco ďábelského co má teď
 - Dokáže vyčarovat plamen (Podle [[#Urvin|Urvina]] pekelný)
+- Podle [[#Fiona Wachterová|lady Wachterové]] byl vždy problémový a násilný, ještě než se přidal k [[#Baron Valakovič|baronovi Vallakovičovi]]
 # Hortensia Verzi
 Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlouva o koupi mlýna|prodala]] [[#Rodina Dorstových|Dorstovým]]
 - Pochází z [[Místa - Barovie#Vallaki|Vallaki]]
@@ -191,7 +193,7 @@ Lovec z  [[Místa - Barovie#Vallaki|Vallaki]]
 Temná síla, kterou volali přízraky ve [[Místa - panství Dorstových#Sklep - druhé patro|sklepě domu Dorstových]].
 # Lucian Petrovič
 Kněz v [[Místa - Barovie#Kostel sv. Andrela|kostele sv. Andrela]] ve [[Místa - Barovie#Vallaki|Vallaki]]
-## Jiska
+## Jeska
 - Ministrant v [[Místa - Barovie#Kostel sv. Andrela|kostele sv. Andrela]] ve [[Místa - Barovie#Vallaki|Vallaki]]
 - Mladý kluk, asi kolem 15 let věku
 ## Milivoj
@@ -204,7 +206,6 @@ Vůdce [[Místa - Barovie#Luvašův tábor|tábora]] [[#Vistani|Vistanců]]
 ## Arabela
 - Dcera Luvaše, má 7 let
 - černé vlasy
-- rybář ji hodil do jezera, **Abukai** vylovil její tělo a **Nethar** jej předal [[#Arrigal|Arigalovi]]
 # Madam Eva
 [[#Vistani|Vistani]] Vědma ze sdíleného snu
 - Vyložila dobrodruhům karty (diviner, monk, mists, marionet, broken one)
@@ -410,11 +411,40 @@ Nemluvně
 Rodina rychtářů z [[Místa - Barovie#Krezk|Krezku]]
 - Kdysi vlastnili [[Místa - Barovie#Vinařství U mága|Vinařství U mága]], které dostali od [[Strád von Zarovič|Stráda]] poté, co dobil [[Místa - Barovie#Barovie, území|Barovii]]
 # Rodina Wachterů
-Významná rodina ve [[Místa - Barovie#Vallaki|Vallaki]]
+Významná rodina ve [[Místa - Barovie#Wachterhaus|Vallaki]] 
 - Podle [[#Lucian Petrovič|kněze Petroviče]] nejsou nepřátelští ke [[Strád von Zarovič|Strádovi]]
+## Baron Wachter †
+- Zemřel kolem [[Časová osa#732|roku 732]]
 ## Fiona Wachterová
-- Oslovovaná "Lady"
+- Baronka, oslovovaná "Lady"
 - Podle [[#Lucian Petrovič|kněze Petroviče]] by mohla mít knihy o magii
+- Černé oči, tmavě šedé vlasy, odhadem kolem 50 let
+- Měla oblečené ornamentální "brnění" na hrudi
+- Nemá ráda [[#Baron Valakovič|barona Valakoviče]] a chtěla by jej nahradit ve vedení [[Místa - Barovie#Vallaki]]
+	- Brání jí v tom osoba [[#Isek Strážný|Iseka]], který je příliš silný a loajální Valakovičovi
+	- Má obavy aby Valakovič nepřišel na její spiknutí
+	- Podle svých vlastních slov jí jde o svobodu obyvatelstva
+- Spolupracuje s [[#Ernst Larnak|Ernstem Larnakem]]
+- V názoru na [[Strád von Zarovič|Stráda]] se zdá rozpolcená
+	- zdá se, že jej nemá nějak v lásce, ale dobrovolně se podvolí jeho vůli
+	- "Hrabě je náš panovník a dokud to tak bude, nebudu se mu protivit."
+## Stella
+- Dcera
+- Fiona se ji pokusila provdat za [[#Viktor|Viktora Vallakoviče]] aby ziskala vliv na chod města
+	- Podle Fiony se z Viktora zbláznila
+- Byla pomatená, zdá se že o sobě smýšlala jako o kočce
+	- "Kočka vás nezná, kočcce se nelíbí váš pach"
+- Dali jsme [[#Lucian Petrovič|knězi Lucianovi]] svitek Greater Restoration, s jejož pomocí se mu podařilo ji ze šílenství vyléčit
+	- Po vyléčení: "Mama, už mě nenuť s ním být, nechci s ním mít nic společné."
+## Syn 1
+- Zřejmě flákači, chodí po hospodě, po venku a loví
+## Syn 2
+- Zřejmě flákači, chodí po hospodě, po venku a loví
+## Sluha Halik
+- velmi vysoký, oblečený do klasické bílé a černé
+- tmavé krátké vlasy, přivřené oči
+## Sluha 2
+- nižší, zavalitý
 # Rodina Valakovičů
 Rodina rychtáře ve [[Místa - Barovie#Vallaki|Vallaki]]
 ## Baron Valakovič
@@ -432,6 +462,15 @@ Rodina rychtáře ve [[Místa - Barovie#Vallaki|Vallaki]]
 	- Bylo by dobré předstírat, že za požár v hostinci může nehoda se svíčkou
 ## Paní Valakovičová
 - Zdá se být poněkud pomalejší
+## Viktor
+- Syn
+- Vykupoval materiály vhodné pro magické účely
+- Podle [[#Fiona Wachterová|Fiony Wachterové]] je:
+	- Mladý a neukazuje se běžně
+	- vyšinutý
+	- kuje pikle s temnými silami
+	- zakrádá se mimo [[Místa - Barovie#Vallaki|Vallaki]]
+	- Byl zasnoubený se [[#Stella|Stellou Wachterovou]], dokud nezpůsobil její šílenství
 # Rudolf van Richten
 Podle [[Strád von Zarovič|Stráda]] se jedná o krvelačného vraha
 - Podle [[Strád von Zarovič|Stráda]] zabil 37 [[#Vistani|vistánců]], včetně žen a dětí
@@ -456,12 +495,10 @@ Skupina, o které se píše v [[Poslední zápisky Cassie a Broma|posledních z�
 # Sunder Halynd Liam
 Kouzelník, který žil ve své věži v [[Místa - Materiální pláň#Liamova tvrz|Liamově Tvrzi]]
 - Před mnoha lety bojoval s [[#Dávná sekta|dávnou sektou]]
-# Udo Lukovič
+# Udolukovič
 Obchodník s oblečením ve [[Místa - Barovie#Vallaki|Vallaki]]
 ## Vilemína
  - Manželka Udolukoviče
-# Vasilij von Holz
-- Bydlí na náměstí v [[Místa - Barovie#Vallaki]]
 # Vetřelec v domě Dorstových
 Osoba, která byla nalezena mrtvá v tajné místnosti [[Místa - panství Dorstových|domu Dorstových]]
 - V ruce držel [[Dopis Gustavovi Durstovi od Stráda von Zaroviče|dopis]]
