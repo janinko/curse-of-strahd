@@ -11,7 +11,7 @@
 	- [[Osoby a skupiny#Isek Strážný|Strážný Isek]] sprdával další strážné za to, že nevyvěsili včas letáky o nadcházející oslavě 
 	- Obchod [[Osoby a skupiny#Udo Lukovič|Udolukoviče]] byl zavřený s cedulkou: "Obchod dočasně zavřený, dokud si majitel neodpyká trest. Urážet rychtáře se nevyplatí."
 - **Aurelius**, **Malakai** a **Nethar** nechali **Abukaie** na náměstí a šli se podívat do [[Místa - Barovie#Arasekovy sklady|Arasekových skladů]]
-	- Po cestě nás zastavil [[Osoby a skupiny#Evrst Lavhak|Evrst Lavhak]], člověk který nás před několika dny sledoval v ulicích [[Místa - Barovie#Vallaki|Vallaki]]
+	- Po cestě nás zastavil [[Osoby a skupiny#Ernst Larnak|Evrst Lavhak]], člověk který nás před několika dny sledoval v ulicích [[Místa - Barovie#Vallaki|Vallaki]]
 		- Vyřídil nám pozvání od [[Osoby a skupiny#Fiona Wachterová|Lady Vachterové]] na večeři toho dne. Pro potvrzení si přijde po slavnosti
 	- U [[Osoby a skupiny#Arasek|Araseka]] se **Nethar** rozčílil nad jeho nehoráznými cenami 
 - **Malakai** se pak vydal lovit ryby k jezeru a **Aurelius** zpátky na náměstí
