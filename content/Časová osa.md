@@ -31,6 +31,8 @@ Kalendář:
 - Ročník, ze kterého je šapaňské de la Dasoan, které jsme nalezli v jeskyni ve sklepě ve [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
 # Rok 725
 - Byl [[Vinařství v ohrožení|ukraden první]] artefakt z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
+# Rok 732
+- Podle [[Osoby a skupiny#Fiona Wachterová|lady Wachterové]] kolem tohoto roku zemřel její [[Osoby a skupiny#Baron Wachter †|manžel]]
 # Rok 734
 - Podle [[Osoby a skupiny#Oleg|Olegova]] [[Skazka o kouzelníku, jež se vzepřel Strádovi|vyprávění]] a zmínek od [[Osoby a skupiny#Donovič|otce Donoviče]] se [[Osoby a skupiny#Mocný čaroděj|mocný čaroděj]] pokusil zaútočit na [[Strád von Zarovič|Stráda]]
 # Rok 735
@@ -87,6 +89,7 @@ Kalendář:
 - [[027 Pobíhaní po Vallaki]]
 - [[028 Otřesný úlovek]]
 - [[029 Rozhodnutí o Abukaiovi]]
+- [[030 Večeře u Lady Wachterové]]
 ## 10. Oťávra
 ## 11. Oťávra 🌘
 ## 12. Oťávra 🌘
