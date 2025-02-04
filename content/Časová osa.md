@@ -91,6 +91,7 @@ Kalendář:
 - [[029 Rozhodnutí o Abukaiovi]]
 - [[030 Večeře u Lady Wachterové]]
 ## 10. Oťávra
+- [[031 Rychlý odchod z Vallaki]]
 ## 11. Oťávra 🌘
 ## 12. Oťávra 🌘
 ## 13. Oťávra 735 
