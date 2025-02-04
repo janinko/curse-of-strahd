@@ -492,6 +492,7 @@ Skupina, o které se píše v [[Poslední zápisky Cassie a Broma|posledních z�
 
 # Soumrační elfové
 - Žijou pod [[Místa - Barovie#Luvašův tábor|Luvašovým táborem]]
+- Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] soumrační elfové kladli velký odpor armádě [[Strád von Zarovič|Strádova]] otce při dobývání [[Místa - Barovie#Barovie, území|Barovie]]
 # Sunder Halynd Liam
 Kouzelník, který žil ve své věži v [[Místa - Materiální pláň#Liamova tvrz|Liamově Tvrzi]]
 - Před mnoha lety bojoval s [[#Dávná sekta|dávnou sektou]]
