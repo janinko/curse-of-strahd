@@ -16,5 +16,5 @@ Zápisky [[Osoby a skupiny#Mocný čaroděj|mocného čaroděje]], které jsme n
 - Borca - panství touhy a klamu
 - Darkon - panství magické tyranie
 - Karneval - putující panství divů
-- Lamordia - panství sněhu a sečívaného masa
+- Lamordia - panství sněhu a sešívaného masa
 - Valachan - panství Lovce
