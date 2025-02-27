@@ -43,10 +43,6 @@ Velitel ve Flaming Fist
 # Cosmin Miklos
 - Burgomeister (17. Rotting 435)
 - Svědek na [[Smlouva o koupi mlýna|smlouvě]]
-# Čaroděj z Baratockého jezera
-Podle [[#Davian|Daviana]] čaroděj co naučil [[Strád von Zarovič|Stráda]] magii
-- Podle [[#Davian|Daviana]] také pomohl postavit hrad [[Místa - Barovie#Ravenloft|Ravenloft]]
-- Patřila mu věž na [[Místa - Barovie#Baratok, jezero|Baratockém jezeře]]
 # Daniel Arcos
 - Svědek na [[Smlouva o koupi mlýna|smlouvě]]
 # Danika Martikovová
@@ -116,6 +112,8 @@ Osoba ve špinavém hnědém plášti, co nás sledovala ve [[Místa - Barovie#V
 - menší postavy
 - Slouží [[#Rodina Wachterů|Vachterovým]]
 - Drzý: "Byla to jen moje chyba, že jste si mě všimli"
+# Ezmerelda
+Žačka [[#Rudolf van Richten|van Richtena]]
 # Firan
 - **Netharem** nazývaný "Návštěvník"
 # Gadolt Blinsky
@@ -136,6 +134,9 @@ Tiefling a bojovník Flaming Fist
 - Měl u sebe rozkazy od [[#Beluarian|Beluariana]] z Flaming Fist:
 	- Vyšetřit podezřelé pocestné - [[#Vistani|Vistany]]. Zjistit odkud jsou a jejich úmysly.
 - Zemřel pravděpodobně na začátku Sintára
+# Ilmar Lirieneth
+- bratr **Nethara**
+- člen (podle [[#Rudolf van Richten|van Richtena]] vůdce) kultu v [[Místa#Gloomwrought|Gloomwrought]], který se snažil uniknout z Shadowfellu
 # Isek Strážný
 Pohůnek rychtáře [[Místa - Barovie#Vallaki|Vallaki]], [[#Baron Valakovič|barona Valakoviče]]
 - Má vysokou hrubiánskou postavu a jeho pravá ruka je znetvořená, jakoby popálená
@@ -160,6 +161,10 @@ Prodavačka masových koláčů a údajná čarodějnice
 - Prodává také bylinky, některé si Abukai koupil
 - Podle [[#Irina Koljanovna|Iriny]] a [[#Ismark Koljanovič|Ismarka]] se povídá že je to čarodějnice co prodává magické koláče
 	- Údajně bydlí ve [[Místa - Barovie#Mlýn Dorstových|mlýně u Vallaki]]
+# Khazan
+Podle [[#Davian|Daviana]] čaroděj co naučil [[Strád von Zarovič|Stráda]] magii
+- Podle [[#Davian|Daviana]] také pomohl postavit hrad [[Místa - Barovie#Ravenloft|Ravenloft]]
+- Patřila mu věž na [[Místa - Barovie#Baratok, jezero|Baratockém jezeře]]
 # Kultisti z Vallaki
 Skupina kultistů uctívající [[#Gorgul|Gorgula]]
 - Byli spatřeni v opuštěném domě u [[Místa - Barovie#Vallaki|Vallaki]]
@@ -305,7 +310,7 @@ Bohyně uctívaná shadar-kai v Shadowfellu
 - Podle uctívání v [[Místa#Gloomwrought|Gloomwrought]] se stará o silné vzpomínky a emoce, které sbírá ať už z duší opouštějící mrtvá těla, nebo při událostech silně nabitých emocemi, převážně jako jsou ztráta a tragédie
 - Havrani jsou její služebníci
 # Riktavio
-Elf, bard a bývalý cirkusák
+Elf, bard a bývalý cirkusák, ve skutečnosti alter-ego [[#Rudolf van Richten|van Richtena]]
 - Nosí plášť z barevných záplat
 - Prý přišel asi před měsícem (t.j. začátek Sintára) společně s [[#Vistani|Vistani]]
 - Sbírá příběhy a chtěl by založit nový cirkus
@@ -476,6 +481,7 @@ Podle [[Strád von Zarovič|Stráda]] se jedná o krvelačného vraha
 - Podle [[Strád von Zarovič|Stráda]] zabil 37 [[#Vistani|vistánců]], včetně žen a dětí
 - [[Strád von Zarovič|Strád]] chtěl, aby jsme jej [[Pátrání po van Richtenovi|nalezli]] a podali o něm informace
 - [[Strád von Zarovič|Strád]] se s ním "chce vypořádat"
+- Jeho alter-ego je [[#Riktavio|Riktavio]]
 # Sekta Dorstových
 Sekta, která pod [[Místa - panství Dorstových|domem Dorstových]] prováděla temné rituály
 - Viděli jsme 13 artefaktů a 13 přízraků ve [[Místa - panství Dorstových#Sklep - druhé patro|sklepě]]. Pravděpodobně tedy 13 členů?
