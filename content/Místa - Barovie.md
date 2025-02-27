@@ -10,6 +10,9 @@
 - Na severozápadě [[#Barovie, území|Barovie]]
 - Je u něj nějaká věž
 	- Podle lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] ve věži straší
+## Khazanova věž
+- Věž, která dříve patřila [[Osoby a skupiny#Khazan|Khazanovi]]
+- V celé věži působí antimagické pole, které dosahuje asi 10 stop od věže
 # Barovie, území
 - Název území a také vesnice ležící na tom území
 - nenalézá se na materiální pláni a prý je prokletá
@@ -113,7 +116,7 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 - Obývá [[Strád von Zarovič|Strád von Zarovič]]
 - Podle [[Osoby a skupiny#Oleg|Olega]] a [[Osoby a skupiny#Davian|Daviana]] jsou pod hradem krypty
 - Cesta k hradu od odbočky u [[#Západní brána|Západní brány]] je dlážděná
-- Podle [[Osoby a skupiny#Davian|Daviana]] jej pomohl postavit [[Osoby a skupiny#Čaroděj z Baratockého jezera|jeden čaroděj]]
+- Podle [[Osoby a skupiny#Davian|Daviana]] jej pomohl postavit [[Osoby a skupiny#Khazan|jeden čaroděj]]
 # Starý Berez
 - Trosky vesnice, nedaleko [[#Argynvosholt|panství Argynvosholt]]
 - Bažina
