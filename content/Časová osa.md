@@ -92,6 +92,7 @@ Kalendář:
 - [[030 Večeře u Lady Wachterové]]
 ## 10. Oťávra
 - [[031 Rychlý odchod z Vallaki]]
+- [[032 Pravá tvář Riktavia]]
 ## 11. Oťávra 🌘
 ## 12. Oťávra 🌘
 ## 13. Oťávra 735 
