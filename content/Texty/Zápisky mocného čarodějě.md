@@ -1,6 +1,6 @@
 Zápisky [[Osoby a skupiny#Mocný čaroděj|mocného čaroděje]], které jsme našli v jeskyni u [[Místa - Barovie#Tserské vodopády|Tserských vodopádů]]:
 
-- Nalezl knihy v [[Místa - Materiální pláň#Candlekeep|Candlekeep]] pojednávající o demipláních "Panství Hrůzy" a začal jejich výzkum
+- Nalezl knihy v [[Místa - Materiální pláň#Candlekeep|Candlekeep]] pojednávající o demipláních "[[Místa#Domény hrůzy|Panství Hrůzy]]" a začal jejich výzkum
 	- Jsou to nějaké vězení
 - Pojednává o diskuzích s [[#Elminster|Elminsterem]] o magickém a metafyzickém významu plání a o morálních implikacích toho, že tam jsou uvězněny stovky duší
 - Přemýšlel nad rituálem, který by jej dokázal přenést do Panství Hruzy
