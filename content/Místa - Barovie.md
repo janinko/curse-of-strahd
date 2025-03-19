@@ -16,7 +16,7 @@
 # Barovie, území
 - Název území a také vesnice ležící na tom území
 - nenalézá se na materiální pláni a prý je prokletá
-- je to uzavřená část Shadowfellu (podobných částí je vícero)
+- Je to [[Místa#Domény hrůzy|doména hrůzy]], uzavřená část Shadowfellu (podobných částí je vícero)
 - Objevila se tam skupina zabijáků monster: Abukai, Aurelius, Malakai, Nethar
 - Údolí s [[#Travnatý vrcholek poblíž vesnice Barovie|travnatým vrcholkem]], kterým protéká řeka Ivlis, která teče z hlubokého lesa do vesnice
 - Nad vesnicí se tyčí hrad z obrazu v [[Místa - panství Dorstových#Podkroví|panství Dorstových]]
@@ -44,9 +44,6 @@
 - bydlí zde [[Osoby a skupiny#Mařka|Mařka]] a [[Osoby a skupiny#Gertruda|Gertruda]]
 - dům byl zabedněný
 - Pokoj [[Osoby a skupiny#Gertruda|Gertrudy]] byl prázdný a když z něj zmizela, zmizela i spousta jejich věcí. Zůstal jen víceméně prázdný šatník a skříňky a místní květiny
-# Ghakis, hora
-- Hora mezi [[#Vinařství U mága|Vinařstvím U mága]] a [[#Starý Berez|Starým Berezem]]
-- Zahlédli jsme kolem ní létat něco velikého
 ## Hostinec Krvavé Víno
 - Někdo nedávno zvandalizoval jeho vývěsní šít - střapec vína, ze kterého padají rudé kapky do číše - a přepsal jej na Krvavé Věno
 - Hostinský [[Osoby a skupiny#Aryk|Aryk]] je notně podivný, opakuje jen:
@@ -71,6 +68,12 @@
 	- znak [[Osoby a skupiny#Pán Jitra|pána Jitra]] - kruh s paprsky kolem ☼
 	- znak vlčích tesáků
 	- pravděpodobně jde jen o graffiti vesničanů, způsobené pověrami
+# Ghakis, hora
+- Hora mezi [[#Vinařství U mága|Vinařstvím U mága]] a [[#Starý Berez|Starým Berezem]]
+- Zahlédli jsme kolem ní létat něco velikého
+# Havraní řeka
+- Řeka tekoucí z [[#Baratok, jezero|Baratockého jezera]] na jih a pak na západ
+- Obtéká [[#Krezk]] z jihu a poté se ztrácí v [[#Mlha|Mlhách]]
 # Ivlis
 - Jedna z řek protékajících [[#Barovie, území|Barovií]]
 - Leží na ní [[#Tserské vodopády|Tserské vodopády]], [[#Tserské jezero|Tserské jezero]] a protéká poblíž [[#Barovie, vesnice|vesnice Barovie]]
@@ -93,7 +96,13 @@
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] se nachází nedaleko [[Místa - Barovie#Barovie, vesnice|Barovie]]
 - Na hřbitově straší
 # Krezk
-- Obec v západní části [[#Barovie, území|Barovijského údolí]]
+- Osada v západní části [[#Barovie, území|Barovijského údolí]]
+- Nejmladší z obcí v Barovii
+- Obehnaná pevnou kamennou stěnou
+- Sestává jen z pár domků
+## Klášter sv. Markovie
+- Klášter stojící nad osadou
+- Existence kláštera předchází vznik osady
 ## Opatství sv. Markovie
 - Zmínil jej [[Osoby a skupiny#Donovič|Kněz Donovič]] jako vhodné místo na ukrytí [[Osoby a skupiny#Irina Koljanovna|Iriny]]
 # Luvašův tábor
