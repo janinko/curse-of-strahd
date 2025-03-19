@@ -14,9 +14,13 @@ Kalendář:
 13. ???
 # Léta 3xx
 - Podle [[Dopis od Koljana Indiroviče|dopis]] od [[Osoby a skupiny#Koljan Indirovič †|Koljana]] "před více jak 400 lety" od roku 735 začal [[Strád von Zarovič|Strád]] vysávat krev občanům [[Místa - Barovie#Barovie, území|Barovie]] 
+# Léta 31x
+- Otec [[Strád von Zarovič|Stráda von Zaroviče]] začal dobývání [[Místa - Barovie#Barovie, území|Barovie]]
 # Léta 32x
 - Kolem roku 320 začíná [[Kniha dodávek vína]] z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
-- [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] začalo [[Strád von Zarovič|Strádovi]] vozit víno
+> - [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] začalo [[Strád von Zarovič|Strádovi]] vozit víno
+# Léta 35x
+- [[Strád von Zarovič|Strád]] dokončil dobývání barovie stavbou hradu [[Místa - Barovie#Ravenloft|Ravenloft]]
 # Rok 389
 ## 17. Time of Flowers
 - Podepsána [[Smlouva o koupi rezidence|smlouva o koupi rezidence]]
@@ -93,6 +97,8 @@ Kalendář:
 ## 10. Oťávra
 - [[031 Rychlý odchod z Vallaki]]
 - [[032 Pravá tvář Riktavia]]
+- [[033 Vlčí obléhání]]
+- [[034 Neklidné spaní]]
 ## 11. Oťávra 🌘
 ## 12. Oťávra 🌘
 ## 13. Oťávra 735 
