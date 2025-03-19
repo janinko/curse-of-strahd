@@ -1,0 +1,20 @@
+# 10. Oťávra
+- [[Osoby a skupiny#Rudolf van Richten|Van Richten]] nám nechal loď a dal **Malakaiovi** kámen, přes který se můžeme kontaktovat
+	- Potom se vydal ztratit v lese s plánem vydat se poté do [[Místa - Barovie#Argynvosholt|Argynvosholtu]]
+- Pokračovali jsme lodí necelou hodinu po proudu [[Místa - Barovie#Havraní řeka|Havraní řeky]]
+- Vyšli jsme na cestu a odhadli že [[Místa - Barovie#Krezk|Krezk]] se nachází na východ, tak se tím směrem vydali
+- Na křižovatce ke [[Místa - Barovie#Krezk|Krezku]]  jsme spatřili vzdšný vír, pohybující se naším směrem
+	- Zkusili jsme nejdřív utíkat, poté se schovat. Přesto nás dostihl a zaútočil
+	- Šlo nejspíš o vzdušného elementála, který se soustředil na **Aurelia**
+	- Po jeho porážce **Aurelius** zaslechl: "Pomoz mi, byl jsem přinucen"
+- Dorazili jsme ke [[Místa - Barovie#Krezk|Krezku]], kde jsme sice přesvědčili rychtáře [[Osoby a skupiny#Dimitrij Krezk|Dimitrije Krezka]] aby nás v Krezku přijal, ale odmítl nám otevřít bránu v noci
+- Poslali nás do staré lovecké chaty kousek od [[Místa - Barovie#Krezk|Krezku]]
+- **Malakai** a **Nethar** zkoumali artefakt tvaru slunce z [[Místa - Barovie#Khazanova věž|Khazanovy věže]]
+	- Jedná se o Svatý symbol havraního rodu, artefakt který umí ochránit před upíry
+- **Nethar** studoval [[Knihy z Khazanovy věže]], **Abukai** se snažil zabezpečit chatu
+- Dali jsme se k odpočinku
+	- **Abukai** viděl duchy, ženu co hledala Borise
+	- Došlo k samovznícení ~~starosty Varšavy~~ **Aurelia** 
+	- **Malakai** měl radostný sen o svém bratru, který se však změnil v noční můru
+	- **Nethar** meditoval nad fungováním bleskové magie a zaslechl šeptání [[Osoby a skupiny#Firan|Firana]] inspirované temnou knihou o krvavých rituálech
+- Ráno se všichni i přes neklidnou noc a zapomenuté hlídky probudili zdraví a plni nových sil (Level 5)
