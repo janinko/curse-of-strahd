@@ -68,5 +68,19 @@
 ### Podle [[Osoby a skupiny#Davian|Daviana]]:
 - poté co dobil [[Místa - Barovie#Barovie, území|Barovii]] daroval [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] [[Osoby a skupiny#Rodina Krezků|rodině Krezků]]
 ### Podle [[Osoby a skupiny#Rudolf van Richten|Rudolfa von Richtena]]
+- Existují 2 typy upírů:
+	- Běžná přeměna - vznikne služebník bez vlastní vůle, částečný upír
+	- Pokud se upír "předek" rozhodne, může přeměnit někoho na plného upíra
 - jako upír musí být zranitelný sluncem, ale slunce v Barovii nemá dostatečnou sílu
 - jeho modus operandi je přilákat hrdiny do [[Místa - Barovie#Barovie, území|Barovie]], a poté sledovat, jak se Barovií potulují a jak nakonec zemřou
+- Zranitelnost dřevěným kůlem:
+	- Upír musí být v bezvědomí na místě svého odpočinku
+	- Poté do jeho srdce může být zaražen kůl, který jej znehybní
+- tekoucí voda zraňuje upíry
+- upírův pohled dokáže získat vliv na vůli oběti, která je pak náchylná na upírova slova
+- dokáže ovládat většinu malých zvířat, ale ptáci jsou před ním v bezpečí
+- nemusí spát v rakvi, do ní se vrací jen pokud je vážně zraněný
+- Strád se musel odněkud naučit magii. Je možné že ovládá elementální magii.
+- Je možné, že Strád dokáže vyvíjet svůj vliv i mimo [[Místa#Domény hrůzy|Doménu hrůzy]] [[Místa - Barovie#Barovie, území|Barovie]], možní s pomocí špionů
+- Strád se narodil před [[Časová osa#Léta 31x|vstupem]] Strádova otce do [[Místa - Barovie#Barovie, území|Barovie]]
+	- Strádův otec zemřel před [[Časová osa#Léta 35x|dobytím]] Barovie
