@@ -113,7 +113,9 @@ Osoba ve špinavém hnědém plášti, co nás sledovala ve [[Místa - Barovie#V
 - Slouží [[#Rodina Wachterů|Vachterovým]]
 - Drzý: "Byla to jen moje chyba, že jste si mě všimli"
 # Ezmerelda
-Žačka [[#Rudolf van Richten|van Richtena]]
+Žačka [[#Rudolf van Richten|van Richtena]], mladá [[#Vistani|Vistanka]]
+- Místo jedné nohy má mechanickou protézu
+- Strávila nějaký čas v [[Místa - Barovie#klás]]
 # Firan
 - **Netharem** nazývaný "Návštěvník"
 # Gadolt Blinsky
@@ -415,6 +417,11 @@ Nemluvně
 # Rodina Krezků
 Rodina rychtářů z [[Místa - Barovie#Krezk|Krezku]]
 - Kdysi vlastnili [[Místa - Barovie#Vinařství U mága|Vinařství U mága]], které dostali od [[Strád von Zarovič|Stráda]] poté, co dobil [[Místa - Barovie#Barovie, území|Barovii]]
+[[Místa - Barovie#Krezk|Krezku]]
+## Dimitrij Krezk
+- Aktuální rychtář
+## Anna Krezková
+- žena rychtáře
 # Rodina Wachterů
 Významná rodina ve [[Místa - Barovie#Wachterhaus|Vallaki]] 
 - Podle [[#Lucian Petrovič|kněze Petroviče]] nejsou nepřátelští ke [[Strád von Zarovič|Strádovi]]
