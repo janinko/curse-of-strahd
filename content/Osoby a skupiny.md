@@ -34,6 +34,9 @@ Velitel ve Flaming Fist
 - Má synovce Ňoumu
 ## Ňouma
  - Obrovský člověk s holou hlavou
+# Boris
+- Žil v [[Místa - Barovie#Lovecká chata|Lovecké chatě]] se svou ženou
+- Když jsme [[034 Neklidné spaní|spali v chatě]], **Abukai** viděl ducha ženy, která po něm volala
 # Bukefalos
 - Podle [[#Davian|Daviana]] je to kůň [[Strád von Zarovič|Stráda von Zaroviče]]
 - Nápis na malém černém houpacím koni, se znázorněním plamenů
@@ -69,7 +72,7 @@ Kněz [[#Pán Jitra|Pána Jitra]]
 - Postarší muž, při těle, plešatějící
 - Má syna Doru
 - Bojí se že je [[#Pán Jitra|Pán Jitra]] opustil a že zůstala jen [[#Matka Noci|Matka Noci]]
-- Doporučil, aby byla [[#Irina Koljanovna|Irina]] odvedena až do [[Místa - Barovie#Opatrství sv. Markovie|opatství sv. Markovie]] v [[Místa - Barovie#Krezk|Krezku]]
+- Doporučil, aby byla [[#Irina Koljanovna|Irina]] odvedena až do [[Místa - Barovie#Klášter sv. Markovie|opatství sv. Markovie]] v [[Místa - Barovie#Krezk|Krezku]]
 - Dohadoval se, že by [[Strád von Zarovič|Strád]] mohl s [[#Irina Koljanovna|Irinou]] provést to samé, co provedl s [[#Doru]]
 - Při soukromém rozhovoru s [[#Ismark Koljanovič|Ismarkem]] o [[#Irina Koljanovna|Irině]] řekl něco o adoptování
 ## Doru
@@ -115,7 +118,7 @@ Osoba ve špinavém hnědém plášti, co nás sledovala ve [[Místa - Barovie#V
 # Ezmerelda
 Žačka [[#Rudolf van Richten|van Richtena]], mladá [[#Vistani|Vistanka]]
 - Místo jedné nohy má mechanickou protézu
-- Strávila nějaký čas v [[Místa - Barovie#klás]]
+- Strávila nějaký čas v [[Místa - Barovie#Klášter sv. Markovie|klášteře]]
 # Firan
 - **Netharem** nazývaný "Návštěvník"
 # Gadolt Blinsky
@@ -270,6 +273,17 @@ Nemrtvý jezdec na nemrtvém koni
 - Vypadá průsvitně a namordrale
 - Projel o půnoci ze [[014 Na cestě do Vallaki|4. na 5. Oťávra]] [[Místa - Barovie#Západní brána|Západní branou]]
 - 
+# Opat
+Opat [[Místa - Barovie#Klášter sv. Markovie|Kláštera sv. Markovie]], jménem Opat
+- Podle [[#Dimitrij Krezk|Dimitije]] občas chodí do [[Místa - Barovie#Krezk|Krezku]] kde vybírá desátky, léčí a chodí ke [[Místa - Barovie#Svatyně Bílého slunce|Svatyni Bílého slunce]]
+- Opat vypadá mladě, ale je přes 100 let starý
+- Nosí mnišské šaty, dřevěný symbol slunce a na jinak bosých nohou sandály
+- Podle svých slov přišel do [[Místa - Barovie#Barovie, území|Barovie]] řed necelými 130 lety
+## Vasilka
+- žena stvořená Opatem
+- bledá, strnulá, nemluvící; velmi podobná [[#Irina Koljanovna|Irině]]
+- Opat ji nazývá svou "dcerou"
+- Vytvořil ji s plánem provdat ji za [[Strád von Zarovič|Stráda]], aby jej "vyléčil" a tím i celou [[Místa - Barovie#Barovie, území|Barovii]]
 # Opeřenec
 Postava v opeřeném plášti
 - Podle [[Místa - Barovie#Vallaki|Vallackých]] legend se říká, že kdo ublíží havranům, havrani ublíží jemu a kdo havranům pomůže a/nebo nakrmí, tomu zase havrani pomůžou
@@ -319,6 +333,22 @@ Elf, bard a bývalý cirkusák, ve skutečnosti alter-ego [[#Rudolf van Richten|
 - Má zaparkovanou maringotku u [[Místa - Barovie#Arasekovy sklady|Arasekových skladů]]
 ## Drápek
 - 10 ft dlouhá kočkovitá šelma
+# Rodina Belvory
+- rodina, která podle [[#Opat|Opata]] trpěla leprou a přišla se léčit do [[Místa - Barovie#Klášter sv. Markovie|kláštera]]
+## Clovin
+- dvě hlavy, jedna je starší jak druhá, klepeta
+- [[#Opat|Opatův]] hlavní sluha
+- Je alkoholik, pije hodně vína
+## Otto
+- Levá strana tváře pokrytá ještěřími šupúinami, pravá strana pokrytá chuchvalci vlčí kožešiny, kočičí a lidké oči a kočičí packy
+- Nosí roucho a kauci z černé kožešiny
+- Pomocník [[#Opat|Opata]]
+- spolu se Ottem Opatovi nosí "součástky" na tvorbu homunkulů
+- Říká že občas chodí ven
+## Zigfried
+- Velký jako trpaslík, oslí srst, lidské a vlčí oči, vlčí čumák a tesáky, oslí ocas
+- Pomocník [[#Opat|Opata]]
+- spolu se Zigriedem Opatovi nosí "součástky" na tvorbu homunkulů
 # Rodina Dorstových
 Rodina, která žije ve [[Místa - panství Dorstových|Strašidelném panství]]
 ## Elizabeth
@@ -376,7 +406,7 @@ Mladá žena s kaštanovými vlasy po ramena a hnědýma očima
 	- Pamatuje si jen červené oči a v nich hlad
 	- Má rány na krku, jako od upíra
 - Nezdá se být apatická, jen poněkud pobledlá. Je velmi obratná.
-- [[#Donovič|Kněz Donovič]] navrhl aby byla Irina odvedena do [[Místa - Barovie#Opatství sv. Markovie|Opatství sv. Markovie]] v [[Místa - Barovie#Krezk|Krezku]]
+- [[#Donovič|Kněz Donovič]] navrhl aby byla Irina odvedena do [[Místa - Barovie#Klášter sv. Markovie|Opatství sv. Markovie]] v [[Místa - Barovie#Krezk|Krezku]]
 	- taky se dohadoval, že by [[Strád von Zarovič|Strád]] mohl s [[#Irina Koljanovna|Irinou]] provést to samé, co provedl s [[#Doru]]
 - Při soukromém rozhovoru mezi [[#Donovič|Donovičem]] a [[#Ismark Koljanovič|Ismarkem]] o Irině zmínil Donovič něco o adopci
 	- Podle [[Dopis od Koljana Indiroviče|dopisu od Koljana]] je adoptována
