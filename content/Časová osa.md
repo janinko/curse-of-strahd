@@ -31,6 +31,8 @@ Kalendář:
 - [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] přestalo [[Strád von Zarovič|Strádovi]] vozit víno
 # Rok 505 ±
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] "pred 220 lety" přijel [[Strád von Zarovič|Strád]] k [[Místa - panství Dorstových|domu Dorstových]] a od té doby o [[Osoby a skupiny#Rodina Dorstových|nich]] už nikdo neslyšel
+# Rok 60x
+- Podle svých slov [[Osoby a skupiny#Opat|Opat]] přišel do [[Místa - Barovie#Barovie, území|Barovie]]
 # Rok 666
 - Ročník, ze kterého je šapaňské de la Dasoan, které jsme nalezli v jeskyni ve sklepě ve [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
 # Rok 725
@@ -100,6 +102,8 @@ Kalendář:
 - [[033 Vlčí obléhání]]
 - [[034 Neklidné spaní]]
 ## 11. Oťávra 🌘
+- [[035 Naprosto šílený opat Opat]]
+- [[036 Klášter sv. Markovie]]
 ## 12. Oťávra 🌘
 ## 13. Oťávra 735 
 ## 14. Oťávra 735 
