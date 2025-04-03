@@ -101,10 +101,18 @@
 - Obehnaná pevnou kamennou stěnou
 - Sestává jen z pár domků
 ## Klášter sv. Markovie
+- Bydlí v něm [[Osoby a skupiny#Opat|Opat]] a hybridizovaní potomci [[Osoby a skupiny#Rodina Belvory|rodiny Belvory]]
 - Klášter stojící nad osadou
 - Existence kláštera předchází vznik osady
-## Opatství sv. Markovie
 - Zmínil jej [[Osoby a skupiny#Donovič|Kněz Donovič]] jako vhodné místo na ukrytí [[Osoby a skupiny#Irina Koljanovna|Iriny]]
+- Na cedulce u dveří na nádvoří je napsáno: "Nechť její záře vyléčí všechny nemoci."
+- Na nádvoří se převalovala podivně hustá mlha
+## Svatyně Bílého slunce
+- Altánek u jezírka
+- Je zde socha do půli těla svlečeného truchlícího muže, s rukami rozpřaženými jako by čekal obětí
+## Lovecká chata
+- Stará lovecká chata nedaleko Krezku
+- Podle [[Osoby a skupiny#Dimitrij Krezk|Dimitrije]] zde kdysi žil [[Osoby a skupiny#Boris|Boris]] se svou ženou, ale jednoho dne zmizeli
 # Luvašův tábor
 - Tábor [[Osoby a skupiny#Vistani|Vistani]], odkud pochází [[Osoby a skupiny#Alenka, Mirabel a Sabia|Alenka, Mirabel a Sabia]]
 - Nachází se na jihozápad od [[#Vallaki|Vallaki]], na západní cestě, odbočkou na jih
