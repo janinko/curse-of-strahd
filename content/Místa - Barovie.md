@@ -84,11 +84,18 @@
 - Nalézá se na kraji [[#Mlha|Mlhy]]
 	- Podle [[Osoby a skupiny#Davian|Daviana]], když se zde někdo do mlhy zahledí, tak vidí nějaké věci
 	- [[Strád von Zarovič|Strád]] zde stál u mlhy a hleděl do ní
+	- Abukai v mlze viděl bílou pevnost nad městem, nádherné město plné věží a domů, jakoby v dálce za mlhou
 - Černé, jakoby oslizlé kameny jsou navršeny do homolí, pravidelně rozmístěných ve dvou kruzích po vrstevnicích kopečku
 - Na vrcholu je
 	- 10 stop vysoká, zeď ze stejného, černého oslizlého kamene do kruhu
 	- Malý lesík odpudivě vypadajících stromů, s jedním obzvláště velkým
+		- Velký strom je zatuchlý a smradlavý, ze kterého teče zarudlá míza
+		- Pod ním leželo tělo [[Osoby a skupiny#Gorwin|tieflinga]], s rukou na sekeře zaseklé do stromu
+			- **Malakai** si sekeru vzal, je magická proti rostlinám
+		- Ze stromu vyrůstaly postavičky - blighti
 - Za zdí je obrovská, 50 stop vysoká socha z propletených větví, s dlouhým černým pláštěm, znázorňující pravděpodobně [[Strád von Zarovič|Stráda]]
+	- Socha v sobě obsahoval artefakt z [[#Vinařství U mága|Vinařství U mága]]
+- **Malaki** v okolí kopce slyšel hlas, nabádající jej že by mohl být hoden nějakého kopí
 # Kostel Pána Jitra
 - Pán jitra znám také jako [[Osoby a skupiny#Pán Jitra|Morninglord]], nalézající se blízko [[Místa - Barovie#Barovie, vesnice|Barovie]]
 - V kostele slouží [[Osoby a skupiny#Dono]]
@@ -134,6 +141,7 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 - Podle [[Osoby a skupiny#Oleg|Olega]] a [[Osoby a skupiny#Davian|Daviana]] jsou pod hradem krypty
 - Cesta k hradu od odbočky u [[#Západní brána|Západní brány]] je dlážděná
 - Podle [[Osoby a skupiny#Davian|Daviana]] jej pomohl postavit [[Osoby a skupiny#Khazan|jeden čaroděj]]
+- Pod hradem by měla být řada krypt
 # Starý Berez
 - Trosky vesnice, nedaleko [[#Argynvosholt|panství Argynvosholt]]
 - Bažina
@@ -219,14 +227,23 @@ Dům [[Smlouva o koupi rezidence|koupený]] Dorstovými
 - Portréty v jídelně zobrazují členy [[Osoby a skupiny#Rodina Wachterů|rodiny Wachterů]]: muže, dceru a 2 syny
 - Velká knihovna, plná koček
 # Vinařství U mága
-- Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] se nachází mezi [[#Vallaki|Vallaki]] a [[#Krezk|Krezkem]]
+- Nachází se na jih od [[#Krezk|Krezku]], odbočka je mezi Krezkem a [[#Vallaki|Vallaki]]
+- Dodávky vína jsou zapisované do [[Kniha dodávek vína|Knihy dodávek vína]]
 - Založil jej nějaký mág, který vytvořil 3 magické artefakty, díky kterým rostlo víno
+	- artefakt velké jak borová šiška, každý artefakt přinášel jinou odrůdu
 - [[Osoby a skupiny#Rodina Krezků|rodina krezků]] jej dostala od [[Strád von Zarovič|Stráda]], poté co dobil Barovii
 - [[Osoby a skupiny#Rodina Martikovů|rodina Martikovů]] později vinařství vyženila
 - Je [[Vinařství v ohrožení|v ohrožení]], protože byly ukradeny všechny 3 artefakty, co produkovali víno
+	- [[Časová osa#Rok 725|Před 10 lety]] někdo vykopal a ukradl jeden artefakt
+	- [[Časová osa#14. Sintára 735|Před 3 týdny]] byl vykopán a ukraden 2. artefakt
+		- Praděpodobně jej ukradla [[Osoby a skupiny#Ježibaba z Berezu|Ježibaba z Berezu]], která od té doby na vinařství posílá své strašáky
+	- [[Časová osa#2. Oťávra 735|2. Oťávra]] ukradli [[Osoby a skupiny#Druidi z Kopce minulosti|druidi]] 3. artefakt
+		- Tento artefakt se podařílo získat zpět
 - Dvoupatrový dům
 	- přízemí: stáj, nakladiště, dílna, sklářská dílna, zpravcovní vína
 	- patro: obytné prostory
+		- Zdrobené motivy havranů
+		- tapiserie [[#Klášter sv. Markovie|kláštera]]
 	- 2 věže se schodišti
 	- sklep na víno
 # Zarovich, jezero
