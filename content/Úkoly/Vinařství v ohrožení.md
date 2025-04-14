@@ -25,6 +25,6 @@ Vinařství by snad mělo být schopno produkovat zase jeden druh vína.
 - [ ] Vyrazit do [[Místa - Barovie#Starý Berez|Starého Berezu]] a získat tam jeden z artefaktů od [[Osoby a skupiny#Ježibaba z Berezu|ježibaby]]
 - [ ] Najít vodítka kde nalézt třetí z artefaktů
 	- [ ] Prozkoumat temná místa s věžemi:
-		- [ ] Možná věž na jezeře [[Místa - Barovie#Baratok, jezero|Baratok]]
+		- [x] Možná věž na jezeře [[Místa - Barovie#Baratok, jezero|Baratok]]
 		- [ ] Možná věž na [[Místa - Barovie#Měsíční, jezero|měsíčním jezeře]]
 		- [ ] Možná hrad [[Místa - Barovie#Ravenloft|Ravenloft]]
