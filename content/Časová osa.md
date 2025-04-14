@@ -45,6 +45,7 @@ Kalendář:
 ## Sintár 735
 - Na začátku měsíce přišel [[Osoby a skupiny#Riktavio|Riktavio]] spolu s [[Osoby a skupiny#Vistani|Vistani]]
 - Na začátku měsíce zemřel [[Osoby a skupiny#Gorwin|Gorwin]]
+- Na konci přišli [[Osoby a skupiny#Druidi z Kopce minulosti|druidi]] ukrást artefakt z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
 ## 14. Sintára 735
 - Byl [[Vinařství v ohrožení|ukraden druhý]] artefakt z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]], asi [[Osoby a skupiny#Ježibaba z Berezu|Ježibabou z Berezu]]
 ## 24. Sintára  735
