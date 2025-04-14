@@ -12,9 +12,9 @@
 	- Potkali jsme hybridy [[Osoby a skupiny#Otto|Otta]] a [[Osoby a skupiny#Zigfried|Zigfrieda]] a následně i [[Osoby a skupiny#Opat|Opata]]
 	- Na nádvoří kláštera se nepřirozeně rojila hustá mlha, která znekliďnovala **Nethara**
 - [[Osoby a skupiny#Opat|Opat]] pozval družinu dovnitř kláštera
-	- Představil nám [[Osoby a skupiny#Vasilka|Vasilku]], uměle vytvořenou ženu, která má ztvárňovat [[Strád von Zarovič|Strádovu]] milovanou a Opat usilje aby se stala jeho ženou
+	- Představil nám [[Osoby a skupiny#Vasilka|Vasilku]], uměle vytvořenou ženu, která má ztvárňovat [[Strád von Zarovič|Strádovu]] milovanou a Opat usiluje aby se stala jeho ženou
 		- Vasilka je velmi podobná na [[Osoby a skupiny#Irina Koljanovna|Irinu]]
-	- Představil nám [[Osoby a skupiny#Clovin|Clovin]], jeho hlavního sluhu
+	- Představil nám [[Osoby a skupiny#Clovin|Clovina]], jeho hlavního sluhu
 	- Zavedl nás k [[Osoby a skupiny#Ezmerelda|Ezmeraldě]], která zde několik dní pobývá
 - S [[Osoby a skupiny#Ezmerelda|Ezmeraldou]] jsme projednávali metafyzické vlastnosti [[Místa - Barovie#Barovie, území|Barovie]]
 	- Jedná se jistým smyslem o vězení
