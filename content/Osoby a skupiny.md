@@ -63,6 +63,7 @@ Hospodská v [[Místa - Barovie#Hostinec Na Širokém moři|hostinci Na Široké
  - Oblečení od fleků
  - Dělá kuchaře
  - Spřízněný s [[#Rodina Martikovů]],
+ - Je také havranodlak
 # Dávná sekta
 Dávná sekta, která žila v [[Místa - Materiální pláň#Klášter dávné sekty|klášteře]] a která před mnoha lety bojovala s [[#Sunder Halynd Liam|Liamem]]
 # Dimitry Milosovici
@@ -120,7 +121,8 @@ Osoba ve špinavém hnědém plášti, co nás sledovala ve [[Místa - Barovie#V
 - Místo jedné nohy má mechanickou protézu
 - Strávila nějaký čas v [[Místa - Barovie#Klášter sv. Markovie|klášteře]]
 # Firan
-- **Netharem** nazývaný "Návštěvník"
+- **Netharem** nazývaný "[[Návštěvník 🧑🏻|Návštěvník]]"
+- Jeví se asi jako 2 metry vysoký, mužské postavy
 # Gadolt Blinsky
 Výrobce hraček ve [[Místa - Barovie#Vallaki|Vallaki]]
  - Podle [[#Davian|Daviana]] je excentrický, ale zcela neškodný
@@ -138,7 +140,7 @@ Tiefling a bojovník Flaming Fist
 - jeho tělo bylo nalezeno u stromu na [[Místa - Barovie#Kopec Minulosti|Kopci Minulosti]]
 - Měl u sebe rozkazy od [[#Beluarian|Beluariana]] z Flaming Fist:
 	- Vyšetřit podezřelé pocestné - [[#Vistani|Vistany]]. Zjistit odkud jsou a jejich úmysly.
-- Zemřel pravděpodobně na začátku Sintára
+- Zemřel pravděpodobně na začátku [[Časová osa#Sintár 735|Sintára]]
 # Ilmar Lirieneth
 - bratr **Nethara**
 - člen (podle [[#Rudolf van Richten|van Richtena]] vůdce) kultu v [[Místa#Gloomwrought|Gloomwrought]], který se snažil uniknout z Shadowfellu
@@ -440,18 +442,24 @@ Muž, černé polodlouhé vlasy, hnědá prošívaná vesta.
 - jedno z dětí
 ## Viggo
 - jedno z dětí
-# Johanka
+## Johanka
 Nemluvně
 ## Vinařské dítě 4
 
 # Rodina Krezků
 Rodina rychtářů z [[Místa - Barovie#Krezk|Krezku]]
 - Kdysi vlastnili [[Místa - Barovie#Vinařství U mága|Vinařství U mága]], které dostali od [[Strád von Zarovič|Stráda]] poté, co dobil [[Místa - Barovie#Barovie, území|Barovii]]
-[[Místa - Barovie#Krezk|Krezku]]
+ - Rychtáří [[Místa - Barovie#Krezk|Krezku]]
 ## Dimitrij Krezk
 - Aktuální rychtář
 ## Anna Krezková
 - žena rychtáře
+# Ilja Krezk †
+- 710 - 728
+# Alana Krezková †
+- 715 - 731
+# Merik Krezk †
+- 731-731
 # Rodina Wachterů
 Významná rodina ve [[Místa - Barovie#Wachterhaus|Vallaki]] 
 - Podle [[#Lucian Petrovič|kněze Petroviče]] nejsou nepřátelští ke [[Strád von Zarovič|Strádovi]]
@@ -578,3 +586,6 @@ Vlkodlak, kterého se podařilo strážím zajmout při [[Útok vlků a vlkodlak
 - Měl u sebe nahrubo vytesanou sošku ženy s rukama vztyčenýma nad hlavou
 - 2x zmínil "[[#Matka Noci|Matka noci]] nás zachrání"
 - Byl zabit v duelu 10. Flamerule 1492 Malakaiem
+# Zephyros
+**Aureliův** pán z pláně ohně
+- Líbily by se mu 3 artefakty z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
