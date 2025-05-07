@@ -16,5 +16,5 @@
 	- Z knihy se vyrojilo spoustu zubů a dlouhý jazyk - Byl to MIMIK!!!
 	- Z **Nethara** se vyrojilo spoustu blesků a bylo po mimikovi. A vypadla z něj magická lahvička.
 - Šli jsme spát
-## 12. Oťávra
+# 12. Oťávra
 - Nad ránem se rozprostřelo napínavé ticho, které bylo přerušené obrovským výbuchem a vznícením střechy
