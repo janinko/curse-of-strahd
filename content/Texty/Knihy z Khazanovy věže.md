@@ -42,9 +42,12 @@ Popisuje situaci v království, kde nastane revoluce a odseknou králi a králo
 - Popisuje temný rituál na vyvolání nestvůry pod vlivem kouzelníka
 - Rituál vyžaduje lidskou oběť
 - Vyvolaný tvor na sebe vezme podobu podle rozpoložení oběti
+- Ještě rituál který vypadá legitimně
+	- Ritual of spirit Seance
 # Protináboženský text
 - Kniha pojednávající o božstvech jako [[Osoby a skupiny#Matka Noci|Matka noci]] a [[Osoby a skupiny#Pán Jitra|Pán jitra]]
 - Autorem je nějaký čaroděj
 - Pojednává o tom jak si tato božstva nezaslouží náš obdiv
 # Hnědá chlupatá kniha
 - Je k ní přiložený lístek: "Neotvírat"
+- je to mimik!
