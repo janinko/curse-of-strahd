@@ -13,7 +13,7 @@
 > Hledejte kouzelníka ve věži na jezeře, kouzelníkovo jméno a jeho sluha vás navedou k tomu, co hledáte.
 
 - Potencionální lokace k prozkoumání:
-	- [ ] Věž na jezeře [[Místa - Barovie#Baratok, jezero|Baratok]]
+	- [x] Věž na jezeře [[Místa - Barovie#Baratok, jezero|Baratok]]
 		- Podle [[Osoby a skupiny#Davian|Daviana]] tam žil mág, který [[Strád von Zarovič|Stráda]] učil magii a pomohl mu postavit [[Místa - Barovie#Ravenloft|hrad Ravenloft]]
 	- [ ] Věž na jezeře [[Místa - Barovie#Luna, jezero|Luna]]
 # Třetí karta
