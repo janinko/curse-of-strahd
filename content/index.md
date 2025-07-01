@@ -1,9 +1,9 @@
 # Epizody
-[[037 Poklidné odpoledne]]
-[[036 Klášter sv. Markovie]]
-[[035 Naprosto šílený opat Opat]]
-[[034 Neklidné spaní]]
-[[033 Vlčí obléhání]]
+[[040 Svatý otec a syn]]  
+[[039 Hlas a Blesk]]  
+[[038 Lekce pro Stráda]]  
+[[037 Poklidné odpoledne]]  
+[[036 Klášter sv. Markovie]]  
 Zbytek viz vlevo.
 # Úkoly
 ## Nové a aktualizované
