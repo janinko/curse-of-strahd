@@ -1,6 +1,6 @@
 # 10. Flamerule 1492
 - **Malakai** s **Netharem** vyzvedli **Abukaie** a **Aurelia** z kuchyně a vlkodlak [[Osoby a skupiny#Vaslov †|Vaslov]] je zavedl poblíž jednoho [[Místa - panství Dorstových|panství]].
-- Vaslov jim řekl, že [[Osoby a skupiny#Vlkodlaci|vlkodlaci]] mají své [[Místa#Vlkodlačí doupě|doupě]] směrem k tomu domu. Byl podezřele nejasný ve svých instrukcích.
+- Vaslov jim řekl, že [[Osoby a skupiny#Vlkodlaci|vlkodlaci]] mají své [[Místa - Barovie#Vlkodlačí doupě|doupě]] směrem k tomu domu. Byl podezřele nejasný ve svých instrukcích.
 - Poté započal souboj mezi vlkodlakem [[Osoby a skupiny#Vaslov †|Vaslovem]] a **Malakaiem**
 - **Malakai** vyhrál souboj, za pomoci nevyžádané (a nechtěné) intervence od **Kaie** a **Nethara** - s těma si to ještě vyřídí.
 	- Vlkodlak těstně před svou smrtí provolal: "[[Osoby a skupiny#Matka Noci]] nás zachrání"
