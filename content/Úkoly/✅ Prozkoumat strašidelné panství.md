@@ -1,4 +1,4 @@
-Při pátrání po [[Místa#Vlkodlačí doupě|doupěti vlkodlaků]] nás [[Osoby a skupiny#Vaslov †|Vaslov]] zavedl k [[Místa - panství Dorstových|panství Dorstových]]. Měli by jsme jej prozkoumat.
+Při pátrání po [[Místa - Barovie#Vlkodlačí doupě|doupěti vlkodlaků]] nás [[Osoby a skupiny#Vaslov †|Vaslov]] zavedl k [[Místa - panství Dorstových|panství Dorstových]]. Měli by jsme jej prozkoumat.
 
 - Do domu vešlo 6 "zlých" postav (pravděpodobně vlkodlaci)
 - V domě straší
