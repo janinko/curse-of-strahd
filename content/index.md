@@ -1,9 +1,9 @@
 # Epizody
+[[041 Vlkodlačí doupě]]  
 [[040 Svatý otec a syn]]  
 [[039 Hlas a Blesk]]  
 [[038 Lekce pro Stráda]]  
 [[037 Poklidné odpoledne]]  
-[[036 Klášter sv. Markovie]]  
 Zbytek viz vlevo.
 # Úkoly
 ## Nové a aktualizované
