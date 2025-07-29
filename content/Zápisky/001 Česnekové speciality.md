@@ -19,7 +19,7 @@
 	- Vyrazili směrem k [[Místa - Materiální pláň#Mlžná brána|Mlžné bráně]] a [[Místa - Materiální pláň#Lasharova stodola|Lasharově stodole]], kde porazili 2 vlky a jednoho obrovského čeného Dire wolfa.
 	- Zachránili Lashara z hořící stodoly a stodolu uhasili.
 - **Abukai** a **Aurelius** si šli odpočinout do kuchyně, zatímco **Malakai** a **Nethar** šli do vězení vyzpovídat zajmutého [[Osoby a skupiny#Vaslov †|vlkodlaka]].
-	- Podle vlkodlaka byli **Kelen** s **Marcusem** uneseni do [[Místa#Vlkodlačí doupě|Vlkodlačího doupěte]], aby rozšířili jejich smečku.
+	- Podle vlkodlaka byli **Kelen** s **Marcusem** uneseni do [[Místa - Barovie#Vlkodlačí doupě|Vlkodlačího doupěte]], aby rozšířili jejich smečku.
 	- **Malakai** se s vlkodlakem dohodl, že když jim vlkodlak ukáže cestu k doupěti, tak vlkodlak dostane šanci se osobodit, pokud porazí **Malakaie** v souboji.
 - **Nethar** řekl [[Osoby a skupiny#Gavin Maha|Gavinovi]] aby kontaktovali rytíře [[Osoby a skupiny#Lanniver Strayl|Lannivera Strayla]] v Brodu dýky a řekli mu co se tu stalo.
 - Dobrodruzi se pak vydali k místu, kde jim vlkodlak chce ukázat cestu a kde má dojít k boji.
