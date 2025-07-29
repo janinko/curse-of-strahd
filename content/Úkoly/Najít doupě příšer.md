@@ -2,7 +2,7 @@ Rytíř [[Osoby a skupiny#Lanniver Strayl|Lanniver Strayl]] z Řádu Rukavice Au
 
 - Před časem na [[Místa - Materiální pláň#Liamova Tvrz|Liamovu Tvrz]] 
 - Na [[Místa - Materiální pláň#Liamova Tvrz|Liamovu Tvrz]] [[Útok vlků a vlkodlaků na Liamovu Tvrz|zaútočili vlkodlaci]]
-- [[Osoby a skupiny#Vaslov †|Vaslov]] poskytl nějaké informace o [[Místa#Vlkodlačí doupě|doupěti]]
+- [[Osoby a skupiny#Vaslov †|Vaslov]] poskytl nějaké informace o [[Místa - Barovie#Vlkodlačí doupě|doupěti]]
 - Krvavé šlápoty v hale pod schody vedly do domu a pak zase ven
 - Podle [[Osoby a skupiny#Rodina Dorstových|duchů dětí Dorstových]] vlkodlaci používají dům pro cestování mezi [[Místa - Barovie#Barovie, území|Barovií]] a dalšími místy
 - [[Osoby a skupiny#Ismark Koljanovič|Ismark]] zmínil, že na jejich dům [[Těžké časy v Barovii|útočí]] velcí vlci (podobní jako jsme viděli v [[Místa - Materiální pláň#Liamova Tvrz|Liamovi Tvrzi]]?)
