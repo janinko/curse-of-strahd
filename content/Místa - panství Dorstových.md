@@ -8,7 +8,7 @@
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] se místní v [[Místa - Barovie#Barovie, vesnice|Barovii]] domu vyhýbají a dům čas od času mizí.
 	- Podle legendy se tam děly temné věci, [[Strád von Zarovič|Strád]] před 220 lety přijel s kočárem, taženým koněm co dýchal plameny a pak už o Dorstových neslyšeli
 - Žila zde [[Osoby a skupiny#Rodina Dorstových|rodina Dorstových]]
-- [[Osoby a skupiny#Vlkodlaci|Vlkodlaci]] domem cestovali mezi [[Místa - Materiální pláň#Liamova Tvrz|Liamovou Tvrzí]] a místem, kde mají své [[Místa#Vlkodlačí doupě|Vlkodlačí doupě]]
+- [[Osoby a skupiny#Vlkodlaci|Vlkodlaci]] domem cestovali mezi [[Místa - Materiální pláň#Liamova Tvrz|Liamovou Tvrzí]] a místem, kde mají své [[Místa - Barovie#Vlkodlačí doupě|Vlkodlačí doupě]]
 - Ve sklepě je příšera
 - V domě straší
 	- V hudebním salónku v prvním patře samo hraje piáno a tančí duchové + pod pianem byl pes [[Osoby a skupiny#Lancelot|Lancelot]]
