@@ -5,7 +5,7 @@
 	- Ve snu se mu zjevila [[Osoby a skupiny#Arabela|Arabela]] která mu pomáhala lybyrint prozkoumat
 - **Netarovi** se opět při meditaci zjevil [[Osoby a skupiny#Firan|Návštěvník Firan]] a naléhal na něj ať mu pomůže
 # 13. Oťávra
-- Ráno jsme se rozhodli jít hledat [[Místa#Vlkodlačí doupě|Vlkodlačí doupě]], aby jsme konečně pomohli [[Záchrana Kelena a Marcuse|Kelenovi a Marcusovi]]
+- Ráno jsme se rozhodli jít hledat [[Místa - Barovie#Vlkodlačí doupě|Vlkodlačí doupě]], aby jsme konečně pomohli [[Záchrana Kelena a Marcuse|Kelenovi a Marcusovi]]
 - [[Osoby a skupiny#Ezmerelda|Ezmeralda]] nám vyprávěla jak přišla o nohu
 	- V [[Místa#Domény hrůzy|Darkonu]] se vydala na hrozného vlkodlaka jménem Černá Hrůza
 	- Při boji s ním přišla o nohu, náhradní dřevěnou jí udělal [[Osoby a skupiny#Gadolt Blinsky|Blinsky]]
