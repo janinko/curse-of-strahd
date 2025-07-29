@@ -6,7 +6,7 @@ Syn Aleny
 - Hnědé vlasy, 16 let
 - Kamarádí se s [[#Marcus|Marcusem]]
 - Šel s Marcusem [[Místa - Materiální pláň#Mlžná brána|Mlžnou branou]] ven a do lesa, prozkoumat nějaký dům (možná [[Místa - panství Dorstových|Strašidelné panství]]) a už se nevrátili
-- Podle [[#Vaslov †|vlkodlaka]] byli uneseni do [[Místa#Vlkodlačí doupě|vlkodlačího doupěte]] aby rozšířili smečku
+- Podle [[#Vaslov †|vlkodlaka]] byli uneseni do [[Místa - Barovie#Vlkodlačí doupě|vlkodlačího doupěte]] aby rozšířili smečku
 # Aleksandr Dragomir
 Bývalý majitel [[Místa - Barovie#Rezidence Dorstových|rezidence]], který [[Smlouva o koupi rezidence|prodal]] [[#Rodina Dorstových|Dorstovým]]
 - Pochází z [[Místa - Barovie#Barovie, vesnice|Barovie]]
@@ -110,7 +110,7 @@ Dřevorubec v okolí [[Místa - Materiální pláň#Liamova tvrz|Liamovy tvrze]]
 Kamarád [[#Kelen|Kelena]] a syn Evona
 📔 Máme jej [[Záchrana Kelena a Marcuse|najít a zachránit]]
 - Šel s Kelenem [[Místa - Materiální pláň#Mlžná brána|Mlžnou branou]] ven a do lesa, prozkoumat nějaký dům a už se nevrátili
-- Podle [[#Vaslov †]] byli uneseni do [[Místa#Vlkodlačí doupě]] aby rozšířili smečku
+- Podle [[#Vaslov †]] byli uneseni do [[Místa - Barovie#Vlkodlačí doupě]] aby rozšířili smečku
 # Ernst Larnak
 Osoba ve špinavém hnědém plášti, co nás sledovala ve [[Místa - Barovie#Vallaki|Vallaki]]
 - menší postavy
@@ -573,19 +573,25 @@ Skupina 3 vistani žen, které navštěvují [[Místa - Barovie#Hostinec Krvavé
 # Vlkodlaci
 Skupina vlkodlaků napadající vesnice poblíž [[Místa - Materiální pláň#Brod Dýky|Brodu Dýky]]
 - Zosnovali [[Útok vlků a vlkodlaků na Liamovu Tvrz]]
-- Podle Vaslova Mají své [[Místa#Vlkodlačí doupě|doupě]] někde poblíž [[Místa - panství Dorstových|Strašidelného panství]]
+- Podle Vaslova Mají své [[Místa - Barovie#Vlkodlačí doupě|doupě]] někde poblíž [[Místa - panství Dorstových|Strašidelného panství]]
 - Podle Vaslova unesli [[#Kelen|Kelena]] a [[#Marcus|Marcuse]]
 - Podle [[#Rodina Dorstových|dětí]] ze [[Místa - panství Dorstových|Strašidelného panství]] je vlkodlaků nejméně 6
 - Podle [[#Rodina Dorstových|dětí]] ze [[Místa - panství Dorstových|Strašidelného panství]] používají vlkodlaci panství k tomu, aby cestovali mezi [[Místa - Barovie#Barovie, území|Barovií]] a jinými místy
+## Emil
+Bývalý vůdce vlkodlaků
+## Kiril
+Vůdce vlkodlaků, partner [[#Zulka|Zulky]]
 ## Vaslov †
 Vlkodlak, kterého se podařilo strážím zajmout při [[Útok vlků a vlkodlaků na Liamovu Tvrz|útoku na Liamovu Tvrz]]
 - Jeden z útočníků na [[Místa - Materiální pláň#Liamova tvrz]]
 - Byl zajat strážemi a zavřen do vězení
-- Tvrdil že mají někde schované své [[Místa#Vlkodlačí doupě|doupě]], kam byli uneseni [[#Kelen]] a [[#Marcus]]
+- Tvrdil že mají někde schované své [[Místa - Barovie#Vlkodlačí doupě|doupě]], kam byli uneseni [[#Kelen]] a [[#Marcus]]
 	- Doupě by mělo být někde poblíž [[Místa - panství Dorstových|Strašidelného panství]]
 - Měl u sebe nahrubo vytesanou sošku ženy s rukama vztyčenýma nad hlavou
 - 2x zmínil "[[#Matka Noci|Matka noci]] nás zachrání"
 - Byl zabit v duelu 10. Flamerule 1492 Malakaiem
+## Zulka
+Partnerka [[#Emil|Emila]]
 # Zephyros
 **Aureliův** pán z pláně ohně
 - Líbily by se mu 3 artefakty z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
