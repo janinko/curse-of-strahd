@@ -1,9 +1,9 @@
 # Epizody
+[[042 Bitva o Vlkodlačí doupě]]  
 [[041 Vlkodlačí doupě]]  
 [[040 Svatý otec a syn]]  
 [[039 Hlas a Blesk]]  
 [[038 Lekce pro Stráda]]  
-[[037 Poklidné odpoledne]]  
 Zbytek viz vlevo.
 # Úkoly
 ## Nové a aktualizované
