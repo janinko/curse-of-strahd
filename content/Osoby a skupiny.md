@@ -189,7 +189,8 @@ Podle davu vesničanů z ovčařské osady u [[Místa - Barovie#Vallaki|Vallaki]
 - Našli jsme viset oběšené tělo, které pravděpodobně bylo její
 # Lena
 Mladá havranodlačka z [[Místa - Barovie#Vallaki|Vallaki]]
-
+- Kráska s čiernymi havraními vlasmi, hnedými očami a špičatým nosíkom. Na krku má uviazaný strieborný medajlónik. Oblečená je v ľahkej koženej zbroji a čižmách po kolená.
+- ![[Pasted image 20250807173905.png]]
 # Lovci z Vallaki
 - Podle svých slov u břehu [[Místa - Barovie#Baratok, jezero|Baratockého jezera]] zabili vlkodlaka
 - Nabízejí doprovod za 5 zl / den, ale pouze přes den, nikoli v noci
