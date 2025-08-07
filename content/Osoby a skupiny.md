@@ -186,6 +186,10 @@ Půlork, majitel obchodu [[Místa - Materiální pláň#Lasharova stodola|Lashar
 Podle davu vesničanů z ovčařské osady u [[Místa - Barovie#Vallaki|Vallaki]] čarodějnice
 - Podle vesničanů má černé vlasy a oči a 20-25 let
 - Podle vesničanů jim vyléčila ovce, ale jedna z nich pak porodila mladé se dvěma hlavami
+- Našli jsme viset oběšené tělo, které pravděpodobně bylo její
+# Lena
+Mladá havranodlačka z [[Místa - Barovie#Vallaki|Vallaki]]
+
 # Lovci z Vallaki
 - Podle svých slov u břehu [[Místa - Barovie#Baratok, jezero|Baratockého jezera]] zabili vlkodlaka
 - Nabízejí doprovod za 5 zl / den, ale pouze přes den, nikoli v noci
@@ -580,7 +584,7 @@ Skupina vlkodlaků napadající vesnice poblíž [[Místa - Materiální pláň#
 ## Emil
 Bývalý vůdce vlkodlaků
 ## Kiril
-Vůdce vlkodlaků, partner [[#Zulka|Zulky]]
+Vůdce vlkodlaků, partner [[#Zuleika|Zulky]]
 ## Vaslov †
 Vlkodlak, kterého se podařilo strážím zajmout při [[Útok vlků a vlkodlaků na Liamovu Tvrz|útoku na Liamovu Tvrz]]
 - Jeden z útočníků na [[Místa - Materiální pláň#Liamova tvrz]]
@@ -590,7 +594,7 @@ Vlkodlak, kterého se podařilo strážím zajmout při [[Útok vlků a vlkodlak
 - Měl u sebe nahrubo vytesanou sošku ženy s rukama vztyčenýma nad hlavou
 - 2x zmínil "[[#Matka Noci|Matka noci]] nás zachrání"
 - Byl zabit v duelu 10. Flamerule 1492 Malakaiem
-## Zulka
+## Zuleika
 Partnerka [[#Emil|Emila]]
 # Zephyros
 **Aureliův** pán z pláně ohně
