@@ -98,7 +98,7 @@
 - **Malaki** v okolí kopce slyšel hlas, nabádající jej že by mohl být hoden nějakého kopí
 # Kostel Pána Jitra
 - Pán jitra znám také jako [[Osoby a skupiny#Pán Jitra|Morninglord]], nalézající se blízko [[Místa - Barovie#Barovie, vesnice|Barovie]]
-- V kostele slouží [[Osoby a skupiny#Dono]]
+- V kostele slouží [[Osoby a skupiny#Donovič|Donovič]]
 - 17. Time of Flowers 389 zde byla podepsána [[Smlouva o koupi rezidence|smlouva o koupi rezidence]]
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] se nachází nedaleko [[Místa - Barovie#Barovie, vesnice|Barovie]]
 - Na hřbitově straší
