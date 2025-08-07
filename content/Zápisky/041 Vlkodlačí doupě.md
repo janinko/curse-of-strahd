@@ -6,12 +6,12 @@
 - [[Záchrana Kelena a Marcuse|Našli jsme]] [[Osoby a skupiny#Kelen|Kelena]]/[[Osoby a skupiny#Marcus|Marcuse]] v jeskyni se spoustou dalších zajatých mládežníků
 	- V jeskyni taky byla socha ženy s vlčí hlavou a spoustou květin
 	- Spousta pokladů kolem sochy
-	- Byla tam také vlkodlačka [[Osoby a skupiny#Zulka|Zulka]]
-- [[Osoby a skupiny#Zulka|Zulka]] nám řekla
+	- Byla tam také vlkodlačka [[Osoby a skupiny#Zuleika|Zulka]]
+- [[Osoby a skupiny#Zuleika|Zulka]] nám řekla
 	- Její partner [[Osoby a skupiny#Emil|Emil]] je vězněn na hradě [[Místa - Barovie#Ravenloft|Ravenloft]]
 	- [[Osoby a skupiny#Kiril|Kiril]] se spřáhl se [[Strád von Zarovič|Strádem]] aby se stal novým vůdcem vlkodlaků
 		- Chce rozšiřovat počty vlkodlaků přeměnou mládežníků
 - **Malakai** začal sekat do sochy ženy s vlčí hlavou
-	- To pobouřilo [[Osoby a skupiny#Zulka|Zulku]] která se rozhodla odejít
-- **Abukai** poslal se [[Osoby a skupiny#Zulka|Zulkou]] ostatní mládežníky
+	- To pobouřilo [[Osoby a skupiny#Zuleika|Zulku]] která se rozhodla odejít
+- **Abukai** poslal se [[Osoby a skupiny#Zuleika|Zulkou]] ostatní mládežníky
 - Dobrodruzi se rozhodli pro konečné řešení vlkodlačí otázky: začli se připravovat na [[Osoby a skupiny#Kiril|Kirila]] a zbylou skupinu vlkodlaků, co se vrací zpět
