@@ -84,3 +84,16 @@
 - Je možné, že Strád dokáže vyvíjet svůj vliv i mimo [[Místa#Domény hrůzy|Doménu hrůzy]] [[Místa - Barovie#Barovie, území|Barovie]], možní s pomocí špionů
 - Strád se narodil před [[Časová osa#Léta 31x|vstupem]] Strádova otce do [[Místa - Barovie#Barovie, území|Barovie]]
 	- Strádův otec zemřel před [[Časová osa#Léta 35x|dobytím]] Barovie
+
+# Společníci
+## Lady Ludmila Vilsavic
+- první nevěsta Stráda
+- upír
+- Má schopnost vyprodukovat plamen
+## Lady Volenta Popovsky
+- třetí nevěsta Stráda
+- upír
+## Sir Ascher
+ - společník Stráda
+ - upír
+ - hraje na loutnu(?)
