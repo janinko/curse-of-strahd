@@ -117,6 +117,7 @@ Kalendář:
 ## 19. Oťávra 735 🌒
 ## 20. Oťávra 735 
 ## 21. Oťávra 735 
+- Poslední datum pro večeři v [[Místa - Barovie#Ravenloft|Ravenloftu]]
 ## 22. Oťávra 735 🌓
 ## 23. Oťávra 735 
 ## 24. Oťávra 735 
