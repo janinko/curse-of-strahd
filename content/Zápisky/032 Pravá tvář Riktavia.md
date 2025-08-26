@@ -14,7 +14,7 @@
 	- Van Richten pak vyprávěl svůj [[Příběhy Rudolfa von Richtena#O kultistech z Gloom Wrought|příběh z Gloomswrought]]
 - Van Richten nám poté sdělil nějaké [[Strád von Zarovič#Podle Osoby a skupiny Rudolf van Richten Rudolfa von Richtena|informace o upírech a Strádovi]] a zdělil nám své plány
 	- prozkoumat [[Místa - Barovie#Ravenloft|hrad Ravenloft]]
-	- prozkoumat [[Místa - Barovie#Argynvosholt]], kde prý žili rytíři bojující proti armádám Stráda a jeho otce
+	- prozkoumat [[Místa - Barovie#Argynvostholt]], kde prý žili rytíři bojující proti armádám Stráda a jeho otce
 - Vlci (a dost možná vlkodlaci) přilákaní hromovým výbojem z otvírání dveří vyli blíže a blíže
 	- **Abukai** začal připravovat obranu
 - Než vlci dorazili, začali jsme prohledávat vrchní patro věže
