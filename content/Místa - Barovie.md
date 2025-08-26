@@ -1,4 +1,4 @@
-# Argynvosholt
+# Argynvostholt
 - Staré panství nebo zámeček, nedaleko trosek [[#Starý Berez|Starého Berezu]]
 - Podle [[Osoby a skupiny#Oleg|Olega]] tam je armáda nemrtvých rytířů
 - Podle lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] tam býval drak
@@ -143,7 +143,7 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 - Podle [[Osoby a skupiny#Davian|Daviana]] jej pomohl postavit [[Osoby a skupiny#Khazan|jeden čaroděj]]
 - Pod hradem by měla být řada krypt
 # Starý Berez
-- Trosky vesnice, nedaleko [[#Argynvosholt|panství Argynvosholt]]
+- Trosky vesnice, nedaleko [[#Argynvostholt|panství Argynvosholt]]
 - Bažina
 - Podle [[Osoby a skupiny#Koláčová Bába|koláčové báby]] se tam dají najít nějaké byliny
 - Podle [[Osoby a skupiny#Oleg|Olega]] tam jsou světýlka, co zavedou lidi ke smrti
