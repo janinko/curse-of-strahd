@@ -7,5 +7,5 @@
 	- Ve Vallaki jsou dvě významné rodiny: [[Osoby a skupiny#Rodina Valakovičů|Valakoviči]] a [[Osoby a skupiny#Rodina Wachterů|Vachterovi]]
 	- U [[Místa - Barovie#Zarovich, jezero|jezera Zarovich]] byl viděn bláznivý mág "z [[Místa - Barovie#Baratocké hory|Baratockých hor]]" - jde snad o [[Najít tělo čaroděje|čaroděje]], jež se utkal se [[Strád von Zarovič|Strádem]]
 	- Na břehu [[Místa - Barovie#Baratok, jezero|jezera Baratok]] a [[Místa - Barovie#Měsíční, jezero|Měsíčního jezera]] se nachází věže
-	- Hrad je tu jen [[Místa - Barovie#Ravenloft|Ravenloft]], pak jen [[Místa - Barovie#Argynvosholt|zřícenina]] na jih od [[Místa - Barovie#Vallaki|Vallaki]]
+	- Hrad je tu jen [[Místa - Barovie#Ravenloft|Ravenloft]], pak jen [[Místa - Barovie#Argynvostholt|zřícenina]] na jih od [[Místa - Barovie#Vallaki|Vallaki]]
 - Večer, při **Netharově** hlídce na okno začal klepat netopír, když se pak s **Aureliem** domlouval jak jej zabít, okno se se zařinčením rozbilo a do místnosti se začaly drát hejna netopírů
