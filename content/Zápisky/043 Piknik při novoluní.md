@@ -7,7 +7,7 @@
 	- **Aurelius** se kontaktoval se [[Osoby a skupiny#Zephyros|Zephyrem]], který mu dodal více ohnivé síly a připoměl mu dluh
 # 14. Oťávra
  - Na okraji jezera si [[Strád von Zarovič#Společníci|Strádovi společníci]] postavili stůl s hodováním
- - Po půlnoci nás přišel [[Strád von Zarovič#Společníci|sluha upírů]] přišel pozvat na piknik
+ - Po půlnoci nás přišel [[Strád von Zarovič#Společníci|sluha upírů]] pozvat na piknik
 	 - Dušoval se právem pohostinství, že se nám nic nestane
 - **Aurelius** se převlékl za [[Osoby a skupiny#Irina Koljanovna|Irinu]] a vydali jsme se přes násyp na okraj jezera
 	- Uvítala nás [[Strád von Zarovič#Lady Ludmila Vilsavic|Lady Ludmila Vilsavic]] a představila [[Strád von Zarovič#Lady Volenta Popovsky|Volentu]] a [[Strád von Zarovič#Sir Ascher|Aschera]]
@@ -24,6 +24,6 @@
 		- [[Strád von Zarovič#Sir Ascher|Ascher]] se tvářil lhostejně
 	- **Nethar** se snažil upíry rozhodit zmínkou toho, že je [[Osoby a skupiny#Irina Koljanovna|Irina]] prý velmi podobná [[Strád von Zarovič|Strádově]] milované
 		- [[Strád von Zarovič#Lady Ludmila Vilsavic|Ludmila]] zmínila, že po čem srdce jednou toužilo, se může změnit
-		- Po **Netharově** dalším naléhání  na chvíli vyprodukovala plamen v ruce, pak odtušila něco o kontrole emocích a dosažením svého
+		- Po **Netharově** dalším naléhání na chvíli vyprodukovala plamen v ruce, pak odtušila něco o kontrole emocích a dosažením svého
 		- Přistihla **Netharův** pokus a odvětila že jí nevadí být druhou
-	- Při odchodu [[Strád von Zarovič#Sir Ascher|Ascher]] za družinou vrchly suchý ironický úšklebek
+	- Při odchodu [[Strád von Zarovič#Sir Ascher|Ascher]] za družinou vrhl suchý ironický úšklebek
