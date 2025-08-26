@@ -1,9 +1,9 @@
 # Epizody
+[[044 Popel u Arhynvostholtu]]  
 [[043 Piknik při novoluní]]  
 [[042 Bitva o Vlkodlačí doupě]]  
 [[041 Vlkodlačí doupě]]  
 [[040 Svatý otec a syn]]  
-[[039 Hlas a Blesk]]  
 Zbytek viz vlevo.
 # Úkoly
 ## Nové a aktualizované
