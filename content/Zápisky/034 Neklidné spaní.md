@@ -1,6 +1,6 @@
 # 10. Oťávra
 - [[Osoby a skupiny#Rudolf van Richten|Van Richten]] nám nechal loď a dal **Malakaiovi** kámen, přes který se můžeme kontaktovat
-	- Potom se vydal ztratit v lese s plánem vydat se poté do [[Místa - Barovie#Argynvosholt|Argynvosholtu]]
+	- Potom se vydal ztratit v lese s plánem vydat se poté do [[Místa - Barovie#Argynvostholt|Argynvosholtu]]
 - Pokračovali jsme lodí necelou hodinu po proudu [[Místa - Barovie#Havraní řeka|Havraní řeky]]
 - Vyšli jsme na cestu a odhadli že [[Místa - Barovie#Krezk|Krezk]] se nachází na východ, tak se tím směrem vydali
 - Na křižovatce ke [[Místa - Barovie#Krezk|Krezku]]  jsme spatřili vzdšný vír, pohybující se naším směrem
