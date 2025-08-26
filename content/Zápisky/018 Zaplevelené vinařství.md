@@ -4,7 +4,7 @@
 	- Střetli jsme [[Osoby a skupiny#Jevgenij Krušnin|Jevgenije]]
 	- Na křižovatce ke [[Místa - Barovie#Starý Berez|Starému Berezu]] a [[Místa - Barovie#Baratok, jezero|jezeru Baratok]] byl dav lidí z ovčařské osady u [[Místa - Barovie#Vallaki|Vallaki]], hledající [[Osoby a skupiny#Léčitelka / Čarodějnice|čarodějnici]]
 	- Severozápadně od cesty šlo slyšet vytí vlků
-	- Odbočka na [[Místa - Barovie#Argynvosholt|Argynvosholt]] byla zarostlá
+	- Odbočka na [[Místa - Barovie#Argynvostholt|Argynvosholt]] byla zarostlá
 	- Zahlédli jsme mítinku s kamenným kruhem
 	- Zastihl nás prudký přívalový déšť
 - Když jsme přijeli k [[Místa - Barovie#Vinařství U mága|vinařství U mága]] narazili jsme na havrana vyplašeného strašákem
