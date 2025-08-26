@@ -7,7 +7,7 @@
 - Potencionální lokace k prozkoumání:
 	- [ ] Někde v hradu [[Místa - Barovie#Ravenloft|Ravenloft]]
 	- [ ] Trosky vesnice [[Místa - Barovie#Starý Berez|Starý Berez]]
-	- [ ] Zámeček [[Místa - Barovie#Argynvosholt|Argynvosholt]]
+	- [ ] Zámeček [[Místa - Barovie#Argynvostholt|Argynvosholt]]
 # Druhá karta
 > Tato karta vypráví o mocné síle dobra a ochrany. Svatého symbolu velké naděje.
 > Hledejte kouzelníka ve věži na jezeře, kouzelníkovo jméno a jeho sluha vás navedou k tomu, co hledáte.
