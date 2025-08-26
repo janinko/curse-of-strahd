@@ -3,7 +3,7 @@
 - Ráno přišel [[Osoby a skupiny#Davian|Davian]] postěžovat si, jak se jim špatně daří
 	- Jako odměnu nám dal 40 zlatých a 80 stříbrných
 	- Povykládal, že je [[Vinařství v ohrožení]]
-	- Také nám [[Osoby a skupiny#Ježibaba z Berezu|mimo]] [[Místa - Barovie#Argynvosholt|jiné]] pověděl o [[Osoby a skupiny#Khazan|čarodějovi z Baratockého Jezera]]
+	- Také nám [[Osoby a skupiny#Ježibaba z Berezu|mimo]] [[Místa - Barovie#Argynvostholt|jiné]] pověděl o [[Osoby a skupiny#Khazan|čarodějovi z Baratockého Jezera]]
 - **Abukai**, **Aurelius** a [[Osoby a skupiny#Elvir|Elvir]] pochovali mrtvé druidy
 - **Malakai** a [[Osoby a skupiny#Adrian|Adrian]] nachystali vůz na cestu
 - **Nethar** předal *Amulet Ochlasty* **Malakaiovi**, který je na zvládání jeho vedlejších účinků (kocovina) zvyklejší
