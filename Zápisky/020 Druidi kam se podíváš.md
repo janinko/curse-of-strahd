@@ -1,0 +1,12 @@
+# 6. Oťávra
+- Vydali jsme se do sklepa, kde jsme našli dalšího druida, schovávajícího se za regálem vína
+	- Šlahounovité příšery stěžovaly pohyb a poutaly 
+- Vyčerpaní z boje jsme si šli odpočinout do stáje
+	- Po cestě zaslechli lomoz z nakladiště, tak jej raději obešli venkem
+	- Koně vábilo něco k **Abukaiově** ruksaku - byla to bylina Asarabaka
+	- **Nethar** si pod rouškou noci do sebe zabodl další kolík, aby to **Abukai** neviděl a neměl zase blbé kecy
+		- Žiaľ neudržal bolestivý povzdych, čo pritiahlo Abukaiovu pozornosť. 
+- **Nethar** nakrmil havrany, a ti družinu zavedli do patra, k další druidce
+	- **Druidka** prohledávala etiketovací místnost
+	- Další svazovací šlahounovité příšery, ale **Malakaiova** mocná rána dorazila druidku a pak jsme se s nimi vypořádali.
+- V etiketovací místnosti jsme našli etiketu: "Rudodračí víno, ročník 730" a klíč od hlavních dveří
