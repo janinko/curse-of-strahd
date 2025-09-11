@@ -1,0 +1,11 @@
+# 6. Oťávra
+- Porazili jsme příval postav, jakoby spletených z trní
+- Chtěli jsme odpočívat po boji, ale byli jsme vyrušováni
+	- Nejdřív přišla jedna z [[Osoby a skupiny#Druidi z Kopce minulosti|druidů]], která nás upozornila že čas do konce nějakého rituálu se blíží, čímž zhoršila šance na to že se jim povede, protože bysme jinak asi šli spát a neznámý rituál by byl bez vyrušení dokončen.
+	- [[Osoby a skupiny#Davian|Davian]] přišel zjistit, jaká je situace
+- Odpočati jsme šli do domu
+	- Ve stáji byli jen 2 koně
+	- V nakládací ploše byly stopy něčeho velkého, co vyvalilo dveře
+	- V chodbě schody dolů a dveře do velké místnosti se sudy
+- Ve velké místnosti jsme bojovali s dalším druidem a neutěšitelným proudem stromečků, kteří se řinuli ze sudu
+	- Do boje se zapojilo i hejno havranů, kteří nám pomohli vyzobávat některé stromky
