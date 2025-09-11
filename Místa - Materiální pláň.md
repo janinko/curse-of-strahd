@@ -1,3 +1,7 @@
+---
+title: Místa - Materiální pláň
+---
+
 # Bowshot
 - Osada na jihovýchod od [[#Brod Dýky]]
 	 - na jih od [[#Liamova tvrz]]
