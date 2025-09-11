@@ -1,3 +1,7 @@
+---
+title: Místa - Barovie
+---
+
 # Argynvostholt
 - Staré panství nebo zámeček, nedaleko trosek [[#Starý Berez|Starého Berezu]]
 - Podle [[Osoby a skupiny#Oleg|Olega]] tam je armáda nemrtvých rytířů
