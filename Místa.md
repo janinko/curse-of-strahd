@@ -1,3 +1,7 @@
+---
+title: Místa
+---
+
 # Domény hrůzy
 - Sféry bytí, které se nalézají někde v Shadowfellu, které slouží jako vězení
 - Podle [[Zápisky mocného čarodějě|zápisků mocného čarodějě]] existují následující:
