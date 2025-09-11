@@ -1,3 +1,7 @@
+---
+title: Místa - panství Dorstových
+---
+
 # Panství Dorstových
 - [[✅ Prozkoumat strašidelné panství|Prozkoumali]] jsme jej
 - Domem se dá cestovat mezi různými místy:
