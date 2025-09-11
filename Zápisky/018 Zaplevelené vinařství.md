@@ -1,0 +1,24 @@
+# 6. Oťávra
+- Vyjeli jsme z [[Místa - Barovie#Vallaki|Vallaki]] s vozem na víno na západ, s cílem dojet do večera do [[Místa - Barovie#Vinařství U mága|vinařství u mága]]
+	- Viděli jsme odbočku kudy jely vozy, pravděpodobně do [[Místa - Barovie#Luvašův tábor|Luvašova tábora]]
+	- Střetli jsme [[Osoby a skupiny#Jevgenij Krušnin|Jevgenije]]
+	- Na křižovatce ke [[Místa - Barovie#Starý Berez|Starému Berezu]] a [[Místa - Barovie#Baratok, jezero|jezeru Baratok]] byl dav lidí z ovčařské osady u [[Místa - Barovie#Vallaki|Vallaki]], hledající [[Osoby a skupiny#Léčitelka / Čarodějnice|čarodějnici]]
+	- Severozápadně od cesty šlo slyšet vytí vlků
+	- Odbočka na [[Místa - Barovie#Argynvostholt|Argynvosholt]] byla zarostlá
+	- Zahlédli jsme mítinku s kamenným kruhem
+	- Zastihl nás prudký přívalový déšť
+- Když jsme přijeli k [[Místa - Barovie#Vinařství U mága|vinařství U mága]] narazili jsme na havrana vyplašeného strašákem
+	- **Aurelius** na strašáka vystřelil varovný výstřel Eldrich Blastu, ale ten se ani nehnul
+	- Když jsme se nedívali, strašák se pohnul a **Aurelia** praštil, za což rychle zaplatil životem
+- Blíže u domu na nás zavolal [[Osoby a skupiny#Davian|starý muž]] a **Aurelius** s **Netharem** se vydali k němu
+	- Starý muž se ukázal být jedním z obyvatel vinařství
+	- Stěžoval si že je z vinařství vyhnali stromy
+	- Za ním se z úkrytu vynořil zbytek [[Osoby a skupiny#Rodina Martikovů|vinařské rodiny]]
+	- Strašáky do vinohradů posílá prý [[Osoby a skupiny#Ježibaba z Berezu|Ježibaba z Berezu]] už delší dobu a jsou na obtíž
+- Řekli nám více o tom co se stalo:
+	- Před 2 dny (4. Oťávra) přišlo 5 špinavých postav od hlíny
+	- Spolu s nimi přišli malé chodící stromky
+	- Postavy od hlíny šli dovnitř vinařství a vyhnali rodinu ven
+	- Rostliny některé šli dovnitř a některé zůstaly venku
+	- Zabili jednu postavu z lián
+- Odpočali jsme si po cestě a vydali se k domu, brzo ale na nás zaútočili hordy postav jakoby spletených z trnitých keřů
