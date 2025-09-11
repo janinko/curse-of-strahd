@@ -1,0 +1,29 @@
+# 13. Oťávra
+- Dopluli jsme na [[Místa - Barovie#Khazanova věž|ostrov s věží]]
+- [[Osoby a skupiny#Ezmerelda|Ezmeralda]] se pokusila kontaktovat [[Osoby a skupiny#Rudolf van Richten|van Richtena]], došlo ke spojení, ale nedostala odpověď
+- [[Osoby a skupiny#Ezmerelda|Ezmeralda]] pak vlezla do svého vozu - poklopem zespodu - a vyčarovala koně slovem "drovaš"
+- Šli jsme spát
+	- **Malakaiovi** se zdál sen, ve kterém mu  [[Osoby a skupiny#Matka Noci|Matka Noci]] nedopřála odpočinku
+	- **Aurelius** se kontaktoval se [[Osoby a skupiny#Zephyros|Zephyrem]], který mu dodal více ohnivé síly a připoměl mu dluh
+# 14. Oťávra
+ - Na okraji jezera si [[Strád von Zarovič#Společníci|Strádovi společníci]] postavili stůl s hodováním
+ - Po půlnoci nás přišel [[Strád von Zarovič#Společníci|sluha upírů]] pozvat na piknik
+	 - Dušoval se právem pohostinství, že se nám nic nestane
+- **Aurelius** se převlékl za [[Osoby a skupiny#Irina Koljanovna|Irinu]] a vydali jsme se přes násyp na okraj jezera
+	- Uvítala nás [[Strád von Zarovič#Lady Ludmila Vilsavic|Lady Ludmila Vilsavic]] a představila [[Strád von Zarovič#Lady Volenta Popovsky|Volentu]] a [[Strád von Zarovič#Sir Ascher|Aschera]]
+	- Pozvali nás na večeři v [[Místa - Barovie#Ravenloft|hradě Ravenloft]]
+		- Pozvání máme potvrdit nejpozději den předem
+		- Večeře se má uskutečnit nejpozději do 21. Oťávra
+		- Pozvánka byla doplněna pytlíkem s vysušeným netopírem, kterého máme použít pro zaslání odpovědi
+	- Podle [[Strád von Zarovič#Lady Ludmila Vilsavic|Ludmily]]
+		- Jsme [[Strád von Zarovič|Stráda]] zaujali a chce nás poznat blíže
+		- Hrabě byl pobaven tím, jak jsme si poradili s [[Osoby a skupiny#Vlkodlaci|Vlkodlaky]]
+		- Strád má malou trpělivost a nízkou toleraranci pro rutinu
+	- Upíři si prohlédli "Irinu" a kritizovali její vzhled
+		- [[Strád von Zarovič#Lady Volenta Popovsky|Volenta]] se zdála být lehce natrucená ale říkala že se "těší, až si s ní bude moct hrát"
+		- [[Strád von Zarovič#Sir Ascher|Ascher]] se tvářil lhostejně
+	- **Nethar** se snažil upíry rozhodit zmínkou toho, že je [[Osoby a skupiny#Irina Koljanovna|Irina]] prý velmi podobná [[Strád von Zarovič|Strádově]] milované
+		- [[Strád von Zarovič#Lady Ludmila Vilsavic|Ludmila]] zmínila, že po čem srdce jednou toužilo, se může změnit
+		- Po **Netharově** dalším naléhání na chvíli vyprodukovala plamen v ruce, pak odtušila něco o kontrole emocích a dosažením svého
+		- Přistihla **Netharův** pokus a odvětila že jí nevadí být druhou
+	- Při odchodu [[Strád von Zarovič#Sir Ascher|Ascher]] za družinou vrhl suchý ironický úšklebek
