@@ -1,3 +1,7 @@
+---
+title: Strádova kletba
+---
+
 # Epizody
 [[046 Poodhalení závoje tajemství Argynvostholtu]]  
 [[045 Vymetání pavučin]]  
