@@ -1,0 +1,28 @@
+# 10. Flamerule 1492
+- Rozhodlo se, že se půjde spát do [[Místa - panství Dorstových#Přízemí|loveckého salonku]]
+	- **Abukai** se v noci vrtěl, pravděpodobně z důvodu nějakého zmateného snu.
+	- Zhruba po 3 hodinách **Nethar** při hlídce slyšel nějakou ránu, proto vzbudil **Aurelia**, který jej upozornil, že za oknem je najednou světlo. Podle odhadů by ale měla být stále noc.
+# 11. Flamerule 1492 ??
+- Ráno jsme prozkoumali piano, které je obyčejné, jen hraje v hrůzostrášné tónině. Není důvod aby hrálo samo, takže na něj museli hrát duchové.
+- Poté co se podařilo odpáčit dveře ke schodišti na půdu, byly nalezeny krysy
+- Krysy nebavilo čekání, až bude uspořádán plán k jejich zabití a zaútočily přes krb.
+	- **Aurelius** plamenem přizabil krysy i **Abukaie**, nakonec se je podařilo pozabíjet s finálním \*plác* sekerou od **Malakaie**.
+- Pak se lovci příšer vydali po schodech do [[Místa - panství Dorstových#Podkroví|podkroví]].
+- Ve skladišti našli truhlu s mrtvolou [[Osoby a skupiny#Margaret †|Margaret]], která jevila známky pobodání.
+- V pokoji dětí našli mrtvá těla dětí a jejich duchy, kteří jim vypověděli nějaké informace:
+	- Dům je nasáklý zlem.
+	- Ve sklepě je příšera.
+	- Rodiče [[Osoby a skupiny#Gustav|Gustav]] a [[Osoby a skupiny#Elizabeth|Elizabeth]] s příšerou čas od času zápasí.
+	- Rodiče děti zamykali, aby byly v bezpečí.
+	- Jednoho dne je rodiče zamkli a už neodemkli.
+	- [[Osoby a skupiny#Margaret †|Margaret]] zmizela ještě předtím.
+	- [[Osoby a skupiny#Vlkodlaci|Vlkodlaci]] používají dům k cestování mezi [[Místa - Barovie#Barovie, území|Barovií]] a jinými místy
+	- [[Místa - Barovie#Barovie, území|Barovi]] vždy obklopovala **Mlha**
+	- Ukázali na tajnou místnost a tajné schodiště do sklepa
+- Také dobrodruhy požádali [[✅ Prozkoumat strašidelné panství|📔 prozkoumali sklep]] a zjistili co je s jejich rodiči.
+- Poté **Rosa** posedla **Abukaie** a **Trn** posedl **Nethara**
+	- **Abukai** se rozhodl že musí všichni okamžitě jít na vanilkové rohlíčky
+	- **Nethar** se rozbrečel, protože nechtěl aby byl posednutý duchem
+- **Aurelius** vtrhnul do skladiště, odkud za chvíli vyběhla **Margaret**, která svým mužným hlasem zahnala **Rosu** a **Trna** zpátky do postelí.
+- Dobrodruzi poté šli prozkoumat [[Místa - panství Dorstových#První patro|tajnou místnost za knihovnou]], kde našli [[Osoby a skupiny#Vetřelec v domě Dorstových|mrtvolu]] držící [[Dopis Gustavovi Durstovi od Stráda von Zaroviče|dopis]] od jistého [[Strád von Zarovič|Stráda von Zaroviče]].
+	- Také tam našli knihy s nepřesnými texty o vyvolávání nekromantických a temných sil se zmínkou [[Osoby a skupiny#Osýbovi kněží|Osýbových kněží]], postříbřená dýka, lebka a prázdná lahvička.
