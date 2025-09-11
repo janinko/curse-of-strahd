@@ -1,0 +1,17 @@
+# 10. Oťávra
+- Vzbudila nás [[Osoby a skupiny#Danika Martikovová|Danika]], že se před hostincem shromáždili strážní
+	- [[Osoby a skupiny#Isek Strážný|Isek]] křičel, že chce tu [[Osoby a skupiny#Irina Koljanovna|hnědovlasou holku]]
+	- prý nemůže spát, protože se mu o ní pořád zdají sny
+- **Nethar** na chvílí odlákal [[Osoby a skupiny#Isek Strážný|Iseka]] vidinou [[Osoby a skupiny#Irina Koljanovna|Iriny]] 
+	- S pomocí Daniky se celá družina, včetně [[Osoby a skupiny#Irina Koljanovna|Iriny]] a [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] kteří se schovali pod seno, naložili na vůz
+	- Odjezdu vozu bránil jeden strážný, na kterého se vrhnul **Malakai**
+- Vůz odjel z města, jen **Nethar** musel dát jednu lahev šampanského strážnému jako úplatek
+- **Malakai** se mezitím snažil zdržet a pak setřást strážné
+	- Trochu očouzený od Isekových plamenů se nakonec dostal z města
+- Po cestě nás zastihla hustá *mlha*, ze které se vyrojili duchové vojáků [[Strád von Zarovič|Strádova]] otce, které přepadl oddíl duchů [[Osoby a skupiny#Soumrační elfové|Soumračných elfů]]
+	- Ismark vykládal, že když Strádův otec dobýval [[Místa - Barovie#Barovie, území|Barovii]], soumrační elfové se hodně stavěli na odpor
+- Ismark se s Irinou bavili o tom, že Irina není jeho biologickou sestrou
+- Bylo rozhodnuto, že místo do [[Místa - Barovie#Krezk|Krezku]] se vydáme první rovnou k [[Místa - Barovie#Baratok, jezero|věži na Baratockém jezeře]]
+	- Když jsme přišli k věži, uviděli jsme 2 povozy, jeden s koněm patřící [[Osoby a skupiny#Riktavio|Riktaviovi]] a druhý neznámý, bez koně, fialově natřený a zlatě zdobený
+	- K Riktaviově maringotce byl přivátaný [[Osoby a skupiny#Drápek|Drápek]]
+	- Z věže se ozval cizí hlas: "Drápku, nech je. Á to jste vy. Pojďte nahoru."
