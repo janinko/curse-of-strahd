@@ -1,0 +1,23 @@
+# 11. Oťávra
+- Ráno jsme se konečně dostali do [[Místa - Barovie#Krezk|Krezku]] a setkali se s [[Osoby a skupiny#Dimitrij Krezk|rychtářem Dimitrijem Krezkem]]
+	- Informoval nás že nějaká [[Osoby a skupiny#Ezmerelda|lovkyně]] se vydala do [[Místa - Barovie#Klášter sv. Markovie|kláštera]]
+	- Řekl, že [[Osoby a skupiny#Opat|Opat]] občas navštěvuje vesnici, ale lidé z něj nemají dobrý pocit
+	- **Abukai** se zajímal o ducha ženy [[Osoby a skupiny#Boris|Borise]]
+	- Pověděl nám něco málo z [[Historie Kláštera sv. Markovie]]
+- **Nethar** si objednal u krejčích plášť
+- Vydali jsme se ke [[Místa - Barovie#Svatyně Bílého slunce|Svatyni Bílého slunce]] u jezírka
+	- **Abukai** na **Netharův** popud objal sochu a pak byl zadržen těsně předtím než se vrhl vykoupat v jezírku s pitnou vodou
+	- [[Osoby a skupiny#Irina Koljanovna|Irina]] se zahleděla na hladinu jezera, kde prý zahlédla postavu muže. Má v plánu se k jezírku znova vrátit.
+- Vydali jsme se do [[Místa - Barovie#Klášter sv. Markovie|Kláštera]]
+	- Potkali jsme hybridy [[Osoby a skupiny#Otto|Otta]] a [[Osoby a skupiny#Zigfried|Zigfrieda]] a následně i [[Osoby a skupiny#Opat|Opata]]
+	- Na nádvoří kláštera se nepřirozeně rojila hustá mlha, která znekliďnovala **Nethara**
+- [[Osoby a skupiny#Opat|Opat]] pozval družinu dovnitř kláštera
+	- Představil nám [[Osoby a skupiny#Vasilka|Vasilku]], uměle vytvořenou ženu, která má ztvárňovat [[Strád von Zarovič|Strádovu]] milovanou a Opat usiluje aby se stala jeho ženou
+		- Vasilka je velmi podobná na [[Osoby a skupiny#Irina Koljanovna|Irinu]]
+	- Představil nám [[Osoby a skupiny#Clovin|Clovina]], jeho hlavního sluhu
+	- Zavedl nás k [[Osoby a skupiny#Ezmerelda|Ezmeraldě]], která zde několik dní pobývá
+- S [[Osoby a skupiny#Ezmerelda|Ezmeraldou]] jsme projednávali metafyzické vlastnosti [[Místa - Barovie#Barovie, území|Barovie]]
+	- Jedná se jistým smyslem o vězení
+	- [[Strád von Zarovič|Strád]] je zároveň vězněm i věznitelem
+	- Duše nemohou opustit Barovii a tak se možná reinkarnují
+		- Je [[Osoby a skupiny#Irina Koljanovna|Irina]] reinkarnací Strádovy zesnulé milované?
