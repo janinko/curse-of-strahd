@@ -1,3 +1,7 @@
+---
+title: Strád von Zarovič
+---
+
 "Děsivý lord a pán", "ďábel"
 - Vysoký, aristokraticky vypadající muž
 	- Má bledou tvář a černé vlasy
