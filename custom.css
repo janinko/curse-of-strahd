@@ -1,3 +1,7 @@
 body {
-	background-image: linear-gradient(to bottom right,rgba(46,37,63,.7),rgba(64,34,79,.75)),url(/assets/background.jpg)
+	background-image: linear-gradient(to bottom right,rgba(46,37,63,.7),rgba(64,34,79,.75)),url(/cmffnsebg0000jr04onn5dqjl/main/raw/assets/background.jpg)
+}
+
+div {
+	color: white !important;
 }
