@@ -1,5 +1,9 @@
 body {
     background-image: linear-gradient(to bottom right,rgba(46,37,63,.7),rgba(64,34,79,.75)),url(https://raw.githubusercontent.com/janinko/curse-of-strahd/refs/heads/main/assets/background.jpg)
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50%;
 }
 
 a, div, .page-header-title, .is-current {
@@ -8,4 +12,8 @@ a, div, .page-header-title, .is-current {
 
 .site-tree-container {
     color: lightgray !important;
+}
+
+.site-navbar {
+    background-color: rgb(15 23 42);
 }
