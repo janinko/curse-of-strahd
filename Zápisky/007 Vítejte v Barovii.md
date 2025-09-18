@@ -1,9 +1,9 @@
-# 1. Oťávra (měsíc lovců) 735
+## 1. Oťávra (měsíc lovců) 735
 - **Malakai** se probral a jak se lehký déšť změnil v průtrž mračen, rozhodlo se že se přesunou do [[Místa - Barovie#Travnatý vrcholek poblíž vesnice Barovie|nedaleké stodoly]]
 	- Když seděli kolem ohně a pálili vlhké dřevo, **Nethar** si povzdychl, že už začíná vidět psisko ze svých vizí i přes den, načež **Malakai** vystartoval, protože jej ve stínech viděl taky.
 	- Psisko opět zmizelo, jako se objevilo, ale do stodoly přiletěl havran. **Malakai** si na něj začal chystat kuši a **Nethar** jej upozornil, že zabíjet služebníky [[Osoby a skupiny#Raven Queen|Paní Havranů]] přináší smůlu. Havran zase uletěl
 	- **Malakai** začal **Nethara** zpovídat co to všechno má znamenat, tak mu **Nethar** povykládal co ví o Paní Havranů, že pochází ze Shadowfelského města [[Místa#Gloomwrought|Gloomwrought]] a že od doby co před nedávnem přišel do materiální pláně, vídá toho psa ve vizích
-# 2. Oťávra (měsíc lovců) 735
+## 2. Oťávra (měsíc lovců) 735
 - Ráno zjistili, že [[Místa - panství Dorstových|dům Dorstových]] přes noc zmizel, zůstal po něm jen půdorys v hlíně
 - **Malakai**, **Abukai**, **Aurelius** a **Nethar** se pak vydali směrem do vesnice, kterou viděli nedaleko
 - Ulice [[Místa - Barovie#Barovie, vesnice|vesnice Barovie]] byly liduprázdné a spousta domů zabedněných, včetně [[Místa - panství Dorstových|domu Dorstových]], který si tu stál na ulici jako by se nechumelilo.
