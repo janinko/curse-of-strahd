@@ -1,4 +1,8 @@
 {
   "title": "Strádovo Prokletí",
-  "showSidebar": true
+  "showSidebar": true,
+  "nav": {
+    "logo": "logo.png",
+    "title": "Strádovo Prokletí"
+  }
 }
