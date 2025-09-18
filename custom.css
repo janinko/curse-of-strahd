@@ -6,6 +6,10 @@ body {
     background-position: 50%;
 }
 
+[data-theme="dark"] div {
+    color: #ddd !important;
+}
+
 .site-navbar {
     background-color: rgb(15 23 42);
 }
