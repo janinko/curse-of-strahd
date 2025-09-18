@@ -1,4 +1,4 @@
-# 8. Oťávra
+## 8. Oťávra
 - Dojeli jsme k místu, kde byl [[Místa - Barovie#Luvašův tábor|Luvašův tábor]]
 	- Prázdné sudy a stav obyvatel napovídal, že se zde hodně pilo
 - **Abukai** raději zůstal hlídat vůz s vínem a zbytek vyrazil do největšího stanu uprostřed
