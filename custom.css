@@ -6,18 +6,6 @@ body {
     background-position: 50%;
 }
 
-div {
-    color: #ddd !important;
-}
-
-a, strong, h1, h2, h3, h4, h5, h6, .page-header-title, .is-current, .site-navbar-site-name {
-    color: white !important;
-}
-
-.site-tree-container {
-    color: lightgray !important;
-}
-
 .site-navbar {
     background-color: rgb(15 23 42);
 }

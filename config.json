@@ -5,4 +5,7 @@
     "logo": "logo.png",
     "title": "Strádovo Prokletí"
   }
+  "theme": {
+    "defaultMode": "dark"
+  }
 }
