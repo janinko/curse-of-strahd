@@ -1,4 +1,4 @@
-# 9. Oťávra
+## 9. Oťávra
 - Vydali jsme se do [[Místa - Barovie#Wachterhaus|Wachterhausu]] na večeři k [[Osoby a skupiny#Fiona Wachterová|Lady Wachterové]]
 - Dozvěděli jsme se více o její rodině
 	- její dceři [[Osoby a skupiny#Stella|Stelle]], která se zbláznila když byla zasnoubená s [[Osoby a skupiny#Viktor|Viktorem Vallakovičem]]
