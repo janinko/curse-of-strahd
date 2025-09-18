@@ -1,4 +1,4 @@
-# 10. Oťávra
+## 10. Oťávra
 - Vlci s [[Osoby a skupiny#Vlkodlaci|vlkodlaky]] přišli k [[Místa - Barovie#Khazanova věž|věži]], nechali po sobě chvíli střílet, aktivovali bleskovou ochranu kolem věže a pak poodešli s tím, že si na nás počkají.
 - Prohledali jsme věž a nakonec **Nethar** slovy [[Osoby a skupiny#Khazan|Khazan]] aktivoval brnění 
 	- Brnění se pohlo z podstavce a odhalilo Svatý symbol naděje, přívěšek ve stylu slunce.
