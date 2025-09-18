@@ -1,8 +1,8 @@
-# 10. Flamerule 1492
+## 10. Flamerule 1492
 - Rozhodlo se, že se půjde spát do [[Místa - panství Dorstových#Přízemí|loveckého salonku]]
 	- **Abukai** se v noci vrtěl, pravděpodobně z důvodu nějakého zmateného snu.
 	- Zhruba po 3 hodinách **Nethar** při hlídce slyšel nějakou ránu, proto vzbudil **Aurelia**, který jej upozornil, že za oknem je najednou světlo. Podle odhadů by ale měla být stále noc.
-# 11. Flamerule 1492 ??
+## 11. Flamerule 1492 ??
 - Ráno jsme prozkoumali piano, které je obyčejné, jen hraje v hrůzostrášné tónině. Není důvod aby hrálo samo, takže na něj museli hrát duchové.
 - Poté co se podařilo odpáčit dveře ke schodišti na půdu, byly nalezeny krysy
 - Krysy nebavilo čekání, až bude uspořádán plán k jejich zabití a zaútočily přes krb.
