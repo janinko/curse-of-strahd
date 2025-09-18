@@ -1,4 +1,4 @@
-# 3. Oťávra (měsíc lovců) 735
+## 3. Oťávra (měsíc lovců) 735
 - Z poražených vlků vypadl [[Dopis od Koljana Indiroviče]], ze kterého jsme se dověděli, že [[Osoby a skupiny#Irina|Irina]] byla adoptovaná
 - Viděli jsme několik netopýrů. Zabili jsme všechny krom jednoho a o chvíli později na nás zaútočily dvě hejna netopírů.
 - Došli jsme na křižovatku s šibenicí a malým hřbitovem
