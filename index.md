@@ -1,6 +1,4 @@
----
-title: Strádova kletba
----
+# Strádovo prokletí
 ## Epizody
 [[047 Útěk před duchy a mlhou]]  
 [[046 Poodhalení závoje tajemství Argynvostholtu]]  
