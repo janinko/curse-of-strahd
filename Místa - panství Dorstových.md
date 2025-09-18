@@ -1,8 +1,7 @@
 ---
 title: Místa - panství Dorstových
 ---
-
-# Panství Dorstových
+## Panství Dorstových
 - [[✅ Prozkoumat strašidelné panství|Prozkoumali]] jsme jej
 - Domem se dá cestovat mezi různými místy:
 	- Asi půl hodiny cesty od [[Místa - Materiální pláň#Liamova Tvrz|Liamovy Tvrze]]
@@ -25,7 +24,7 @@ title: Místa - panství Dorstových
 - Podle [[Osoby a skupiny#Irina Koljanovna|Iriny]], ten kdo vstoupí do domu Dorstových tam buď jde se [[Strád von Zarovič|Strádovým]] požehnáním, nebo si jde na smrt
 - Dům zahalila mlha, když do ní **Abukai** vstoupil, cítil až smrtelně nepříjemný chlad
 	- Podle [[Osoby a skupiny#Danika Martikovová|Daniky]] to zní podobně, jako mlha co 
-## Přízemí
+### Přízemí
 - vchod
 - Hala se schodištěm
 	- Ležel v ní mrtvý vlk a krvavé stopy vedly dovnitř a zase ven z domu
@@ -36,7 +35,7 @@ title: Místa - panství Dorstových
 	- vypadala, jako by nedávno někdo dojedl
 	- na podlaze byl hrnek od čaje, na stole 2 hrnky s čajem
 	- Obraz s skrytými výjevy: křičící tvář, lebky, vlci
-## První patro
+### První patro
 - Hudební salonek
 	- Vitráže krásných mužů a žen hrajících na nástroje
 	- Pod pianem se schovával vyhublý pes [[Osoby a skupiny#Lancelot|Lancelot]]
@@ -51,14 +50,14 @@ title: Místa - panství Dorstových
 	- Ve skříňce byla postříbřená dýka, lebka a prázdná lahvička.
 	- Také tam byla knihovna s knihami. Knihy obsahovaly nepřesné texty o vyvolávání nekromantických a temných sil. Některé byly sepsány [[Osoby a skupiny#Osýbovi kněží|Osýbovými kněžími]] jiné dalšími autory.
 - Pokoj služebnictva
-## Druhé patro
+### Druhé patro
 - Chodba s brněním
 		- Oživlé brnění (už mrtvé), oživlé koště (taky už mrtvé) v kumbálu
 - Ložnice manželů, s balkonem
 - Ložnice [[Osoby a skupiny#Margaret †|Margaret]] s balkonem
 - pokoj pro [[Osoby a skupiny#Volter †|Voltera]]
 	- V pokoji jen prázdná kolíbka s černým sametem
-## Podkroví
+### Podkroví
 - Skladiště
 	- Skladiště starého nábytku
 	- Ve skladišti byla truhla, ve které bylo mrtvé tělo [[Osoby a skupiny#Margaret †|Margaret]]. Také tam byl obraz hradu na skále.
@@ -69,7 +68,7 @@ title: Místa - panství Dorstových
 	- Pokoj byl zamknutý
 	- Dvě mrtvé těla dětí
 	- model panství
-## Sklep - první patro
+### Sklep - první patro
 - Sklep byl postavený dodatečeně, poté co už dům nad ním stál.
 - Skrze celé patro šlo slyšet zaříkávání nesoucí se z nižšího patra
 - Dvě hrobky s hroby, obě otevřené a prázdné
@@ -79,7 +78,7 @@ title: Místa - panství Dorstových
 	- Krom cenností byl v jednom pokoji zápisník se seznamem jmen a popisem typu: "nezdařilo se", "ne", "neúspěšné" atd. Žádná jména nebyla povědomá.
 - Chodby se 3 ghůly, částěčně oděnými do kultistickýh rób
 	- Pronášeli hlášky jako: "Chceme žít věčně." a "Jsme dokonalí. Jsme nesmrtelní."
-## Sklep - druhé patro
+### Sklep - druhé patro
 - V tomto patře šlo slyšet zaříkání více, šly rozpoznat slova "On je odvěkost, on je sama země."
 - Místnost s artefakty
 	- V této velké místnosti je 13 výklenků se 13 artefakty:
