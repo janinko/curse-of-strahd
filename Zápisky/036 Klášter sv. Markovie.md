@@ -1,4 +1,4 @@
-# 11. Oťávra
+## 11. Oťávra
 - Pokračovali jsme s rozhovorem s [[Osoby a skupiny#Ezmerelda|Ezmeraldou]]
 	- Má v plánu jít do [[Místa - Barovie#Ravenloft|hradu]]
 	- Potvrdila nám, že tekoucí voda dokáže zranit upíry. S [[Osoby a skupiny#Rudolf van Richten|van Richtenem]] zabili jednoho upíra tím, že do jeho sídla přesměrovali řeku
