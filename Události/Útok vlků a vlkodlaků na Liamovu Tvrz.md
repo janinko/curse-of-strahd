@@ -1,4 +1,4 @@
-# 10. Flamerule 1492, brzké ráno
+## 10. Flamerule 1492, brzké ráno
 Během [[001 Česnekové speciality]] byla [[Místa - Materiální pláň#Liamova Tvrz|Liamova Tvrz]] napadena vlky a [[Osoby a skupiny#Vlkodlaci|vlkodlaky]].
 - Útočníci zaútočili na dvou místech
 - [[Místa - Materiální pláň#Mlžná brána|Mlžná brána]] byla poničena
