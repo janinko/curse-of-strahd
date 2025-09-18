@@ -1,10 +1,10 @@
-# 8. Oťávra
+## 8. Oťávra
 - Informovali jsme se s [[Osoby a skupiny#Ismark Koljanovič|Ismarkem]] o vzájemných plánech
 	- Ismark bude asi chtít odvést [[Osoby a skupiny#Irina Koljanovna|Irinu]] do [[Místa - Barovie#Krezk|Krezku]]
 - **Abukai** odešel zanést víno strážnému u brány
 	- Spícímu strážnému zavázal tkaničky a pak jej vzbudil aby mu podal víno
 	- Stavil se do kostela, kde potkal Irinu, která se tam potajmu vytratila z hostince
-# 9. Oťávra
+## 9. Oťávra
 - Šli jsme se podívat do obchodu s oblečením [[Osoby a skupiny#Udo Lukovič|Udolukoviče]] na náměstí
 	- Na náměstí jsme viděli několik mužů, žen a dětí v kládách a dospělí ještě s oslíma hlavama
 		- **Abukai** šel hned zkontrolovat, jestli je s nimi dobře zacházeno
