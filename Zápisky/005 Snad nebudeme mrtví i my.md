@@ -1,7 +1,7 @@
 ---
 share_updated: 2024-02-19T17:43:10+01:00
 ---
-# 11. Flamerule 1492 ??
+## 11. Flamerule 1492 ??
 - Dobrodruzi dokončili prohledávání [[Místa - panství Dorstových#První patro|pracovny]], kde našli dvě smlouvy o prodeji [[Smlouva o koupi rezidence|rezidence]] a [[Smlouva o koupi mlýna|mlýna]]
 - Pak se vydali po schodech z půdy do sklepa. Po cestě jim vrzající schody vnukly nové síly (level 2)
 - Při prozkoumánvání [[Místa - panství Dorstových#Sklep - první patro|prvního patra sklepa]] narazili na zápisník se seznamem jmen a popisem typu: "nezdařilo se", "ne", "neúspěšné" atd. Žádná jména nebyla povědomá.
