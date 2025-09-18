@@ -1,10 +1,10 @@
-# 12. Oťávra
+## 12. Oťávra
 - Dali jsme se k odpočinku v [[Místa - Barovie#Lovecká chata|Lovecké chatě]]
 - V noci se několikrát objevilo černé psisko, jednou vedle něj stála postava ([[Osoby a skupiny#Firan|Firan]]?)
 - **Abukai** snil o labyrintu s řetězy
 	- Ve snu se mu zjevila [[Osoby a skupiny#Arabela|Arabela]] která mu pomáhala lybyrint prozkoumat
 - **Netarovi** se opět při meditaci zjevil [[Osoby a skupiny#Firan|Návštěvník Firan]] a naléhal na něj ať mu pomůže
-# 13. Oťávra
+## 13. Oťávra
 - Ráno jsme se rozhodli jít hledat [[Místa - Barovie#Vlkodlačí doupě|Vlkodlačí doupě]], aby jsme konečně pomohli [[Záchrana Kelena a Marcuse|Kelenovi a Marcusovi]]
 - [[Osoby a skupiny#Ezmerelda|Ezmeralda]] nám vyprávěla jak přišla o nohu
 	- V [[Místa#Domény hrůzy|Darkonu]] se vydala na hrozného vlkodlaka jménem Černá Hrůza
