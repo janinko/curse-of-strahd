@@ -1,4 +1,4 @@
-# 11. Oťávra
+## 11. Oťávra
 - Ráno jsme se konečně dostali do [[Místa - Barovie#Krezk|Krezku]] a setkali se s [[Osoby a skupiny#Dimitrij Krezk|rychtářem Dimitrijem Krezkem]]
 	- Informoval nás že nějaká [[Osoby a skupiny#Ezmerelda|lovkyně]] se vydala do [[Místa - Barovie#Klášter sv. Markovie|kláštera]]
 	- Řekl, že [[Osoby a skupiny#Opat|Opat]] občas navštěvuje vesnici, ale lidé z něj nemají dobrý pocit
