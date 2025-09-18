@@ -1,6 +1,6 @@
 [[Osoby a skupiny#Madam Eva|Madam Eva]] nám vyložila karty a pronesla [[Věštba madam Evy|věštbu]].
 
-# První karta
+## První karta
 > Znalosti o starobylém, pomůžou porazit nepřítele
 > To, co hledáte, najdete v hradu, v troskách místa úpěnlivých proseb.
 
@@ -8,7 +8,7 @@
 	- [ ] Někde v hradu [[Místa - Barovie#Ravenloft|Ravenloft]]
 	- [ ] Trosky vesnice [[Místa - Barovie#Starý Berez|Starý Berez]]
 	- [ ] Zámeček [[Místa - Barovie#Argynvostholt|Argynvosholt]]
-# Druhá karta
+## Druhá karta
 > Tato karta vypráví o mocné síle dobra a ochrany. Svatého symbolu velké naděje.
 > Hledejte kouzelníka ve věži na jezeře, kouzelníkovo jméno a jeho sluha vás navedou k tomu, co hledáte.
 
@@ -16,7 +16,7 @@
 	- [x] Věž na jezeře [[Místa - Barovie#Baratok, jezero|Baratok]]
 		- Podle [[Osoby a skupiny#Davian|Daviana]] tam žil mág, který [[Strád von Zarovič|Stráda]] učil magii a pomohl mu postavit [[Místa - Barovie#Ravenloft|hrad Ravenloft]]
 	- [ ] Věž na jezeře [[Místa - Barovie#Luna, jezero|Luna]]
-# Třetí karta
+## Třetí karta
 > Tohle je karta moci a síly, popisuje zbraň odplaty, meč slunečního světla.
 > Hledej v kryptě ordinérního kouzelníka. Klíčem je jeho hůl.
 
@@ -25,7 +25,7 @@
 	- Podle [[Osoby a skupiny#Davian|Daviana]] jsou nějaké krypty na hradě [[Místa - Barovie#Ravenloft|Ravenloft]]
 - [ ] [[Najít tělo čaroděje]]
 - [ ] Poptat se u [[Místa - Barovie#Vinařství U mága|Vinařství u mága]]
-# Čtvrtá karta
+## Čtvrtá karta
 > Tato karta odhaluje identitu toho, kdo vám v boji proti temnotám ohromně pomůže.
 > Vyhledejte [[Osoby a skupiny#Ismark Koljanovič|bratra]] [[Osoby a skupiny#Irina Koljanovna|ďáblovy nevěsty]], říkají mu menší, ale jeho duch je silný.
 
@@ -33,7 +33,7 @@
 
 - [ ] [[Eskorta Koljanovičů|Odvést]] [[Osoby a skupiny#Irina Koljanovna|Irinu]] do bezpečí 
 
-# Pátá karta
+## Pátá karta
 > Tvým nepřítelem je tvor libující si v temnotách, jehož moc je pro smrtelníka nepředstavitelná. Tato karta tě k němu zavede.
 > Straší na místě věčného odpočinku muže, kterému kdy nejvíce záviděl.
 
