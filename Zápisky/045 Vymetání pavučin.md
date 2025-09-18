@@ -1,4 +1,4 @@
-# 14. Oťávra
+## 14. Oťávra
 - Postavy v [[Místa - Barovie#Argynvostholt|kapli]] na nás zaútočily
 	- Nazývali nás [[Strád von Zarovič|Strádovími]] přisluhovači
 	- Když jsme je porazili, jejich těla se proměnila ze "zachovalých mrtvol" na "mrtvoly v rozkladu"
