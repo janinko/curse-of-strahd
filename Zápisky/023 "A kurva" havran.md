@@ -1,4 +1,4 @@
-# 7. Oťávra
+## 7. Oťávra
 - Když jsme vešli do kruhu z navršených kamenů, **Nethar** si všiml že v hrudi sochy lehce září zelené světlo a že kolem je rozhrabaná půda
 - **Nethar** magicky rozhrabal půdu, čímž probral bojovníka [[Osoby a skupiny#Druidi z Kopce minulosti|druidů]] a začal souboj
 	- **Abukai** mlátil nepřátele jeho novou holí, ze které při úderu vytékala červená míza
