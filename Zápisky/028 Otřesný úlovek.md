@@ -1,4 +1,4 @@
-# 9. Oťávra
+## 9. Oťávra
 - Vydali jsme se na náměstí, zůčastnit se [[Oslava zářícího slunce|oslavy zářícího slunce]]
 	- Byli jsme přinuceni aktivně se zůčastnit pokropením koule olejem
 	- Přesunuli jsme se na místo, na kterém nehrozilo smetení ohnivou koulí
