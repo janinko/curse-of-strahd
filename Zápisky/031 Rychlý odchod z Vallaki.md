@@ -1,4 +1,4 @@
-# 10. Oťávra
+## 10. Oťávra
 - Vzbudila nás [[Osoby a skupiny#Danika Martikovová|Danika]], že se před hostincem shromáždili strážní
 	- [[Osoby a skupiny#Isek Strážný|Isek]] křičel, že chce tu [[Osoby a skupiny#Irina Koljanovna|hnědovlasou holku]]
 	- prý nemůže spát, protože se mu o ní pořád zdají sny
