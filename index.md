@@ -2,11 +2,11 @@
 title: Strádova kletba
 ---
 ## Epizody
+[[047 Útěk před duchy a mlhou]]  
 [[046 Poodhalení závoje tajemství Argynvostholtu]]  
 [[045 Vymetání pavučin]]  
 [[044 Popel u Arhynvostholtu]]  
 [[043 Piknik při novoluní]]  
-[[042 Bitva o Vlkodlačí doupě]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
