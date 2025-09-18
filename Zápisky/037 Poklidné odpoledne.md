@@ -1,4 +1,4 @@
-# 11. Oťávra
+## 11. Oťávra
 - Probírali jsme plány s [[Osoby a skupiny#Ezmerelda|Ezmeraldou]]
 	- Pár dní chce zůstat v [[Místa - Barovie#Klášter sv. Markovie|klášteře]], než se zase vydá na cestu
 - **Abukai**, **Aurelius** a [[Osoby a skupiny#Irina Koljanovna|Irina]] se šli podívat k [[Místa - Barovie#Svatyně Bílého slunce|jezírku]]
@@ -16,5 +16,5 @@
 	- Z knihy se vyrojilo spoustu zubů a dlouhý jazyk - Byl to MIMIK!!!
 	- Z **Nethara** se vyrojilo spoustu blesků a bylo po mimikovi. A vypadla z něj magická lahvička.
 - Šli jsme spát
-# 12. Oťávra
+## 12. Oťávra
 - Nad ránem se rozprostřelo napínavé ticho, které bylo přerušené obrovským výbuchem a vznícením střechy
