@@ -1,6 +1,6 @@
-# 7. Oťávra
+## 7. Oťávra
 
-## Setkání se Strádem
+### Setkání se Strádem
  - Při odchodu z kamenného kruhu na [[Místa - Barovie#Kopec Minulosti|Kopci Minulosti]] jsme spatřili [[Strád von Zarovič|Stráda]] a on spatřil nás
 	 - **Abukai** se okamžitě otočil na patě a utekl zadním východem
 	 - Ostatní počkali až přijede
@@ -21,7 +21,7 @@
 	- Zadal nám [[Pátrání po van Richtenovi|úkol van Richtena najít]] a podat Strádovi zprávu
 - Poté odešel na západ k mlze, do které se zahleděl
 
-## Konečné řešení druidí otázky
+### Konečné řešení druidí otázky
 - Zahlédli jsme **Abukaie** jak pod kopcem pobíhá po lesíku a hledá [[Osoby a skupiny#Davian|Daviánův]] čajník
 - Vydali jsme se za ním a **Malakai** zase slyšel hlas, lákající jej pro nějaké kopí
 - Došli jsme do lesa, našli **Abukaie** a poté i Davianovy věci
