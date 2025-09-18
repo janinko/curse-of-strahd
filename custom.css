@@ -6,7 +6,11 @@ body {
     background-position: 50%;
 }
 
-a, div, .page-header-title, .is-current {
+div {
+    color: #ddd !important;
+}
+
+a, strong, h1, h2, h3, h4, h5, h6, .page-header-title, .is-current {
     color: white !important;
 }
 
