@@ -1,7 +1,6 @@
 ---
 title: Strád von Zarovič
 ---
-
 "Děsivý lord a pán", "ďábel"
 - Vysoký, aristokraticky vypadající muž
 	- Má bledou tvář a černé vlasy
@@ -21,7 +20,7 @@ title: Strád von Zarovič
 - O svých cílech tvrdi:
 	- "Mým cílem je blaho mého lidu, s větší důvěrou bych vám řekl více"
 	- "Má touha je, abyste chránili [[Osoby a skupiny#Irina Koljanovna|Irinu]]" "Máv v plánu ji přesvědčit svým šarmem" (řekl s pohledem predátora, který se nezastaví při běžném šarmu)
-## Pozorování
+### Pozorování
 - Z [[012 Setkání s ďáblem Strádem|prvního setkání]]:
 	- Poroučel 6 obřím vlkům
 	- Měl černý vůz a 2 koně (Abukaiovi se je nepodařilo popohnat)
@@ -38,40 +37,40 @@ title: Strád von Zarovič
 - Z [[024 A kurva, zase Strád|třetího setkání]]
 	- Viděli jsme jej za dne, ale byly těžké dešťové mraky nad námi
 	- Strnule stál a hleděl do [[Místa - Barovie#Mlha|Mlhy]] u [[Místa - Barovie#Kopec Minulosti|Kopce Minulosti]]
-## Zvěsti
-### Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]]:
+### Zvěsti
+#### Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]]:
 - prý mu slouží [[Osoby a skupiny#Vistani|Vistani]], protože prý můžou opustit [[Místa - Barovie#Barovie, území|Barovii]]
 - stojí za [[Těžké časy v Barovii|těžkými časy v Barovii]] a pije [[Osoby a skupiny#Irina Koljanovna|Irině]] krev
 - dokáže upřít pohled svých rudých očí tak, že dokáže kohokoli donutit udělat co se Strádovi zachce
 - Podle vyprávěné legendy, dojel před 220 lety k [[Místa - panství Dorstových|panství Dorstů]] v kočáře taženém koněm, co dýchal plameny, a pak o [[#Rodina Dorstových|Dorstových]] už nikdo neslyšel
-### Podle [[Osoby a skupiny#Irina Koljanovna|Iriny]]:
+#### Podle [[Osoby a skupiny#Irina Koljanovna|Iriny]]:
 - pamatuje si jen červené oči a v nich hlad
 - traduje se, že kousne, koho si zamane
 - Strád prý dobil [[Místa - Barovie#Barovie, území|Barovii]] spolu se svým otcem
 - Myši, netopíři a další havěť jsou prý Strádovi špioni
-### Podle knihy o upírech z [[Místa - Barovie#Rychtářův dům|rychtářova domu]]:
+#### Podle knihy o upírech z [[Místa - Barovie#Rychtářův dům|rychtářova domu]]:
 - Na upíry platí tekoucí voda a slunce
 - Musí přes den spát v rakvi
 - Umí se přeměňovat v mlhu, netopíry a vlka
 - Umí povolat netopíry, vlky a další havěť
-### Podle [[Osoby a skupiny#Donovič|kněze Donoviče]]:
+#### Podle [[Osoby a skupiny#Donovič|kněze Donoviče]]:
 - na upíry funguje sluneční světlo
-### Podle [[Osoby a skupiny#Madam Eva|madam Evy]]:
+#### Podle [[Osoby a skupiny#Madam Eva|madam Evy]]:
 - "Myslím si, že stav v jakém Strád je, je prokletí pro něj i pro [[Místa - Barovie#Barovie, území|Barovii]]"
 - Čas od času si zve do [[Místa - Barovie#Barovie, území|Barovie]] dobrodruhy
 - Strád si nás nějak označil, aby zajistil zajistil, že do [[Místa - Barovie#Barovie, území|Barovie]] přijdeme
 - Z Aurelia cítila stejný typ energie, který cítila ze Stráda
 	- Strád při setkání s Aureliem projevil zaujetí jeho elementální magií
-### Podle [[Osoby a skupiny#Oleg|Olega]] a jeho [[Skazka o kouzelníku, jež se vzepřel Strádovi|příběhu]]:
+#### Podle [[Osoby a skupiny#Oleg|Olega]] a jeho [[Skazka o kouzelníku, jež se vzepřel Strádovi|příběhu]]:
 - Umí sesílat kouzla:
 	- "ozval se hrom a čaroděje zavalil obrovský kámen"
 	- "zasáhl \[čarodějě] blesk z nebe"
 - Jezdí v černém voze taženém koňmi
-### Podle [[Zápisky mocného čarodějě|zápisků]] [[Osoby a skupiny#Mocný čaroděj|mocného čaroděje]]:
+#### Podle [[Zápisky mocného čarodějě|zápisků]] [[Osoby a skupiny#Mocný čaroděj|mocného čaroděje]]:
 - je třeba jej dostat z hradu, protože přece "medvěda nelovíš v jeho doupěti"
-### Podle [[Osoby a skupiny#Davian|Daviana]]:
+#### Podle [[Osoby a skupiny#Davian|Daviana]]:
 - poté co dobil [[Místa - Barovie#Barovie, území|Barovii]] daroval [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] [[Osoby a skupiny#Rodina Krezků|rodině Krezků]]
-### Podle [[Osoby a skupiny#Rudolf van Richten|Rudolfa von Richtena]]
+#### Podle [[Osoby a skupiny#Rudolf van Richten|Rudolfa von Richtena]]
 - Existují 2 typy upírů:
 	- Běžná přeměna - vznikne služebník bez vlastní vůle, částečný upír
 	- Pokud se upír "předek" rozhodne, může přeměnit někoho na plného upíra
@@ -89,15 +88,15 @@ title: Strád von Zarovič
 - Strád se narodil před [[Časová osa#Léta 31x|vstupem]] Strádova otce do [[Místa - Barovie#Barovie, území|Barovie]]
 	- Strádův otec zemřel před [[Časová osa#Léta 35x|dobytím]] Barovie
 
-# Společníci
-## Lady Ludmila Vilsavic
+## Společníci
+### Lady Ludmila Vilsavic
 - první nevěsta Stráda
 - upír
 - Má schopnost vyprodukovat plamen
-## Lady Volenta Popovsky
+### Lady Volenta Popovsky
 - třetí nevěsta Stráda
 - upír
-## Sir Ascher
+### Sir Ascher
  - společník Stráda
  - upír
  - hraje na loutnu(?)
