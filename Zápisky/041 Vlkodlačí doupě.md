@@ -1,4 +1,4 @@
-# 13. Oťávra
+## 13. Oťávra
 - Našli jsme [[Místa - Barovie#Vlkodlačí doupě|Vlkodlačí doupě]], které vypadalo jako skalní vlčí tlama
 - **Nethar** vyčarovatl stínového ducha, kterého poslal do jeskyně na průzkum
 - V jeskyni jsme vybili několik vlků a vlkodlaků
