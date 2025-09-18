@@ -1,4 +1,4 @@
-# 6. Oťávra
+## 6. Oťávra
 - Vyjeli jsme z [[Místa - Barovie#Vallaki|Vallaki]] s vozem na víno na západ, s cílem dojet do večera do [[Místa - Barovie#Vinařství U mága|vinařství u mága]]
 	- Viděli jsme odbočku kudy jely vozy, pravděpodobně do [[Místa - Barovie#Luvašův tábor|Luvašova tábora]]
 	- Střetli jsme [[Osoby a skupiny#Jevgenij Krušnin|Jevgenije]]
