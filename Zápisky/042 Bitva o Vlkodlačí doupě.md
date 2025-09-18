@@ -1,4 +1,4 @@
-# 13. Oťávra
+## 13. Oťávra
 - Připravili jsme se na příchozí skupinu [[Osoby a skupiny#Kiril|Kirila]] na čenichu vstupu do [[Místa - Barovie#Vlkodlačí doupě|vlkodlačího doupěte]]
 - Ostřelováním, kouzly a nakonec i silou pěstí a meče jsme všechny 3 příchozí vlkodlaky porazili
 - **Abukai** a **Nethar** se bavili s havranodlačkou [[Osoby a skupiny#Lena|Lenou]] o tom co se tu stalo a o osudu vlkodlačat
