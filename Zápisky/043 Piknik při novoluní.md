@@ -1,11 +1,11 @@
-# 13. Oťávra
+## 13. Oťávra
 - Dopluli jsme na [[Místa - Barovie#Khazanova věž|ostrov s věží]]
 - [[Osoby a skupiny#Ezmerelda|Ezmeralda]] se pokusila kontaktovat [[Osoby a skupiny#Rudolf van Richten|van Richtena]], došlo ke spojení, ale nedostala odpověď
 - [[Osoby a skupiny#Ezmerelda|Ezmeralda]] pak vlezla do svého vozu - poklopem zespodu - a vyčarovala koně slovem "drovaš"
 - Šli jsme spát
 	- **Malakaiovi** se zdál sen, ve kterém mu  [[Osoby a skupiny#Matka Noci|Matka Noci]] nedopřála odpočinku
 	- **Aurelius** se kontaktoval se [[Osoby a skupiny#Zephyros|Zephyrem]], který mu dodal více ohnivé síly a připoměl mu dluh
-# 14. Oťávra
+## 14. Oťávra
  - Na okraji jezera si [[Strád von Zarovič#Společníci|Strádovi společníci]] postavili stůl s hodováním
  - Po půlnoci nás přišel [[Strád von Zarovič#Společníci|sluha upírů]] pozvat na piknik
 	 - Dušoval se právem pohostinství, že se nám nic nestane
