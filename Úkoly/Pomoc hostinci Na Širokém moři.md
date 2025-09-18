@@ -1,9 +1,9 @@
-# Sehnat dřevo na opravy
+## Sehnat dřevo na opravy
 [[Osoby a skupiny#Danika Martikovová|Danika Martikovová]] a [[Osoby a skupiny#Urvin]] z [[Místa - Barovie#Hostinec Na Širokém moři|hostince Na Širokém moři]] nás požádali, jestli bysme mohli dovézt nějaké dřevo na opravu spáleného hostince
 - [ ] Vyzvednout vůz
 - [ ] Nasekat dřevo
 - [ ] Dovézt jej zpátky do hostince
-# Dovézt sudy od Mága
+## Dovézt sudy od Mága
 [[Osoby a skupiny#Danika Martikovová|Danika Martikovová]] z [[Místa - Barovie#Hostinec Na Širokém moři|hostince Na Širokém moři]] nás požádala, abysme přivezli víno z [[Místa - Barovie#Vinařství U mága|Vinařství u mága]].
 - Dorazili jsme k vinařství
 - Blíže u domu na nás zavolal [[Osoby a skupiny#Davian|starý muž]] a **Aurelius** s **Netharem** se vydali k němu
