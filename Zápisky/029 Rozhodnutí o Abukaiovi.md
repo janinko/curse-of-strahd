@@ -1,4 +1,4 @@
-# 9. Oťávra
+## 9. Oťávra
 - **Abukai** bez souhlasu družiny zabil rybáře, který do jezera hodil [[Osoby a skupiny#Arabela|Arabelu]]
 	- Poté jej **Abukai** pohřbil v jezeře
 - Odnesli jsme tělo do tábora vistani a **Nethar** jej předal [[Osoby a skupiny#Arrigal|Arrigalovi]]
