@@ -1,4 +1,4 @@
-# 5. Oťávra 735 
+## 5. Oťávra 735 
 - Dorazili jsme k bráně do [[Místa - Barovie#Vallaki|Vallaki]], strážní nás po odbavení pustili do města a doproručili ať zůstaneme na Oslavy zářícího slunce za 4-5 dní
 - Při prohlídce města zašel **Abukai** s [[Osoby a skupiny#Ismark Koljanovič|Ismarkem]] a [[Osoby a skupiny#Irina Koljanovna|Irinou]] do [[Místa - Barovie#Kostel sv. Andrela|Kostel sv. Andrela]]
 	- **Abukai** tam jistě způsobem svým vlastním svými dotazy vyvedl z míry [[Osoby a skupiny#Lucian Petrovič|kněze Petroviče]]
