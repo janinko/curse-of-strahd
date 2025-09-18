@@ -1,4 +1,4 @@
-# 10. Oťávra
+## 10. Oťávra
 - Aby jsme se dostali do [[Místa - Barovie#Khazanova věž|věže]], museli jsme se dostat skrze dveře bez kliky
 	- Dveře při doteku vydávaly bleskový výboj
 	- Na dveřích byl kruh se symboly znázorňující pozice rukou a čáry, které je spojovali a jméno [[Osoby a skupiny#Khazan|Khazan]]
