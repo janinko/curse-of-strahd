@@ -1,4 +1,4 @@
-# 14. Oťávra
+## 14. Oťávra
 - Pokračovali jsme v prozkoumávání [[Místa - Barovie#Argynvostholt|Argynvostholtu]]
 - Narazili jsme na [[Osoby a skupiny#Soumrační elfové|Soumračného elfa]] [[Osoby a skupiny#Savid|Savida]]
 	- Řekl nám že pánem domu byl [[Osoby a skupiny#Argynvost|Argynvost]], údajně stříbrný drak
@@ -7,10 +7,10 @@
 - V jednom rohu za závěsem, který se chvěl byl bílý podstavec s koulí přikrytou látkou
 	- Po odkrytí se tam objevila čerstvě uřezaná hlava **Nethara**/**Ilmara**
 	- Zakrývání a odkrývání hlavy různými lidmi ukazovalo různé hlavy
-- Při prozkoumáván některých krbů se staly podivné věci
+- Při prozkoumávání některých krbů se staly podivné věci
 	- Z jednoho se vytvořil plamenný obraz draka, který říkal:
 		- "Mí rytíři propadli temnotě, zachraňte je, pokud můžete. Ukažte jim světlo, které ztratili."
 	- Z dalšího se objevil stín křídel a hlas:
 		- "Jsou plní nenávisti, pomozte jim. Mauzoleum."
 	- Z dalšího se vyvalila kouřová příšera
-		- **Abukai** ji zabalil do róby a vynesl ven z domu
+		- **Aurelius** ji zabalil do róby a **Abukai** vynesl ven z domu
