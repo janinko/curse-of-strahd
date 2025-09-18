@@ -1,7 +1,6 @@
 ---
 title: Časová osa
 ---
-
 Kalendář:
 1. měsíc
 2. měsíc
@@ -23,7 +22,7 @@ Kalendář:
 - Otec [[Strád von Zarovič|Stráda von Zaroviče]] začal dobývání [[Místa - Barovie#Barovie, území|Barovie]]
 ## Léta 32x
 - Kolem roku 320 začíná [[Kniha dodávek vína]] z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
-> - [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] začalo [[Strád von Zarovič|Strádovi]] vozit víno
+- [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] začalo [[Strád von Zarovič|Strádovi]] vozit víno
 ## Léta 35x
 - [[Strád von Zarovič|Strád]] dokončil dobývání barovie stavbou hradu [[Místa - Barovie#Ravenloft|Ravenloft]]
 ## Rok 389
@@ -128,7 +127,11 @@ Kalendář:
 - Do tohoto dne by melě dojít [[Strád von Zarovič|Strádův]] služebník zjistit stav úkolu [[Pátrání po van Richtenovi]]
 - [[043 Piknik při novoluní]]
 - [[044 Popel u Arhynvostholtu]]
+- [[045 Vymetání pavučin]]
+- [[046 Poodhalení závoje tajemství Argynvostholtu]]
+- [[047 Útěk před duchy a mlhou]]
 ### 15. Oťávra 735 🌑
+- [[047 Útěk před duchy a mlhou]]
 ### 16. Oťávra 735 
 ### 17. Oťávra 735 
 ### 18. Oťávra 735 🌒
