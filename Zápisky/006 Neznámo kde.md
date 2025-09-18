@@ -1,4 +1,4 @@
-# 1. Oťávra (měsíc lovců) 735
+## 1. Oťávra (měsíc lovců) 735
 - Dobrodruzi utíkali před hnilobnou příšerou
 	- **Malakai** nesl bezvládné **Abukaiovo** tělo, zatímco **Aurelius** a **Nethar** se pokoušeli při ústupu ještě zasypávat příšeru kouzly
 	- Nakonec se příšera zaklínila v pasti na [[Místa - panství Dorstových#Sklep - první patro|prvním patře sklepa]]
