@@ -1,4 +1,4 @@
-# 2. Oťávra (měsíc lovců) 735
+## 2. Oťávra (měsíc lovců) 735
 - Dobrodruzi dokončili rozhovor s [[Osoby a skupiny#Ismark Koljanovič|Ismarkem]] otázkami o [[Místa - Barovie|okolí]] a místním [[Pochopit neznámý kalendář|kalendáři]] 
 - **Abukai** vymyslel plán, že [[Osoby a skupiny#Irina Koljanovna|Irinu]] převlečou za Vistánku a chtěl po **Netharovi** ať od nich získá jejich šaty
 	- Nethar si s nimi ale jen popovídal, aby zjistil kde najde [[Osoby a skupiny#Madam Eva|madam Evu]], dozvěděl se něco o [[Osoby a skupiny#Vistani|Vistani]] a zahrál si karty - krysí poker
@@ -14,5 +14,5 @@
 	- **Malakai** se šel projít do vesnice a ke hřbitovu
 	- **Nethar** překresloval mapu, aby měli kopii pro jistotu
 - Ismark dobrodruhy poslal na hřbitov, aby tam o půlnoci sledovali co se bude dít
-# 3. Oťávra (měsíc lovců) 735
+## 3. Oťávra (měsíc lovců) 735
 - O půlnoci začalo [[Strašení na hřbitově u kostela Pána Jitra|na hřbitově strašit]]
