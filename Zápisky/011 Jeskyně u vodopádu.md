@@ -1,7 +1,7 @@
-# 3. Oťávra (měsíc lovců) 735
+## 3. Oťávra (měsíc lovců) 735
 - Rozhodlo se, že se na noc utáboříme u [[Osoby a skupiny#Vistani|Vistani]] v táboře u [[Místa - Barovie#Tserské jezero|Tserského jezera]] 
 - Abukai si dal s [[Osoby a skupiny#Irina Koljanovna|Irinou]] další souboj, který k Malakaiově radosti prohrál
-# 4. Oťávra (měsíc lovců) 735
+## 4. Oťávra (měsíc lovců) 735
 - Po ranních přípravách jsme se vydali na cestu podél [[Místa - Barovie#Ivlis|řeky Ivlis]] směrem k [[Místa - Barovie#Tserské vodopády|Tserským vodopádům]], ve snaze najít tělo [[Osoby a skupiny#Mocný čaroděj|mocného čaroděje]]
 - U keře Asarabaky jsme našli mrtvého medvěda
 - Našli jsme magické lano a horolezeckou výbavu
