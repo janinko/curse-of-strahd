@@ -1,4 +1,4 @@
-# 6. Oťávra
+## 6. Oťávra
 - Ráno družinu probudil [[Osoby a skupiny#Urvin|Urvin]] s přednáškou, jak bezpečně vycházet ve [[Místa - Barovie#Vallaki|Vallaki]]
 	- Není dobré se protivit názoru [[Osoby a skupiny#Baron Valakovič|barona Valakoviče]] že oslavy dvakrát do měsíce jsou prospěšné lidu
 	- Je dobré dávat si pozor na baronova pohůnka [[Osoby a skupiny#Isek Strážný|Iseka Strážného]]
