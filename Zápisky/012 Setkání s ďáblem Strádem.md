@@ -1,4 +1,4 @@
-# 4. Oťávra (měsíc lovců) 735
+## 4. Oťávra (měsíc lovců) 735
 - Odešli jsme z jeskyně [[Osoby a skupiny#Mocný čaroděj|mocného čaroděje]] a zjistili jsme že Abukaiovi nějaké žabí příšery ukradly batoh
 	- Abukai se vrhl za nimi s Netharem v patách
 	- Za pomoci Aurelia a [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] se je podařilo pobít a zachránit batoh i s myšákem Remim
