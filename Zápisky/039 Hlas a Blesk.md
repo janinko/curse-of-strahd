@@ -1,4 +1,4 @@
-# 12. Oťávra
+## 12. Oťávra
 - [[Osoby a skupiny#Ezmerelda|Ezmeralda]] nás informovala, že viděla jak se [[Strád von Zarovič|Strád]] teleportoval do kláštera
 - [[Osoby a skupiny#Irina Koljanovna|Irina]] slyšela hlas z [[Místa - Barovie#Svatyně Bílého slunce|jezýrka u svatyně bílého slunce]]
 	- Byl to nějaký Sergej, který na irinu volal jménem Tatiana
