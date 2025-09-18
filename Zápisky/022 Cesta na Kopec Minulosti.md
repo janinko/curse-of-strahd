@@ -1,4 +1,4 @@
-# 7. Oťávra
+## 7. Oťávra
 - V noci se po meditaci snažil **Nethar** zahnat kocovinu tím, že spolubojovníkům vyčistil a opravil boty
 - Ráno přišel [[Osoby a skupiny#Davian|Davian]] postěžovat si, jak se jim špatně daří
 	- Jako odměnu nám dal 40 zlatých a 80 stříbrných
