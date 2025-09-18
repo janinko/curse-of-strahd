@@ -2,7 +2,7 @@
 title: Místa
 ---
 
-# Domény hrůzy
+## Domény hrůzy
 - Sféry bytí, které se nalézají někde v Shadowfellu, které slouží jako vězení
 - Podle [[Zápisky mocného čarodějě|zápisků mocného čarodějě]] existují následující:
 	- [[Místa - Barovie#Barovie, území|Barovie]] - pantsví [[Strád von Zarovič|prvního upíra]]
@@ -19,12 +19,12 @@ title: Místa
 	- nejde přímo o fyzické místo, ale spíše metafyzické
 	- [[Místa - Barovie#Barovie, území|Barovie]] je vězení, kde [[Strád von Zarovič|Strád]] je zároveň vězněm i věznitelem
 	- duše nemůžou opustit doménu a je možné, že se reinkarnují
-# Gloomwrought
+## Gloomwrought
 - Město v Shadowfellu
 - Pochází odtud **Nethar**
-# Kostel sv. Andrala
+## Kostel sv. Andrala
 - 17. Rotting 435 zde byla podepsána [[Smlouva o koupi mlýna|smlouva o koupi mlýna]]
 
-# Panství Dorstových
+## Panství Dorstových
 Viz [[Místa - panství Dorstových]].
 
