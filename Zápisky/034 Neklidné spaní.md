@@ -1,4 +1,4 @@
-# 10. Oťávra
+## 10. Oťávra
 - [[Osoby a skupiny#Rudolf van Richten|Van Richten]] nám nechal loď a dal **Malakaiovi** kámen, přes který se můžeme kontaktovat
 	- Potom se vydal ztratit v lese s plánem vydat se poté do [[Místa - Barovie#Argynvostholt|Argynvosholtu]]
 - Pokračovali jsme lodí necelou hodinu po proudu [[Místa - Barovie#Havraní řeka|Havraní řeky]]
