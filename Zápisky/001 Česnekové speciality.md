@@ -1,4 +1,4 @@
-# 9. Flamerule 1492
+## 9. Flamerule 1492
 - **Aurelius Halloway** a **Nethar Lirieneth** cestovali z [[Místa - Materiální pláň#Brod Dýky|Brodu dýky]] na jihovýchod, aby prozkoumali zvěsti o útocích na zdejší osady.
 	- Dorazili do osady [[Místa - Materiální pláň#Liamova tvrz|Liamova Tvrz]], kde se dověděli o nedávných útocích na [[Místa - Materiální pláň#Bowshot|Bowshot]].
 - **Aurelius** s **Netharem** zamířili rovnou do hospody [[Místa - Materiální pláň#Hold Fast Inn|Hold Fast Inn]], kde potkali trpasličího válečníka **Malakai** a lidského mnicha **Abukai**.
@@ -8,7 +8,7 @@
 - Když trhovec [[Osoby a skupiny#Rab|Rab]] zavřel svůj stánek a přišel do hospody, přisedl si k dobrodruhům a nabídl jim své 3 šlechtěné česneky:
 	- **Nethar** si koupil jeden extra silný,
 	- **Abukai** si koupil zbylé dva.
-# 10. Flamerule 1492
+## 10. Flamerule 1492
 - V noci měli všichni 4 dobrodruzi sdílený sen:
 	- Cesta mlžným lesem, která je dovedla k opuštěné karavaně vozů.
 	- V jednom z vozů jim [[Osoby a skupiny#Madam Eva|Madam Eva]] vyvěštila budoucnost a řekla jim o [[Osoby a skupiny#Pavouk|Pavoukovi]].
