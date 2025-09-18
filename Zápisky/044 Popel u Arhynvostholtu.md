@@ -1,4 +1,4 @@
-# 14. Oťávra
+## 14. Oťávra
 - Ráno jsme se pokusili opět bezúspěšně kontaktovat [[Osoby a skupiny#Rudolf van Richten|Richtena]]
 	- Rozhodli jsme se že se vydáme rychle na [[Místa - Barovie#Argynvostholt|Argynvostholt]]
 	- **Nethar** nechal oživlou zbroj v [[Místa - Barovie#Khazanova věž|Khazanově věži]], aby je nesdržoval
