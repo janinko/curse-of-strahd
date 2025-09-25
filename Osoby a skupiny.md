@@ -26,6 +26,7 @@ Majitel [[Místa - Barovie#Arasekovy sklady|skladů ve Vallaki]]
 - Prodává všelijaké zboží, včetně piva
 ## Argynvost
 Pán [[Místa - Barovie#Argynvostholt|Argynvostholtu]], údajně stříbrný drak
+- Podle portrétu v Argynvostholdu vypadá jako starší, silný s hřívou stříbřitě bílých vlasů
 ## Arrigal
 Vistanec z [[Místa - Barovie#Luvašův tábor|Luvašova tábora]]
 - Možná příbuzný s [[Osoby a skupiny#Luvaš|Luvašem]]
@@ -298,7 +299,7 @@ Opat [[Místa - Barovie#Klášter sv. Markovie|Kláštera sv. Markovie]], jméne
 - Podle [[#Dimitrij Krezk|Dimitije]] občas chodí do [[Místa - Barovie#Krezk|Krezku]] kde vybírá desátky, léčí a chodí ke [[Místa - Barovie#Svatyně Bílého slunce|Svatyni Bílého slunce]]
 - Opat vypadá mladě, ale je přes 100 let starý
 - Nosí mnišské šaty, dřevěný symbol slunce a na jinak bosých nohou sandály
-- Podle svých slov přišel do [[Místa - Barovie#Barovie, území|Barovie]] řed necelými 130 lety
+- Podle svých slov přišel do [[Místa - Barovie#Barovie, území|Barovie]] před necelými 130 lety
 ### Vasilka
 - žena stvořená Opatem
 - bledá, strnulá, nemluvící; velmi podobná [[#Irina Koljanovna|Irině]]
