@@ -1,0 +1,15 @@
+## 15. Oťávra
+- **Abukaiovi** se znovu zdálo o labyrintu duší
+	- Řekl nám, že [[Strád von Zarovič#Lady Ludmila Vilsavic|Ludmila]] není v labyrintu, že [[Osoby a skupiny#Firan|Firan]] vypada jako starý vysoký chlap bez vlasů a že **Malakaie** objímala matka noci
+- Vydali jsme se do mauzolea
+- Ráno jsme párkrát zahlédli v [[Místa - Barovie#Argynvostholt|domě]] postavu - patrně [[Osoby a skupiny#Argynvost|Argynvosta]]
+- **Nethar** se vyhýbal mlze v kapli, tak s **Aureliem** obešli budovu, kde narazili na neproniknutelný plot
+	- **Aurelius** jej přeletěl
+	- **Nethar** se vrátil zpátky a se silným sebezapřením mlhou prošel
+- V mauzoleu jsme našli velkou dračí lebku, s cedulkou pod ní a nápis který zmiňoval že zde leží kosti [[Osoby a skupiny#Argynvost|Argynvosta]] a jeho poklady
+	- Rozhodli jsme se pečlivě prozkoumat mauzoleum pro jakékoli stopy
+	- Vrchní vyšetřovatel **Aurelius** při šáhnutí na lebku objevil závažnou skutečnost: Je to mimik!!!
+- Vypořádali jsme se s mimekem a pod ním přečetli cedulku: "Hleďte na osud, kdo se mi postaví. Nechť jeho duše nikdy nenajde pokoje. Jeho lebka je v mém hradě." s [[Strád von Zarovič#Pečeť|pečetí Stráda]]
+- Uložili jsme se k ~~věčnému~~ krátkému odpočinku v mauzoleu
+	- **Malakaiovi** se zdál sen o Matce Noci
+- Po debatě jestli je aktuálně v našich silách zdejší rytíře zachránit nebo ne, když chybí Argynvostova lebka, jsme se rozhodli prohledat zbytek domu
