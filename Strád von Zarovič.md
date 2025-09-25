@@ -100,3 +100,6 @@ title: Strád von Zarovič
  - společník Stráda
  - upír
  - hraje na loutnu(?)
+
+## Pečeť
+![[Pečeť Strád.png]]
