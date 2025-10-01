@@ -1,6 +1,5 @@
 ## 15. Oťávra
-- Pokračovali jsme v prohledávání [[Místa - Barovie#Argynvostholt|Argynvostholtu]], když vtom jsme uslyšeli 
-- Uslyšeli jsme výkřik [[Osoby a skupiny#Irina Koljanovna|Iriny]] z venku
+- Pokračovali jsme v prohledávání [[Místa - Barovie#Argynvostholt|Argynvostholtu]], když vtom jsme uslyšeli výkřik Iriny z venku
 	- Ukázalo se, že někdo přivezl rakev, vyhodil ji před vchodem do domu a odjel
 	- Rakev na sobě měla napsáno "Aurelius", když ji **Aurelius** otevřel, vyrojilo se z ní spoustu netopýrů
 	- Bez dalších stop co to má znamenat jsme se rozhodli, že v ní aspoň můžeme pohřbít nějakou nemrtvolu, co najdeme v domě.
@@ -12,6 +11,7 @@
 - V jedné místnosti byly 3 vytrážová okna:
 	- [[Osoby a skupiny#Pán Jitra|Pán Jitra]], sv. Markovia a nějaký muž, asi také světec
 - V další místnosti nám k nohám padla poslední stránka z [[Osoby a skupiny#Argynvost|Argynvostova]] [[Argynovstův deník|deníku]]
-- A ještě v další místnosti jsme potkali [[Osoby a skupiny#Geodfrey Gwilym|Sera Goedfreye Gwilyma]]
-	- Řekl nám, že [[Osoby a skupiny#Argynvost|Argynvost]] hlídal [[Místa - Barovie#Jantarový chrám|Jantarový chrám]], aby se tam nedostali zlí jedinci
+- A ještě v další místnosti jsme potkali [[Osoby a skupiny#Geodfrey Gwilym|Sera Goedfreye Gwilyma]], který nám řekl
+	- [[Osoby a skupiny#Argynvost|Argynvost]] hlídal [[Místa - Barovie#Jantarový chrám|Jantarový chrám]], aby se tam nedostali zlí jedinci
+	- V boji se Strádem, když Arg
 ... *Honza is typing* ...
