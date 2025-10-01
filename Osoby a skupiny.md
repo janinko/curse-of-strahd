@@ -546,6 +546,18 @@ Podle [[Strád von Zarovič|Stráda]] se jedná o krvelačného vraha
 - [[Strád von Zarovič|Strád]] chtěl, aby jsme jej [[Pátrání po van Richtenovi|nalezli]] a podali o něm informace
 - [[Strád von Zarovič|Strád]] se s ním "chce vypořádat"
 - Jeho alter-ego je [[#Riktavio|Riktavio]]
+## Rytíři Stříbrného Draka
+Řád rytířů, následující [[#Argynvost|Argynvosta]] se sídlem v [[Místa - Barovie#Argynvostholt|Argynvostholdu]]
+### Geodfrey Gwilym
+- Ser, rytíř
+- bílé, stříbrné vlasy
+- Vázán přísahou Hornguardovi
+### Vladimír Hornguard
+první rytíř [[#Argynvost|Argynvosta]], stříbrného draka
+- Je to nemrtvý, který se navrátil poté, co byl Argynvost zabit
+- Holohlavý, podobný nemrtvým z kaple
+- Chce, aby [[Strád von Zarovič|Strád]] trpěl, za to že zabil Argynvosta
+- Řekl: „Pokud jste přišli osvobodit Barovii od Stráda, vězte tohle: Já před více než čtyřmi staletími zahynul při obraně této země před zlem a kvůli mému selhání jsem navždy zatracen. Pokud zničíte tohle tělo, můj duch si najde nového hostitele a já si vás najdu. Z mého zatracení mě nemůžete vysvobodit, ani kdybych si to přál.“ „Pokud jste přišli osvobodit tuto zemi od stvoření, které se živí krví nevinných, vězte tohle: Není monstra, které bych nenáviděl víc než Stráda von Zaroviče. Zabil Argynvosta, ukončil život rytíře, kterého jsem miloval, a zničil šlechetný řád, kterému jsem obětoval svůj život. Strád však již jednou zemřel. Nesmí mu být dovoleno, aby zemřel podruhé. Místo toho musí navždy trpět v pekle, které si sám stvořil a ze kterého nemůže nikdy uniknout. Udělám cokoliv, co mu způsobí utrpení a neklid, a zničím kohokoliv, kdo by se pokusil jeho trýzeň ukončit.“
 ## Savid
 [[#Soumrační elfové|Soumračný elf]], který se vydal hledat [[#Arabela|Arabelu]] do [[Místa - Barovie#Argynvostholt|Argynvostholtu]]
 ## Sekta Dorstových
