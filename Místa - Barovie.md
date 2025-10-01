@@ -8,9 +8,11 @@ title: Místa - Barovie
 - Podle lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] tam býval drak
 - Podle [[Osoby a skupiny#Davian|Daviana]] tam býval drak a skupina rytířů, co jej uctívala
 - Podle [[Osoby a skupiny#Danika Martikovová|Daniky]] pochází zámek (nebo jeho zříceni?) z dob kdy vznikla [[#Barovie, území|Barovie]]
-- Podle [[Osoby a skupiny#Savid|Savida]] byl dům postaven před víc jak 400 lety řádem rytířů, který uctíval stříbrného draka [[Osoby a skupiny#Argynvost|Argynvosta]]
+- Podle [[Osoby a skupiny#Savid|Savida]] byl dům postaven před víc jak 400 lety [[Osoby a skupiny#Rytíři Stříbrného Draka|řádem rytířů]], který uctíval stříbrného draka [[Osoby a skupiny#Argynvost|Argynvosta]]
 	- Tito rytíři bojovali proti [[Strád von Zarovič|Strádovi]]
 	- Ukrývali uprchlíky při bojích se Strádem
+- V jedné místnosti jsou 3 vytráže:
+	- [[Osoby a skupiny#Pán Jitra|Pán Jitra]], sv. Markovia a nějaký muž, asi také světec
 ## Baratocké hory
 - Hory na severovýchod od [[#Zarovich, jezero|jezera Zarovich]]
 ## Baratok, jezero
@@ -86,6 +88,9 @@ title: Místa - Barovie
 - Jedna z řek protékajících [[#Barovie, území|Barovií]]
 - Leží na ní [[#Tserské vodopády|Tserské vodopády]], [[#Tserské jezero|Tserské jezero]] a protéká poblíž [[#Barovie, vesnice|vesnice Barovie]]
 - Most přes řeku, poblíž [[#Tserské vodopády|Tserských vodopádů]] je vysoko na útesech a jsou na něm na kraji vždy 2 chrliči
+## Jantarový chrám
+- Někdo v pohoří // TODO viz [[Argynovstův deník]]
+- Zdroj zlé moci
 ## Kopec Minulosti
 - Kopec asi 3 hodiny cesty na jih od [[#Vinařství U mága]]
 - Usadili se tam [[Osoby a skupiny#Druidi z Kopce minulosti|druidi]]
