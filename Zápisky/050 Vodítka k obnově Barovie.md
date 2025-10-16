@@ -18,6 +18,7 @@
 	- **Netharovi** se při meditaci zjevil [[Osoby a skupiny#Firan|Firan]]
 		- Firan po **Netharovi** chtěl, ať se konečně rozhodne, jestli Firanovi pomůže. Nethar ale odmítl s tím, že potřebuje více času
 		- Firan odešel se slovy: "Každý se musí zachovat, jak je pro něj nejlepší. Na brzkou shledanou." Než zmizel, ještě dodal: "Bez mé pomoci [[Osoby a skupiny#Ilmar Lirieneth|Ilmara]] nikdy nenajdeš."
+## 16. Oťávra
 - Ráno jsme měli rozhovor s nejstarším soumračným elfem [[Osoby a skupiny#Kazimir|Kazimirem]]
 	- Pověděl nám více o [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]]
 		- Je to temné místo, ale můžeme tam zjistit různá tajemství, jak zničit [[Strád von Zarovič|Stráda]] a osvobodit [[Místa - Barovie#Barovie, území|Barovii]] 
