@@ -2,6 +2,11 @@
 - Pokračovali jsme v prohledávání [[Místa - Barovie#Argynvostholt|Argynvostholtu]] na střechu
 	- Stříbrný chrlič na střeše pronesl: "Když drak svůj sen sní, ve své hrobce právoplatné, světlo Argynvostovo se rozzáří a zbaví zemi nálady pochmurné."
 	- Měli jsme další potyčku s duchy
+	- Na vrcholu věže jsme měli rozhled na [[Místa - Barovie#Barovie, území|Barovii]] a vyměňovali si věci s havrany
+		- **Nethar** dostal za jídlo stříbrňák
+		- **Malakai** dostal za stříbrňák diamant
+		- **Aurelius** dostal za platinový **Malakaiův** stříbrňák
+	- Havrani se tvářili, že ve [[Místa - Barovie#Starý Berez|Starém Berezu]] pro ně není bezpečno
 - **Malakai** a **Nethar** po cestě ven šli do místnosti s vitrážemi
 	- **Nethar** si obkreslil postavy, hlavně neznámého světce
 	- **Malakai** se modlil k [[Osoby a skupiny#Pán Jitra|Pánovi Jitra]], dostal ale vzkaz od [[Osoby a skupiny#Matka Noci|Matky Noci]], že Pán Jitra tuto zemi již opustil
@@ -24,3 +29,4 @@
 		- Je to temné místo, ale můžeme tam zjistit různá tajemství, jak zničit [[Strád von Zarovič|Stráda]] a osvobodit [[Místa - Barovie#Barovie, území|Barovii]] 
 	- Řekl, že sní o své zemřelé sestře [[Osoby a skupiny#Patrina|Patrině]], která mu o chrámu pověděla a jejíž duše je nějakým způsobem uvězněna v [[Místa - Barovie#Ravenloft|Ravenloftu]]
 	- Řekl, že když slíbíme [[Osoby a skupiny#Patrina|Patrinu]] osvobodit a pokud jsme dost silní, tak nás do [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]] zavede
+	- Taky řekl, že [[Osoby a skupiny#Ježibaba z Berezu|čarodějnice]] ve [[Místa - Barovie#Starý Berez|Starém Berezu]] uctívá [[Osoby a skupiny#Matka Noci|Matku Noci]]
