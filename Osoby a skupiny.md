@@ -40,6 +40,9 @@ Majitel hostince [[Místa - Barovie#Hostinec Krvavé Víno|Krvavé Víno]] v [[M
 	- "Sklenička vína, 1 měděný"
 	- "Karafa vína, 1 stříbrný"
 - Donesl 3 a 3 skleničky, i když u stolu sedělo 5 osob
+## Balthazar
+Ďábel
+- Bavil se se [[#Zephyros|Zephyrem]] a zmiňoval [[#Zariel]]
 ## Beluarian
 Velitel ve Flaming Fist
 ## Bildrath
@@ -130,6 +133,9 @@ Osoba ve špinavém hnědém plášti, co nás sledovala ve [[Místa - Barovie#V
 - menší postavy
 - Slouží [[#Rodina Wachterů|Vachterovým]]
 - Drzý: "Byla to jen moje chyba, že jste si mě všimli"
+## Exalos Pen Axun
+vezír ledu a oceli
+- Podle [[#Zephyros|Zephyra]] zmizel a je po něm vyhlášeno pátrání
 ## Ezmerelda
 Žačka [[#Rudolf van Richten|van Richtena]], mladá [[#Vistani|Vistanka]]
 - Místo jedné nohy má mechanickou protézu
@@ -173,6 +179,11 @@ Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlou
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
 ## Karavana
 - Karavana lidí, co se zastavila v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]], než pokračovala dál na jih
+## Kazimir
+Nejstarší [[#Soumrační elfové|Soumračný elf]]
+- Sní o své setře, Patrině, která dávno zemřela, ale její duše(?) je uvězněna v Ravenloftu
+### Patrina
+sestra Kazimira
 ## Koláčová Bába
 Prodavačka masových koláčů a údajná čarodějnice
 - Velmi stará žena, shrbená a v hadrech
@@ -577,6 +588,7 @@ Skupina, o které se píše v [[Poslední zápisky Cassie a Broma|posledních z�
 ## Soumrační elfové
 - Žijou pod [[Místa - Barovie#Luvašův tábor|Luvašovým táborem]]
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] soumrační elfové kladli velký odpor armádě [[Strád von Zarovič|Strádova]] otce při dobývání [[Místa - Barovie#Barovie, území|Barovie]]
+- Zbyli už jen muži, žádná elfka
 ## Sunder Halynd Liam
 Kouzelník, který žil ve své věži v [[Místa - Materiální pláň#Liamova tvrz|Liamově Tvrzi]]
 - Před mnoha lety bojoval s [[#Dávná sekta|dávnou sektou]]
@@ -625,6 +637,8 @@ Vlkodlak, kterého se podařilo strážím zajmout při [[Útok vlků a vlkodlak
 - Byl zabit v duelu 10. Flamerule 1492 Malakaiem
 ### Zuleika
 Partnerka [[#Emil|Emila]]
+## Zariel
+vysoko postavená ďáblice
 ## Zephyros
 **Aureliův** pán z pláně ohně
 - Líbily by se mu 3 artefakty z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
