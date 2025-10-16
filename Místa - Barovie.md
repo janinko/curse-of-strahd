@@ -13,6 +13,10 @@ title: Místa - Barovie
 	- Ukrývali uprchlíky při bojích se Strádem
 - V jedné místnosti jsou 3 vitráže:
 	- [[Osoby a skupiny#Pán Jitra|Pán Jitra]], sv. Markovia a nějaký muž, asi také světec
+### Alchybistův domek
+- Asi 10 minut cesty od Argynvostholtu
+- Nalézá se v něm zničená alchymistická laboratoř
+	- Obrahuje zbytky: ingredience, kosti, ruka obrovského humanoida
 ## Baratocké hory
 - Hory na severovýchod od [[#Zarovich, jezero|jezera Zarovich]]
 ## Baratok, jezero
