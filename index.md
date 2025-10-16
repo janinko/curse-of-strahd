@@ -1,11 +1,11 @@
 # Strádovo prokletí
 ## Epizody
+[[050 Vodítka k obnově Barovie]]  
 [[049 Rytířská přísaha]]  
 [[048 Chybějící dračí lebka]]  
 [[047 Útěk před duchy a mlhou]]  
 [[046 Poodhalení závoje tajemství Argynvostholtu]]  
 [[045 Vymetání pavučin]]  
-[[044 Popel u Arhynvostholtu]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
