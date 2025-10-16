@@ -175,6 +175,7 @@ Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlou
 - Pochází z [[Místa - Barovie#Vallaki|Vallaki]]
 ## Ježibaba z Berezu
 - podle [[#Davian|dědy z vinařství]] je to čarodějnice, co posílá oživlé strašáky do [[Místa - Barovie#Vinařství U mága|vinařství]] a žije ve [[Místa - Barovie#Starý Berez|Starém Berezu]]
+- podle [[#Kazimir|Kazimíra]] uctívá [[#Matka Noci|Matku noci]]
 ## Jocaste Geistlinger
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
 ## Karavana
