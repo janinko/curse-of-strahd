@@ -133,7 +133,10 @@ Kalendář:
 ### 15. Oťávra 735 🌑
 - [[047 Útěk před duchy a mlhou]]
 - [[048 Chybějící dračí lebka]]
+- [[049 Rytířská přísaha]]
+- [[050 Vodítka k obnově Barovie]]
 ### 16. Oťávra 735 
+- [[050 Vodítka k obnově Barovie]]
 ### 17. Oťávra 735 
 ### 18. Oťávra 735 🌒
 ### 19. Oťávra 735 🌒
