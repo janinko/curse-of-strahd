@@ -92,7 +92,7 @@ Kalendář:
 - [[022 Cesta na Kopec Minulosti]]
 - [[023 "A kurva" havran]]
 - [[024 A kurva, zase Strád]]
-- Strád nam zadal úkol [[Pátrání po van Richtenovi]], který máme splnit do týdne
+- Strád nam zadal úkol [[✅ Pátrání po van Richtenovi]], který máme splnit do týdne
 - [[025 In vino somnium]]
 ### 8. Oťávra 735 🌗
 - [[025 In vino somnium]]
@@ -124,7 +124,7 @@ Kalendář:
 - [[042 Bitva o Vlkodlačí doupě]]
 - [[043 Piknik při novoluní]]
 ### 14. Oťávra 735 
-- Do tohoto dne by melě dojít [[Strád von Zarovič|Strádův]] služebník zjistit stav úkolu [[Pátrání po van Richtenovi]]
+- Do tohoto dne by melě dojít [[Strád von Zarovič|Strádův]] služebník zjistit stav úkolu [[✅ Pátrání po van Richtenovi]]
 - [[043 Piknik při novoluní]]
 - [[044 Popel u Arhynvostholtu]]
 - [[045 Vymetání pavučin]]
