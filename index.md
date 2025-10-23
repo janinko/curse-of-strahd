@@ -9,20 +9,24 @@
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
-### Probíhající
-[[Eliminace Iseka]]  
+[[Klidný spánek dračí]]  
+[[Mnohá osvobození Ravenloftská]]  
+[[Tajemství Jantarové jeskyně]]  
+[[Záhady Irininy duše]]  
 [[Eskorta Koljanovičů]]  
+[[Eliminace Iseka]]  
+[[Najít tělo čaroděje]]  
+[[Záchrana Kelena a Marcuse]]  
+### Probíhající
 [[Vinařství v ohrožení]]  
-[[Pátrání po van Richtenovi]]  
-[[Opeřenec 🧑🏻]]  
 [[Zabíjet monstra 🧑🏻]]  
 [[Vyřešit věštbu od Madam Evy]]  
-[[Najít tělo čaroděje]]  
 [[Ztracená dcera]]  
-[[Najít doupě příšer]]  
-[[Záchrana Kelena a Marcuse]]  
-[[Pochopit neznámý kalendář]]
 ### Dokončené
+[[✅ Pátrání po van Richtenovi]]  
+[[✅ Opeřenec 🧑🏻]]  
+[[✅ Najít doupě příšer]]  
+[[✅ Pochopit neznámý kalendář]]
 [[☑️ Pomoc hostinci Na Širokém moři]]  
 [[✅ Najít madam Evu]]  
 [[✅ Zjistit kde jsme]]  
