@@ -561,7 +561,7 @@ Rodina rychtáře ve [[Místa - Barovie#Vallaki|Vallaki]]
 ## Rudolf van Richten
 Podle [[Strád von Zarovič|Stráda]] se jedná o krvelačného vraha
 - Podle [[Strád von Zarovič|Stráda]] zabil 37 [[#Vistani|vistánců]], včetně žen a dětí
-- [[Strád von Zarovič|Strád]] chtěl, aby jsme jej [[Pátrání po van Richtenovi|nalezli]] a podali o něm informace
+- [[Strád von Zarovič|Strád]] chtěl, aby jsme jej [[✅ Pátrání po van Richtenovi|nalezli]] a podali o něm informace
 - [[Strád von Zarovič|Strád]] se s ním "chce vypořádat"
 - Jeho alter-ego je [[#Riktavio|Riktavio]]
 ## Rytíři Stříbrného Draka
