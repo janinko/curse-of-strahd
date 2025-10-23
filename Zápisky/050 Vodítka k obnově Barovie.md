@@ -11,15 +11,15 @@
 	- **Nethar** si obkreslil postavy, hlavně neznámého světce
 	- **Malakai** se modlil k [[Osoby a skupiny#Pán Jitra|Pánovi Jitra]], dostal ale vzkaz od [[Osoby a skupiny#Matka Noci|Matky Noci]], že Pán Jitra tuto zemi již opustil
 - Cestou z [[Místa - Barovie#Argynvostholt|Argynvostholtu]] jsme se zastavili v alchymistické laboratoři
-	- Našli jsme zde lektvar s obřím nehtem, který vodní po dešti v horách
+	- Našli jsme zde lektvar s obřím nehtem, který voní po dešti v horách
 	- Našli jsme také část z [[Van Richtenův deník|Van Richtenova deníku]]
-- Když jsme zjistili že se nedá přímo pokračovat do [[Místa - Barovie#Starý Berez|Starého Berezu]], vzpomněli jsme si na [[Osoby a skupiny#Savid|Savida]], kterého jsme slíbili odvézt domů k [[Místa - Barovie#Vallaki|Vallaki]]
-- Přespali jsme poblíž kopce elfskými domy
+- Když jsme zjistili že se nedá přímo pokračovat do [[Místa - Barovie#Starý Berez|Starého Berezu]], vzpomněli jsme si na [[Osoby a skupiny#Savid|Savida]], kterému jsme slíbili odvézt domů k [[Místa - Barovie#Vallaki|Vallaki]]
+- Přespali jsme poblíž kopce s elfskými domy
 	- **Aurelius snil** o [[Osoby a skupiny#Zephyros|Zephyrovi]]
 		- Zephyrus se bavil s ďáblem [[Osoby a skupiny#Balthazar|Balthazarem]]
 		- Zephyrus tradičně vyhrožoval **Aureliovi**, že pomalu splácí ~~hypotéku~~ svůj dluh
-			- Přikázal mu, že pokud narazí na další zelený [[Vinařství v ohrožení|artefaktu]] musí mu jej odevzdat
-		- Zmínil, že zmizel vezír ledu a oceli [[Osoby a skupiny#Exalos Pen Axun|Exalos Pen Axun]] a že se po něm pátrá
+			- Přikázal mu, že pokud narazí na další zelený [[Vinařství v ohrožení|artefakt]] musí mu jej odevzdat
+		- Zmínil, že zmizel vezír ledu a oceli [[Osoby a skupiny#Exalos Ben Axun|Exalos Ben Axun]] a že se po něm pátrá
 	- **Netharovi** se při meditaci zjevil [[Osoby a skupiny#Firan|Firan]]
 		- Firan po **Netharovi** chtěl, ať se konečně rozhodne, jestli Firanovi pomůže. Nethar ale odmítl s tím, že potřebuje více času
 		- Firan odešel se slovy: "Každý se musí zachovat, jak je pro něj nejlepší. Na brzkou shledanou." Než zmizel, ještě dodal: "Bez mé pomoci [[Osoby a skupiny#Ilmar Lirieneth|Ilmara]] nikdy nenajdeš."
