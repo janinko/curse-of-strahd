@@ -7,9 +7,13 @@ Po [[Těžké časy v Barovii|útocích na jejich dům]], [[Osoby a skupiny#Isma
 - Dovedli jsme Koljanoviče do [[Místa - Barovie#Vallaki|Vallaki]] , kde strávili několik dní
 	- [[016 Nezvaní hosté|Útok Stráda na hostinec]] nezanechal pocit bezpečí
 - Rozhodli jsme se je odvést do [[Místa - Barovie#Krezk|Krezku]]
+- V klášteře jsme se setkali s [[Osoby a skupiny#Opat|Opatem]], který chtěl "vyléčit" [[Strád von Zarovič|Stráda]] tím, že mu dá [[Osoby a skupiny#Vasilka|nevěstu]] která vypadá jak Strádova dávná milovaná - a zároveň jako Irina
+	- Zde nemůžeme Irinu nechat
+- Irina prozatím cestuje s námi dále, ale musíme přijít na to kde ji schovat předtím, než vyrazíme do [[Místa - Barovie#Ravenloft|Ravenloftu]]
 
 - [x] Ráno 3. Oťávra je třeba nechat pohřbít tělo [[Osoby a skupiny#Koljan Indirovič †|Koljana]]
 	- Koljan byl ráno za úsvitu pohřebn
 - [x] Vydat se na cestu do [[Místa - Barovie#Vallaki|Vallaki]]
-- [ ] Vydat se na cestu do [[Místa - Barovie#Krezk|Krezku]]
-- [ ] Zvážit cestu až do [[Místa - Barovie#Klášter sv. Markovie|opatství sv. Markovie]]
+- [x] Vydat se na cestu do [[Místa - Barovie#Krezk|Krezku]]
+- [x] Zvážit cestu až do [[Místa - Barovie#Klášter sv. Markovie|opatství sv. Markovie]]
+- [ ] Vymyslet kde schovet Irinu
