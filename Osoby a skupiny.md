@@ -133,7 +133,7 @@ Osoba ve špinavém hnědém plášti, co nás sledovala ve [[Místa - Barovie#V
 - menší postavy
 - Slouží [[#Rodina Wachterů|Vachterovým]]
 - Drzý: "Byla to jen moje chyba, že jste si mě všimli"
-## Exalos Pen Axun
+## Exalos Ben Axun
 vezír ledu a oceli
 - Podle [[#Zephyros|Zephyra]] zmizel a je po něm vyhlášeno pátrání
 ## Ezmerelda
@@ -212,7 +212,7 @@ Půlork, majitel obchodu [[Místa - Materiální pláň#Lasharova stodola|Lashar
 Podle davu vesničanů z ovčařské osady u [[Místa - Barovie#Vallaki|Vallaki]] čarodějnice
 - Podle vesničanů má černé vlasy a oči a 20-25 let
 - Podle vesničanů jim vyléčila ovce, ale jedna z nich pak porodila mladé se dvěma hlavami
-- Našli jsme viset oběšené tělo, které pravděpodobně bylo její
+- Na [[Místa - Barovie#Křižovatka u Měsíční řeky|křižovatce]] jsme našli viset oběšené tělo, které pravděpodobně bylo její
 ## Lena
 Mladá havranodlačka z [[Místa - Barovie#Vallaki|Vallaki]]
 - Kráska s čiernymi havraními vlasmi, hnedými očami a špičatým nosíkom. Na krku má uviazaný strieborný medajlónik. Oblečená je v ľahkej koženej zbroji a čižmách po kolená.
@@ -288,6 +288,8 @@ Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašideln�
 	- uctívají ji nekalé živly
 	- její vliv není tak znát
 - Podle [[#Madam Eva]] je společně s [[#Pán Jitra|Pánem Jitra]] staré božstvo [[Místa - Barovie#Barovie, území|Barovie]], které nad ní drželo ochrannou ruku, předtím než byla prokletá. Její moc už není tak silná.
+- podle [[#Soumrační elfové|elfů]] je to bohyně temnoty, temného měsíce a zapomění
+- podle svých slov je jedniniu zbylou bohyní v Barovii
 ## Mocný čaroděj
 - Podle [[#Donovič|Donoviče]] asi před rokem sesbíral skupinu lidí, kteří se měli vydat porazit upíra [[Strád von Zarovič|Stráda]]
 - Donovičův syn [[#Doru]] byl prý součástí výpravy a vrátil se "jiný"
@@ -296,6 +298,10 @@ Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašideln�
 - podle svých [[Zápisky mocného čarodějě|zápisků]] se přátelil s [[#Elminster|Elminsterem]]
 - Podle [[#Danika Martikovová|Daniky]] a lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] byl u [[Místa - Barovie#Zarovich, jezero|jezera Zarovich]] viděn podivný mág, který blesky útočil na jezero se slovy že se pomstí rybám
 	- Podle nich by mohl být někde v [[Místa - Barovie#Baratocké hory|Baratockých horách]]
+## Muriel
+Žena ze [[Místa - Barovie#Starý Berez|Starého Berezu]]
+- Říká o sobě že v Berezu žije a stráží jej
+- Jedná se o [[#Ježibaba z Berezu|ježibabu]]???
 ## Nešťastný strážný
 - Chtěl po nás víno, za to že nás pustí do města
 - Abukai spícímu strážnému svázal tkaničky, předtím než jej vzbudil a dal mu víno
