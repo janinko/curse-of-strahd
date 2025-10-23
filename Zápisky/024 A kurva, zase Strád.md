@@ -18,7 +18,7 @@
 	- Kladl nám na srdce, ať Irinu ochraňujeme, ať se jí nic nestane, než bude mít příležitost ji "přesvědčit svým šarmem"
 	- Při zmínce o šarmu nevypadal, že by se zastavil jen u obyčejného šarmu.
 - Rozhovor zakončil zmínkou [[Osoby a skupiny#Rudolf van Richten|Rudolfa van Richtena]], údajného krvelačného vraha, který prý zabil 37 [[Osoby a skupiny#Vistani|Vistánců]] včetně žen a dětí
-	- Zadal nám [[Pátrání po van Richtenovi|úkol van Richtena najít]] a podat Strádovi zprávu
+	- Zadal nám [[✅ Pátrání po van Richtenovi|úkol van Richtena najít]] a podat Strádovi zprávu
 - Poté odešel na západ k mlze, do které se zahleděl
 
 ### Konečné řešení druidí otázky
