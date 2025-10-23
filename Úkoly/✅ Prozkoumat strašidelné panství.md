@@ -30,7 +30,7 @@ Při pátrání po [[Místa - Barovie#Vlkodlačí doupě|doupěti vlkodlaků]] n
 	- Podle ducha Margaret hosté rodičů "přijdou a pak neodejdou."
 	- Zdálo se, že Margaret má strach z paní Dostrové
 - [ ] ~~Zjistit jak funguje cestování mezi [[Místa - Barovie#Barovie, území|Barovií]] a jinými místy~~
-	- Vlkodlaci podle dětí [[Osoby a skupiny#Rodina Dorstových|duchů dětí Dorstových]] používají dům k cestování mezi Barovií a jinými místy -> [[Najít doupě příšer]]
+	- Vlkodlaci podle dětí [[Osoby a skupiny#Rodina Dorstových|duchů dětí Dorstových]] používají dům k cestování mezi Barovií a jinými místy -> [[✅ Najít doupě příšer]]
 	- Taky bysme mohli najít majitele [[Osoby a skupiny#Lancelot|Lancelota]] -> [[✅ Najít majitele Lancelota]]
 - [x] Dostat se z domu
 	- Podle [[Vzkaz od Kelena a Marcuse|vzkazu od Kelena a Marcuse]] je dům smrtelnou pastí, měli bysme se z něj pokusit dostat bez úhony
