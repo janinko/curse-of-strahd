@@ -3,11 +3,12 @@
 - **Nethar** vyčarovatl stínového ducha, kterého poslal do jeskyně na průzkum
 - V jeskyni jsme vybili několik vlků a vlkodlaků
 - Při prozkoumávání jsme našli panenku, která byla až podezřele podobná **Malakaiovi**, jen v zombie podobě
-- [[Záchrana Kelena a Marcuse|Našli jsme]] [[Osoby a skupiny#Kelen|Kelena]]/[[Osoby a skupiny#Marcus|Marcuse]] v jeskyni se spoustou dalších zajatých mládežníků
+- [[Záchrana Kelena a Marcuse|Našli jsme]] [[Osoby a skupiny#Marcus|Marcuse]] v jeskyni se spoustou dalších zajatých mládežníků
 	- V jeskyni taky byla socha ženy s vlčí hlavou a spoustou květin
 	- Spousta pokladů kolem sochy
 	- Byla tam také vlkodlačka [[Osoby a skupiny#Zuleika|Zulka]]
 - [[Osoby a skupiny#Zuleika|Zulka]] nám řekla
+	- [[Osoby a skupiny#Kelen|Kelen]] byl zabit
 	- Její partner [[Osoby a skupiny#Emil|Emil]] je vězněn na hradě [[Místa - Barovie#Ravenloft|Ravenloft]]
 	- [[Osoby a skupiny#Kiril|Kiril]] se spřáhl se [[Strád von Zarovič|Strádem]] aby se stal novým vůdcem vlkodlaků
 		- Chce rozšiřovat počty vlkodlaků přeměnou mládežníků
