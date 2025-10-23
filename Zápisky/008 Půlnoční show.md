@@ -1,5 +1,5 @@
 ## 2. Oťávra (měsíc lovců) 735
-- Dobrodruzi dokončili rozhovor s [[Osoby a skupiny#Ismark Koljanovič|Ismarkem]] otázkami o [[Místa - Barovie|okolí]] a místním [[Pochopit neznámý kalendář|kalendáři]] 
+- Dobrodruzi dokončili rozhovor s [[Osoby a skupiny#Ismark Koljanovič|Ismarkem]] otázkami o [[Místa - Barovie|okolí]] a místním [[✅ Pochopit neznámý kalendář|kalendáři]] 
 - **Abukai** vymyslel plán, že [[Osoby a skupiny#Irina Koljanovna|Irinu]] převlečou za Vistánku a chtěl po **Netharovi** ať od nich získá jejich šaty
 	- Nethar si s nimi ale jen popovídal, aby zjistil kde najde [[Osoby a skupiny#Madam Eva|madam Evu]], dozvěděl se něco o [[Osoby a skupiny#Vistani|Vistani]] a zahrál si karty - krysí poker
 - **Abukai** na chvíli zmizel v kuchyni a pak zbytek rychle volal ven, mávaje při tom balíčkem oregána.
