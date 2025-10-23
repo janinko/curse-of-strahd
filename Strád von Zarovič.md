@@ -13,7 +13,7 @@ title: Strád von Zarovič
 - 4. Oťávra se poprvé [[012 Setkání s ďáblem Strádem|setkal s dobroduhy]]
 - [[Osoby a skupiny#Druidi z Kopce minulosti|Druidi]] měli amulet se symbolem Stráda a postavili mu sochu z větvoví
 	- Strád při pohledu na sochu hodnotil: "Nevím, jestli mám být poctěn, nebo ne"
-- Chce se [[Pátrání po van Richtenovi|vypořádat]] s [[Osoby a skupiny#Rudolf van Richten|Rudolfem van Richtenem]] a nabídl odměnu za informace o něm
+- Chce se [[✅ Pátrání po van Richtenovi|vypořádat]] s [[Osoby a skupiny#Rudolf van Richten|Rudolfem van Richtenem]] a nabídl odměnu za informace o něm
 - [[Osoby a skupiny#Davian|Davianovi]] řekl, že jej zatím toleruje, ale že jeho netopýři můžou Daviana kdykoli najít a roztrhat
 - Tvrdí, že neovládá [[Místa - Barovie#Mlha|mlhu]]
 - Tvrdí, že s **Aureliem** cítí zvláštní druh pouta
