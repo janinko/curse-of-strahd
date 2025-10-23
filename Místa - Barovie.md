@@ -137,6 +137,10 @@ title: Místa - Barovie
 ### Lovecká chata
 - Stará lovecká chata nedaleko Krezku
 - Podle [[Osoby a skupiny#Dimitrij Krezk|Dimitrije]] zde kdysi žil [[Osoby a skupiny#Boris|Boris]] se svou ženou, ale jednoho dne zmizeli
+## Křižovatka u Měsíční řeky
+- Na západ od [[#Vallaki]] za mostem přes Měsíční řeku
+- Dav vesničanů zde oběsil [[Osoby a skupiny#Léčitelka / Čarodějnice|mladou dívku]]
+- Lano z oprátky se po odříznutí pokusilo utéct, než jej **Aurelius** spálil
 ## Luvašův tábor
 - Tábor [[Osoby a skupiny#Vistani|Vistani]], odkud pochází [[Osoby a skupiny#Alenka, Mirabel a Sabia|Alenka, Mirabel a Sabia]]
 - Nachází se na jihozápad od [[#Vallaki|Vallaki]], na západní cestě, odbočkou na jih
