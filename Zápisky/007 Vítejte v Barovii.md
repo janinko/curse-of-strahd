@@ -21,4 +21,4 @@
 	- Irina si prý nic nepamatuje, ale ráno si na krku našla rány
 	- Srdce jejich [[Osoby a skupiny#Koljan Indirovič †|otce]] nevydrželo stres a otec zemřel
 - Ismark plánuje, že poté co otce pohřbí u [[Místa - Barovie#Kostel Pána Jitra|kostela]] za vesnicí, odejdou s Irinou do [[Místa - Barovie#Vallaki|Vallaki]] a rád by si dobrodruhy [[Eskorta Koljanovičů|najal jako ostrahu]]
-- Ismark taky dobrodruhy informoval, že dle [[Pochopit neznámý kalendář|zdejšího kalendáře]] je 2. Oťávra 735
+- Ismark taky dobrodruhy informoval, že dle [[✅ Pochopit neznámý kalendář|zdejšího kalendáře]] je 2. Oťávra 735
