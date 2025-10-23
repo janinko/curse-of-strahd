@@ -1,0 +1,24 @@
+## 16. Oťávra
+- **Abukai** posbíral listí a šípky na tvorbu kytice pro [[Záhady Irininy duše|položení na hrob Mariny]] v [[Místa - Barovie#Starý Berez|Berezu]]
+- Vydali jsme se na cestu do [[Místa - Barovie#Starý Berez|Starého Berezu]]
+- Na [[Místa - Barovie#Křižovatka u Měsíční řeky|křižovatce u Měsíční řeky]] jsme našli oprátku, tentokrát už bez těla.
+	- **Nethar** ji odřízl od stromu ale lano se začalo samo soukat pryč
+	- **Malakai** lano chytil, ale byl zaplaven emocemi umírající [[Osoby a skupiny#Léčitelka / Čarodějnice|ženy]]
+	- **Aurelius** zvládl oprátku spálit dřív, než zmizela v porostu
+- Když se nám kola vozu začla prvně bořit do bažiny, nechali jsme jej na bezpečném místě a dál pokračovali pěšky
+- Nad bažinou se vznášela mlha, která ztěžovala hledání bezpečné cesty skrze bažinu, často jsme se museli vracet a hledat kudy nezapadneme.
+- V jeden moment se z mlhy kolem nás začali vynořovat strašáci, se kterými jsme se museli vypořádat
+- Narazili jsme na vzdušného elementála, který následoval **Aurelia**
+	- Když se s ním pokoušel komunikovat, jediné co elementál řekl bylo "uvězněn"
+	- **Aurelius** se s námi podělil o informace od [[Osoby a skupiny#Zephyros|Zephyra]] ohledně [[Osoby a skupiny#Exalos Ben Axun|zmizelého vezíra]]
+	- Nechali jsme elementála ať **Aurelia** následuje a při tom rozhání mlhu
+- Zahlédli jsme světýlko v mlze. Po tom co jsme se obecně shodli, že jde o bludičku, jsme se rozhodli světýlko následovat
+	- Když se však světlo začalo vzdalovat, zastavili jsme na místě, kde jsme jej prvně zahlédli
+	- Našli jsme tam porcelánovou panenku, vyrobenou [[Osoby a skupiny#Gadolt Blinsky|Blinskym]] se symbolem [[Osoby a skupiny#Matka Noci|Matky Noci]] a runami, které měli panenku pravděpodobně oživit
+- Na jiném místě jsme nalezli chrastítko s peřím, které znělo dost podivně.
+- Nakonec se nám podařilo dorazit do [[Místa - Barovie#Starý Berez|vesnice]]
+	- Na pokraji vesnice se elementál rozplynul a zbyl po něm jen safír, ve kterém se hemží bouře
+	- Zahlédli jsme houpající se světlo a vydali se k němu
+- Vstoupili jsme do kruhu menhirů, ve kterém stála [[Osoby a skupiny#Muriel|osoba s lampou]]
+	- Osoba se představila jako [[Osoby a skupiny#Muriel|Muriel]] a řekla o sobě že zde žije a stráží zde
+	- Uvědomili jsme si že v kruhu kamenů nefunguje magie, s lehkou panikou ([[Osoby a skupiny#Firan|Firan]] a **Nethar** s vážnou) jsme rychle kruh opustili
