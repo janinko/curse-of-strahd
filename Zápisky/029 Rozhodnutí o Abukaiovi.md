@@ -8,7 +8,7 @@
 - **Abukai** šel do kostela a zbytek do hospody
 	- **Aurelius**, **Malakai** a **Nethar** se bavili o budoucnosti spolupráce s **Abukaiem**
 		- Rozhodli jsme se, že budeme nadále pokračovat v cestách s **Abuklaiem**, ale pokud by nám jeho činy měly přivést problémy, nebudeme se za něj stavět
-	- **Abukaie** kontaktoval nějaký [[Osoby a skupiny#Vasilij von Holz|Vasilij von Holz]]
+	- **Abukaie** kontaktoval nějaký [[Strád von Zarovič#Vasilij von Holz|Vasilij von Holz]]
 - Dostali jsme pozvání na večeří do [[Osoby a skupiny#Rodina Wachterů|Wachter]] Hausu
 
 Plány:
