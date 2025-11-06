@@ -28,6 +28,9 @@ Kalendář:
 ## Rok 389
 ### 17. Time of Flowers
 - Podepsána [[Smlouva o koupi rezidence|smlouva o koupi rezidence]]
+## Rok 401
+- Zmeřela [[Osoby a skupiny#Marina †|Marina]]
+- [[052 Vzpomínka na Marinu]]
 ## Rok 435
 ### 1. Rotting
 - Podepsána [[Smlouva o koupi mlýna]]
@@ -138,6 +141,7 @@ Kalendář:
 ### 16. Oťávra 735 
 - [[050 Vodítka k obnově Barovie]]
 - [[051 Bloudění Berezskou bažinou]]
+- [[052 Vzpomínka na Marinu]]
 ### 17. Oťávra 735 
 ### 18. Oťávra 735 🌒
 ### 19. Oťávra 735 🌒
