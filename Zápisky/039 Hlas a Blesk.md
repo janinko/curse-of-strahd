@@ -1,7 +1,7 @@
 ## 12. Oťávra
 - [[Osoby a skupiny#Ezmerelda|Ezmeralda]] nás informovala, že viděla jak se [[Strád von Zarovič|Strád]] teleportoval do kláštera
 - [[Osoby a skupiny#Irina Koljanovna|Irina]] slyšela hlas z [[Místa - Barovie#Svatyně Bílého slunce|jezýrka u svatyně bílého slunce]]
-	- Byl to nějaký Sergej, který na irinu volal jménem Tatiana
+	- Byl to nějaký [[Strád von Zarovič#Sergej|Sergej]], který na Irinu volal jménem [[Osoby a skupiny#Tatiana †|Tatiana]]
 	- Chtěl ji ochránit tím, že ji stáhne do jezírka
 	- Pak Irině řekl, že pokud chce vědět o sobě více, má jít položit kytici na hrob Mariny ve [[Místa - Barovie#Starý Berez|Starém Berezu]]
 	- Ještě poradil, že máme najít jeho meč (ten z [[Věštba madam Evy|věštby]]?) v katakombách [[Místa - Barovie#Ravenloft|Ravenloftu]]
