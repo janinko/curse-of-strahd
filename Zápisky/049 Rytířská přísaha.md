@@ -15,4 +15,4 @@
 	- [[Osoby a skupiny#Argynvost|Argynvost]] hlídal [[Místa - Barovie#Jantarový chrám|Jantarový chrám]], aby se tam nedostali zlí jedinci
 	- V boji se Strádem, když Argynvost padl, tak se Hornguard vrátil a s ním i rytíři mu zavázaní
 	- Po smrti Stráda a jeho proměně na upíra měli odejít, ale z nějakého důvodu zůstali
-	- Strád po své smrti a proměně zůstal uvězněn a trýzněn, smrtí své milované Tatiany a vraždou svého bratra Sergeje 
+	- Strád po své smrti a proměně zůstal uvězněn a trýzněn, smrtí své milované [[Osoby a skupiny#Tatiana †|Tatiany]] a vraždou svého bratra [[Strád von Zarovič#Sergej|Sergeje]]
