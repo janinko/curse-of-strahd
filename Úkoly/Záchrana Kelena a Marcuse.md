@@ -7,8 +7,8 @@
 - [[Osoby a skupiny#Ismark Koljanovič|Ismark]] zmínil, že na jejich dům [[Těžké časy v Barovii|útočí]] velcí vlci (podobní jako jsme viděli v [[Místa - Materiální pláň#Liamova Tvrz|Liamovi Tvrzi]]?)
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] a [[Osoby a skupiny#Alenka, Mirabel a Sabia|vistásnkých žen]] by se mělo doupě vlkodlaků nalézat někde ve [[Místa - Barovie#Svalichský les|Svalichském lese]]
 	- Vistánské ženy údajně viděly vlkodlaky v západní části [[Místa - Barovie#Barovie, území|údolí]], západně o [[Místa - Barovie#Vallaki|Vallaki]]
-- Zachránili jsme XXX, bohužel YYY byl zabit předtím než jsme dorazili
-- Bohužel XXX byl proměněn na vlkodlaka
+- Zachránili jsme Marcuse, bohužel Kelen byl zabit předtím než jsme dorazili
+- Bohužel Marcus byl proměněn na vlkodlaka
 
 - [x] Najít způsob jak cestovat do [[Místa - Barovie#Barovie, území|Barovie]] 
 	- -> [[✅ Prozkoumat strašidelné panství]]
