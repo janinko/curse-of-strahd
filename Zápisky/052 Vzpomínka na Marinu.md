@@ -1,0 +1,49 @@
+## 16. Oťávra
+- Promluvili jsme si s [[Osoby a skupiny#Muriel|Muriel]]
+	- Prý není [[Osoby a skupiny#Ježibaba z Berezu|čarodějnice]], ta žije ve vesnici
+	- Řekla nám něco o [[Osoby a skupiny#Muriel|sobě]], o [[Osoby a skupiny#Ježibaba z Berezu|čarodějnici]] a o [[Místa - Barovie#Starý Berez|Berezu]]
+	- Poradila nám kudy jít na hřbitov
+- Poodešli jsme, aby jsme se rozhodli jestli chceme první zaútočit na čarodějnici nebo jít na hřbitov a zda věříme Muriel
+	- Muriel nevěříme, ale půjdem tama kama nám řekla
+	- Jdeme první na hřbitov
+- Cestou na hřbitov přeplaváváme řeku lodí
+	- Narazili jsme na ostrůvek, na kterém je svázaná obětovaná mršina
+	- **Malakai** v mršině viděl tělo svého bratra, po facce od **Abukaie** uslyšel hlas [[Osoby a skupiny#Matka Noci|Matky noci]]
+	- **Aurelius** mršinu zlikvidoval salvou eldrich blastů
+- Prošli jsme kolem velkého sídla
+	- Mělo ohradu z kozami a lidskými lebkami na sloupech
+- Sošli jsme ke kostelu a vydali se na hřbitov
+	- Na zadní stěnu kostela byl přibit [[Osoby a skupiny#Kněz z Berezu †|nemrtvý Berezský kněz]], který blábolil něco o temnotě a vycházel z něj podivný kouř
+	- **Aurelius** a **Nethar** jej zničili, ale ne předtím než se knězovo blábolení zvládlo všem zavrtat do mysli
+- Našli jsme kopeček s památníkem [[Osoby a skupiny#Marina|Mariny]]
+	- Socha vesnické dívky s růží. Dívka podobná [[Osoby a skupiny#Irina Koljanovna|Irině]]
+	- Nápis: "Marina, kterou si vzala mlha" 401
+	- Položili jsme kytici na pomník, Irina si klekla v modlitbě
+	- Vyrostla malá modrá květina a my se propadli do temnoty
+## ??. ???? 401
+- Objevili jsme se v malé vesnické chaloupce, jen **Abukai**, **Aurelius**, **Malakai** a **Nethar**
+- Překvapená [[Osoby a skupiny#Marina †|žena podobná Irině]] nám řekla: "Ah, to jste vy, vítejte"
+- Požádala nás ať ji pohlídáme, že ji navštěvuje [[Strád von Zarovič#Vasilij von Holz|Vasilij von Holz]] (dle popisu upír)
+- Umístili jsme se ke hlídání
+	- **Aurelius** si, jak už má ve zvyku, užil crosdressing, tentokrát jako Marina
+	- Uložil se v její posteli, zatímco Marina se schovala za dveře
+- Hlasy za dveřmi: "Musíme to udělat, abysme zachránili duši té dívky, už je pozdě zachránit jí život."
+- Vstoupili [[Osoby a skupiny#Ulrich †|Ulrich]] a [[Osoby a skupiny#Kněz z Berezu †|Berezský kněz]] - nastala šarvátka
+	- Kněz vykouzlil poletující svítící koule a **Malakai** do jedné z nich skočil s modlitbou k [[Osoby a skupiny#Pán Jitra|Pánovi Jitra]]
+		- měl vidinu anděla
+	- Přemohli jsme je
+- Předtím než se vize rozplynula, řekli že [[Strád von Zarovič#Vasilij von Holz|Vasilij von Holz]] je [[Strád von Zarovič|Strád]] v iluzi
+
+## ???
+- Objevili jsme se v pentagonové místnosti z mramoru a 5 vitrážovými okny
+- Celá místnost byla ozářena pravým denním světlem
+- Okna znázorňovala pravděpodobně další inkarnace [[Osoby a skupiny#Irina Koljanovna|Iriny]]:
+	- [[Osoby a skupiny#Marina †|Marina]] - vesnické oblečení, popraskané brýle
+	- [[Osoby a skupiny#Hraničářka|Hraničářka]] - kožená zbroj, štít, kopí, dlouhý luk
+	- [[Osoby a skupiny#Kouzelnice|Kouzelnice]] - nádherné červené šaty, kniha, hůlka
+	- [[Osoby a skupiny#Kněžka|Kněžka]] - nahrubo tkané kněžské oblečení, symbol [[Osoby a skupiny#Pán Jitra|Pána Jitra]]
+	- prázdný
+- Žádný východ
+	- Řekli jsme Irině ať zkusí rozbít prázdné okno - nešlo to
+	- Tak ať si vybere jiné a zkusí to
+	- Irina hodila **Malakaiovu** sekeru na okno hraničářky a my se propadli do temnoty
