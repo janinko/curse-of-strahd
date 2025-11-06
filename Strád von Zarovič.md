@@ -87,7 +87,12 @@ title: Strád von Zarovič
 - Je možné, že Strád dokáže vyvíjet svůj vliv i mimo [[Místa#Domény hrůzy|Doménu hrůzy]] [[Místa - Barovie#Barovie, území|Barovie]], možní s pomocí špionů
 - Strád se narodil před [[Časová osa#Léta 31x|vstupem]] Strádova otce do [[Místa - Barovie#Barovie, území|Barovie]]
 	- Strádův otec zemřel před [[Časová osa#Léta 35x|dobytím]] Barovie
-
+### Vasilij von Holz
+- Podle [[Osoby a skupiny#Ulrich †|Ulricha]] je to strádovo iluzorní alter ego
+- Podle [[Osoby a skupiny#Marina †|Mariny]] měl bratra, co se uchlastal
+## Rodina
+### Sergej
+Bratr
 ## Společníci
 ### Lady Ludmila Vilsavic
 - první nevěsta Stráda
