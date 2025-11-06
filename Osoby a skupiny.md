@@ -176,6 +176,7 @@ Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlou
 ## Ježibaba z Berezu
 - podle [[#Davian|dědy z vinařství]] je to čarodějnice, co posílá oživlé strašáky do [[Místa - Barovie#Vinařství U mága|vinařství]] a žije ve [[Místa - Barovie#Starý Berez|Starém Berezu]]
 - podle [[#Kazimir|Kazimíra]] uctívá [[#Matka Noci|Matku noci]]
+- Podle [[#Muriel]] je to starý magický tvor, loví havrany a vyrábí z nich strašáky, poletuje po okolí
 ## Jocaste Geistlinger
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
 ## Karavana
@@ -198,6 +199,11 @@ Prodavačka masových koláčů a údajná čarodějnice
 Podle [[#Davian|Daviana]] čaroděj co naučil [[Strád von Zarovič|Stráda]] magii
 - Podle [[#Davian|Daviana]] také pomohl postavit hrad [[Místa - Barovie#Ravenloft|Ravenloft]]
 - Patřila mu věž na [[Místa - Barovie#Baratok, jezero|Baratockém jezeře]]
+## Kněz z Berezu †
+Kněz, který na konci 4. století žil v Berezu
+- Spolu s [[#Ulrich †|Ulrichem]] zabili [[#Marika|Mariku]] v roce 401
+- Byl přibit na stěnu kostela, kde jeho nemrtvé tělo blábolilo o temnotě a o [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]] zatímco z něj vycházel podivný kouř
+- Jeho tělo bylo zničeno **Aureliem** a **Netharem**
 ## Kultisti z Vallaki
 Skupina kultistů uctívající [[#Gorgul|Gorgula]]
 - Byli spatřeni v opuštěném domě u [[Místa - Barovie#Vallaki|Vallaki]]
@@ -300,8 +306,10 @@ Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašideln�
 	- Podle nich by mohl být někde v [[Místa - Barovie#Baratocké hory|Baratockých horách]]
 ## Muriel
 Žena ze [[Místa - Barovie#Starý Berez|Starého Berezu]]
-- Říká o sobě že v Berezu žije a stráží jej
-- Jedná se o [[#Ježibaba z Berezu|ježibabu]]???
+- Říká o sobě že bydlí ve [[Místa - Barovie#Vallaki|Vallaki]], ale pravidelně dochází do Berezu jej strážit, vždy na několik dní
+- Prý si ten úkol tady na sebe "strážit toto území" vzala sama
+- Jedná se o [[#Ježibaba z Berezu|ježibabu]]??? tvrdí že ne
+	- Nebyla překvapena, když jí **Nethar** řekl o tom, že zabili strašáky u [[Místa - Barovie#Vinařství U mága|vinařství]]
 ## Nešťastný strážný
 - Chtěl po nás víno, za to že nás pustí do města
 - Abukai spícímu strážnému svázal tkaničky, předtím než jej vzbudil a dal mu víno
@@ -449,6 +457,24 @@ Mladá žena s kaštanovými vlasy po ramena a hnědýma očima
 	- taky se dohadoval, že by [[Strád von Zarovič|Strád]] mohl s [[#Irina Koljanovna|Irinou]] provést to samé, co provedl s [[#Doru]]
 - Při soukromém rozhovoru mezi [[#Donovič|Donovičem]] a [[#Ismark Koljanovič|Ismarkem]] o Irině zmínil Donovič něco o adopci
 	- Podle [[Dopis od Koljana Indiroviče|dopisu od Koljana]] je adoptována
+#### Tatiana †
+Předchozí inkarnace Irininy duše
+- [[Strád von Zarovič|Strád]] ji miloval
+- Zemřela kolem doby kdy 
+#### Marina †
+Předchozí inkarnace Irininy duše
+- Zemřela v roce 401, podle vzpomínky ji zabili [[#Ulrich †|Ulrich]] a [[#Kněz z Berezu †|Berezský kněz]]
+- Venkovská dívka, nosila brýle a ráda si četla
+- Na vitráži v komnatě 5 inkarnací bylo její znázornění: vesnické oblečení, popraskané brýle
+#### Hraničářka
+Předchozí inkarnace Irininy duše
+- Na vitráži v komnatě 5 inkarnací bylo její znázornění: kožená zbroj, štít, kopí, dlouhý luk
+#### Kouzelnice
+Předchozí inkarnace Irininy duše
+- Na vitráži v komnatě 5 inkarnací bylo její znázornění: nádherné červené šaty, kniha, hůlka
+#### Kněžka
+Předchozí inkarnace Irininy duše
+- Na vitráži v komnatě 5 inkarnací bylo její znázornění: nahrubo tkané kněžské oblečení, symbol [[Osoby a skupiny#Pán Jitra|Pána Jitra]]
 ### Ismark Koljanovič
 Muž, černé polodlouhé vlasy, hnědá prošívaná vesta.
 - Zmínil že [[Těžké časy v Barovii|těžké časy]] jsou proto, že [[Strád von Zarovič|Strád]] a různé příšery na ně útočí a Strád navštěvuje Irinu
@@ -491,11 +517,11 @@ Rodina rychtářů z [[Místa - Barovie#Krezk|Krezku]]
 - Aktuální rychtář
 ### Anna Krezková
 - žena rychtáře
-## Ilja Krezk †
+### Ilja Krezk †
 - 710 - 728
-## Alana Krezková †
+### Alana Krezková †
 - 715 - 731
-## Merik Krezk †
+### Merik Krezk †
 - 731-731
 ## Rodina Wachterů
 Významná rodina ve [[Místa - Barovie#Wachterhaus|Vallaki]] 
@@ -603,6 +629,9 @@ Kouzelník, který žil ve své věži v [[Místa - Materiální pláň#Liamova 
 Obchodník s oblečením ve [[Místa - Barovie#Vallaki|Vallaki]]
 ### Vilemína
  - Manželka Udolukoviče
+## Ulrich †
+Starosta v [[Místa - Barovie#Starý Berez|Berezu]] na konci 4. století
+- Spolu s [[#Kněz z Berezu †|knezem]] zabili [[#Marika|Mariku]] v roe 401
 ## Vetřelec v domě Dorstových
 Osoba, která byla nalezena mrtvá v tajné místnosti [[Místa - panství Dorstových|domu Dorstových]]
 - V ruce držel [[Dopis Gustavovi Durstovi od Stráda von Zaroviče|dopis]]
