@@ -170,6 +170,7 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 - Podle [[Osoby a skupiny#Oleg|Olega]] tam jsou světýlka, co zavedou lidi ke smrti
 - Podle [[Osoby a skupiny#Davian|Daviana]] byl Berez vesnice jako [[#Vallaki]], [[#Barovie, vesnice|Barovie]] nebo [[#Krezk]], ale [[Strád von Zarovič]] ji zničil
 - žije tam [[Osoby a skupiny#Ježibaba z Berezu|ježibaba]]
+- Podle [[Osoby a skupiny#Muriel|Muriel]] se před lety řeka rozvodnila a zničila jej
 ## Svalichská cesta
 - Hlavní cesta procházející [[#Barovie, území|údolím Barovie]]
 - Spojuje [[#Barovie, vesnice|vesnici Barovii]] na východě, [[#Vallaki|Vallaki]] uprostřed a [[#Krezk|Krezk]] na západě údolí
