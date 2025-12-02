@@ -7,17 +7,18 @@
 	- Muriel nevěříme, ale půjdem tama kama nám řekla
 	- Jdeme první na hřbitov
 - Cestou na hřbitov přeplaváváme řeku lodí
-	- Narazili jsme na ostrůvek, na kterém je svázaná obětovaná mršina
+	- Narazili jsme na ostrůvek, na kterém je svázaná obětovaná mršina jelena, rozřízlá ale úplně bez krve
 	- **Malakai** v mršině viděl tělo svého bratra, po facce od **Abukaie** uslyšel hlas [[Osoby a skupiny#Matka Noci|Matky noci]]
-	- **Aurelius** mršinu zlikvidoval salvou eldrich blastů
+	- **Aurelius** mršinu zlikvidoval salvou eldrich blastů (za zdviženého metaforického obočí svého patrona)
 - Prošli jsme kolem velkého sídla
 	- Mělo ohradu z kozami a lidskými lebkami na sloupech
-- Sošli jsme ke kostelu a vydali se na hřbitov
+- Došli jsme ke kostelu a vydali se na hřbitov
 	- Na zadní stěnu kostela byl přibit [[Osoby a skupiny#Kněz z Berezu †|nemrtvý Berezský kněz]], který blábolil něco o temnotě a vycházel z něj podivný kouř
+		- "Temné síly v srdci jantaru"
 	- **Aurelius** a **Nethar** jej zničili, ale ne předtím než se knězovo blábolení zvládlo všem zavrtat do mysli
 - Našli jsme kopeček s památníkem [[Osoby a skupiny#Marina|Mariny]]
 	- Socha vesnické dívky s růží. Dívka podobná [[Osoby a skupiny#Irina Koljanovna|Irině]]
-	- Nápis: "Marina, kterou si vzala mlha" 401
+	- Nápis: "Marina, kterou si vzala mlha" rok 401
 	- Položili jsme kytici na pomník, Irina si klekla v modlitbě
 	- Vyrostla malá modrá květina a my se propadli do temnoty
 ## ??. ???? 401
@@ -25,7 +26,7 @@
 - Překvapená [[Osoby a skupiny#Marina †|žena podobná Irině]] nám řekla: "Ah, to jste vy, vítejte"
 - Požádala nás ať ji pohlídáme, že ji navštěvuje [[Strád von Zarovič#Vasilij von Holz|Vasilij von Holz]] (dle popisu upír)
 - Umístili jsme se ke hlídání
-	- **Aurelius** si, jak už má ve zvyku, užil crosdressing, tentokrát jako Marina
+	- **Aurelius** si, jak už má ve zvyku, si užil crosdressing, tentokrát jako Marina
 	- Uložil se v její posteli, zatímco Marina se schovala za dveře
 - Hlasy za dveřmi: "Musíme to udělat, abysme zachránili duši té dívky, už je pozdě zachránit jí život."
 - Vstoupili [[Osoby a skupiny#Ulrich †|Ulrich]] a [[Osoby a skupiny#Kněz z Berezu †|Berezský kněz]] - nastala šarvátka
@@ -39,8 +40,8 @@
 - Celá místnost byla ozářena pravým denním světlem
 - Okna znázorňovala pravděpodobně další inkarnace [[Osoby a skupiny#Irina Koljanovna|Iriny]]:
 	- [[Osoby a skupiny#Marina †|Marina]] - vesnické oblečení, popraskané brýle
-	- [[Osoby a skupiny#Hraničářka|Hraničářka]] - kožená zbroj, štít, kopí, dlouhý luk
-	- [[Osoby a skupiny#Kouzelnice|Kouzelnice]] - nádherné červené šaty, kniha, hůlka
+	- [[Osoby a skupiny#Sorina †|Hraničářka]] - kožená zbroj, štít, kopí, dlouhý luk
+	- [[Osoby a skupiny#Victoria †|Kouzelnice]] - nádherné červené šaty, kniha, hůlka
 	- [[Osoby a skupiny#Kněžka|Kněžka]] - nahrubo tkané kněžské oblečení, symbol [[Osoby a skupiny#Pán Jitra|Pána Jitra]]
 	- prázdný
 - Žádný východ
