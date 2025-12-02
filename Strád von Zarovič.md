@@ -87,6 +87,11 @@ title: Strád von Zarovič
 - Je možné, že Strád dokáže vyvíjet svůj vliv i mimo [[Místa#Domény hrůzy|Doménu hrůzy]] [[Místa - Barovie#Barovie, území|Barovie]], možní s pomocí špionů
 - Strád se narodil před [[Časová osa#Léta 31x|vstupem]] Strádova otce do [[Místa - Barovie#Barovie, území|Barovie]]
 	- Strádův otec zemřel před [[Časová osa#Léta 35x|dobytím]] Barovie
+#### Podle [[Osoby a skupiny#Victoria †|Victorie]]
+- Naučil se magii od nějakých mágů, co přišli do Barovie
+- Spekulace jsou o tom,že přes mlhu přišlo několik bytostí, od kterých se učil
+- Možná má teleporační kruhy různě po barovii
+	- možná ve věži [[Místa - Barovie#Klášter sv. Markovie|Kláštera sv. Markovie]]
 ### Vasilij von Holz
 - Podle [[Osoby a skupiny#Ulrich †|Ulricha]] je to strádovo iluzorní alter ego
 - Podle [[Osoby a skupiny#Marina †|Mariny]] měl bratra, co se uchlastal
