@@ -1,6 +1,6 @@
 # Strádovo prokletí
 ## Epizody
-[[053 Ozvěny Irininy duše]]
+[[053 Ozvěny Irininy duše]]  
 [[052 Vzpomínka na Marinu]]  
 [[051 Bloudění Berezskou bažinou]]  
 [[050 Vodítka k obnově Barovie]]  
