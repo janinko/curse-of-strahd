@@ -446,6 +446,7 @@ Batole, nejmladší z dětí
 - Měl by být pochovaný u [[Místa - Barovie#Kostel Pána Jitra|kostela Morninglorda]]
 ### Irina Koljanovna
 Mladá žena s kaštanovými vlasy po ramena a hnědýma očima
+- Má 23 let
 - Dobrá šermířka s rapírem, podařilo se jí porazit **Abukaie** v přátelském zápase
 - Má ráda červenou barvu
 	- měla na sobě červený šátek, kryjící poranění na krku
@@ -458,20 +459,28 @@ Mladá žena s kaštanovými vlasy po ramena a hnědýma očima
 - Při soukromém rozhovoru mezi [[#Donovič|Donovičem]] a [[#Ismark Koljanovič|Ismarkem]] o Irině zmínil Donovič něco o adopci
 	- Podle [[Dopis od Koljana Indiroviče|dopisu od Koljana]] je adoptována
 #### Tatiana †
-Předchozí inkarnace Irininy duše
+První inkarnace Irininy duše
 - [[Strád von Zarovič|Strád]] ji miloval
 - Zemřela kolem doby kdy 
 #### Marina †
 Předchozí inkarnace Irininy duše
-- Zemřela v roce 401, podle vzpomínky ji zabili [[#Ulrich †|Ulrich]] a [[#Kněz z Berezu †|Berezský kněz]]
+- Zemřela v roce 401, podle vzpomínky ji zabili [[#Ulrich †|Ulrich]] a [[#Kněz z Berezu †|Berezský kněz]] ve věku kolem 27 let
 - Venkovská dívka, nosila brýle a ráda si četla
 - Na vitráži v komnatě 5 inkarnací bylo její znázornění: vesnické oblečení, popraskané brýle
-#### Hraničářka
+#### Sorina †
 Předchozí inkarnace Irininy duše
 - Na vitráži v komnatě 5 inkarnací bylo její znázornění: kožená zbroj, štít, kopí, dlouhý luk
-#### Kouzelnice
+- Byla adoptována, vychovávali ji medvědi
+- Hledala svou nevlastní sestru Vašu
+- Zemřela při střetu s vlkodlaky, kteří ji chtěli dovést ke [[Strád von Zarovič|Strádovi]] ve věku kolem 20 let
+##### Vaša
+- Nevlastní sestra Soriny, unesena vlkodlaky
+#### Victoria †
 Předchozí inkarnace Irininy duše
 - Na vitráži v komnatě 5 inkarnací bylo její znázornění: nádherné červené šaty, kniha, hůlka
+- Dle svých slov nebyla asoptovaná
+- Pokusila se uniknout [[Strád von Zarovič|Strádovi]] teleportací na [[Místa - Barovie#Ghakis, hora|horu Ghakis]]
+- Na hoře umrzla
 #### Kněžka
 Předchozí inkarnace Irininy duše
 - Na vitráži v komnatě 5 inkarnací bylo její znázornění: nahrubo tkané kněžské oblečení, symbol [[Osoby a skupiny#Pán Jitra|Pána Jitra]]
