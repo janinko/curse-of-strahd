@@ -95,6 +95,13 @@ title: Místa - Barovie
 ## Jantarový chrám
 - Někdo v pohoří Balinok
 - Zdroj zlé moci
+## Kamenné kruhy
+- Několik kamenných kruhů, nacházejících se různě po Barovii
+- Lokace:
+	- U cesty z [[#Vallaki]] do [[#Krezk|Krezku]]
+	- Ve [[#Starý Berez|Starém Berezu]]
+- Podle [[Osoby a skupiny#Victoria †|Viktorie]] můžou sloužit pro přesun mezi místy
+- Uvnitř Berezského kruhu nefunguje magie
 ## Kopec Minulosti
 - Kopec asi 3 hodiny cesty na jih od [[#Vinařství U mága]]
 - Usadili se tam [[Osoby a skupiny#Druidi z Kopce minulosti|druidi]]
@@ -131,6 +138,7 @@ title: Místa - Barovie
 - Zmínil jej [[Osoby a skupiny#Donovič|Kněz Donovič]] jako vhodné místo na ukrytí [[Osoby a skupiny#Irina Koljanovna|Iriny]]
 - Na cedulce u dveří na nádvoří je napsáno: "Nechť její záře vyléčí všechny nemoci."
 - Na nádvoří se převalovala podivně hustá mlha
+- Podle [[Osoby a skupiny#Ezmerelda|Ezmeraldy]] se [[Strád von Zarovič|Strád]] zjevil ve věži a podle [[Osoby a skupiny#Victoria †|Victorie]] by se tam mohl nacházet teleportační kruh
 ### Svatyně Bílého slunce
 - Altánek u jezírka
 - Je zde socha do půli těla svlečeného truchlícího muže, s rukami rozpřaženými jako by čekal obětí
@@ -249,6 +257,7 @@ Dům [[Smlouva o koupi rezidence|koupený]] Dorstovými
 - dům to byl dříve majestání, teď ale už poněkud zanedbaný a sešlý
 - Portréty v jídelně zobrazují členy [[Osoby a skupiny#Rodina Wachterů|rodiny Wachterů]]: muže, dceru a 2 syny
 - Velká knihovna, plná koček
+	- Podle [[Osoby a skupiny#Victoria †|Victorie]] se zde nachází kniha o [[#Jantarový chrám|Jantarovém chrámu]]
 ## Vinařství U mága
 - Nachází se na jih od [[#Krezk|Krezku]], odbočka je mezi Krezkem a [[#Vallaki|Vallaki]]
 - Dodávky vína jsou zapisované do [[Kniha dodávek vína|Knihy dodávek vína]]
