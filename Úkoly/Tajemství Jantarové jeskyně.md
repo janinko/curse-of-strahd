@@ -1,0 +1,1 @@
+- Podle [[Osoby a skupiny#Victoria †|Victorie]] mají [[Osoby a skupiny#Rodina Wachterů|Wachterovi]] v knihovně knihu o Jantarovém Chrámu
