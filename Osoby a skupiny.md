@@ -287,6 +287,8 @@ Vůdce [[Místa - Barovie#Luvašův tábor|tábora]] [[#Vistani|Vistanců]]
 Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašidelného panství]]
 - Na známkách měl napsáno "Lancelot, Mary a Gertruda, [[Místa - Barovie#Barovie, vesnice|Barovie]]"
 - Abukai psa nakrmil a ten jej pak následoval
+## Markovia
+- svatá, je po ní pojmenován [[Místa - Barovie#Klášter sv. Markovie|klášter]]
 ## Matka Noci
 - Někdo, kdo je uctíván vlkodlakem [[#Vaslov †|Vaslovem]]
 - Podle [[#Donovič|kněze Donoviče]]:
@@ -481,9 +483,12 @@ Předchozí inkarnace Irininy duše
 - Dle svých slov nebyla asoptovaná
 - Pokusila se uniknout [[Strád von Zarovič|Strádovi]] teleportací na [[Místa - Barovie#Ghakis, hora|horu Ghakis]]
 - Na hoře umrzla
-#### Kněžka
+#### Isabela †
 Předchozí inkarnace Irininy duše
 - Na vitráži v komnatě 5 inkarnací bylo její znázornění: nahrubo tkané kněžské oblečení, symbol [[Osoby a skupiny#Pán Jitra|Pána Jitra]]
+- podobná na svou matku, ale není pokrevně spřízněná s knězem, který se o ni staral
+- Modlila se aby utekla [[Strád von Zarovič|Strádovi]]
+- Zemřela při požáru kostela v [[Místa - Barovie#Barovie, vesnice|Barovii]]
 ### Ismark Koljanovič
 Muž, černé polodlouhé vlasy, hnědá prošívaná vesta.
 - Zmínil že [[Těžké časy v Barovii|těžké časy]] jsou proto, že [[Strád von Zarovič|Strád]] a různé příšery na ně útočí a Strád navštěvuje Irinu
@@ -634,6 +639,7 @@ Skupina, o které se píše v [[Poslední zápisky Cassie a Broma|posledních z�
 ## Sunder Halynd Liam
 Kouzelník, který žil ve své věži v [[Místa - Materiální pláň#Liamova tvrz|Liamově Tvrzi]]
 - Před mnoha lety bojoval s [[#Dávná sekta|dávnou sektou]]
+## Taša Petrovna
 ## Udolukovič
 Obchodník s oblečením ve [[Místa - Barovie#Vallaki|Vallaki]]
 ### Vilemína
