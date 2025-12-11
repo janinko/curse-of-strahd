@@ -9,7 +9,7 @@
 	- Taky nám řekl, že chce aby [[Strád von Zarovič|Strád]] trpěl a že smrt by pro něj byla příliš dobrá
 	- Dvakrát taky řekl ať jdeme pryč, tak jsme ho napodruhé poslechli
 - V jedné místnosti byly 3 vitrážová okna:
-	- [[Osoby a skupiny#Pán Jitra|Pán Jitra]], sv. Markovia a nějaký muž, asi také světec
+	- [[Osoby a skupiny#Pán Jitra|Pán Jitra]], sv. Markovia a nějaká žena, asi také světec
 - V další místnosti nám k nohám padla poslední stránka z [[Osoby a skupiny#Argynvost|Argynvostova]] [[Argynovstův deník|deníku]]
 - A ještě v další místnosti jsme potkali [[Osoby a skupiny#Geodfrey Gwilym|Sera Goedfreye Gwilyma]], který nám řekl
 	- [[Osoby a skupiny#Argynvost|Argynvost]] hlídal [[Místa - Barovie#Jantarový chrám|Jantarový chrám]], aby se tam nedostali zlí jedinci
