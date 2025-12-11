@@ -37,6 +37,8 @@ title: Strád von Zarovič
 - Z [[024 A kurva, zase Strád|třetího setkání]]
 	- Viděli jsme jej za dne, ale byly těžké dešťové mraky nad námi
 	- Strnule stál a hleděl do [[Místa - Barovie#Mlha|Mlhy]] u [[Místa - Barovie#Kopec Minulosti|Kopce Minulosti]]
+- Ze [[054 Smrtební hostina|vzpomínky na Tatianu]]
+	- Není imunní na nekrotické zranění (odolnost ???)
 ### Zvěsti
 #### Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]]:
 - prý mu slouží [[Osoby a skupiny#Vistani|Vistani]], protože prý můžou opustit [[Místa - Barovie#Barovie, území|Barovii]]
