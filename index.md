@@ -1,12 +1,12 @@
 # Strádovo prokletí
 ## Epizody
+[[054 Smrtební hostina]]  
 [[053 Ozvěny Irininy duše]]  
 [[052 Vzpomínka na Marinu]]  
 [[051 Bloudění Berezskou bažinou]]  
 [[050 Vodítka k obnově Barovie]]  
 [[049 Rytířská přísaha]]  
 [[048 Chybějící dračí lebka]]  
-[[047 Útěk před duchy a mlhou]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
