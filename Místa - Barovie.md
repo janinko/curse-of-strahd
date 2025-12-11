@@ -12,7 +12,7 @@ title: Místa - Barovie
 	- Tito rytíři bojovali proti [[Strád von Zarovič|Strádovi]]
 	- Ukrývali uprchlíky při bojích se Strádem
 - V jedné místnosti jsou 3 vitráže:
-	- [[Osoby a skupiny#Pán Jitra|Pán Jitra]], sv. Markovia a nějaký muž, asi také světec
+	- [[Osoby a skupiny#Pán Jitra|Pán Jitra]], [[Osoby a skupiny#Markovia|sv. Markovia]] a [[Osoby a skupiny#Taša Petrovna|Taša Petrovna]]
 ### Alchybistův domek
 - Asi 10 minut cesty od Argynvostholtu
 - Nalézá se v něm zničená alchymistická laboratoř
