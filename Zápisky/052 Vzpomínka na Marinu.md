@@ -42,7 +42,7 @@
 	- [[Osoby a skupiny#Marina †|Marina]] - vesnické oblečení, popraskané brýle
 	- [[Osoby a skupiny#Sorina †|Hraničářka]] - kožená zbroj, štít, kopí, dlouhý luk
 	- [[Osoby a skupiny#Victoria †|Kouzelnice]] - nádherné červené šaty, kniha, hůlka
-	- [[Osoby a skupiny#Kněžka|Kněžka]] - nahrubo tkané kněžské oblečení, symbol [[Osoby a skupiny#Pán Jitra|Pána Jitra]]
+	- [[Osoby a skupiny#Isabela †|Kněžka]] - nahrubo tkané kněžské oblečení, symbol [[Osoby a skupiny#Pán Jitra|Pána Jitra]]
 	- prázdný
 - Žádný východ
 	- Řekli jsme Irině ať zkusí rozbít prázdné okno - nešlo to
