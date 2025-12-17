@@ -45,3 +45,5 @@ Večer jsem začal meditovat s druidskou temnou holí položenou na kolenou
 - Darování magickách předmětů je jen dočasná pomoc, pro posílení pouta je třeba udělat jednoduchý rituál:
 	- Vytetovat si tuto runu na tělo
 	- \*Runa překreslena do poznámek*
+#### 16. Oťávra
+- Při [[055 Lekce o Strádovi|Souboji se Strádem]] ve vzpomínce na [[Osoby a skupiny#Tatiana †|Tatianu]] při jeho slovech: "Nemusíš na to být sám" jsem cítil nával velké antipatie ke [[Strád von Zarovič|Strádovi]]
