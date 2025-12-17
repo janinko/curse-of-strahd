@@ -1,6 +1,6 @@
 ## ???
 - Z pentagonové místnosti se vydáváme do 4. a posledního obrazku: [[Osoby a skupiny#]]
-## 6??
+## Rok 644
  - Objevili jsme se na náměstí v [[Místa - Barovie#Barovie, vesnice|Barovii]], před námi hořící kostel
  - kněz a matka volali, že jejich dcera zůstala v kostele
 	 - podařilo se nám zachránit [[Osoby a skupiny#Isabela †|Isabelu]]
@@ -9,7 +9,7 @@
 - Objevili jsme se opět v pentagonové místnosti
 	- 5. vitráž nyní zobrazuje [[Osoby a skupiny#Tatiana †|dívku v zakrvavených svatebních šatech]]
  - odpočinuli jsme si znova a dotkli se nového obrazu
-## 3?? 
+## Rok 351
 - Objevili jsme se na vyhlídce pod [[Místa - Barovie#Ravenloft|Ravenloftem]]
 - [[Osoby a skupiny#Tatiana †|Tatiana]] stojí s křišťálovým mečem na okraji vyhlídky
 - Alej k vyhlídce je poseta mrtvými svatebčany

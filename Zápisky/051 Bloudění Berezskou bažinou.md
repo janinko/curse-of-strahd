@@ -1,5 +1,5 @@
 ## 16. Oťávra
-- **Abukai** posbíral listí a šípky na tvorbu kytice pro [[Záhady Irininy duše|položení na hrob Mariny]] v [[Místa - Barovie#Starý Berez|Berezu]]
+- **Abukai** posbíral listí a šípky na tvorbu kytice pro [[✅ Záhady Irininy duše|položení na hrob Mariny]] v [[Místa - Barovie#Starý Berez|Berezu]]
 - Vydali jsme se na cestu do [[Místa - Barovie#Starý Berez|Starého Berezu]]
 - Na [[Místa - Barovie#Křižovatka u Měsíční řeky|křižovatce u Měsíční řeky]] jsme našli oprátku, tentokrát už bez těla.
 	- **Nethar** ji odřízl od stromu ale lano se začalo samo soukat pryč

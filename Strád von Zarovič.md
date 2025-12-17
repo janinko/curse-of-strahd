@@ -38,7 +38,7 @@ title: Strád von Zarovič
 	- Viděli jsme jej za dne, ale byly těžké dešťové mraky nad námi
 	- Strnule stál a hleděl do [[Místa - Barovie#Mlha|Mlhy]] u [[Místa - Barovie#Kopec Minulosti|Kopce Minulosti]]
 - Ze [[054 Smrtební hostina|vzpomínky na Tatianu]]
-	- Není imunní na nekrotické zranění (odolnost ???)
+	- Není imunní na nekrotické zranění, je na něj rezistentní
 ### Zvěsti
 #### Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]]:
 - prý mu slouží [[Osoby a skupiny#Vistani|Vistani]], protože prý můžou opustit [[Místa - Barovie#Barovie, území|Barovii]]
@@ -87,19 +87,34 @@ title: Strád von Zarovič
 - nemusí spát v rakvi, do ní se vrací jen pokud je vážně zraněný
 - Strád se musel odněkud naučit magii. Je možné že ovládá elementální magii.
 - Je možné, že Strád dokáže vyvíjet svůj vliv i mimo [[Místa#Domény hrůzy|Doménu hrůzy]] [[Místa - Barovie#Barovie, území|Barovie]], možní s pomocí špionů
-- Strád se narodil před [[Časová osa#Léta 31x|vstupem]] Strádova otce do [[Místa - Barovie#Barovie, území|Barovie]]
-	- Strádův otec zemřel před [[Časová osa#Léta 35x|dobytím]] Barovie
+- Strád se narodil před [[Časová osa#Léta 30x|vstupem]] Strádova otce do [[Místa - Barovie#Barovie, území|Barovie]]
+	- Strádův otec zemřel před [[Časová osa#Rok 346|dobytím]] Barovie
 #### Podle [[Osoby a skupiny#Victoria †|Victorie]]
 - Naučil se magii od nějakých mágů, co přišli do Barovie
 - Spekulace jsou o tom,že přes mlhu přišlo několik bytostí, od kterých se učil
 - Možná má teleporační kruhy různě po barovii
 	- možná ve věži [[Místa - Barovie#Klášter sv. Markovie|Kláštera sv. Markovie]]
+#### Podle [[Osoby a skupiny#Tatiana †|Tatiany]]
+- Snažil se najít kouzlo a okultní věci, předtím než se stal upírem
 ### Vasilij von Holz
 - Podle [[Osoby a skupiny#Ulrich †|Ulricha]] je to strádovo iluzorní alter ego
 - Podle [[Osoby a skupiny#Marina †|Mariny]] měl bratra, co se uchlastal
 ## Rodina
+### Barov
+otec
+- [[Časová osa#Léta 30x|před rokem 310]] vpadl na území budoucí [[Místa - Barovie#Barovie, území|Barovie]] a začal její [[Dobývání Barovie|dobývání]]
+- přijal do rodiny Rahadina
+- zemřel [[Časová osa#Rok 346|roku 346]] na následky zranění v pokročilém věku
+## Ravena
+matka
 ### Sergej
 Bratr
+- 
+- Podle [[Osoby a skupiny#Tatiana †|Tatiany]] by měl být pohřben v nejnižším patře katakomb pod [[Místa - Barovie#Ravenloft|Ravenloftem]]
+### Rahadin
+soumračný elf
+- zradil ostatní [[Osoby a skupiny#Soumrační elfové|soumračné elfy]] a přidal se k Barovovi
+- sloužil v Barovově a Strádově armádě jako generál
 ## Společníci
 ### Lady Ludmila Vilsavic
 - první nevěsta Stráda
@@ -108,6 +123,7 @@ Bratr
 ### Lady Volenta Popovsky
 - třetí nevěsta Stráda
 - upír
+- při [[055 Lekce o Strádovi|setkání v Berezu]] na sobě měla zlaté šaty pocákané krvý, plyšového medvídka na rameni a v pravé ruce hůlku
 ### Sir Ascher
  - společník Stráda
  - upír

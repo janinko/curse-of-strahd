@@ -466,7 +466,7 @@ První inkarnace Irininy duše
 - Zemřela kolem doby kdy 
 #### Marina †
 Předchozí inkarnace Irininy duše
-- Zemřela v roce 401, podle vzpomínky ji zabili [[#Ulrich †|Ulrich]] a [[#Kněz z Berezu †|Berezský kněz]] ve věku kolem 27 let
+- Zemřela v [[Časová osa#400|roce 400]], podle vzpomínky ji zabili [[#Ulrich †|Ulrich]] a [[#Kněz z Berezu †|Berezský kněz]] ve věku pod 20 let
 - Venkovská dívka, nosila brýle a ráda si četla
 - Na vitráži v komnatě 5 inkarnací bylo její znázornění: vesnické oblečení, popraskané brýle
 #### Sorina †
@@ -474,7 +474,7 @@ Předchozí inkarnace Irininy duše
 - Na vitráži v komnatě 5 inkarnací bylo její znázornění: kožená zbroj, štít, kopí, dlouhý luk
 - Byla adoptována, vychovávali ji medvědi
 - Hledala svou nevlastní sestru Vašu
-- Zemřela při střetu s vlkodlaky, kteří ji chtěli dovést ke [[Strád von Zarovič|Strádovi]] ve věku kolem 20 let
+- Zemřela při střetu s vlkodlaky, kteří ji chtěli dovést ke [[Strád von Zarovič|Strádovi]] ve věku kolem 25 let
 ##### Vaša
 - Nevlastní sestra Soriny, unesena vlkodlaky
 #### Victoria †
@@ -634,7 +634,7 @@ Skupina, o které se píše v [[Poslední zápisky Cassie a Broma|posledních z�
 
 ## Soumrační elfové
 - Žijou pod [[Místa - Barovie#Luvašův tábor|Luvašovým táborem]]
-- Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] soumrační elfové kladli velký odpor armádě [[Strád von Zarovič|Strádova]] otce při dobývání [[Místa - Barovie#Barovie, území|Barovie]]
+- Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] soumrační elfové kladli velký odpor armádě [[Strád von Zarovič|Strádova]] otce při [[Dobývání Barovie|dobývání]] [[Místa - Barovie#Barovie, území|Barovie]]
 - Zbyli už jen muži, žádná elfka
 ## Sunder Halynd Liam
 Kouzelník, který žil ve své věži v [[Místa - Materiální pláň#Liamova tvrz|Liamově Tvrzi]]
