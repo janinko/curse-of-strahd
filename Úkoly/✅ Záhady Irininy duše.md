@@ -1,0 +1,12 @@
+- Došli jsme do [[Místa - Barovie#Starý Berez|Berezu]] ke hrobu [[Osoby a skupiny#Marina †|Mariny]]
+- Setkali jsme se ve vzpomínkách s minulými inkarnacemi [[Osoby a skupiny#Irina Koljanovna|Iriny]]:
+	- [[Osoby a skupiny#Marina †|Marinou]]
+	- [[Osoby a skupiny#Sorina †|Sorinou]]
+	- [[Osoby a skupiny#Victoria †|Victorii]]
+	- [[Osoby a skupiny#Isabela †|Isabelou]]
+	- a nakonec i [[Osoby a skupiny#Tatiana †|Tatioanou]]
+- viz
+	- [[052 Vzpomínka na Marinu]]
+	- [[053 Ozvěny Irininy duše]]
+	- [[054 Smrtební hostina]]
+	- [[055 Lekce o Strádovi]]
