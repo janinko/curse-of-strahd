@@ -156,6 +156,7 @@ title: Místa - Barovie
 ## Mlha
 Okolí [[#Barovie, území|Barovie]] halí mlha
 - Jeden konec je u [[#Kopec Minulosti|Kopce Minulosti]], kde (podle [[Osoby a skupiny#Davian|Daviana]]) když se někdo zahledí do mlhy, vidí nějaké věci
+- Při svatbě [[Osoby a skupiny#Tatiana †|Tatiany]] v [[Časová osa#Rok 351|roce 351]] ještě [[#Barovie, území|Barovii]] neobklopovala mlha
 ## Měsíční, jezero
 - Známé taky jako Luna
 - Na jihozápadě [[#Barovie, území|Barovie]]
@@ -170,7 +171,9 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 - Podle [[Osoby a skupiny#Oleg|Olega]] a [[Osoby a skupiny#Davian|Daviana]] jsou pod hradem krypty
 - Cesta k hradu od odbočky u [[#Západní brána|Západní brány]] je dlážděná
 - Podle [[Osoby a skupiny#Davian|Daviana]] jej pomohl postavit [[Osoby a skupiny#Khazan|jeden čaroděj]]
-- Pod hradem by měla být řada krypt
+- Pod hradem by měla být řada krypta
+	- Podle [[Osoby a skupiny#Tatiana †|Tatiany]] by v nejnižším patře katakomb měl být pohřben [[Strád von Zarovič#Sergej|Sergej]]
+- Kaple se nachází na přízemí, u vyhlídky
 ## Starý Berez
 - Trosky vesnice, nedaleko [[#Argynvostholt|panství Argynvosholt]]
 - Bažina
