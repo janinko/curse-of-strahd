@@ -37,6 +37,8 @@
 > Tvým nepřítelem je tvor libující si v temnotách, jehož moc je pro smrtelníka nepředstavitelná. Tato karta tě k němu zavede.
 > Straší na místě věčného odpočinku muže, kterému kdy nejvíce záviděl.
 
+- [[Strád von Zarovič|Strád]] pravděpodobně nejvíce záviděl svému [[Strád von Zarovič#Sergej|bratru Sergejovi]], do kterého se zamilovala a pozděj se za něj vdala [[Osoby a skupiny#Tatiana †|Tatiana]]
+- Podle [[Osoby a skupiny#Tatiana †|Tatiany]] by jeho hrom měl být v nejnižším patře katakomb hradu [[Místa - Barovie#Ravenloft|Ravenloftu]]
 - [ ] Zjistit více informací o [[Strád von Zarovič|Strádovi]]
 	- [ ] Vyřešit [[#První karta|První kartu]]
 	- [ ] Ptát se na informace
