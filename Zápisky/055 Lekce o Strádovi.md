@@ -9,8 +9,8 @@
 	- Varovala nás, že Strád není lehký nepřítel a že za staletí ještě nabral na síle
 	- Nabídla [[Osoby a skupiny#Irina Koljanovna|Irině]] že má jedinečnou příležitost, jakou žádná jiná neměla: Může se s naší pomocí postavit [[Strád von Zarovič|Strádovi]]
 		- Není to bez rizika a pokud selže, stráví nekonečno v neživotě
-		- "My všechny budeme stát po tvém boku" řekla Tatiana, pokud se Strádovi postaví
-	- Irina přitakala, že se Strádovi postaví
+		- "My všechny budeme stát po tvém boku" řekla Tatiana, pokud se proti Strádovi postaví
+	- Irina přitakala, že Strádovi bude čelit
 		- "Božská síla tohoto místa také touží Stráda zničit a dává ti i své požehnání"
 		- Irina je nyní mocnější
 - Bavili jsme se poté s Tatianou o historii
