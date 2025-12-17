@@ -1,4 +1,4 @@
-## ???
+## Rok 479
 - Ocitli jsme se v zasněženém lese na sever od [[Místa - Barovie#Krezk|Krezku]]
 - Potkali jsme [[Osoby a skupiny#Sorina †|Sorinu]], která hledala svou sestru [[Osoby a skupiny#Vaša|Vašu]]
 - Střetli jsme se s vlkodlaky, kteří unesli Vašu, aby nalákali Sorinu
@@ -10,7 +10,7 @@
 	- I když nemůžeme změnit minulost, můžeme se dovědět informace
 - [[Osoby a skupiny#Irina Koljanovna|Irina]] se dotkla další vitráže
 
-### ???
+### Rok 561
 - Objevili jsme se na vrcholku zasněžené [[Místa - Barovie#Ghakis, hora|hory Ghakis]]
 - Potkali jsme [[Osoby a skupiny#Victoria †|Victoriu]], která byla téměř umrzlá
 - Podařilo se nám ji zahřát, pak nám ale dlouho trvalo než jsme našli bezpečné místo k utáboření
