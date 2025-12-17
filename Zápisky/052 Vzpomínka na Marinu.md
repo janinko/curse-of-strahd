@@ -21,7 +21,7 @@
 	- Nápis: "Marina, kterou si vzala mlha" rok 401
 	- Položili jsme kytici na pomník, Irina si klekla v modlitbě
 	- Vyrostla malá modrá květina a my se propadli do temnoty
-## ??. ???? 401
+## Rok 400
 - Objevili jsme se v malé vesnické chaloupce, jen **Abukai**, **Aurelius**, **Malakai** a **Nethar**
 - Překvapená [[Osoby a skupiny#Marina †|žena podobná Irině]] nám řekla: "Ah, to jste vy, vítejte"
 - Požádala nás ať ji pohlídáme, že ji navštěvuje [[Strád von Zarovič#Vasilij von Holz|Vasilij von Holz]] (dle popisu upír)
