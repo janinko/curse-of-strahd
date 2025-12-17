@@ -18,30 +18,59 @@ Kalendář:
 ## Léta 3xx
 - Podle [[Osoby a skupiny#Savid|Savida]] byl postaven [[Místa - Barovie#Argynvostholt|Argynvostholt]], také v tomto století byl zničen
 - Podle [[Dopis od Koljana Indiroviče|dopis]] od [[Osoby a skupiny#Koljan Indirovič †|Koljana]] "před více jak 400 lety" od roku 735 začal [[Strád von Zarovič|Strád]] vysávat krev občanům [[Místa - Barovie#Barovie, území|Barovie]] 
-## Léta 31x
-- Otec [[Strád von Zarovič|Stráda von Zaroviče]] začal dobývání [[Místa - Barovie#Barovie, území|Barovie]]
+## Léta 30x
+- Před rokem 310 otec [[Strád von Zarovič|Stráda von Zaroviče]] začal [[Dobývání Barovie|dobývání]] [[Místa - Barovie#Barovie, území|Barovie]]
 ## Léta 32x
 - Kolem roku 320 začíná [[Kniha dodávek vína]] z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
 - [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] začalo [[Strád von Zarovič|Strádovi]] vozit víno
-## Léta 35x
-- [[Strád von Zarovič|Strád]] dokončil dobývání barovie stavbou hradu [[Místa - Barovie#Ravenloft|Ravenloft]]
+- Ke konci desetiletí se narodila [[Osoby a skupiny#Tatiana †|Tatiana]]
+## Rok 346
+- Zemřel [[Strád von Zarovič#Barov|otec Stráda Barov]]
+## Rok 347
+- Konec [[Dobývání Barovie|dobývání]] [[Místa - Barovie#Barovie, území|Barovie]], [[Strád von Zarovič|Strád]] vyhrál
+- Začátek stavby [[Místa - Barovie#Ravenloft|hradu Ravenloftu]]
+## Rok 350
+- Dokončení stavby [[Místa - Barovie#Ravenloft|hradu Ravenloftu]]
+## Rok 351
+- Svatba [[Osoby a skupiny#Tatiana †|Tatiany]] a [[Strád von Zarovič#Sergej|Sergeje]] a také den jejich smrti
+- Změna [[Strád von Zarovič|Stráda von Zaroviče]] na upíra
+- [[054 Smrtební hostina]]
+- [[055 Lekce o Strádovi]]
+## Léta 38x
+- Na počátku desetiletí byla narozena [[Osoby a skupiny#Marina †|Marina]]
 ## Rok 389
 ### 17. Time of Flowers
 - Podepsána [[Smlouva o koupi rezidence|smlouva o koupi rezidence]]
-## Rok 401
-- Zmeřela [[Osoby a skupiny#Marina †|Marina]]
+## Rok 400
+- Zeřela [[Osoby a skupiny#Marina †|Marina]] ve věku pod 20 let
 - [[052 Vzpomínka na Marinu]]
 ## Rok 435
 ### 1. Rotting
 - Podepsána [[Smlouva o koupi mlýna]]
-## Rok 45x
+## Léta 45x
 - [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] přestalo [[Strád von Zarovič|Strádovi]] vozit víno
+- Kolem roku 454 se narodila [[Osoby a skupiny#Sorina †|Sorina]]
+## Rok 479
+- Zemřela [[Osoby a skupiny#Sorina †|Sorina]] ve věku kolem 25 let
+- [[053 Ozvěny Irininy duše]]
 ## Rok 505 ±
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] "pred 220 lety" přijel [[Strád von Zarovič|Strád]] k [[Místa - panství Dorstových|domu Dorstových]] a od té doby o [[Osoby a skupiny#Rodina Dorstových|nich]] už nikdo neslyšel
-## Rok 60x
+## Léta 53x
+- Na začátku desetiletí se narodila [[Osoby a skupiny#Victoria †|Victoria]]
+## Rok 561
+- Zemřela [[Osoby a skupiny#Victoria †|Victoria]] ve věku kolem 30 let
+- [[053 Ozvěny Irininy duše]]
+## Léta 60x
 - Podle svých slov [[Osoby a skupiny#Opat|Opat]] přišel do [[Místa - Barovie#Barovie, území|Barovie]]
+## Léta 62x
+- Kolem roku 625 se narodila [[Osoby a skupiny#Isabela †|Isabela]]
+## Rok 644
+- Zemřela [[Osoby a skupiny#Isabela †|Isabela]] ve věku pod 20 let
+- [[054 Smrtební hostina]]
 ## Rok 666
 - Ročník, ze kterého je šapaňské de la Dasoan, které jsme nalezli v jeskyni ve sklepě ve [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
+# Rok 712
+- Narodila se [[Osoby a skupiny#Irina Koljanovna|Irina]]
 ## Rok 725
 - Byl [[Vinařství v ohrožení|ukraden první]] artefakt z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
 ## Rok 730
@@ -142,6 +171,7 @@ Kalendář:
 - [[050 Vodítka k obnově Barovie]]
 - [[051 Bloudění Berezskou bažinou]]
 - [[052 Vzpomínka na Marinu]]
+- [[055 Lekce o Strádovi]]
 ### 17. Oťávra 735 
 ### 18. Oťávra 735 🌒
 ### 19. Oťávra 735 🌒
