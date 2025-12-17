@@ -1,0 +1,6 @@
+- Začalo [[Časová osa#Léta 30x|před rokem 310]] a trvalo do roku [[Časová osa#Rok 347|347]]
+- [[Strád von Zarovič#Barov|Barov]] vtrhl na území budoucí [[Místa - Barovie#Barovie, území|Barovie]] a začal s dobýváním
+- Na obranu proti Barovovi se postavili [[Osoby a skupiny#Argynvost|Argynvost]] se svými rytíři a [[Osoby a skupiny#Soumrační elfové|soumrační elfové]]
+- Po [[Strád von Zarovič#Barov|Barovově]] smrti v roce [[Časová osa#Rok 346|346]] jeho syn [[Strád von Zarovič|Strád]] převzal vedení dobývání
+- Roku [[Časová osa#Rok 347|347]] [[Strád von Zarovič|Strád]] dokončil dobývání a začal stavět svůj [[Místa - Barovie#Ravenloft|hrad]]
+- [[Strád von Zarovič|Strádova]] síla dále nedovolovala další nepokoje
