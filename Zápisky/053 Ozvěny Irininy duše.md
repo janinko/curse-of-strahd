@@ -17,4 +17,4 @@
 - Pobavili jsme se o několika tématech, než se vize rozplynula:
 	- O tom kde se [[Strád von Zarovič#Podle Osoby a skupiny Victoria † Victorie|Strád]] naučil magii
 	- O [[Místa - Barovie#Klášter sv. Markovie|možných]] teleportačních kruzích a [[Místa - Barovie#Kamenné kruhy|kruzích z kamene]]
-	- O tom, [[Místa - Barovie#Wachterhaus|kde]] získat informace o [[Tajemství Jantarové jeskyně|Jantarové jeskyni]]
+	- O tom, [[Místa - Barovie#Wachterhaus|kde]] získat informace o [[Tajemství Jantarového Chrámu|Jantarové jeskyni]]
