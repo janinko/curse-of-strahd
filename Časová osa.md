@@ -24,18 +24,29 @@ Kalendář:
 - Kolem roku 320 začíná [[Kniha dodávek vína]] z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
 - [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] začalo [[Strád von Zarovič|Strádovi]] vozit víno
 - Ke konci desetiletí se narodila [[Osoby a skupiny#Tatiana †|Tatiana]]
+## Rok 327
+- Narodila se [[Osoby a skupiny#Taša Petrovna †|Taša Petrovna]]
 ## Rok 346
 - Zemřel [[Strád von Zarovič#Barov|otec Stráda Barov]]
 ## Rok 347
+- Strádova armáda táboří na místě budoucího [[Místa - Barovie#Krezk|Krezku]]
 - Konec [[Dobývání Barovie|dobývání]] [[Místa - Barovie#Barovie, území|Barovie]], [[Strád von Zarovič|Strád]] vyhrál
 - Začátek stavby [[Místa - Barovie#Ravenloft|hradu Ravenloftu]]
 ## Rok 350
 - Dokončení stavby [[Místa - Barovie#Ravenloft|hradu Ravenloftu]]
+- Založení [[Místa - Barovie#Krezk|Krezku]] lidmi ze [[Strád von Zarovič|Strádovy]] armády
 ## Rok 351
 - Svatba [[Osoby a skupiny#Tatiana †|Tatiany]] a [[Strád von Zarovič#Sergej|Sergeje]] a také den jejich smrti
 - Změna [[Strád von Zarovič|Stráda von Zaroviče]] na upíra
+- [[Osoby a skupiny#Markovia †|Markovie]] vede boj proti [[Strád von Zarovič|Strádovi]] a umírá
 - [[054 Smrtební hostina]]
 - [[055 Lekce o Strádovi]]
+## Rok 352
+- [[Místa - Barovie#Klášter sv. Markovie|Klášter v Krezku]] přejmenován na klášter Sv. Markovie
+## Rok 355
+- po teroru mnichů [[Strád von Zarovič|Strádem]], zůstává [[Místa - Barovie#Klášter sv. Markovie|Klášter sv. Markovie]] prázdný
+## Rok 362
+- Zemřela se [[Osoby a skupiny#Taša Petrovna †|Taša Petrovna]]
 ## Léta 38x
 - Na počátku desetiletí byla narozena [[Osoby a skupiny#Marina †|Marina]]
 ## Rok 389
@@ -69,22 +80,33 @@ Kalendář:
 - [[054 Smrtební hostina]]
 ## Rok 666
 - Ročník, ze kterého je šapaňské de la Dasoan, které jsme nalezli v jeskyni ve sklepě ve [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
+# Rok 710
+- Narodil se [[Osoby a skupiny#Ilja Krezk †|Ilja Krezk]]
 # Rok 712
 - Narodila se [[Osoby a skupiny#Irina Koljanovna|Irina]]
+## Rok 715
+- Narodina se [[Osoby a skupiny#Alana Krezková †|Alana Krezková]]
 ## Rok 725
 - Byl [[Vinařství v ohrožení|ukraden první]] artefakt z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
+## Rok 728
+- Zemřel se [[Osoby a skupiny#Ilja Krezk †|Ilja Krezk]]
 ## Rok 730
 - Červený mág [[Osoby a skupiny#Andreas z Bezantaru †|Andreas]] vyslán na průzkum Barovie
+## Rok 731
+- Narodil se [[Osoby a skupiny#Merik Krezk †|Merik Krezk]]
+- Zemřeli se [[Osoby a skupiny#Alana Krezková †|Alana]] a [[Osoby a skupiny#Merik Krezk †|Merik Krezkovi]]
 ## Rok 732
 - Podle [[Osoby a skupiny#Fiona Wachterová|lady Wachterové]] kolem tohoto roku zemřel její [[Osoby a skupiny#Baron Wachter †|manžel]]
 ## Rok 734
-- Podle [[Osoby a skupiny#Oleg|Olegova]] [[Skazka o kouzelníku, jež se vzepřel Strádovi|vyprávění]] a zmínek od [[Osoby a skupiny#Donovič|otce Donoviče]] se [[Osoby a skupiny#Mocný čaroděj|mocný čaroděj]] pokusil zaútočit na [[Strád von Zarovič|Stráda]]
+- Podle [[Osoby a skupiny#Oleg|Olegova]] [[Skazka o kouzelníku, jež se vzepřel Strádovi|vyprávění]] a zmínek od [[Osoby a skupiny#Donovič †|otce Donoviče]] se [[Osoby a skupiny#Mocný čaroděj|mocný čaroděj]] pokusil zaútočit na [[Strád von Zarovič|Stráda]]
 ## Rok 735
 ### Sintár 735
 - Na začátku měsíce přišel [[Osoby a skupiny#Riktavio|Riktavio]] spolu s [[Osoby a skupiny#Vistani|Vistani]]
 - Na začátku měsíce zemřel [[Osoby a skupiny#Gorwin|Gorwin]]
 - Na konci přišli [[Osoby a skupiny#Druidi z Kopce minulosti|druidi]] ukrást artefakt z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
 - Na konci nastaly [[Těžké časy v Barovii]]
+### 10. Sintára 735
+- Někdy kolem tohoto data přišel do [[Místa - Barovie#Barovie, území|Barovie]] [[Osoby a skupiny#Rudolf van Richten|Rudolf van Richten]]
 ### 14. Sintára 735
 - Byl [[Vinařství v ohrožení|ukraden druhý]] artefakt z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]], asi [[Osoby a skupiny#Ježibaba z Berezu|Ježibabou z Berezu]]
 ### 24. Sintára  735
@@ -137,6 +159,7 @@ Kalendář:
 - [[029 Rozhodnutí o Abukaiovi]]
 - [[030 Večeře u Lady Wachterové]]
 ### 10. Oťávra
+- [[Útok kultistů ve Vallaki]]
 - [[031 Rychlý odchod z Vallaki]]
 - [[032 Pravá tvář Riktavia]]
 - [[033 Vlčí obléhání]]
