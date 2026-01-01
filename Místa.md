@@ -19,6 +19,7 @@ title: Místa
 	- nejde přímo o fyzické místo, ale spíše metafyzické
 	- [[Místa - Barovie#Barovie, území|Barovie]] je vězení, kde [[Strád von Zarovič|Strád]] je zároveň vězněm i věznitelem
 	- duše nemůžou opustit doménu a je možné, že se reinkarnují
+	- [[Osoby a skupiny#Rudolf van Richten|van Richten]] pochází z Darkonu
 ## Gloomwrought
 - Město v Shadowfellu
 - Pochází odtud **Nethar**

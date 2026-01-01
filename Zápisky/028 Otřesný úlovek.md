@@ -4,7 +4,7 @@
 	- Přesunuli jsme se na místo, na kterém nehrozilo smetení ohnivou koulí
 - Po skonční oslavy se **Nethar** šel zeptat [[Osoby a skupiny#Isek Strážný|Iseka]] na prodej zbroje a zavření [[Osoby a skupiny#Udo Lukovič|Udolukoviče]]
 	- Vyptávat se na [[Osoby a skupiny#Udo Lukovič|Udolukoviče]] prý znamená dělat problémy
-	- Mít s [[Osoby a skupiny#Baron Valakovič|rychtářem]] za dobře by mohlo pomoci v propuštění Udolukoviče dříve
+	- Mít s [[Osoby a skupiny#Vargas Valakovič|rychtářem]] za dobře by mohlo pomoci v propuštění Udolukoviče dříve
 	- Pro prodej zbroje i dělání úkolů pro rychtáře se máme zastavit 10. Oťávra u Barona
 - Zaslechli jsme křik polekaných lidí, které vylekal [[Osoby a skupiny#Riktavio|Riktáviův]] mazlíček [[Osoby a skupiny#Drápek|Drápek]]
 	- Rychle jsme se vydali proti davu zjistit příčinu
@@ -21,7 +21,7 @@
 	- I přes pokus **Nethara** podvádět a kouzlem zastavit **Abukaie** doběhl **Nethar** poslední
 	- O první místo se dělili **Abukai** s Irinou
 - Na jezeře se **Malakai** pustil znovu do chytání ryb
-- **Nethar** si všiml že [[Osoby a skupiny#Podezřelý rybář|rybář]] v loďce vyhodil něco do jezera
+- **Nethar** si všiml že [[Osoby a skupiny#Podezřelý rybář †|rybář]] v loďce vyhodil něco do jezera
 	- **Abukai**, Irina a **Nethar** nasedli do děravé loďky a vydali se za rybářem
 	- Vrátili se zpátky aby jim **Aurelius** pomohl svíčkou zadělat díru
 	- Vydali se znovu za rybářem, který se zdál být velmi monotóní, podobně jako [[Osoby a skupiny#Aryk|hostinský]] z [[Místa - Barovie#Hostinec Krvavé Víno|Hostince Krvavé víno]]

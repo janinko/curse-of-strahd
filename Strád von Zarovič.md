@@ -55,7 +55,7 @@ title: Strád von Zarovič
 - Musí přes den spát v rakvi
 - Umí se přeměňovat v mlhu, netopíry a vlka
 - Umí povolat netopíry, vlky a další havěť
-#### Podle [[Osoby a skupiny#Donovič|kněze Donoviče]]:
+#### Podle [[Osoby a skupiny#Donovič †|kněze Donoviče]]:
 - na upíry funguje sluneční světlo
 #### Podle [[Osoby a skupiny#Madam Eva|madam Evy]]:
 - "Myslím si, že stav v jakém Strád je, je prokletí pro něj i pro [[Místa - Barovie#Barovie, území|Barovii]]"
@@ -89,6 +89,16 @@ title: Strád von Zarovič
 - Je možné, že Strád dokáže vyvíjet svůj vliv i mimo [[Místa#Domény hrůzy|Doménu hrůzy]] [[Místa - Barovie#Barovie, území|Barovie]], možní s pomocí špionů
 - Strád se narodil před [[Časová osa#Léta 30x|vstupem]] Strádova otce do [[Místa - Barovie#Barovie, území|Barovie]]
 	- Strádův otec zemřel před [[Časová osa#Rok 346|dobytím]] Barovie
+#### Podle [[Osoby a skupiny#Opat|Opata]]
+- Choroba [[Místa - Barovie#Barovie, území|Barovie]] vychází z choroby Stráda
+	- Choroba je nerovnováha duševní a tělesná
+	- Lékem je dát mu jeho ztracenou lásku - [[Osoby a skupiny#Tatiana †|Tatianu]], nebo v opatově názoru [[Osoby a skupiny#Vasilka|Vasilku]]
+- Strád miloval [[Osoby a skupiny#Tatiana †|ženu]], která zahynula a nic nedokázalo zaplnit díru v jeho srdci
+- V boji s [[Osoby a skupiny#Markovia †|Markovií]] si zranil nohu a pak ještě několik let kulhal a syčel bolestí
+#### Podle [[Osoby a skupiny#Ezmerelda|Ezmeraldy]]
+- Strád je v Barovii zíroveň věznitelem i vězněm
+- tekoucí voda zraňuje upíry
+	- jednoho upíra zabili přesměrováním řeky do jeho sídla
 #### Podle [[Osoby a skupiny#Victoria †|Victorie]]
 - Naučil se magii od nějakých mágů, co přišli do Barovie
 - Spekulace jsou o tom,že přes mlhu přišlo několik bytostí, od kterých se učil

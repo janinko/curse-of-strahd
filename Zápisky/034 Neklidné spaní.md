@@ -13,7 +13,7 @@
 	- Jedná se o Svatý symbol havraního rodu, artefakt který umí ochránit před upíry
 - **Nethar** studoval [[Knihy z Khazanovy věže]], **Abukai** se snažil zabezpečit chatu
 - Dali jsme se k odpočinku
-	- **Abukai** viděl duchy, ženu co hledala Borise
+	- **Abukai** viděl duchy, ženu co hledala [[Osoby a skupiny#Boris|Borise]]
 	- Došlo k samovznícení ~~starosty Varšavy~~ **Aurelia** 
 	- **Malakai** měl radostný sen o svém bratru, který se však změnil v noční můru
 	- **Nethar** meditoval nad fungováním bleskové magie a zaslechl šeptání [[Osoby a skupiny#Firan|Firana]] inspirované temnou knihou o krvavých rituálech

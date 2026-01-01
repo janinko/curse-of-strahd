@@ -12,7 +12,7 @@ title: Místa - Barovie
 	- Tito rytíři bojovali proti [[Strád von Zarovič|Strádovi]]
 	- Ukrývali uprchlíky při bojích se Strádem
 - V jedné místnosti jsou 3 vitráže:
-	- [[Osoby a skupiny#Pán Jitra|Pán Jitra]], [[Osoby a skupiny#Markovia|sv. Markovia]] a [[Osoby a skupiny#Taša Petrovna|Taša Petrovna]]
+	- [[Osoby a skupiny#Pán Jitra|Pán Jitra]], [[Osoby a skupiny#Markovia †|sv. Markovia]] a [[Osoby a skupiny#Taša Petrovna †|Taša Petrovna]]
 ### Alchybistův domek
 - Asi 10 minut cesty od Argynvostholtu
 - Nalézá se v něm zničená alchymistická laboratoř
@@ -25,7 +25,20 @@ title: Místa - Barovie
 	- Podle lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] ve věži straší
 ### Khazanova věž
 - Věž, která dříve patřila [[Osoby a skupiny#Khazan|Khazanovi]]
+- Stojí na bažinatém ostrově, je poničená s dírami ve zdi a dřevěným lešením (nyní spáleným) kolem
+	- Zdobená sochamy gryfů
 - V celé věži působí antimagické pole, které dosahuje asi 10 stop od věže
+	- Dveře je třeba otevřít správnou poslopností "cviků" (getst rukama)
+- Ve vrchním patře je
+	- oživlá zbroj
+		- aktivovaná slovem Khazan
+		- V piedestalu pod sochou byl **Holly symbol of Ravenkind**
+	- tapiserie:
+		- mág s holí na kopci zvedá kámen (stavba [[#Ravenloft|hradu]]?)
+		- mág stojí na stezce v horách, okolo sníh, před zlato/žluto/oranžovou budovou/vchodem ([[#Jantarový chrám]]?)
+		- mág vznášející se nad středně velým jezerem
+- Našli jsme tam několik [[Knihy z Khazanovy věže|knih]]
+- K [[Časová osa#14. Oťávra 735|14. Oťávru]] tam stál [[Osoby a skupiny#Riktavio|Riktaviova maringotka]]
 ## Barovie, území
 - Název území a také vesnice ležící na tom území
 - nenalézá se na materiální pláni a prý je prokletá
@@ -36,6 +49,10 @@ title: Místa - Barovie
 - V dálce za lesem skaliska tyčící se do velké, zasněžené hory
 - Podle [[Osoby a skupiny#Madam Eva|madam Evy]] jde o horské údolí, ze kterého není úniku
 - [[Osoby a skupiny#Ismark Koljanovič|Ismark]] zmínil, že nejde odejít, jen že [[Osoby a skupiny#Vistani|Vistani]] můžou cestovat ("Snad slouží [[Strád von Zarovič|Strádovi]], když můžou cestovat") 
+- Podle [[Osoby a skupiny#Ezmerelda|Ezmeraldy]]
+	- Není to fyzické místo, spíše metafyzické
+	- Jde o vězení, [[Strád von Zarovič|Strád]] je zároveň vězěm i věznitelem
+	- Toto vězení nemohou opustit ani duše, tak se reinkarnují
 - Obyvatelé
 	- Vesnice: [[#Barovie, vesnice|Barovie]], [[#Vallaki|Vallaki]] a [[#Krezk|Krezk]]
 	- Vlkodlaci, pravděpodobně ve [[#Svalichský les|Svalichském lese]]
@@ -44,6 +61,7 @@ title: Místa - Barovie
 - Zmíněná ve [[Smlouva o koupi rezidence|smluvě]] o koupi [[#Rezidence Dorstových]]
 - Nad vesnicí se tyčí hrad z obrazu v [[Místa - panství Dorstových#Podkroví|panství Dorstových]]
 - Na náměstí je hostinec Krvavé Víno a Bildrathův koloniál a studna
+- Nejstarší z Barovijských obcí
 - Obyvatelé:
 	- [[Osoby a skupiny#Mařka|Mařka]] a [[Osoby a skupiny#Gertruda|Gertruda]]
 	- [[Osoby a skupiny#Rodina Koljana Indiroviče|Rodina Kljanovičů]]
@@ -122,26 +140,44 @@ title: Místa - Barovie
 - **Malaki** v okolí kopce slyšel hlas, nabádající jej že by mohl být hoden nějakého kopí
 ## Kostel Pána Jitra
 - Pán jitra znám také jako [[Osoby a skupiny#Pán Jitra|Morninglord]], nalézající se blízko [[Místa - Barovie#Barovie, vesnice|Barovie]]
-- V kostele slouží [[Osoby a skupiny#Donovič|Donovič]]
+- V kostele slouží [[Osoby a skupiny#Donovič †|Donovič]]
 - 17. Time of Flowers 389 zde byla podepsána [[Smlouva o koupi rezidence|smlouva o koupi rezidence]]
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] se nachází nedaleko [[Místa - Barovie#Barovie, vesnice|Barovie]]
 - Na hřbitově straší
 ## Krezk
 - Osada v západní části [[#Barovie, území|Barovijského údolí]]
-- Nejmladší z obcí v Barovii
-- Obehnaná pevnou kamennou stěnou
-- Sestává jen z pár domků
+- Rychtářem je [[Osoby a skupiny#Dimitrij Krezk|Dimitrij Krezk]]
+- Nejmladší z obcí v Barovii, založen roku [[Časová osa#Rok 350|350]]
+- Obehnaný pevnou kamennou stěnou, spousta borovic a mezi nimi jen několik domů
+- Samostaná komunita
+	- Pravidlem je být nápomocný a slušný
 ### Klášter sv. Markovie
+- [[Časová osa#Rok 352|roku 352]] přejmenován z Klášter Zářivé Pobožnosti na klášter [[Osoby a skupiny#Markovia †|sv. Markovie]]
 - Bydlí v něm [[Osoby a skupiny#Opat|Opat]] a hybridizovaní potomci [[Osoby a skupiny#Rodina Belvory|rodiny Belvory]]
 - Klášter stojící nad osadou
 - Existence kláštera předchází vznik osady
-- Zmínil jej [[Osoby a skupiny#Donovič|Kněz Donovič]] jako vhodné místo na ukrytí [[Osoby a skupiny#Irina Koljanovna|Iriny]]
+- Zmínil jej [[Osoby a skupiny#Donovič †|Kněz Donovič]] jako vhodné místo na ukrytí [[Osoby a skupiny#Irina Koljanovna|Iriny]]
 - Na cedulce u dveří na nádvoří je napsáno: "Nechť její záře vyléčí všechny nemoci."
 - Na nádvoří se převalovala podivně hustá mlha
 - Podle [[Osoby a skupiny#Ezmerelda|Ezmeraldy]] se [[Strád von Zarovič|Strád]] zjevil ve věži a podle [[Osoby a skupiny#Victoria †|Victorie]] by se tam mohl nacházet teleportační kruh
+- Je zde blázinec chráněn obrovskou bytostí sešitou z částí těl ("s Opatem jsme v bezpečí")
+- Zahrádka se spoustou strašáků, nicméně králíci zde žerou
+- Je zde pohřbená [[Osoby a skupiny#Taša Petrovna †|Taša Petrovna]]
+	- Z boku jejího náhrobku je prohlubeň ve tvaru slunce
+- Historie:
+	- Před příchodem [[Strád von Zarovič|Stráda]] sloužil jako konvent a nemocnice
+		- klášter byl zářícím majákem dobra s příkladnou reprezentací [[Osoby a skupiny#Pán Jitra|Pána Jitra]]
+	- Přša mladá [[Osoby a skupiny#Markovia †|Markovia]], stala se oblíbenou kněžkou pána [[Osoby a skupiny#Pán Jitra|Pána Jitra]]
+	- v roce [[Časová osa#Rok 347|347]] pod klášterem táboří Strádova armáda
+	- [[Osoby a skupiny#Markovia †|sv. Markovia]] [[Tažení Markovie proti upírům|táhla]] proti [[Strád von Zarovič|Strádovi]]
+	- Mniši se uzavřeli v klášteře
+	- po teroru mnichů [[Strád von Zarovič|Strádem]] v roce [[Časová osa#Rok 355|355]], zůstává [[Místa - Barovie#Klášter sv. Markovie|Klášter sv. Markovie]] prázdný
+	- Z kláštera se ozývaly podivné zvuky
 ### Svatyně Bílého slunce
 - Altánek u jezírka
+- Občas ji navštěvuje [[Osoby a skupiny#Opat|Opat]]
 - Je zde socha do půli těla svlečeného truchlícího muže, s rukami rozpřaženými jako by čekal obětí
+- [[Osoby a skupiny#Irina Koljanovna|Irina]] v jezeře viděla postavu [[Strád von Zarovič#Sergej|Sergeje]]
 ### Lovecká chata
 - Stará lovecká chata nedaleko Krezku
 - Podle [[Osoby a skupiny#Dimitrij Krezk|Dimitrije]] zde kdysi žil [[Osoby a skupiny#Boris|Boris]] se svou ženou, ale jednoho dne zmizeli
@@ -152,7 +188,7 @@ title: Místa - Barovie
 ## Luvašův tábor
 - Tábor [[Osoby a skupiny#Vistani|Vistani]], odkud pochází [[Osoby a skupiny#Alenka, Mirabel a Sabia|Alenka, Mirabel a Sabia]]
 - Nachází se na jihozápad od [[#Vallaki|Vallaki]], na západní cestě, odbočkou na jih
-- Je na kopci, ve kterém žijou v domcíh [[Osoby a skupiny#Soumrační elfové|soumrační elfové]]
+- Je na kopci, ve kterém žijou v malých domcíh zabudovaných do kopce [[Osoby a skupiny#Soumrační elfové|soumrační elfové]]
 ## Mlha
 Okolí [[#Barovie, území|Barovie]] halí mlha
 - Jeden konec je u [[#Kopec Minulosti|Kopce Minulosti]], kde (podle [[Osoby a skupiny#Davian|Daviana]]) když se někdo zahledí do mlhy, vidí nějaké věci
@@ -172,6 +208,7 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 - Cesta k hradu od odbočky u [[#Západní brána|Západní brány]] je dlážděná
 - Podle [[Osoby a skupiny#Davian|Daviana]] jej pomohl postavit [[Osoby a skupiny#Khazan|jeden čaroděj]]
 - Pod hradem by měla být řada krypta
+	- Měly by tam být ostatky [[Osoby a skupiny#Markovia †|sv. Markovie]]
 	- Podle [[Osoby a skupiny#Tatiana †|Tatiany]] by v nejnižším patře katakomb měl být pohřben [[Strád von Zarovič#Sergej|Sergej]]
 - Kaple se nachází na přízemí, u vyhlídky
 ## Starý Berez
@@ -180,6 +217,7 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 - Podle [[Osoby a skupiny#Koláčová Bába|koláčové báby]] se tam dají najít nějaké byliny
 - Podle [[Osoby a skupiny#Oleg|Olega]] tam jsou světýlka, co zavedou lidi ke smrti
 - Podle [[Osoby a skupiny#Davian|Daviana]] byl Berez vesnice jako [[#Vallaki]], [[#Barovie, vesnice|Barovie]] nebo [[#Krezk]], ale [[Strád von Zarovič]] ji zničil
+- Rychtář [[Osoby a skupiny#Ulrich †|Ulrich]] spolu s [[Osoby a skupiny#Kněz z Berezu †|knězem]] zabili [[Osoby a skupiny#Marina †|Marinu]], čímž pravděpodobně naštvali stráda a ten jej zničil
 - žije tam [[Osoby a skupiny#Ježibaba z Berezu|ježibaba]]
 - Podle [[Osoby a skupiny#Muriel|Muriel]] se před lety řeka rozvodnila a zničila jej
 ## Svalichská cesta
@@ -212,11 +250,11 @@ Dům [[Smlouva o koupi rezidence|koupený]] Dorstovými
 - Obehnaná dřevěnou palisádou, se železnou mříží v bráně.
 	- Na ochozu stráží strážní
 - Asi 2,5 - 3 dny cesty z [[#Barovie, vesnice|vesnice Barovie]]
-- Rychtářem je [[Osoby a skupiny#Baron Valakovič|Baron Valakovič]]
+- Rychtářem je [[Osoby a skupiny#Vargas Valakovič|Baron Valakovič]]
 - další významnou rodinou jsou [[Osoby a skupiny#Rodina Wachterů|Vachterovi]]
 - Podle [[Osoby a skupiny#Bildrath|Bildratha]] by měla vesnice prodávat pivo
 - Pochází z tama [[Osoby a skupiny#Hortensia Verzi|Hortensia Verzi]]
-- Ve Vallaki se koná jí často různé oslavy a události na popud [[Osoby a skupiny#Baron Valakovič|rychtáře Valakoviče]]
+- Ve Vallaki se koná jí často různé oslavy a události na popud [[Osoby a skupiny#Vargas Valakovič|rychtáře Valakoviče]]
 	- Ke konci Sintára byl průvod vlčích hlav
 	- Strážný u brány doporučil zůčastnit se Oslav zářícího slunce 9. nebo 10. Oťávra
 - Někteří obyvatelé se podivně usmívají a říkají věci jako

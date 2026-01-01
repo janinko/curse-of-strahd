@@ -6,12 +6,12 @@
 - **Aureliovi** [[Osoby a skupiny#Drápek|Drápek]] ukradl batoh, protože v něm čmuchal jídlo
 - Výtahem ve věži jsme se dostali do nejvyššího patra, kde na nás čekal [[Osoby a skupiny#Rudolf van Richten|Rudolf van Richten]]
 	- Jak se ukázalo, [[Osoby a skupiny#Riktavio|Riktavio]] bylo jeho alter-ego
-- Vyslechli jsme jeho [[Příběhy Rudolfa von Richtena#O ztrátě syna a odplatě vistáncům|příběh o ztrátě syna a mstě Vistancům]]
+- Vyslechli jsme jeho [[Příběhy Rudolfa van Richtena#O ztrátě syna a odplatě vistáncům|příběh o ztrátě syna a mstě Vistancům]]
 	- Poté jsme se ve skupině dohodli, že jsme otevřeni případné spolupráci s ním
 - Prozradil nám, že druhý vůz pod věží patří jeho žačce [[Osoby a skupiny#Ezmerelda|Ezmereldě]]
 - Když **Nethar** zmínil, že pochází z [[Místa#Gloomwrought|Gloomwrought]], van Richten na něj namířil svou vycházkovou hůl, ze které vyjela stříbrná čepel
 	- Van Richten si spletl **Nethra** s jeho bratrem [[Osoby a skupiny#Ilmar Lirieneth|Ilmarem]]
-	- Van Richten pak vyprávěl svůj [[Příběhy Rudolfa von Richtena#O kultistech z Gloom Wrought|příběh z Gloomswrought]]
+	- Van Richten pak vyprávěl svůj [[Příběhy Rudolfa van Richtena#O kultistech z Gloomwrought|příběh z Gloomswrought]]
 - Van Richten nám poté sdělil nějaké [[Strád von Zarovič#Podle Osoby a skupiny Rudolf van Richten Rudolfa von Richtena|informace o upírech a Strádovi]] a zdělil nám své plány
 	- prozkoumat [[Místa - Barovie#Ravenloft|hrad Ravenloft]]
 	- prozkoumat [[Místa - Barovie#Argynvostholt]], kde prý žili rytíři bojující proti armádám Stráda a jeho otce

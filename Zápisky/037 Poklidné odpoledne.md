@@ -4,7 +4,7 @@
 - **Abukai**, **Aurelius** a [[Osoby a skupiny#Irina Koljanovna|Irina]] se šli podívat k [[Místa - Barovie#Svatyně Bílého slunce|jezírku]]
 	- **Abukai** s Irinou se bavili o tom, jak může **Abukai** dodržet svůj slib, pokud nebudou společně
 - **Nethar** šel do domu [[Osoby a skupiny#Rodina Krezků|rychtáře]], kde se potkal s [[Osoby a skupiny#Davian|Davianem Martikovem]], který jej informoval o zprávách z [[Místa - Barovie#Vallaki|Vallaki]]
-	- Nějací [[Osoby a skupiny#Kultisti z Vallaki|kultisti]] se pokusili spáchat atentát na [[Osoby a skupiny#Isek Strážný|Iseka]]
+	- Nějací [[Osoby a skupiny#Kultisti z Vallaki|kultisti]] se pokusili spáchat [[Útok kultistů ve Vallaki|atentát]] na [[Osoby a skupiny#Isek Strážný|Iseka]]
 	- Vallaki jsou teď uzavřené a na naši družinu je vypsána odměna, protože si nás spojují s útokem
 - **Malakai** a [[Osoby a skupiny#Ismark Koljanovič|Ismark]] se vydali na lov
 	- Podařilo se jim ulovit několik králíků, jednoho jelena a viděli stopy po pavoucích

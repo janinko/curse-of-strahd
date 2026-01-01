@@ -1,6 +1,6 @@
 ## 6. Oťávra
 - Ráno družinu probudil [[Osoby a skupiny#Urvin|Urvin]] s přednáškou, jak bezpečně vycházet ve [[Místa - Barovie#Vallaki|Vallaki]]
-	- Není dobré se protivit názoru [[Osoby a skupiny#Baron Valakovič|barona Valakoviče]] že oslavy dvakrát do měsíce jsou prospěšné lidu
+	- Není dobré se protivit názoru [[Osoby a skupiny#Vargas Valakovič|barona Valakoviče]] že oslavy dvakrát do měsíce jsou prospěšné lidu
 	- Je dobré dávat si pozor na baronova pohůnka [[Osoby a skupiny#Isek Strážný|Iseka Strážného]]
 	- Není dobré zmiňovat před baronem [[Strád von Zarovič|Stráda]], neb by mohl pojat podezření, že jsme jeho špioni.
 	- Bylo by dobré předstírat, že za požár v hostinci může nehoda se svíčkou
@@ -8,7 +8,7 @@
 - **Malakai** se na radu **Abukaie** vydal do [[Místa - Barovie#Kostel sv. Andrela|kostela sv. Andrela]] za [[Osoby a skupiny#Lucian Petrovič|knězem Lucienem]] aby mu identifikoval magické kůly
 	- **Aurelius** a **Nethar** se k němu přidali
 	- V kostele se dověděli, že **Abukai** na knězi zanechal silný dojem, ale kněz se v magických věcech nevyzná
-		- doporučil [[Osoby a skupiny#Baron Valakovič|barona Valakoviče]] nebo [[Osoby a skupiny#Rodina Wachterů|lady Vachterovou]], kteří prý mají spoustu knih
+		- doporučil [[Osoby a skupiny#Vargas Valakovič|barona Valakoviče]] nebo [[Osoby a skupiny#Rodina Wachterů|lady Vachterovou]], kteří prý mají spoustu knih
 - Při cestě zpět nás [[Osoby a skupiny#Ernst Larnak|někdo]] sledoval
 	- **Nethar** se skryl, aby jej načapal, ale osobě se podařilo utéct
 - V hostinci nám [[Osoby a skupiny#Danika Martikovová|Danika]] řekla, že by nám zaplatila za to, že [[☑️ Pomoc hostinci Na Širokém moři#Dovézt sudy od Mága|dovezeme sudy s vínem]] a že by byla ráda kdyby jsme [[☑️ Pomoc hostinci Na Širokém moři#Sehnat dřevo na opravy|sehnali nějaké dřevo]] na opravu poničeného hostince

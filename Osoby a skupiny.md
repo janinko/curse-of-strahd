@@ -31,6 +31,11 @@ Pán [[Místa - Barovie#Argynvostholt|Argynvostholtu]], údajně stříbrný dra
 Vistanec z [[Místa - Barovie#Luvašův tábor|Luvašova tábora]]
 - Možná příbuzný s [[Osoby a skupiny#Luvaš|Luvašem]]
 - Je mladší, v dobré kondici a s bradkou
+- Nabízel elixír na cestování mlhou za 50 zlatých
+	- Podle dalších informací (\*od koho?) mělo jít o podvrch
+- Předali jsme mu tělo [[#Arabela †|Arabely]]
+	- Chtěli se pomstít na rybáři, ale ten už byl mrtev
+	- **Nethar** neprozradil kdo rybáře zabil
 ## Arkasha Indrovich
 - Burgomeister (17. Time of Flowers 389)
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
@@ -43,6 +48,10 @@ Majitel hostince [[Místa - Barovie#Hostinec Krvavé Víno|Krvavé Víno]] v [[M
 ## Balthazar
 Ďábel
 - Bavil se se [[#Zephyros|Zephyrem]] a zmiňoval [[#Zariel]]
+## Baron Metus
+upír
+- Možná z [[Místa#Domény hrůzy|Darkonu]]
+- Podle [[Osoby a skupiny#Rudolf van Richten|van Richtena]] mu vistani prodali jeho syna
 ## Beluarian
 Velitel ve Flaming Fist
 ## Bildrath
@@ -52,7 +61,7 @@ Velitel ve Flaming Fist
 ### Ňouma
  - Obrovský člověk s holou hlavou
 ## Boris
-- Žil v [[Místa - Barovie#Lovecká chata|Lovecké chatě]] se svou ženou
+- Žil v [[Místa - Barovie#Lovecká chata|Lovecké chatě]] se svou ženou a podle [[#Dimitrij Krezk|Dimitrije]] jednoho dne zmizeli
 - Když jsme [[034 Neklidné spaní|spali v chatě]], **Abukai** viděl ducha ženy, která po něm volala
 ## Bukefalos
 - Podle [[#Davian|Daviana]] je to kůň [[Strád von Zarovič|Stráda von Zaroviče]]
@@ -85,15 +94,15 @@ Hospodská v [[Místa - Barovie#Hostinec Na Širokém moři|hostinci Na Široké
 Dávná sekta, která žila v [[Místa - Materiální pláň#Klášter dávné sekty|klášteře]] a která před mnoha lety bojovala s [[#Sunder Halynd Liam|Liamem]]
 ## Dimitry Milosovici
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
-## Donovič
+## Donovič †
 Kněz [[#Pán Jitra|Pána Jitra]]
 - Postarší muž, při těle, plešatějící
 - Má syna Doru
 - Bojí se že je [[#Pán Jitra|Pán Jitra]] opustil a že zůstala jen [[#Matka Noci|Matka Noci]]
 - Doporučil, aby byla [[#Irina Koljanovna|Irina]] odvedena až do [[Místa - Barovie#Klášter sv. Markovie|opatství sv. Markovie]] v [[Místa - Barovie#Krezk|Krezku]]
-- Dohadoval se, že by [[Strád von Zarovič|Strád]] mohl s [[#Irina Koljanovna|Irinou]] provést to samé, co provedl s [[#Doru]]
+- Dohadoval se, že by [[Strád von Zarovič|Strád]] mohl s [[#Irina Koljanovna|Irinou]] provést to samé, co provedl s [[#Doru †]]
 - Při soukromém rozhovoru s [[#Ismark Koljanovič|Ismarkem]] o [[#Irina Koljanovna|Irině]] řekl něco o adoptování
-### Doru
+### Doru †
 - Před rokem prý přišel nějaký "[[#Mocný čaroděj|mocný mág]]", který chtěl pomoc s poražením [[Strád von Zarovič|Stráda]] a Doru mu prý šel pomoci
 - Je zavřený ve sklepě [[Místa - Barovie#Kostel Pána Jitra|kostela Pána Jitra]]
 - Podle svého otce:
@@ -136,6 +145,7 @@ Osoba ve špinavém hnědém plášti, co nás sledovala ve [[Místa - Barovie#V
 ## Exalos Ben Axun
 vezír ledu a oceli
 - Podle [[#Zephyros|Zephyra]] zmizel a je po něm vyhlášeno pátrání
+- Teorie?  Potkali jsme dvakrát elementála vzduchu, který prosil **Aurelia** o pomoc, je nějak spojený?
 ## Ezmerelda
 Žačka [[#Rudolf van Richten|van Richtena]], mladá [[#Vistani|Vistanka]]
 - Místo jedné nohy má mechanickou protézu
@@ -145,8 +155,14 @@ vezír ledu a oceli
 - Jeví se asi jako 2 metry vysoký, mužské postavy
 ## Gadolt Blinsky
 Výrobce hraček ve [[Místa - Barovie#Vallaki|Vallaki]]
+ - podsaditý, zavalitý s vousy, nosí šaškovskou čepici
+ - vlasntí opici Pikolo
  - Podle [[#Davian|Daviana]] je excentrický, ale zcela neškodný
  - Vyrobil například houpacího koně podle [[Strád von Zarovič|Strádova]] koně [[#Bukefalos|Bukefalose]]
+ - má panenku [[Strád von Zarovič|Stráda]] a panenku podobnou na [[#Irina Koljanovna|Irinu]]
+ - 
+### Pikolo
+- opice
 ## Gavin Maha
 Velitel stráží v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]], úřad zastává v tamní tvrzi
 ### Thomas
@@ -159,17 +175,20 @@ Temná bytost, nazývaná "kníže temnoty" [[#Kultisti z Vallaki|Kultisty z Val
 Tiefling a bojovník Flaming Fist
 - jeho tělo bylo nalezeno u stromu na [[Místa - Barovie#Kopec Minulosti|Kopci Minulosti]]
 - Měl u sebe rozkazy od [[#Beluarian|Beluariana]] z Flaming Fist:
-	- Vyšetřit podezřelé pocestné - [[#Vistani|Vistany]]. Zjistit odkud jsou a jejich úmysly.
+	- "Vyšetřit podezřelé pocestné - [[#Vistani|Vistany]]. Zjistit odkud jsou a jejich úmysly."
 - Zemřel pravděpodobně na začátku [[Časová osa#Sintár 735|Sintára]]
+- Přišel spolu s [[Osoby a skupiny#Vistani|Vistani od Luvašova tábora]] a byl prý přátelský
 ## Ilmar Lirieneth
 - bratr **Nethara**
 - člen (podle [[#Rudolf van Richten|van Richtena]] vůdce) kultu v [[Místa#Gloomwrought|Gloomwrought]], který se snažil uniknout z Shadowfellu
 ## Isek Strážný
-Pohůnek rychtáře [[Místa - Barovie#Vallaki|Vallaki]], [[#Baron Valakovič|barona Valakoviče]]
+Pohůnek rychtáře [[Místa - Barovie#Vallaki|Vallaki]], [[#Vargas Valakovič|barona Valakoviče]]
 - Má vysokou hrubiánskou postavu a jeho pravá ruka je znetvořená, jakoby popálená
 	- Podle [[Osoby a skupiny#Fiona Wachterová|lady Wachterové]] kdysi v lese přišel o ruku, když mu ji něco uhryzlo. Uhryznutou ruku poté nahradilo něco ďábelského co má teď
 - Dokáže vyčarovat plamen (Podle [[#Urvin|Urvina]] pekelný)
-- Podle [[#Fiona Wachterová|lady Wachterové]] byl vždy problémový a násilný, ještě než se přidal k [[#Baron Valakovič|baronovi Vallakovičovi]]
+- velitel [[#Strážní ve Vallaki|strážných]]
+- Podle [[#Fiona Wachterová|lady Wachterové]] byl vždy problémový a násilný, ještě než se přidal k [[#Vargas Valakovič|baronovi Vallakovičovi]]
+- Zdálo se mu o ženě podobné na [[#Irina Koljanovna|Irinu]] a chtěl ji získat
 ## Hortensia Verzi
 Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlouva o koupi mlýna|prodala]] [[#Rodina Dorstových|Dorstovým]]
 - Pochází z [[Místa - Barovie#Vallaki|Vallaki]]
@@ -207,6 +226,8 @@ Kněz, který na konci 4. století žil v Berezu
 ## Kultisti z Vallaki
 Skupina kultistů uctívající [[#Gorgul|Gorgula]]
 - Byli spatřeni v opuštěném domě u [[Místa - Barovie#Vallaki|Vallaki]]
+	- "Slyšíš mě, kníže temnoty Gorgule?"
+	- "Sešli nám znamení, ať naše sekta ví, že jsme připraveni a že s tvojí pomocí zachráníme Vallaki od šíleného staroty"
 - Mají v úmyslu "zachránit Vallaki od šíleného starosty"
 ## Lanniver Strayl
 Rytíř Řádu Rukavice v [[Místa - Materiální pláň#Brod Dýky|Brodu dýky]]
@@ -251,10 +272,12 @@ Kněz v [[Místa - Barovie#Kostel sv. Andrela|kostele sv. Andrela]] ve [[Místa 
 ## Luvaš
 Vůdce [[Místa - Barovie#Luvašův tábor|tábora]] [[#Vistani|Vistanců]]
 - Je velký, svalnatý s černohnědými vlasy a divokými vousy. Nosí červenohnědou vestu
+- Možná příbuzný s [[#Arrigal|Arrigalem]]
 - má mladou dceru
-### Arabela
+### Arabela †
 - Dcera Luvaše, má 7 let
 - černé vlasy
+- Byla utopena [[#Podezřelý rybář †|rybářem]]
 ## Madam Eva
 [[#Vistani|Vistani]] Vědma ze sdíleného snu
 - Vyložila dobrodruhům karty (diviner, monk, mists, marionet, broken one)
@@ -287,11 +310,14 @@ Vůdce [[Místa - Barovie#Luvašův tábor|tábora]] [[#Vistani|Vistanců]]
 Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašidelného panství]]
 - Na známkách měl napsáno "Lancelot, Mary a Gertruda, [[Místa - Barovie#Barovie, vesnice|Barovie]]"
 - Abukai psa nakrmil a ten jej pak následoval
-## Markovia
+## Markovia †
 - svatá, je po ní pojmenován [[Místa - Barovie#Klášter sv. Markovie|klášter]]
+- Do kláštera přišla před rokem [[Časová osa#Rok 347|347]] jako mladá dospělá, stala se velmi oblíbenou kněžkou [[#Pán Jitra|Pána Jitra]]
+- Ve svvých 30 letech měla [[Tažení Markovie proti upírům|tažení]] proti Strádovi
+- Podle [[Osoby a skupiny#Opat|Opatova]] vyprávění ji posvětil [[#Pán Jitra]]
 ## Matka Noci
 - Někdo, kdo je uctíván vlkodlakem [[#Vaslov †|Vaslovem]]
-- Podle [[#Donovič|kněze Donoviče]]:
+- Podle [[#Donovič †|kněze Donoviče]]:
 	- je další bohyní v [[Místa - Barovie#Barovie, území|Barovii]]
 	- uctívají ji nekalé živly
 	- její vliv není tak znát
@@ -299,8 +325,8 @@ Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašideln�
 - podle [[#Soumrační elfové|elfů]] je to bohyně temnoty, temného měsíce a zapomění
 - podle svých slov je jedniniu zbylou bohyní v Barovii
 ## Mocný čaroděj
-- Podle [[#Donovič|Donoviče]] asi před rokem sesbíral skupinu lidí, kteří se měli vydat porazit upíra [[Strád von Zarovič|Stráda]]
-- Donovičův syn [[#Doru]] byl prý součástí výpravy a vrátil se "jiný"
+- Podle [[#Donovič †|Donoviče]] asi před rokem sesbíral skupinu lidí, kteří se měli vydat porazit upíra [[Strád von Zarovič|Stráda]]
+- Donovičův syn [[#Doru †]] byl prý součástí výpravy a vrátil se "jiný"
 - [[#Oleg]] o něm vykládal [[Skazka o kouzelníku, jež se vzepřel Strádovi|skazkzu]]
 - Pod [[Místa - Barovie#Tserské vodopády|Tserskými vodopády]] byla skrytá jeskyně, kde možná žil
 - podle svých [[Zápisky mocného čarodějě|zápisků]] se přátelil s [[#Elminster|Elminsterem]]
@@ -312,27 +338,27 @@ Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašideln�
 - Prý si ten úkol tady na sebe "strážit toto území" vzala sama
 - Jedná se o [[#Ježibaba z Berezu|ježibabu]]??? tvrdí že ne
 	- Nebyla překvapena, když jí **Nethar** řekl o tom, že zabili strašáky u [[Místa - Barovie#Vinařství U mága|vinařství]]
-## Nešťastný strážný
-- Chtěl po nás víno, za to že nás pustí do města
-- Abukai spícímu strážnému svázal tkaničky, předtím než jej vzbudil a dal mu víno
-- Šeptal něco o [[#Marika|Marice]]
-- Při [[Oslava zářícího slunce|Oslavě zářícího slunce]] se zasmál [[#Baron Valakovič|Baronovi]] a byl za to odvlečen za koněm
 ## Nemrtvý jezdec
 Nemrtvý jezdec na nemrtvém koni
 - Vypadá průsvitně a namordrale
 - Projel o půnoci ze [[014 Na cestě do Vallaki|4. na 5. Oťávra]] [[Místa - Barovie#Západní brána|Západní branou]]
 - 
+## Nikolaj
+Ožrala z [[Místa - Barovie#Hostinec Na Širokém moři|hostince ve Vallaki]]
 ## Opat
 Opat [[Místa - Barovie#Klášter sv. Markovie|Kláštera sv. Markovie]], jménem Opat
 - Podle [[#Dimitrij Krezk|Dimitije]] občas chodí do [[Místa - Barovie#Krezk|Krezku]] kde vybírá desátky, léčí a chodí ke [[Místa - Barovie#Svatyně Bílého slunce|Svatyni Bílého slunce]]
-- Opat vypadá mladě, ale je přes 100 let starý
+- Opat vypadá mladě a pohledně, ale je přes 100 let starý
 - Nosí mnišské šaty, dřevěný symbol slunce a na jinak bosých nohou sandály
 - Podle svých slov přišel do [[Místa - Barovie#Barovie, území|Barovie]] před necelými 130 lety
+	- Ve vzpomínce na [[#Isabela †|Isabelu]] z roku [[Časová osa#Rok 644|644]] zmiňovaly "nového" opata
+- Stará se o rodinu [[#Rodina Belvory|Belvory]], ze které jsou teď mutati
 ### Vasilka
 - žena stvořená Opatem
 - bledá, strnulá, nemluvící; velmi podobná [[#Irina Koljanovna|Irině]]
 - Opat ji nazývá svou "dcerou"
 - Vytvořil ji s plánem provdat ji za [[Strád von Zarovič|Stráda]], aby jej "vyléčil" a tím i celou [[Místa - Barovie#Barovie, území|Barovii]]
+- Vytvořena podle popisu, který Opat dostal od Stráda
 ## Opeřenec
 Postava v opeřeném plášti
 - Podle [[Místa - Barovie#Vallaki|Vallackých]] legend se říká, že kdo ublíží havranům, havrani ublíží jemu a kdo havranům pomůže a/nebo nakrmí, tomu zase havrani pomůžou
@@ -361,14 +387,17 @@ Obrovský pavouk, který podle [[#Madam Eva]] žije uprostřed [[Místa - Barovi
 - "Pavouk" byla metafora pro [[Strád von Zarovič|Stráda]]
 ## Petru Varzaru
 - Svědek na [[Smlouva o koupi mlýna|smlouvě]]
-## Podezřelý rybář
+## Podezřelý rybář †
 - Rybář na [[Místa - Barovie#Zarovich, jezero|jezeře Zarovich]]
 - Říkal, že aby ryby braly, je třeba vodě obětovat "Někoho, kdo má více štěstí, než vy."
-- Hodil do vody pytel s mrtvým dítětem
+- Hodil do vody pytel s mrtvým [[#Arabela †|dítětem]]
 - Mluví a chová se monotoně, podobně jako [[#Aryk|Aryk]]
+- Byl zabit **Abukaiem** a pohřben v jezeře
 ## Rab
 Gnom, trhovec z [[Místa - Materiální pláň#Liamova tvrz|Liamovy Tvrze]], zabývající se pěstováním česneku.
 - Prodal dobrodruhům 3 speciálně vypěstované odrůdy česneku
+## Radanovičův klan
+- Klan [[#Vistani|Vistánců]], jež byl vyvražděn [[#Rudolf van Richten|van Richtenem]]
 ## Raven Queen
 Bohyně uctívaná shadar-kai v Shadowfellu
 - Známá také jako: Paní Havranů
@@ -381,23 +410,28 @@ Elf, bard a bývalý cirkusák, ve skutečnosti alter-ego [[#Rudolf van Richten|
 - Sbírá příběhy a chtěl by založit nový cirkus
 - Má zaparkovanou maringotku u [[Místa - Barovie#Arasekovy sklady|Arasekových skladů]]
 ### Drápek
-- 10 ft dlouhá kočkovitá šelma
+- 10 ft dlouhá kočkovitá šelma - šavlozubý tygr
+- patří [[#Rudolf van Richten|van Richtenovi]]
+- má oblíbenou ožvýkanou panenku
 ## Rodina Belvory
 - rodina, která podle [[#Opat|Opata]] trpěla leprou a přišla se léčit do [[Místa - Barovie#Klášter sv. Markovie|kláštera]]
+- Chtěli pak i vylepšení a jejich potomci jsou proto (dle [[#Opat|Opata]]) teď hybridi
 ### Clovin
 - dvě hlavy, jedna je starší jak druhá, klepeta
 - [[#Opat|Opatův]] hlavní sluha
 - Je alkoholik, pije hodně vína
-### Otto
+### Zigfried
 - Levá strana tváře pokrytá ještěřími šupúinami, pravá strana pokrytá chuchvalci vlčí kožešiny, kočičí a lidké oči a kočičí packy
 - Nosí roucho a kauci z černé kožešiny
 - Pomocník [[#Opat|Opata]]
 - spolu se Ottem Opatovi nosí "součástky" na tvorbu homunkulů
 - Říká že občas chodí ven
-### Zigfried
+### Otto
 - Velký jako trpaslík, oslí srst, lidské a vlčí oči, vlčí čumák a tesáky, oslí ocas
 - Pomocník [[#Opat|Opata]]
 - spolu se Zigriedem Opatovi nosí "součástky" na tvorbu homunkulů
+### Myška
+- pavoučí hybrid
 ## Rodina Dorstových
 Rodina, která žije ve [[Místa - panství Dorstových|Strašidelném panství]]
 ### Elizabeth
@@ -456,10 +490,11 @@ Mladá žena s kaštanovými vlasy po ramena a hnědýma očima
 	- Pamatuje si jen červené oči a v nich hlad
 	- Má rány na krku, jako od upíra
 - Nezdá se být apatická, jen poněkud pobledlá. Je velmi obratná.
-- [[#Donovič|Kněz Donovič]] navrhl aby byla Irina odvedena do [[Místa - Barovie#Klášter sv. Markovie|Opatství sv. Markovie]] v [[Místa - Barovie#Krezk|Krezku]]
-	- taky se dohadoval, že by [[Strád von Zarovič|Strád]] mohl s [[#Irina Koljanovna|Irinou]] provést to samé, co provedl s [[#Doru]]
-- Při soukromém rozhovoru mezi [[#Donovič|Donovičem]] a [[#Ismark Koljanovič|Ismarkem]] o Irině zmínil Donovič něco o adopci
+- [[#Donovič †|Kněz Donovič]] navrhl aby byla Irina odvedena do [[Místa - Barovie#Klášter sv. Markovie|Opatství sv. Markovie]] v [[Místa - Barovie#Krezk|Krezku]]
+	- taky se dohadoval, že by [[Strád von Zarovič|Strád]] mohl s [[#Irina Koljanovna|Irinou]] provést to samé, co provedl s [[#Doru †]]
+- Při soukromém rozhovoru mezi [[#Donovič †|Donovičem]] a [[#Ismark Koljanovič|Ismarkem]] o Irině zmínil Donovič něco o adopci
 	- Podle [[Dopis od Koljana Indiroviče|dopisu od Koljana]] je adoptována
+	- Podle Ismarka a jeho informací od [[#Donovič †|Donoviče]] je adoptovaná, jejich otec ji jednou přinesl z lovu
 #### Tatiana †
 První inkarnace Irininy duše
 - [[Strád von Zarovič|Strád]] ji miloval
@@ -529,6 +564,7 @@ Rodina rychtářů z [[Místa - Barovie#Krezk|Krezku]]
  - Rychtáří [[Místa - Barovie#Krezk|Krezku]]
 ### Dimitrij Krezk
 - Aktuální rychtář
+- [[#Davian|Davian]] u něj byl na návštěvě, když přivezl víno do Krezku
 ### Anna Krezková
 - žena rychtáře
 ### Ilja Krezk †
@@ -537,24 +573,58 @@ Rodina rychtářů z [[Místa - Barovie#Krezk|Krezku]]
 - 715 - 731
 ### Merik Krezk †
 - 731-731
+## Rodina Valakovičů
+Rodina rychtáře ve [[Místa - Barovie#Vallaki|Vallaki]]
+### Vargas Valakovič
+Baron a rychtář ve [[Místa - Barovie#Vallaki|Vallaki]]
+- Podle [[#Ismark Koljanovič|Ismarka]] o něm [[#Koljan Indirovič †|Koljan]] říkal, že je to starý mrzout
+- Podle [[#Danika Martikovová|Daniky]] chce mít rychtář šťastný lid a tak pořádá i 2 festivaly za měsíc, např:
+	- průvod vlčích hlav na konci Sintára
+	- oslavy zářícího slunce na začátku Oťávra
+- Podle lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] platí za zabití vlků
+- Podle [[#Lucian Petrovič|kněze Petroviče]] by mohl mít knihy o magických věcech
+- [[#Urvin|Urvin]] dal několik doporučení, jak s ním vyházet:
+	- Není dobré se protivit jeho názoru že oslavy dvakrát do měsíce jsou prospěšné lidu
+	- Je dobrá dávat si pozor na jeho pohůnka [[Osoby a skupiny#Isek Strážný|Iseka Strážného]]
+	- Není dobré zmiňovat před ním [[Strád von Zarovič|Stráda]], neb by mohl pojat podezření, že jsme jeho špioni
+	- Bylo by dobré předstírat, že za požár v hostinci může nehoda se svíčkou
+### Lýdia Valakovičová
+- Rozená Petrovna
+	- je příbuzná s [[#Taša Petrovna †|Tašou Petrovnou]] nebo [[Osoby a skupiny#Lucian Petrovič|Lucianem Petrovičem]]?
+- Zdá se být poněkud pomalejší
+### Viktor
+- Syn
+- Vykupoval materiály vhodné pro magické účely 
+- Podle [[#Fiona Wachterová|Fiony Wachterové]] je:
+	- Mladý a neukazuje se běžně
+	- vyšinutý
+	- kuje pikle s temnými silami
+	- zakrádá se mimo [[Místa - Barovie#Vallaki|Vallaki]]
+	- Byl zasnoubený se [[#Stella|Stellou Wachterovou]], dokud nezpůsobil její šílenství
+### Boris Valakovič
+- Má sochu na náměstí [[Místa - Barovie#Vallaki|Vallaki]]
 ## Rodina Wachterů
 Významná rodina ve [[Místa - Barovie#Wachterhaus|Vallaki]] 
 - Podle [[#Lucian Petrovič|kněze Petroviče]] nejsou nepřátelští ke [[Strád von Zarovič|Strádovi]]
 ### Baron Wachter †
-- Zemřel kolem [[Časová osa#732|roku 732]]
+- Zemřel kolem [[Časová osa#Rok 732|roku 732]]
 ### Fiona Wachterová
 - Baronka, oslovovaná "Lady"
 - Podle [[#Lucian Petrovič|kněze Petroviče]] by mohla mít knihy o magii
 - Černé oči, tmavě šedé vlasy, odhadem kolem 50 let
 - Měla oblečené ornamentální "brnění" na hrudi
-- Nemá ráda [[#Baron Valakovič|barona Valakoviče]] a chtěla by jej nahradit ve vedení [[Místa - Barovie#Vallaki]]
+- Nemá ráda [[#Vargas Valakovič|barona Valakoviče]] a chtěla by jej nahradit ve vedení [[Místa - Barovie#Vallaki|Vallaki]]
 	- Brání jí v tom osoba [[#Isek Strážný|Iseka]], který je příliš silný a loajální Valakovičovi
 	- Má obavy aby Valakovič nepřišel na její spiknutí
-	- Podle svých vlastních slov jí jde o svobodu obyvatelstva
+	- Hlavním problémem barona je podle ní jeho pošetilé chování
+	- Podle svých vlastních slov jí jde o svobodu obyvatelstva, žádné zbytečné tresty za posměch
+- Pokusila se uskutečnit svou "vizi" pomocí sňatku její dcery Stelly s [[#Viktor|Viktorem Vallakovičem]]
+	- Podle Fiony byl však problémový a Stella se kvůli němu zbláznila
 - Spolupracuje s [[#Ernst Larnak|Ernstem Larnakem]]
 - V názoru na [[Strád von Zarovič|Stráda]] se zdá rozpolcená
 	- zdá se, že jej nemá nějak v lásce, ale dobrovolně se podvolí jeho vůli
 	- "Hrabě je náš panovník a dokud to tak bude, nebudu se mu protivit."
+- Má ráda kočky, měla jich plnou knihovnu
 ### Stella
 - Dcera
 - Fiona se ji pokusila provdat za [[#Viktor|Viktora Vallakoviče]] aby ziskala vliv na chod města
@@ -572,38 +642,30 @@ Významná rodina ve [[Místa - Barovie#Wachterhaus|Vallaki]]
 - tmavé krátké vlasy, přivřené oči
 ### Sluha 2
 - nižší, zavalitý
-## Rodina Valakovičů
-Rodina rychtáře ve [[Místa - Barovie#Vallaki|Vallaki]]
-### Baron Valakovič
-- Rychtář ve [[Místa - Barovie#Vallaki|Vallaki]]
-- Podle [[#Ismark Koljanovič|Ismarka]] o něm [[#Koljan Indirovič †|Koljan]] říkal, že je to starý mrzout
-- Podle [[#Danika Martikovová|Daniky]] chce mít rychtář šťastný lid a tak pořádá i 2 festivaly za měsíc, např:
-	- průvod vlčích hlav na konci Sintára
-	- oslavy zářícího slunce na začátku Oťávra
-- Podle lovců [[#Jevgenij Krušnin|Jevgenije]] a [[#Soldar Soldarovič|Soldara]] platí za zabití vlků
-- Podle [[#Lucian Petrovič|kněze Petroviče]] by mohl mít knihy o magických věcech
-- [[#Urvin|Urvin]] dal několik doporučení, jak s ním vyházet:
-	- Není dobré se protivit jeho názoru že oslavy dvakrát do měsíce jsou prospěšné lidu
-	- Je dobrá dávat si pozor na jeho pohůnka [[Osoby a skupiny#Isek Strážný|Iseka Strážného]]
-	- Není dobré zmiňovat před ním [[Strád von Zarovič|Stráda]], neb by mohl pojat podezření, že jsme jeho špioni
-	- Bylo by dobré předstírat, že za požár v hostinci může nehoda se svíčkou
-### Paní Valakovičová
-- Zdá se být poněkud pomalejší
-### Viktor
-- Syn
-- Vykupoval materiály vhodné pro magické účely
-- Podle [[#Fiona Wachterová|Fiony Wachterové]] je:
-	- Mladý a neukazuje se běžně
-	- vyšinutý
-	- kuje pikle s temnými silami
-	- zakrádá se mimo [[Místa - Barovie#Vallaki|Vallaki]]
-	- Byl zasnoubený se [[#Stella|Stellou Wachterovou]], dokud nezpůsobil její šílenství
 ## Rudolf van Richten
 Podle [[Strád von Zarovič|Stráda]] se jedná o krvelačného vraha
+- Starý muž, houževnatý, zvětralá tvář, nosí brýle
+- Nosí hrubý cestovní kabát, bílou košili, kožené boty a vyházkovou hůl
+	- Jeho předchozí hůl našel **Nethar** poté co 
 - Podle [[Strád von Zarovič|Stráda]] zabil 37 [[#Vistani|vistánců]], včetně žen a dětí
+	- Podle [[#Arrigal|Arrigala]] vyzabíjel [[#Radanovičův klan|Radanovičův klan]]
+	- více infa by mohla mít [[#Madam Eva|Madam Eva]]
 - [[Strád von Zarovič|Strád]] chtěl, aby jsme jej [[✅ Pátrání po van Richtenovi|nalezli]] a podali o něm informace
 - [[Strád von Zarovič|Strád]] se s ním "chce vypořádat"
+	- Stejně tak na něj [[#Vistani|Vistani]] vypsali odměnu, chtějí se mu pomstít za [[#Radanovičův klan|Radanovičův klan]]
 - Jeho alter-ego je [[#Riktavio|Riktavio]]
+- Patří mu [[#Drápek]]
+- Jeho plány jsou prý prozkoumat [[Místa - Barovie#Argynvostholt|Argynvostholt]] a [[Místa - Barovie#Ravenloft|Ravenloft]]
+- Podle svých slov:
+	- přišel do [[Místa - Barovie#Barovie, území|Barovie]] "[[Časová osa#10. Sintára 735|před měsícem]]" s karavanou Vistánců
+		- Jeden z nich byl prý vykázán a on jej přesvědčil, že je dobrý cíl, aby jej dovedli do Barovie
+	- Po více jak 30 let je jeho posláním zkoumat tvory žijící v temnotě a přinášet jim očišťující světlo pravdy
+	- Povikládal nám  o sobě [[Příběhy Rudolfa van Richtena#O ztrátě syna a odplatě vistáncům|příběh]]
+- Podle [[#Ezmerelda|Ezmeraldy]]:
+	- Pochází z [[Místa#Domény hrůzy|Darkonu]]
+### Erasmus
+syn Rudolfa
+- podle svých slov jej Rudolf van Richten zabil kůlem do srdce, po jeho proměně na upíra
 ## Rytíři Stříbrného Draka
 Řád rytířů, následující [[#Argynvost|Argynvosta]] se sídlem v [[Místa - Barovie#Argynvostholt|Argynvostholdu]]
 ### Geodfrey Gwilym
@@ -617,7 +679,7 @@ první rytíř [[#Argynvost|Argynvosta]], stříbrného draka
 - Chce, aby [[Strád von Zarovič|Strád]] trpěl, za to že zabil Argynvosta
 - Řekl: „Pokud jste přišli osvobodit Barovii od Stráda, vězte tohle: Já před více než čtyřmi staletími zahynul při obraně této země před zlem a kvůli mému selhání jsem navždy zatracen. Pokud zničíte tohle tělo, můj duch si najde nového hostitele a já si vás najdu. Z mého zatracení mě nemůžete vysvobodit, ani kdybych si to přál.“ „Pokud jste přišli osvobodit tuto zemi od stvoření, které se živí krví nevinných, vězte tohle: Není monstra, které bych nenáviděl víc než Stráda von Zaroviče. Zabil Argynvosta, ukončil život rytíře, kterého jsem miloval, a zničil šlechetný řád, kterému jsem obětoval svůj život. Strád však již jednou zemřel. Nesmí mu být dovoleno, aby zemřel podruhé. Místo toho musí navždy trpět v pekle, které si sám stvořil a ze kterého nemůže nikdy uniknout. Udělám cokoliv, co mu způsobí utrpení a neklid, a zničím kohokoliv, kdo by se pokusil jeho trýzeň ukončit.“
 ## Savid
-[[#Soumrační elfové|Soumračný elf]], který se vydal hledat [[#Arabela|Arabelu]] do [[Místa - Barovie#Argynvostholt|Argynvostholtu]]
+[[#Soumrační elfové|Soumračný elf]], který se vydal hledat [[#Arabela †|Arabelu]] do [[Místa - Barovie#Argynvostholt|Argynvostholtu]]
 ## Sekta Dorstových
 Sekta, která pod [[Místa - panství Dorstových|domem Dorstových]] prováděla temné rituály
 - Viděli jsme 13 artefaktů a 13 přízraků ve [[Místa - panství Dorstových#Sklep - druhé patro|sklepě]]. Pravděpodobně tedy 13 členů?
@@ -632,6 +694,16 @@ Skupina, o které se píše v [[Poslední zápisky Cassie a Broma|posledních z�
 - žena, zemřela v [[Místa - Barovie#Západní brána|Západní bráně]] vyhladověním
 ### Michail
 
+## Strážní ve Vallaki
+Různí strážní ve vallaki
+- Vede je [[#Isek Strážný|Isek]]
+## Nešťastný strážný
+- Chtěl po nás víno, za to že nás pustí do města
+- Abukai spícímu strážnému svázal tkaničky, předtím než jej vzbudil a dal mu víno
+- Šeptal něco o [[#Marika|Marice]]
+- Při [[Oslava zářícího slunce|Oslavě zářícího slunce]] se zasmál [[#Vargas Valakovič|Baronovi]] a byl za to odvlečen za koněm
+### Ivan
+- další strážný
 ## Soumrační elfové
 - Žijou pod [[Místa - Barovie#Luvašův tábor|Luvašovým táborem]]
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] soumrační elfové kladli velký odpor armádě [[Strád von Zarovič|Strádova]] otce při [[Dobývání Barovie|dobývání]] [[Místa - Barovie#Barovie, území|Barovie]]
@@ -639,14 +711,18 @@ Skupina, o které se píše v [[Poslední zápisky Cassie a Broma|posledních z�
 ## Sunder Halynd Liam
 Kouzelník, který žil ve své věži v [[Místa - Materiální pláň#Liamova tvrz|Liamově Tvrzi]]
 - Před mnoha lety bojoval s [[#Dávná sekta|dávnou sektou]]
-## Taša Petrovna
-## Udolukovič
+## Taša Petrovna †
+Svatá bojovnice
+- Pohřbena v [[Místa - Barovie#Klášter sv. Markovie|klášteře sv. Markovie]]
+- Příbuzná s [[#Lýdia Valakovičová|Lýdií Valakovičovou]] nebo [[#Lucian Petrovič|Lucianem Petrovičem]]?? 
+## Udo Lukovič
 Obchodník s oblečením ve [[Místa - Barovie#Vallaki|Vallaki]]
+- Zavřen [[#Vargas Valakovič|rychtářem]] za "urážku rychtáře"
 ### Vilemína
- - Manželka Udolukoviče
+ - Manželka Uda
 ## Ulrich †
 Starosta v [[Místa - Barovie#Starý Berez|Berezu]] na konci 4. století
-- Spolu s [[#Kněz z Berezu †|knezem]] zabili [[#Marika|Mariku]] v roe 401
+- Spolu s [[#Kněz z Berezu †|knezem]] zabili [[#Marika|Mariku]] v [[Časová osa#Rok 400|roce 400]]
 ## Vetřelec v domě Dorstových
 Osoba, která byla nalezena mrtvá v tajné místnosti [[Místa - panství Dorstových|domu Dorstových]]
 - V ruce držel [[Dopis Gustavovi Durstovi od Stráda von Zaroviče|dopis]]
@@ -658,9 +734,11 @@ Potulný národ
 - [[#Ismark Koljanovič|Ismark]] tvrdil, že snad slouží [[Strád von Zarovič|Strádovi]], protože můžou opustiti [[Místa - Barovie#Barovie, území|Barovii]]
 - Mají od [[Strád von Zarovič|Stráda]] povolení cestovat skrze Mlhy
 	- [[Místa - Barovie#Barovie, území|Barovie]] je jejich domovem, proto podle [[#Madam Eva|madam Evy]] neodejdou, i když by mohli
+- Podle [[#Arrigal|Arrigala]] jejich povolení cestovat [[Místa - Barovie#Mlha|mlhou]] z Barovie prý pochází kvůli něčemu v dávné minulosti
+	- Když se pokoušeli cestovat pryč s někým, dotyčný zmizel
 #### Alexej, vistanec
 - někdo jiný, než [[#Alexej|Alexej]]??
-- neuhlídal [[Osoby a skupiny#Lava]]
+- měl hlídat [[Osoby a skupiny#Arabela †|Arabelu]], ale místo toho chlastal a ta se ztratila
 ### Oleg
 Vypravěč příběhů z Luvašova tábora
 #### Alenka, Mirabel a Sabia

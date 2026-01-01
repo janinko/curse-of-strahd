@@ -27,4 +27,4 @@
 	- Odešel stranou, aby si vytetoval tetování podle vzoru od [[Osoby a skupiny#Firan|Návštěvníka]]
 - Ozval se podivný hlas, pronášející [[Volentina básnička|básničku]] a zjevila se [[Strád von Zarovič#Lady Volenta Popovsky|Volenta]]
 	- držela v ruce hůlku, kterou mířila na [[Osoby a skupiny#Irina Koljanovna|Irinu]]
-	- "Když jsem se dozvěděla, že [[Strád von Zarovič|Strád]] se zamiloval do *kurvy*, rozhodla jsem se s tím něco udělat."
+	- "Když jsem se dozvěděla, že [[Strád von Zarovič|Strád]] se zamiloval do *vesnické kurvy*, rozhodla jsem se s tím něco udělat."
