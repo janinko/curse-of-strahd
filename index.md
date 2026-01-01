@@ -10,10 +10,11 @@
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
-[[Vyřešit věštbu od Madam Evy]]  
-[[✅ Záhady Irininy duše]]  
+[[Osvobodit Udo Lukoviče]]
+[[Lék na Strádovu chorobu]]
 ### Probíhající
-[[Tajemství Jantarové jeskyně]]  
+[[Vyřešit věštbu od Madam Evy]]  
+[[Tajemství Jantarového Chrámu]]  
 [[Klidný spánek dračí]]  
 [[Mnohá osvobození Ravenloftská]]  
 [[Eskorta Koljanovičů]]  
@@ -24,6 +25,7 @@ Zbytek viz vlevo.
 [[Zabíjet monstra 🧑🏻]]  
 [[Ztracená dcera]]  
 ### Dokončené
+[[✅ Záhady Irininy duše]]  
 [[✅ Pátrání po van Richtenovi]]  
 [[✅ Opeřenec 🧑🏻]]  
 [[✅ Najít doupě příšer]]  
