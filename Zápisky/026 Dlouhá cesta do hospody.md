@@ -2,17 +2,17 @@
 - Dojeli jsme k místu, kde byl [[Místa - Barovie#Luvašův tábor|Luvašův tábor]]
 	- Prázdné sudy a stav obyvatel napovídal, že se zde hodně pilo
 - **Abukai** raději zůstal hlídat vůz s vínem a zbytek vyrazil do největšího stanu uprostřed
-	- U hlavního sloupu stanu byl přivázán [[Osoby a skupiny#Alexej, vistanec|Alexej]], kterého bičoval [[Osoby a skupiny#Luvaš|Luvaš]] za to, že neuhlídal Luvašovu dceru [[Osoby a skupiny#Arabela|Arabelu]], která se ztratila
+	- U hlavního sloupu stanu byl přivázán [[Osoby a skupiny#Alexej, vistanec|Alexej]], kterého bičoval [[Osoby a skupiny#Luvaš|Luvaš]] za to, že neuhlídal Luvašovu dceru [[Osoby a skupiny#Arabela †|Arabelu]], která se ztratila
 - Uvítal nás [[Osoby a skupiny#Arrigal|Arrigal]] který se s námi i podělil o informace
 	- Vistanci mají povolení cestovat přes [[Místa - Barovie#Mlha|mlhu]] kvůli něčemu, co se stalo v minulosti
 	- Naposledy když někoho odváželi pryč, tak zmizel
 	- Tvrdí že umí za 50 zlatých uvařit lektvar, pomocí kterého jde odcestovat mlhou
 	- [[Místa - Barovie#Starý Berez|Starý berez]] je zničený, kvůli tomu že tamní starosta urazil [[Strád von Zarovič|Stráda]]
 	- [[Osoby a skupiny#Alexej, vistanec|Alexej]] měl prý hlídat Luvašovu dceru, ale pil a ona se ztratila
-	- Syn [[Osoby a skupiny#Baron Valakovič|barona Valakoviče]] si koupil kouzelnické materiály
+	- Syn [[Osoby a skupiny#Vargas Valakovič|barona Valakoviče]] si koupil kouzelnické materiály
 - Na předměstí [[Místa - Barovie#Vallaki|Vallaki]] jsme zahlédli [[Osoby a skupiny#Kultisti z Vallaki|3 postavy v pláštích]]
 	- Vešli do opuštěného domu, kde začali vzývat [[Osoby a skupiny#Gorgul|Gogrula]]
-	- Požadovali po něm pomoc vypořádat se se [[Osoby a skupiny#Baron Valakovič|starostou]] [[Místa - Barovie#Vallaki|Vallaki]]
+	- Požadovali po něm pomoc vypořádat se se [[Osoby a skupiny#Vargas Valakovič|starostou]] [[Místa - Barovie#Vallaki|Vallaki]]
 	- **Nethar** se je pokusil předstíráním že je Gorgul přimět aby jim pomohli, což asi nevyšlo
 	- Nahlásili jsme jejich aktivitu strážným u brány
 - **Nethar** si ještě skočil do kostela
