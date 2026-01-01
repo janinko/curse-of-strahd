@@ -17,7 +17,7 @@
 - **Malakai** se pak vydal lovit ryby k jezeru a **Aurelius** zpátky na náměstí
 - **Nethar** se stavil znova do kostela, protože [[Osoby a skupiny#Lucian Petrovič|knězi]] slíbil, že dojde
 	- Kněz řekl že jim fyzické nebezpečí při večeři u [[Osoby a skupiny#Rodina Wachterů|Vachterů]] asi nehrozí, politické nebezpečí to je jiná
-	- Taky informoval, že [[Osoby a skupiny#Vilemína|Vilemína Udolukovičová]] postrádá svého manžela, který byl zavřený asi v domě [[Osoby a skupiny#Baron Valakovič|Barona Valakoviče]], ale nejsou o něm žádné zprávy
+	- Taky informoval, že [[Osoby a skupiny#Vilemína|Vilemína Udolukovičová]] postrádá svého manžela, který byl zavřený asi v domě [[Osoby a skupiny#Vargas Valakovič|Barona Valakoviče]], ale nejsou o něm žádné zprávy
 - **Abukai** s Ismarkem se mezitím přemístili do obchodu [[Osoby a skupiny#Gadolt Blinsky|Gadolta Blinskyho]]
 	- **Abukai** si koupil pár panenek
 	- **Abukaiovi** bystré oči si všimly panenky, která byla až příliš podobná Irině
