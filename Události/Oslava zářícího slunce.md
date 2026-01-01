@@ -1,12 +1,12 @@
-- Oslava ve [[Místa - Barovie#Vallaki|Vallaki]] pořádaná [[Osoby a skupiny#Baron Valakovič|Baronem Valakovičem]] dne 9. Oťávra
+- Oslava ve [[Místa - Barovie#Vallaki|Vallaki]] pořádaná [[Osoby a skupiny#Vargas Valakovič|Baronem Valakovičem]] dne 9. Oťávra
 - Oslava začala průvodem, který přišel na náměstí:
 	- Průvod vezl obrovskou kouli z větví a slámy a sud s olejem
 	- děti ve předu
-	- [[Osoby a skupiny#Baron Valakovič|Baron]] v hezkém brnění a jeho [[Osoby a skupiny#Paní Valakovičová|žena]] se zvadlými květinami na koni
+	- [[Osoby a skupiny#Vargas Valakovič|Baron]] v hezkém brnění a jeho [[Osoby a skupiny#Lýdia Valakovičová|žena]] se zvadlými květinami na koni
 	- zástup kostelních lidí včetně [[Osoby a skupiny#Lucian Petrovič|kněze Petroviče]]
 - Koule se zavěsila na dřevěnou konstrukci na náměstí
 - Diváci byli vyzváni, aby kouli pokropili olejem
-- [[Osoby a skupiny#Baron Valakovič|Rychtář Valakovič]] pronesl nepřesvědčivý projev na pozvednutí nálady města
+- [[Osoby a skupiny#Vargas Valakovič|Rychtář Valakovič]] pronesl nepřesvědčivý projev na pozvednutí nálady města
 - Poté se pokusil zapálit kouli pochodní, ale padající déšť mu pochodeň uhasil
 	- Jeden [[Osoby a skupiny#Nešťastný strážný|strážný]] se neudržel a začal se smát
 	- Rychtář se na strážného agresivně obořil a nechal jej přivázat za koně
