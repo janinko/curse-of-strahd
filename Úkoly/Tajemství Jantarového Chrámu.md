@@ -1,0 +1,2 @@
+- Podle [[Osoby a skupiny#Victoria †|Victorie]] mají [[Osoby a skupiny#Rodina Wachterů|Wachterovi]] v knihovně knihu o Jantarovém Chrámu
+- Tapiserie v [[Místa - Barovie#Khazanova věž|Khazanově věži]] znázorňovala něco, co by mohla být jantarový chrám

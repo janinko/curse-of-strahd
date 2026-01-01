@@ -1,0 +1,4 @@
+- Podle [[Osoby a skupiny#Davian|Daviana]] zaútočili [[Časová osa#11. Oťávra 🌘|11. Oťávra]] kultisti na [[Osoby a skupiny#Isek Strážný|Iseka]] 
+	- byli to [[Osoby a skupiny#Kultisti z Vallaki|kultisti z Vallaki]]?
+- [[Místa - Barovie#Vallaki|Vallaki]] prý bylo uzavřeno
+- útok si spojují s námi a vypsali na nás odměnu
