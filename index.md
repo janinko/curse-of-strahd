@@ -11,7 +11,7 @@ Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
 [[Tajemství Jantarového Chrámu]]  
-[[Osvobodit Udo Lukoviče]]
+[[Osvobodit Udo Lukoviče]]  
 [[Lék na Strádovu chorobu]]
 ### Probíhající
 [[Vyřešit věštbu od Madam Evy]]  
