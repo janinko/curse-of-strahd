@@ -134,6 +134,8 @@ soumračný elf
 - třetí nevěsta Stráda
 - upír
 - při [[055 Lekce o Strádovi|setkání v Berezu]] na sobě měla zlaté šaty pocákané krvý, plyšového medvídka na rameni a v pravé ruce hůlku
+	- medvídek se jmenoval Momo, než byl při souboji zničen
+	- V souboji jsme ji zabili a rozpadla se na prach
 ### Sir Ascher
  - společník Stráda
  - upír

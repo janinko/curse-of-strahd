@@ -119,7 +119,11 @@ title: Místa - Barovie
 	- U cesty z [[#Vallaki]] do [[#Krezk|Krezku]]
 	- Ve [[#Starý Berez|Starém Berezu]]
 - Podle [[Osoby a skupiny#Victoria †|Viktorie]] můžou sloužit pro přesun mezi místy
-- Uvnitř Berezského kruhu nefunguje magie
+- Kruh ve [[#Starý Berez|Starém Berezu]]:
+	- Uvnitř nefunguje magie
+	- Jde o 6 tmavých kamenů se symboly, uprostřed vždy jeden významný symbol
+	- Zdá se že jde skutečně o teleportační magii, se 6 destinacemi
+	- V zrcadle se kameny jeví bílé a zářivé
 ## Kopec Minulosti
 - Kopec asi 3 hodiny cesty na jih od [[#Vinařství U mága]]
 - Usadili se tam [[Osoby a skupiny#Druidi z Kopce minulosti|druidi]]
