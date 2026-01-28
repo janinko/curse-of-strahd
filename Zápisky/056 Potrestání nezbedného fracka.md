@@ -6,4 +6,6 @@
 - **Nethar** dokončil své tetování od [[Osoby a skupiny#Firan|Firana]]
 - Vydali jsme se na noc ke [[Místa - Barovie#Kamenné kruhy|kamennému kruhu]], který jsme chvíli zkoumali
 - Vrátila se [[Osoby a skupiny#Muriel|Muriel]]
+- **Abukai** sa vzdialil, aby zatelefonoval skrz netopýra [[Strád von Zarovič|Strádovi]]. **Malakai** sa chcel na **Abukaia** oboriť, ale **Nethar** ho zastavil, že netopier nefunguje, tak neh sa teenager zabava.
+- **Abukai** dotelefonoval a po chrbte mu prebehol mráz. **Abukaia** striaslo zimou, pritiahol si blizsie plášť a vstupil nazad do antimagickeho kruhu, kde druzina nocovala.
 - Uložili jsme se ke spánku
