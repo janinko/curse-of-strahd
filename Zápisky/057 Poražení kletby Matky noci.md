@@ -1,0 +1,27 @@
+## 16. Oťávra
+- Uložili jsme se ke spánku v [[Místa - Barovie#Kamenné kruhy|kamenném kruhu]] u [[Místa - Barovie#Starý Berez|Berezu]]
+- **Nethar**, který meditoval mimo kruh, byl v noci otravován komáry a hady
+- **Malakaiovi** se zdál sen:
+	- Zjevila se mu [[Osoby a skupiny#Matka Noci|Matka Noci]], která mu dala na výběr, ať se k ní přidá, nebo bojuje s jejím [[Osoby a skupiny#Ilmar Lirieneth|šampionem]]
+	- **Malakai** se rozhodl bojovat a jeho snová zranění se zjevila ve skutečnosti
+	- **Abukai** vzbudil ostatní a začali jsme **Malakaiovi** pomáhat jak to jen šlo
+		- **Abukai** ho léčil svými pěstmi a poté se připojil do jeho snu
+		- **Aurelius** jej léčil svým dotykem
+		- **Nethar** jej léčil trpasličím pivem a krví
+	- **Malakai** porazil šampiona a snad se tím zbavil prokletí
+- **Malakai** a **Abukai** tvrdili, že šampionem matky noci byl **Netharův** bratr [[Osoby a skupiny#Ilmar Lirieneth|Ilmar]]
+	- **Malakai** naznačil, že by mohl být Ilmar nyní mrtvý, což rozhodilo **Nethara**
+	- [[Osoby a skupiny#Firan|Firan]] **Netharovi** rozmlouval úvahy nad ublížením **Malakaiovi**
+## 17. Oťávra
+- Ráno jsme se všichni probrali živí a zdraví, a **Malakai** odpočatý, i když o něco později
+- Vydali jsme se hledat [[Osoby a skupiny#Ježibaba z Berezu|Ježibabu]] do města
+	- Přepluli jsme na lodi řeku plnou umrlčích rukou
+	- Vesnice byla posetá spoustou dětských hraček
+	- Dostali jsme se do středu vesnice s velkým stromem
+- [[Osoby a skupiny#Ježibaba z Berezu|Ježibabin]] strom měl na sobě chaloupku "ozdobenou":
+	- Lebkou obra
+	- Klecemi s havrany, kteří začali vřískat jakmile jsme přišli
+- [[Osoby a skupiny#Ježibaba z Berezu|Ježibaba]] vyšla se slovy "Co se zase děje?"
+	- Zahlédla roztomilého bílého králíčka hopkajícího ke stromu
+	- Zvedla svou nohu a zároveň strom vytrhl část svých kořenů ze země
+	- Dupla nohou a strom zadupl králíčka
