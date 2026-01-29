@@ -1,19 +1,19 @@
 # Strádovo prokletí
 ## Epizody
+[[057 Poražení kletby Matky noci]]  
 [[056 Potrestání nezbedného fracka]]  
 [[055 Lekce o Strádovi]]  
 [[054 Smrtební hostina]]  
 [[053 Ozvěny Irininy duše]]  
 [[052 Vzpomínka na Marinu]]  
 [[051 Bloudění Berezskou bažinou]]  
-[[050 Vodítka k obnově Barovie]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
+### Probíhající
 [[Tajemství Jantarového Chrámu]]  
 [[Osvobodit Udo Lukoviče]]  
-[[Lék na Strádovu chorobu]]
-### Probíhající
+[[Lék na Strádovu chorobu]]  
 [[Vyřešit věštbu od Madam Evy]]  
 [[Klidný spánek dračí]]  
 [[Mnohá osvobození Ravenloftská]]  
