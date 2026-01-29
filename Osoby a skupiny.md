@@ -181,6 +181,8 @@ Tiefling a bojovník Flaming Fist
 ## Ilmar Lirieneth
 - bratr **Nethara**
 - člen (podle [[#Rudolf van Richten|van Richtena]] vůdce) kultu v [[Místa#Gloomwrought|Gloomwrought]], který se snažil uniknout z Shadowfellu
+- Podle **Malakaie** je šampionem [[Osoby a skupiny#Matka Noci|Matky noci]]
+	- Bojoval se stínovým kopím a magií
 ## Isek Strážný
 Pohůnek rychtáře [[Místa - Barovie#Vallaki|Vallaki]], [[#Vargas Valakovič|barona Valakoviče]]
 - Má vysokou hrubiánskou postavu a jeho pravá ruka je znetvořená, jakoby popálená
@@ -196,6 +198,8 @@ Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlou
 - podle [[#Davian|dědy z vinařství]] je to čarodějnice, co posílá oživlé strašáky do [[Místa - Barovie#Vinařství U mága|vinařství]] a žije ve [[Místa - Barovie#Starý Berez|Starém Berezu]]
 - podle [[#Kazimir|Kazimíra]] uctívá [[#Matka Noci|Matku noci]]
 - Podle [[#Muriel]] je to starý magický tvor, loví havrany a vyrábí z nich strašáky, poletuje po okolí
+- Žije na stromě uprostřed Berezu a může ten strom ovládat svými pohyby
+- Nosí špinávé zelené šaty, jakoby porostlé mechem
 ## Jocaste Geistlinger
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
 ## Karavana
