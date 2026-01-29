@@ -196,7 +196,9 @@ Kalendář:
 - [[052 Vzpomínka na Marinu]]
 - [[055 Lekce o Strádovi]]
 - [[056 Potrestání nezbedného fracka]]
+- [[057 Poražení kletby Matky noci]]
 ### 17. Oťávra 735 
+- [[057 Poražení kletby Matky noci]]
 ### 18. Oťávra 735 🌒
 ### 19. Oťávra 735 🌒
 ### 20. Oťávra 735 
