@@ -222,7 +222,7 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 - Podle [[Osoby a skupiny#Oleg|Olega]] tam jsou světýlka, co zavedou lidi ke smrti
 - Podle [[Osoby a skupiny#Davian|Daviana]] byl Berez vesnice jako [[#Vallaki]], [[#Barovie, vesnice|Barovie]] nebo [[#Krezk]], ale [[Strád von Zarovič]] ji zničil
 - Rychtář [[Osoby a skupiny#Ulrich †|Ulrich]] spolu s [[Osoby a skupiny#Kněz z Berezu †|knězem]] zabili [[Osoby a skupiny#Marina †|Marinu]], čímž pravděpodobně naštvali stráda a ten jej zničil
-- žije tam [[Osoby a skupiny#Ježibaba z Berezu|ježibaba]]
+- žije tam [[Osoby a skupiny#Lysaga †|ježibaba]]
 - Podle [[Osoby a skupiny#Muriel|Muriel]] se před lety řeka rozvodnila a zničila jej
 ## Svalichská cesta
 - Hlavní cesta procházející [[#Barovie, území|údolím Barovie]]
@@ -313,7 +313,7 @@ Dům [[Smlouva o koupi rezidence|koupený]] Dorstovými
 - Je [[Vinařství v ohrožení|v ohrožení]], protože byly ukradeny všechny 3 artefakty, co produkovali víno
 	- [[Časová osa#Rok 725|Před 10 lety]] někdo vykopal a ukradl jeden artefakt
 	- [[Časová osa#14. Sintára 735|Před 3 týdny]] byl vykopán a ukraden 2. artefakt
-		- Praděpodobně jej ukradla [[Osoby a skupiny#Ježibaba z Berezu|Ježibaba z Berezu]], která od té doby na vinařství posílá své strašáky
+		- Praděpodobně jej ukradla [[Osoby a skupiny#Lysaga †|Ježibaba z Berezu]], která od té doby na vinařství posílá své strašáky
 	- [[Časová osa#2. Oťávra 735|2. Oťávra]] ukradli [[Osoby a skupiny#Druidi z Kopce minulosti|druidi]] 3. artefakt
 		- Tento artefakt se podařílo získat zpět
 - Dvoupatrový dům

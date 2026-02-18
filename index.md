@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[058 Červená nit pro Abukaie]]  
 [[057 Poražení kletby Matky noci]]  
 [[056 Potrestání nezbedného fracka]]  
 [[055 Lekce o Strádovi]]  

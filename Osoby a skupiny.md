@@ -194,12 +194,6 @@ Pohůnek rychtáře [[Místa - Barovie#Vallaki|Vallaki]], [[#Vargas Valakovič|b
 ## Hortensia Verzi
 Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlouva o koupi mlýna|prodala]] [[#Rodina Dorstových|Dorstovým]]
 - Pochází z [[Místa - Barovie#Vallaki|Vallaki]]
-## Ježibaba z Berezu
-- podle [[#Davian|dědy z vinařství]] je to čarodějnice, co posílá oživlé strašáky do [[Místa - Barovie#Vinařství U mága|vinařství]] a žije ve [[Místa - Barovie#Starý Berez|Starém Berezu]]
-- podle [[#Kazimir|Kazimíra]] uctívá [[#Matka Noci|Matku noci]]
-- Podle [[#Muriel]] je to starý magický tvor, loví havrany a vyrábí z nich strašáky, poletuje po okolí
-- Žije na stromě uprostřed Berezu a může ten strom ovládat svými pohyby
-- Nosí špinávé zelené šaty, jakoby porostlé mechem
 ## Jocaste Geistlinger
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
 ## Karavana
@@ -282,6 +276,16 @@ Vůdce [[Místa - Barovie#Luvašův tábor|tábora]] [[#Vistani|Vistanců]]
 - Dcera Luvaše, má 7 let
 - černé vlasy
 - Byla utopena [[#Podezřelý rybář †|rybářem]]
+## Lysaga †
+- Ježibaba z [[Místa - Barovie#Starý Berez|Berezu]]
+- podle [[#Davian|dědy z vinařství]] je to čarodějnice, co posílá oživlé strašáky do [[Místa - Barovie#Vinařství U mága|vinařství]] a žije ve [[Místa - Barovie#Starý Berez|Starém Berezu]]
+- podle [[#Kazimir|Kazimíra]] uctívá [[#Matka Noci|Matku noci]]
+- Podle [[#Muriel]] je to starý magický tvor, loví havrany a vyrábí z nich strašáky, poletuje po okolí
+- Žije na stromě uprostřed Berezu a může ten strom ovládat svými pohyby
+- Nosí špinávé zelené šaty, jakoby porostlé mechem
+- Zmínila, že je matkou [[Strád von Zarovič|Stráda]] a nerada slyšela o [[Strád von Zarovič#Ravena|Raveně]]
+- Nemá ráda Matku havranů a havrany
+- Chtěla abysme přinesli od [[Strád von Zarovič#Sirius Belviu|Siriuse]] jeho náhrdelník
 ## Madam Eva
 [[#Vistani|Vistani]] Vědma ze sdíleného snu
 - Vyložila dobrodruhům karty (diviner, monk, mists, marionet, broken one)
@@ -340,7 +344,7 @@ Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašideln�
 Žena ze [[Místa - Barovie#Starý Berez|Starého Berezu]]
 - Říká o sobě že bydlí ve [[Místa - Barovie#Vallaki|Vallaki]], ale pravidelně dochází do Berezu jej strážit, vždy na několik dní
 - Prý si ten úkol tady na sebe "strážit toto území" vzala sama
-- Jedná se o [[#Ježibaba z Berezu|ježibabu]]??? tvrdí že ne
+- Jedná se o [[#Lysaga †|ježibabu]]??? tvrdí že ne
 	- Nebyla překvapena, když jí **Nethar** řekl o tom, že zabili strašáky u [[Místa - Barovie#Vinařství U mága|vinařství]]
 ## Nemrtvý jezdec
 Nemrtvý jezdec na nemrtvém koni

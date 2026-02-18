@@ -14,14 +14,14 @@
 	- [[Osoby a skupiny#Firan|Firan]] **Netharovi** rozmlouval úvahy nad ublížením **Malakaiovi**
 ## 17. Oťávra
 - Ráno jsme se všichni probrali živí a zdraví, a **Malakai** odpočatý, i když o něco později
-- Vydali jsme se hledat [[Osoby a skupiny#Ježibaba z Berezu|Ježibabu]] do města
+- Vydali jsme se hledat [[Osoby a skupiny#Lysaga †|Ježibabu]] do města
 	- Přepluli jsme na lodi řeku plnou umrlčích rukou
 	- Vesnice byla posetá spoustou dětských hraček
 	- Dostali jsme se do středu vesnice s velkým stromem
-- [[Osoby a skupiny#Ježibaba z Berezu|Ježibabin]] strom měl na sobě chaloupku "ozdobenou":
+- [[Osoby a skupiny#Lysaga †|Ježibabin]] strom měl na sobě chaloupku "ozdobenou":
 	- Lebkou obra
 	- Klecemi s havrany, kteří začali vřískat jakmile jsme přišli
-- [[Osoby a skupiny#Ježibaba z Berezu|Ježibaba]] vyšla se slovy "Co se zase děje?"
+- [[Osoby a skupiny#Lysaga †|Ježibaba]] vyšla se slovy "Co se zase děje?"
 	- Zahlédla roztomilého bílého králíčka hopkajícího ke stromu
 	- Zvedla svou nohu a zároveň strom vytrhl část svých kořenů ze země
 	- Dupla nohou a strom zadupl králíčka

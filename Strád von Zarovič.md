@@ -115,7 +115,7 @@ otec
 - [[Časová osa#Léta 30x|před rokem 310]] vpadl na území budoucí [[Místa - Barovie#Barovie, území|Barovie]] a začal její [[Dobývání Barovie|dobývání]]
 - přijal do rodiny Rahadina
 - zemřel [[Časová osa#Rok 346|roku 346]] na následky zranění v pokročilém věku
-## Ravena
+### Ravena
 matka
 ### Sergej
 Bratr
@@ -141,5 +141,7 @@ soumračný elf
  - upír
  - hraje na loutnu(?)
 
+### Sirius Belviu
+- Měl by žít na [[Místa - Barovie#Ravenloft|hradě]] a mít náhrdelník, který chctěla [[Osoby a skupiny#Lysaga †|Lysaga]]
 ## Pečeť
 ![[Pečeť Strád.png]]
