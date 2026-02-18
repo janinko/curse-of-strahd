@@ -1,7 +1,7 @@
 ## 16. Oťávra
 - Promluvili jsme si s [[Osoby a skupiny#Muriel|Muriel]]
-	- Prý není [[Osoby a skupiny#Ježibaba z Berezu|čarodějnice]], ta žije ve vesnici
-	- Řekla nám něco o [[Osoby a skupiny#Muriel|sobě]], o [[Osoby a skupiny#Ježibaba z Berezu|čarodějnici]] a o [[Místa - Barovie#Starý Berez|Berezu]]
+	- Prý není [[Osoby a skupiny#Lysaga †|čarodějnice]], ta žije ve vesnici
+	- Řekla nám něco o [[Osoby a skupiny#Muriel|sobě]], o [[Osoby a skupiny#Lysaga †|čarodějnici]] a o [[Místa - Barovie#Starý Berez|Berezu]]
 	- Poradila nám kudy jít na hřbitov
 - Poodešli jsme, aby jsme se rozhodli jestli chceme první zaútočit na čarodějnici nebo jít na hřbitov a zda věříme Muriel
 	- Muriel nevěříme, ale půjdem tama kama nám řekla
