@@ -29,4 +29,4 @@
 		- Je to temné místo, ale můžeme tam zjistit různá tajemství, jak zničit [[Strád von Zarovič|Stráda]] a osvobodit [[Místa - Barovie#Barovie, území|Barovii]] 
 	- Řekl, že sní o své zemřelé sestře [[Osoby a skupiny#Patrina|Patrině]], která mu o chrámu pověděla a jejíž duše je nějakým způsobem uvězněna v [[Místa - Barovie#Ravenloft|Ravenloftu]]
 	- Řekl, že když slíbíme [[Osoby a skupiny#Patrina|Patrinu]] [[Mnohá osvobození Ravenloftská|osvobodit]] a pokud jsme dost silní, tak nás do [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]] zavede
-	- Taky řekl, že [[Osoby a skupiny#Ježibaba z Berezu|čarodějnice]] ve [[Místa - Barovie#Starý Berez|Starém Berezu]] uctívá [[Osoby a skupiny#Matka Noci|Matku Noci]]
+	- Taky řekl, že [[Osoby a skupiny#Lysaga †|čarodějnice]] ve [[Místa - Barovie#Starý Berez|Starém Berezu]] uctívá [[Osoby a skupiny#Matka Noci|Matku Noci]]
