@@ -10,7 +10,7 @@
 	- Starý muž se ukázal být jedním z obyvatel vinařství
 	- Stěžoval si že je z vinařství vyhnali stromy
 	- Za ním se z úkrytu vynořil zbytek [[Osoby a skupiny#Rodina Martikovů|vinařské rodiny]]
-	- Strašáky do vinohradů posílá prý [[Osoby a skupiny#Ježibaba z Berezu|Ježibaba z Berezu]] už delší dobu a jsou na obtíž
+	- Strašáky do vinohradů posílá prý [[Osoby a skupiny#Lysaga †|Ježibaba z Berezu]] už delší dobu a jsou na obtíž
 - Řekli nám více o tom co se stalo:
 	- Před 2 dny (4. Oťávra) přišlo 5 špinavých postav od hlíny
 	- Spolu s nimi přišli malé chodící stromky
