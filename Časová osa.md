@@ -108,7 +108,7 @@ Kalendář:
 ### 10. Sintára 735
 - Někdy kolem tohoto data přišel do [[Místa - Barovie#Barovie, území|Barovie]] [[Osoby a skupiny#Rudolf van Richten|Rudolf van Richten]]
 ### 14. Sintára 735
-- Byl [[Vinařství v ohrožení|ukraden druhý]] artefakt z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]], asi [[Osoby a skupiny#Ježibaba z Berezu|Ježibabou z Berezu]]
+- Byl [[Vinařství v ohrožení|ukraden druhý]] artefakt z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]], asi [[Osoby a skupiny#Lysaga †|Ježibabou z Berezu]]
 ### 24. Sintára  735
 - [[Osoby a skupiny#Koljan Indirovič †|Koljan]] poslal [[Dopis od Koljana Indiroviče|dopis dobrodruhům]]
 ### 28. Sintára 735
@@ -199,6 +199,8 @@ Kalendář:
 - [[057 Poražení kletby Matky noci]]
 ### 17. Oťávra 735 
 - [[057 Poražení kletby Matky noci]]
+- [[058 Červená nit pro Abukaie]]
+- Umírá **Abukai**, zabila jej ježibaba [[Osoby a skupiny#Lysaga †|Lysaga]]
 ### 18. Oťávra 735 🌒
 ### 19. Oťávra 735 🌒
 ### 20. Oťávra 735 
