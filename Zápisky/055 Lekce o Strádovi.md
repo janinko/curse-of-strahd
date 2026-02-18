@@ -22,7 +22,7 @@
 - Chvíli jsme si odpočinuli a pak se chytli za ruce
 ## 16. Oťávra
 - Objevili jsme se na zemi kolem hrobu [[Osoby a skupiny#Marina †|Mariny]] zpátky ve [[Místa - Barovie#Starý Berez|Starém berezu]]
-- Debatovali jsme, jestli se vydáme na [[Osoby a skupiny#Ježibaba z Berezu|ježibabu]] hned, nebo až po odpočinku
+- Debatovali jsme, jestli se vydáme na [[Osoby a skupiny#Lysaga †|ježibabu]] hned, nebo až po odpočinku
 	- **Nethar** si stěžoval, že je vysílený, nakonec ale souhlasil s tím vydat se na ježibabu po tom, co se na to připraví
 	- Odešel stranou, aby si vytetoval tetování podle vzoru od [[Osoby a skupiny#Firan|Návštěvníka]]
 - Ozval se podivný hlas, pronášející [[Volentina básnička|básničku]] a zjevila se [[Strád von Zarovič#Lady Volenta Popovsky|Volenta]]
