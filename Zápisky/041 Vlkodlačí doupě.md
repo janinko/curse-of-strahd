@@ -3,7 +3,7 @@
 - **Nethar** vyčarovatl stínového ducha, kterého poslal do jeskyně na průzkum
 - V jeskyni jsme vybili několik vlků a vlkodlaků
 - Při prozkoumávání jsme našli panenku, která byla až podezřele podobná **Malakaiovi**, jen v zombie podobě
-- [[Záchrana Kelena a Marcuse|Našli jsme]] [[Osoby a skupiny#Marcus|Marcuse]] v jeskyni se spoustou dalších zajatých mládežníků
+- [[Záchrana Kelena a Marcuse|Našli jsme]] [[Osoby a skupiny#Marcus|Marcuse]] v jeskyni s dalšími zajatými mládežníky (celkem 7 chlapců a 2 dívky)
 	- V jeskyni taky byla socha ženy s vlčí hlavou a spoustou květin
 	- Spousta pokladů kolem sochy
 	- Byla tam také vlkodlačka [[Osoby a skupiny#Zuleika|Zulka]]
