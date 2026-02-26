@@ -100,6 +100,8 @@ title: Místa - Barovie
 	- znak vlčích tesáků
 	- pravděpodobně jde jen o graffiti vesničanů, způsobené pověrami
 ## Ghakis, hora
+- Součástí pohoří Ghakis
+	- Pohoří je od určité výšky nepřirozeně chladné a zasněžené
 - Hora mezi [[#Vinařství U mága|Vinařstvím U mága]] a [[#Starý Berez|Starým Berezem]]
 - Zahlédli jsme kolem ní létat něco velikého
 - Podle [[Osoby a skupiny#Savid|Savida]] tam žije ten "opeřený drak" - něco velkého s peřím, ale neplve oheň
