@@ -201,6 +201,7 @@ Kalendář:
 - [[057 Poražení kletby Matky noci]]
 - [[058 Červená nit pro Abukaie]]
 - Umírá **Abukai**, zabila jej ježibaba [[Osoby a skupiny#Lysaga †|Lysaga]]
+- [[059 Vzal kořeny na ramena]]
 ### 18. Oťávra 735 🌒
 ### 19. Oťávra 735 🌒
 ### 20. Oťávra 735 
