@@ -1,0 +1,22 @@
+## 17. Oťávra
+- **Aurelius** se vydal hledat strom v lese, nenašel jej
+	- Míněn [[Osoby a skupiny#Lysaga †|ježibabin]] oživlý strom, který unikl po její smrti
+- [[Osoby a skupiny#Muriel|Muriel]] přispěchala a když viděla mrtvou ježibabu, nárokovala si něco z domku ježibaby
+- **Abukai** spálil [[Osoby a skupiny#Lysaga †|ježibabino]] tělo nebývale silným plamenem
+- Naložili jsme **Abukaiovo** tělo na záda [[Osoby a skupiny#Drápek|Drápkovi]] 
+- Vydali jsme se pronásledovat strom směrem na západ
+	- **Aurelius** se rozhodl že se ponese a schoval se do náramku
+	- Na to, že rostliny mají obecně tendenci setrvávat na místě, byl tento strom nebývale svižný a unikal nám několik mil
+	- V pohoří [[Místa - Barovie#Ghakis, hora|Ghakis]] se nepřirozeně ochladilo
+- Strom jsme dohnali až když se zastavil na hraně propasti
+	- Kolem něj bylo několik postav podobných [[Osoby a skupiny#Druidi z Kopce minulosti|Druidům]]
+- **Aurelius** vylezl z náramku a vydal se na výzvědy
+	- zdálo se, že tito druidi pro [[Osoby a skupiny#Lysaga †|Lysagu]] vyrobili její oživlý strom
+	- Když se **Nethar** neohrabaně pokusil přijít blíže, druidi si něčeho všimli
+	- **Malakai** s Drápkem se vydali blíže a jakmile je druidi spatřili, shořeli v **Aureliově** fireballu
+- Exploze strom probudila a začali jsme se s ním bít
+	- Během chvíle začala situace vypadat beznadějně, ale Drápek si všiml něčeho na stromě
+	- [[Osoby a skupiny#Irina Koljanovna|Irina]] si všimla drápkova chování, upozornila na něj ostatní a **Malakai** s **Netharem** se s její pomocí dostali do domku
+	- **Malakai** (poté co to **Nethar** načal!) vypáčil prkna v podlaze, pod kterými se skrýval [[Vinařství v ohrožení|artefakt]] jako srdce stromu
+	- **Malakai** vyrval srdce právě včas, než byl Drápek stromem sražen. Drápek však byl zasypán hromadou listí, které v okamžiku opadalo
+- **Nathar** pomocí klíče, který našli u **Lysagy** otevřel klece havranů a [[Osoby a skupiny#Muriel|Muriel]] na jednoho z nich zavolala "Leno!" ([[Osoby a skupiny#Lena|Lena?]])
