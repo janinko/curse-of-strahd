@@ -2,7 +2,7 @@
 - **Aurelius** se vydal hledat strom v lese, nenašel jej
 	- Míněn [[Osoby a skupiny#Lysaga †|ježibabin]] oživlý strom, který unikl po její smrti
 - [[Osoby a skupiny#Muriel|Muriel]] přispěchala a když viděla mrtvou ježibabu, nárokovala si něco z domku ježibaby
-- **Abukai** spálil [[Osoby a skupiny#Lysaga †|ježibabino]] tělo nebývale silným plamenem
+- **Aurelius** spálil [[Osoby a skupiny#Lysaga †|ježibabino]] tělo nebývale silným plamenem
 - Naložili jsme **Abukaiovo** tělo na záda [[Osoby a skupiny#Drápek|Drápkovi]] 
 - Vydali jsme se pronásledovat strom směrem na západ
 	- **Aurelius** se rozhodl že se ponese a schoval se do náramku
