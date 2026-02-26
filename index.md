@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[059 Vzal kořeny na ramena]]  
 [[058 Červená nit pro Abukaie]]  
 [[057 Poražení kletby Matky noci]]  
 [[056 Potrestání nezbedného fracka]]  
@@ -7,7 +8,6 @@
 [[054 Smrtební hostina]]  
 [[053 Ozvěny Irininy duše]]  
 [[052 Vzpomínka na Marinu]]  
-[[051 Bloudění Berezskou bažinou]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
