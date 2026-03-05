@@ -19,4 +19,4 @@
 	- [[Osoby a skupiny#Irina Koljanovna|Irina]] si všimla drápkova chování, upozornila na něj ostatní a **Malakai** s **Netharem** se s její pomocí dostali do domku
 	- **Malakai** (poté co to **Nethar** načal!) vypáčil prkna v podlaze, pod kterými se skrýval [[Vinařství v ohrožení|artefakt]] jako srdce stromu
 	- **Malakai** vyrval srdce právě včas, než byl Drápek stromem sražen. Drápek však byl zasypán hromadou listí, které v okamžiku opadalo
-- **Nathar** pomocí klíče, který našli u **Lysagy** otevřel klece havranů a [[Osoby a skupiny#Muriel|Muriel]] na jednoho z nich zavolala "Leno!" ([[Osoby a skupiny#Lena|Lena?]])
+- **Nathar** pomocí klíče, který našli u **Lysagy** otevřel klece havranů a [[Osoby a skupiny#Muriel|Muriel]] na jednoho z nich zavolala "[[Osoby a skupiny#Lena|Leno]]!"
