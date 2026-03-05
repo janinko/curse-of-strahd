@@ -1,0 +1,22 @@
+## 17. Oťávra
+- Prohledali jsme domek ježibaby [[Osoby a skupiny#Lysaga †|Lysagy]]
+	- Postýlku s hliněnou postavičkou dítěte
+	- Našli jsme několik figurek na závěšné hračce nad postýlkou: Zajíc, [[Osoby a skupiny#Dragomir|Černý potkan]], Pokroucená bříza, Horský Jednokozorožec, Sněžná liška, Prašivá kočka, [[Osoby a skupiny#Drápek|Šavlozubý tygr]]
+- Zatímco **Malakai** držel **Aurelia** od [[Vinařství v ohrožení|artefaktu]], [[Osoby a skupiny#Drápek|Drápek]] zaútočil na figurku Šavlozubého tygra a rozbil ji
+	- Artefakt se zableskl a z Drápka se stala **Rheya**
+- Nastal chaotický výslech **Rhey**, zatímco **Aurelia** popadl amok a hnal se po artefaktu
+	- **Aurelius** byl svázán
+	- **Nethar** rychle rozbil ostatní sošky, aby osvobodil další zakleté
+	- Ze stromu spadl [[Osoby a skupiny#Dragomir|Dragomir]], který byl zaklet do podoby potkana
+	- **Rheya** stabilizovala a vyléčila **Dragomira**
+		- Nastal chaotičtější výslech **Dragomira**, který pak rychle vzal roha
+- Přes **Rheyiny** protesty, dal **Nethar** artefakt **Aureliovi**, který jej předal [[Osoby a skupiny#Zephyros|Zephyrovi]]
+- **Nethar** s **Aureliem** se vydali přes průrvu prozkoumat hromadu kožešin a domek
+	- Hromada kožešin se ukázala býti nějakým obrem v magickém kruhu
+	- Domek se ukázal být chráněný kouzlem alarm, které probudilo obra
+- Obr zchladil **Nethara**, který jej očaroval a utekl přes průrvu zpět, plánovat jak obra porazit
+	- **Aurelius** se rozhodl využít chvíle k prohledání domku
+	- **Aurelia** chytnul oživlý koberec a chvíli jej dusil a mlátil, než se **Aureliovi** konečně podařilo dostat ven
+	- Obr pak byl poražen v dálkovém útoku celé party, a doražen **Aureliovým** fireballem
+- V domku pak **Nethar** sroloval koberec, svázal jej lanem a schoval do batohu
+- Začali jsme prohledávat domek Druidů
