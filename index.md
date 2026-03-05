@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[060 Pravá tvář Drápka]]  
 [[059 Vzal kořeny na ramena]]  
 [[058 Červená nit pro Abukaie]]  
 [[057 Poražení kletby Matky noci]]  
@@ -7,7 +8,6 @@
 [[055 Lekce o Strádovi]]  
 [[054 Smrtební hostina]]  
 [[053 Ozvěny Irininy duše]]  
-[[052 Vzpomínka na Marinu]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
