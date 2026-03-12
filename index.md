@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[061 Večer plný poznávání]]  
 [[060 Pravá tvář Drápka]]  
 [[059 Vzal kořeny na ramena]]  
 [[058 Červená nit pro Abukaie]]  
@@ -7,7 +8,6 @@
 [[056 Potrestání nezbedného fracka]]  
 [[055 Lekce o Strádovi]]  
 [[054 Smrtební hostina]]  
-[[053 Ozvěny Irininy duše]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
