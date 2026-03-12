@@ -203,6 +203,7 @@ Kalendář:
 - Umírá **Abukai**, zabila jej ježibaba [[Osoby a skupiny#Lysaga †|Lysaga]]
 - [[059 Vzal kořeny na ramena]]
 - [[060 Pravá tvář Drápka]]
+- [[061 Večer plný poznávání]]
 ### 18. Oťávra 735 🌒
 ### 19. Oťávra 735 🌒
 ### 20. Oťávra 735 
