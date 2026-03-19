@@ -204,7 +204,9 @@ Kalendář:
 - [[059 Vzal kořeny na ramena]]
 - [[060 Pravá tvář Drápka]]
 - [[061 Večer plný poznávání]]
+- [[062 Kdo trpí bolestí jiných]]
 ### 18. Oťávra 735 🌒
+- [[062 Kdo trpí bolestí jiných]]
 ### 19. Oťávra 735 🌒
 ### 20. Oťávra 735 
 ### 21. Oťávra 735 

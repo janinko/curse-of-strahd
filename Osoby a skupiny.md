@@ -678,6 +678,7 @@ Podle [[Strád von Zarovič|Stráda]] se jedná o krvelačného vraha
 	- Povikládal nám  o sobě [[Příběhy Rudolfa van Richtena#O ztrátě syna a odplatě vistáncům|příběh]]
 - Podle [[#Ezmerelda|Ezmeraldy]]:
 	- Pochází z [[Místa#Domény hrůzy|Darkonu]]
+- Strád mu usekl ruku a poslal ji dobrodruhům
 ### Erasmus
 syn Rudolfa
 - podle svých slov jej Rudolf van Richten zabil kůlem do srdce, po jeho proměně na upíra
