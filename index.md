@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[062 Kdo trpí bolestí jiných]]  
 [[061 Večer plný poznávání]]  
 [[060 Pravá tvář Drápka]]  
 [[059 Vzal kořeny na ramena]]  
@@ -7,7 +8,6 @@
 [[057 Poražení kletby Matky noci]]  
 [[056 Potrestání nezbedného fracka]]  
 [[055 Lekce o Strádovi]]  
-[[054 Smrtební hostina]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
