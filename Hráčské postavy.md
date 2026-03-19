@@ -2,6 +2,7 @@
 Člověk, mnich Ilmatera
 - Setkal se s **Malakaiem** v klášteře Ilmatera
 - Byl zabit [[Osoby a skupiny#Lysaga †|ježibabou Lysagou]]
+- Na hrobě má [[Abukaiův epitaf|epitaf]]
 ## Aurelius
 Aasimar, otrok a warlock efreeta [[Osoby a skupiny#Zephyros|Zephyrose]]
 - Setkal se s **Netharem**, když byl **Nethar** přemístěn do materiální pláně
