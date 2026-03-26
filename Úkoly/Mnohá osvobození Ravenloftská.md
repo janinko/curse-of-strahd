@@ -5,3 +5,6 @@ Je třeba z Ravenloftu osvobodit nebo získat následující:
 - Osvobodit [[Osoby a skupiny#Emil|vlkodlaka Emila]]
 - Potenciálně získat [[Věštba madam Evy|meč světla]]
 - Potenciálně získat [[Věštba madam Evy|informace o Strádově historii]]
+- potencionálně najít [[Vinařství v ohrožení|zelený artefakt]]
+- pro mrtvou [[Osoby a skupiny#Lysaga †|Lysagu]] získat náhrdelník od [[Strád von Zarovič#Sirius Belviu|Siria]]
+- 
