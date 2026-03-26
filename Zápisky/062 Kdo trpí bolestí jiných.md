@@ -8,7 +8,7 @@
 	- Naznačili jsme jí že **Abukai** je po smrti
 	- Přinesla nám pravou ruku [[Osoby a skupiny#Rudolf van Richten|van Richtena]]
 	- **Malakai** zmínil poměřování pindíků, na což Ludmila reagovala že má určitě většího
-		- To zaujalo **Rheyu** a chtěla s Ludmilou odejít do dřevníku aby ji lépe poznat
+		- To zaujalo **Rheyu** a chtěla s Ludmilou odejít do dřevníku aby ji lépe poznala
 - **Aurelius** se ráno probudil plný energie a jeho kouzla se zdály být ještě ohnivější než dříve
 - **Nethar** se probudil s větší bolestí hlavy, stížností na dupot a chitinovými šupinami na pravé ruce
 	- jedná se o nějaké trasformační prokletí a nebo nemoc
