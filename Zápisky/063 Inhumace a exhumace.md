@@ -1,0 +1,20 @@
+## 18. Oťávra
+- Jali jsme se odpočívati po vyhrané bitvě, avšak náš odpočinek byl narušen příletem [[Osoby a skupiny#Opeřený drak|obrovského dravého ptáka]]
+- V husté vánici na úpatí [[Místa - Barovie#Ghakis, hora|Ghakiského pohoří]] jsme zaslechli hlas, který nás volal za ním
+	- Ukázalo se že šlo o ducha [[Osoby a skupiny#Ivan †|Ivana]], který zemřel v propasti
+	- Když **Rheya** našla jeho tělo, tak ji posedl
+	- **Malakai** z **Rhey** vystrašil ducha a **Nethar** mu slíbil že jeho tělo pohřbí v [[Místa - Barovie#Starý Berez|Berezu]]
+	- **Malakai** a [[Osoby a skupiny#Ismark Koljanovič|Ismark]] vytáhli a odnesli tělo Ivana
+	- Ivan měl u sebe mapku se značkami v [[Místa - Barovie#Ghakis, hora|Ghakiském pohoří]]
+- **Nethar** na hřbitově ucítil vibrace z podzemí hrobu [[Osoby a skupiny#Filoména Vaduz †|Filomény Vaduz]]
+	- **Nethar** kouzlem message ověřil, že tam někdo skutečně je
+	- Vykopali jsme pobitou truhlu ovázanou řetězy
+	- **Rheia** zjistila že řetězy jsou magické a chrání před uniknutím nemrtvého
+	- **Rheia** a [[Osoby a skupiny#Ezmerelda|Ezmeralda]] si poslechly **Netharovu** reprodukci zvuku z rakve a usoudili, že by mohlo jít o banshee
+	- Ze strachu že by i tak mohlo jít o upíra, jsme rakev otevřeli pod vodou a vyletěla banshee
+	- Zabili jsme ji a vzali si její svatební šaty
+- Šli jsme prohledat ještě jednou bojiště s [[Osoby a skupiny#Lysaga †|Ježibabou]]
+	- Létající lebka už byla nemagická
+	- Pod lebkou se našla soška brouka
+		- **Rheyina** analýza přesvědčila **Nethara** že je to součástí jeho kletby, která jej mění na brouka a že její zničení ho vyléčí
+		- Po rozbití sošky se **Netharova** ruka vrátila do původního, zdravého stavu
