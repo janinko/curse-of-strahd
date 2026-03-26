@@ -155,6 +155,10 @@ vezír ledu a oceli
 Žačka [[#Rudolf van Richten|van Richtena]], mladá [[#Vistani|Vistanka]]
 - Místo jedné nohy má mechanickou protézu
 - Strávila nějaký čas v [[Místa - Barovie#Klášter sv. Markovie|klášteře]]
+## Filoména Vaduz  †
+- Nevěsta co zůstala u oltáře a stala se zní po smrti banshee
+- Pohřbena v [[Místa - Barovie#Starý Berez|Berezu]], vykopána dobrodruhy a zabita jako banshee
+- V hrobě měla symbol hvězdy
 ## Firan
 - **Netharem** nazývaný "[[Návštěvník 🧑🏻|Návštěvník]]"
 - Jeví se asi jako 2 metry vysoký, mužské postavy
@@ -196,6 +200,13 @@ Pohůnek rychtáře [[Místa - Barovie#Vallaki|Vallaki]], [[#Vargas Valakovič|b
 - velitel [[#Strážní ve Vallaki|strážných]]
 - Podle [[#Fiona Wachterová|lady Wachterové]] byl vždy problémový a násilný, ještě než se přidal k [[#Vargas Valakovič|baronovi Vallakovičovi]]
 - Zdálo se mu o ženě podobné na [[#Irina Koljanovna|Irinu]] a chtěl ji získat
+## Ivan †
+- lovec z [[Místa - Barovie#Starý Berez|Berezu]]
+- zahynul v propasti nedaleko Berezu, kde poté strašil jako duch
+- měl u sebe medailonek s obrázkem ženy
+- byl pohřben dobrodruhy v hrobě Valentíny, který si vybral
+### Valentína Karuškin
+- zemřela roku 370
 ## Hortensia Verzi
 Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlouva o koupi mlýna|prodala]] [[#Rodina Dorstových|Dorstovým]]
 - Pochází z [[Místa - Barovie#Vallaki|Vallaki]]
@@ -382,6 +393,8 @@ Postava v opeřeném plášti
 ## Opeřený drak
 Obrovský létající tvor
 - Rozpětí křídel má alespoň 150 stop
+	- Podle bližšího střetnutí to vypadá na 120 stop
+- Zdá se být zesláblý a nemocný z nedostatku jídla
 - Možná jsme jej viděli létat kolem [[Místa - Barovie#Ghakis, hora|hory Ghakis]]
 - Přelétl kolem křižovatky [[Místa - Barovie#Vallaki|Vallaki]] x [[Místa - Barovie#Krezk|Krezk]] x [[Místa - Barovie#Vinařství U mága|Vinařství]]
 ## Osýbovi kněží
