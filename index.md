@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[063 Inhumace a exhumace]]  
 [[062 Kdo trpí bolestí jiných]]  
 [[061 Večer plný poznávání]]  
 [[060 Pravá tvář Drápka]]  
@@ -7,7 +8,6 @@
 [[058 Červená nit pro Abukaie]]  
 [[057 Poražení kletby Matky noci]]  
 [[056 Potrestání nezbedného fracka]]  
-[[055 Lekce o Strádovi]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované

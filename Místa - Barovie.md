@@ -104,6 +104,9 @@ title: Místa - Barovie
 	- Pohoří je od určité výšky nepřirozeně chladné a zasněžené
 - Hora mezi [[#Vinařství U mága|Vinařstvím U mága]] a [[#Starý Berez|Starým Berezem]]
 - Zahlédli jsme kolem ní létat něco velikého
+- Mapa od [[Osoby a skupiny#Ivan †|Ivana]] ukazuje dvě místa v horách
+	- značku "paroží"
+	- značku otazníku (pozice [[#Jantarový chrám|Jantarového chrámu?]])
 - Podle [[Osoby a skupiny#Savid|Savida]] tam žije ten "opeřený drak" - něco velkého s peřím, ale neplve oheň
 ## Havraní řeka
 - Řeka tekoucí z [[#Baratok, jezero|Baratockého jezera]] na jih a pak na západ
