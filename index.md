@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[064 Noc na strašidelné samotě]]  
 [[063 Inhumace a exhumace]]  
 [[062 Kdo trpí bolestí jiných]]  
 [[061 Večer plný poznávání]]  
@@ -7,7 +8,6 @@
 [[059 Vzal kořeny na ramena]]  
 [[058 Červená nit pro Abukaie]]  
 [[057 Poražení kletby Matky noci]]  
-[[056 Potrestání nezbedného fracka]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované

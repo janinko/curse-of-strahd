@@ -208,7 +208,9 @@ Kalendář:
 ### 18. Oťávra 735 🌒
 - [[062 Kdo trpí bolestí jiných]]
 - [[063 Inhumace a exhumace]]
+- [[064 Noc na strašidelné samotě]]
 ### 19. Oťávra 735 🌒
+- [[064 Noc na strašidelné samotě]]
 ### 20. Oťávra 735 
 ### 21. Oťávra 735 
 - Poslední datum pro večeři v [[Místa - Barovie#Ravenloft|Ravenloftu]]
