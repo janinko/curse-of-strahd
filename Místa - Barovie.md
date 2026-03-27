@@ -220,6 +220,12 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 	- Měly by tam být ostatky [[Osoby a skupiny#Markovia †|sv. Markovie]]
 	- Podle [[Osoby a skupiny#Tatiana †|Tatiany]] by v nejnižším patře katakomb měl být pohřben [[Strád von Zarovič#Sergej|Sergej]]
 - Kaple se nachází na přízemí, u vyhlídky
+## Samota u Vallaki
+- Osamělý statek nedaleko [[#Vallaki]] 
+- Žili v něm muž a žena a dvě další osoby
+- Když jsme k domu přišli večer, vypadal zachovale a bavili jsme se s mužem a ženou
+- Ráno nesl statek znaky let zaneddbání a rozkladu
+	- Mužova mrtvola vysela oběšena z jabloně, žena byla mrtvá uvnitř
 ## Starý Berez
 - Trosky vesnice, nedaleko [[#Argynvostholt|panství Argynvosholt]]
 - Bažina
