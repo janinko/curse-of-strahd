@@ -1,0 +1,23 @@
+## 18. Oťávra
+- Posadili jsme se k odpočinku uprostřed [[Místa - Barovie#Starý Berez|Berezu]]
+	- Odpočinek byl narušen výbušnou a zvracející zombie
+- Vydali jsme se zpátky k [[Osoby a skupiny#Ezmerelda|Ezmeraldině]] vozu a na [[Místa - Barovie#Svalichská cesta|Svalichskou cestu]]
+	- Když jsme na ni dorazili, už se začalo stmívat a tak jsme se rozhodli že pojedeme přespat k [[Osoby a skupiny#Soumrační elfové|elfům]]
+- Než jsme však dorazili, zahlédli jsme kouř vycházet z lesa a šli to prozkoumat
+	- Našli jsme [[Místa - Barovie#Samota u Vallaki|samotu]], **Malakai** dohodl s mužem, že za nasekání dřeva si můžeme nabrat vodu
+	- Hlas ženy zevnitř nám nabídl nocleh, uložili jsme se tedy ke spánku v seníku
+	- **Nethar** se pustil do třízení věcí po **Abukaiovi**
+		- [[Osoby a skupiny#Irina Koljanovna|Irina]] si vzala lektvar z Torepniku, který chrání proti ovládání mysli
+		- **Malakai** si vzal lektvar Lysischi, jehož výpary způsobují paranoiu a halucinace
+		- **Nethar** rozdělil několik léčivých odvarů a mastí mezi ostatní a zbytek odvarů si nechal
+	- **Rhea** se pustila do identifikace dalších věcí
+		- Léčivá lahvička s krví je neškodná, ale vznikla za temných okolností
+		- Černá perla je prokletá, majitel nějakého jiného předmětu si je vědom toho, kde je nositel perly a nositel perly je zranitelný proti jeho kouzlům
+		- Svatý symbol Ravenkind dokáže ve správných rukou posílit schopnost odvracení nemrtvých a vykouzlit sluneční světlo
+	- **Nethar** si s pomocí [[Osoby a skupiny#Firan|Firana]] vyčaroval havrana
+		- přestože si myslel, že bude mít stínovou podobu, havranova křídla byla popelavě šedá a jedno jeho oko bylo zakaleně bílé
+## 19. Oťávra
+- Ráno se ukázalo, že je samota léta zničena a majitelé mrtví
+- Vydali jsme se směrem k [[Osoby a skupiny#Soumrační elfové|Elfí]] osadě, abysme od [[Osoby a skupiny#Kazimir|Kazimíra]] zjistili více o [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]]
+- Diskutovali jsme, jestli chceme přijmout pozvánku [[Strád von Zarovič|Stráda]] na večeří na [[Místa - Barovie#Ravenloft|hradě]]
+	- **Nethar** [[Osoby a skupiny#Ezmerelda|Ezmeraldě]] ukázal [[Van Richtenův deník|list z Van Richtenova deníku]], aby měla všechny informace předtím, než bude riskovat svůj život pro jeho záchranu
