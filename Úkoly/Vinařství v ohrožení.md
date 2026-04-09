@@ -22,7 +22,8 @@ Podle [[Osoby a skupiny#Davian|Daviana]]:
 Vinařství by snad mělo být schopno produkovat zase jeden druh vína.
 
 - [x] Vyrazit na [[Místa - Barovie#Kopec Minulosti|Kopec Minulosti]] a získat tam jeden z artefaktů od [[Osoby a skupiny#Druidi z Kopce minulosti|druidů]]
-- [ ] Vyrazit do [[Místa - Barovie#Starý Berez|Starého Berezu]] a získat tam jeden z artefaktů od [[Osoby a skupiny#Lysaga †|ježibaby]]
+- [x] Vyrazit do [[Místa - Barovie#Starý Berez|Starého Berezu]] a získat tam jeden z artefaktů od [[Osoby a skupiny#Lysaga †|ježibaby]]
+	- Artefakt byl nalezen v Lysagině domku, ale [[Osoby a skupiny#Zephyros|Zephyrovi]] jej předal **Aurelius**
 - [ ] Najít vodítka kde nalézt třetí z artefaktů
 	- [ ] Prozkoumat temná místa s věžemi:
 		- [x] Možná věž na jezeře [[Místa - Barovie#Baratok, jezero|Baratok]]
