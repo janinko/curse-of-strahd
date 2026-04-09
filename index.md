@@ -11,18 +11,18 @@
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
-### Probíhající
-[[Tajemství Jantarového Chrámu]]  
-[[Osvobodit Udo Lukoviče]]  
-[[Lék na Strádovu chorobu]]  
 [[Vyřešit věštbu od Madam Evy]]  
-[[Klidný spánek dračí]]  
+[[Vinařství v ohrožení]]  
+[[Tajemství Jantarového Chrámu]]  
 [[Mnohá osvobození Ravenloftská]]  
+[[Lék na Strádovu chorobu]]  
+### Probíhající
+[[Osvobodit Udo Lukoviče]]  
+[[Klidný spánek dračí]]  
 [[Eskorta Koljanovičů]]  
 [[Eliminace Iseka]]  
 [[Najít tělo čaroděje]]  
 [[Záchrana Kelena a Marcuse]]  
-[[Vinařství v ohrožení]]  
 [[Zabíjet monstra 🧑🏻]]  
 [[Ztracená dcera]]  
 ### Dokončené
