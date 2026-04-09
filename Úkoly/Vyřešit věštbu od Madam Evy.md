@@ -6,16 +6,18 @@
 
 - Potencionální lokace k prozkoumání:
 	- [ ] Někde v hradu [[Místa - Barovie#Ravenloft|Ravenloft]]
-	- [ ] Trosky vesnice [[Místa - Barovie#Starý Berez|Starý Berez]]
-	- [ ] Zámeček [[Místa - Barovie#Argynvostholt|Argynvosholt]]
+	- [x] Trosky vesnice [[Místa - Barovie#Starý Berez|Starý Berez]]
+		- Prozkoumáno, nalezeny vzpomínky na předchozí inkarnace [[Osoby a skupiny#Irina Koljanovna|Iriny]] a informace o [[Strád von Zarovič|Strádovi]]
+	- [x] Zámeček [[Místa - Barovie#Argynvostholt|Argynvosholt]]
+		- Prozkoumáno, včetně kaple (místo úpěnlivých proseb), nalezeny zápisky [[Osoby a skupiny#Argynvost|Argynvosta]] a informace o [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]]
+		- Spíš panství než hrad
 ## Druhá karta
 > Tato karta vypráví o mocné síle dobra a ochrany. Svatého symbolu velké naděje.
 > Hledejte kouzelníka ve věži na jezeře, kouzelníkovo jméno a jeho sluha vás navedou k tomu, co hledáte.
 
-- Potencionální lokace k prozkoumání:
-	- [x] Věž na jezeře [[Místa - Barovie#Baratok, jezero|Baratok]]
-		- Podle [[Osoby a skupiny#Davian|Daviana]] tam žil mág, který [[Strád von Zarovič|Stráda]] učil magii a pomohl mu postavit [[Místa - Barovie#Ravenloft|hrad Ravenloft]]
-	- [ ] Věž na jezeře [[Místa - Barovie#Luna, jezero|Luna]]
+- [x] Karta vyřešena – nalezen [[Svatý symbol naděje|Svatý symbol naděje]]
+	- Kouzelník je [[Osoby a skupiny#Khazan|Khazan]], jehož jméno aktivovalo sluhu (oživlé brnění) ve věži na jezeře [[Místa - Barovie#Baratok, jezero|Baratok]], které odhalilo symbol
+	- ~~Věž na jezeře [[Místa - Barovie#Luna, jezero|Luna]]~~
 ## Třetí karta
 > Tohle je karta moci a síly, popisuje zbraň odplaty, meč slunečního světla.
 > Hledej v kryptě ordinérního kouzelníka. Klíčem je jeho hůl.
@@ -29,9 +31,10 @@
 > Tato karta odhaluje identitu toho, kdo vám v boji proti temnotám ohromně pomůže.
 > Vyhledejte [[Osoby a skupiny#Ismark Koljanovič|bratra]] [[Osoby a skupiny#Irina Koljanovna|ďáblovy nevěsty]], říkají mu menší, ale jeho duch je silný.
 
-[[Osoby a skupiny#Ismark Koljanovič|Ismark Koljanovič]] je nazýván Menší a na jeho [[Osoby a skupiny#Irina Koljanovna|sestru]] zaútočil [[Strád von Zarovič|Strád]]. Ismark souhlasil že nám pomůže proti Strádovi, jakmile bude jeho sestra v bezpečí
+[[Osoby a skupiny#Ismark Koljanovič|Ismark Koljanovič]] je nazýván Menší a na jeho [[Osoby a skupiny#Irina Koljanovna|sestru]] zaútočil [[Strád von Zarovič|Strád]]. Ismark cestuje s družinou a aktivně pomáhá.
 
-- [ ] [[Eskorta Koljanovičů|Odvést]] [[Osoby a skupiny#Irina Koljanovna|Irinu]] do bezpečí 
+- [[Osoby a skupiny#Irina Koljanovna|Irina]] se dozvěděla o svých předchozích inkarnacích a od [[Osoby a skupiny#Tatiana †|Tatiany]] získala božské požehnání – rozhodla se [[Strád von Zarovič|Strádovi]] čelit
+- [ ] [[Eskorta Koljanovičů|Odvést]] [[Osoby a skupiny#Irina Koljanovna|Irinu]] do bezpečí
 
 ## Pátá karta
 > Tvým nepřítelem je tvor libující si v temnotách, jehož moc je pro smrtelníka nepředstavitelná. Tato karta tě k němu zavede.
@@ -40,5 +43,6 @@
 - [[Strád von Zarovič|Strád]] pravděpodobně nejvíce záviděl svému [[Strád von Zarovič#Sergej|bratru Sergejovi]], do kterého se zamilovala a pozděj se za něj vdala [[Osoby a skupiny#Tatiana †|Tatiana]]
 - Podle [[Osoby a skupiny#Tatiana †|Tatiany]] by jeho hrom měl být v nejnižším patře katakomb hradu [[Místa - Barovie#Ravenloft|Ravenloftu]]
 - [ ] Zjistit více informací o [[Strád von Zarovič|Strádovi]]
+	- Informace již získány od [[Osoby a skupiny#Rudolf van Richten|van Richtena]], [[Osoby a skupiny#Tatiana †|Tatiany]], [[Osoby a skupiny#Victoria †|Victorie]] a dalších
 	- [ ] Vyřešit [[#První karta|První kartu]]
 	- [ ] Ptát se na informace
