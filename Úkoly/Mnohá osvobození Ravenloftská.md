@@ -1,5 +1,6 @@
 Je třeba z Ravenloftu osvobodit nebo získat následující:
 - Osvobodit [[Osoby a skupiny#Rudolf van Richten|Rudolfa van Richtena]]
+	- [[Strád von Zarovič|Strád]] zaslal dobrodruhům jeho pravou ruku – van Richten je potvrzen jako vězeň v [[Místa - Barovie#Ravenloft|Ravenloftu]]
 - Získat lebku [[Osoby a skupiny#Argynvost|draka Argynvosta]] a [[Klidný spánek dračí|doručit jej do jeho mauzolea]]
 - Zachránit duši [[Osoby a skupiny#Patrina|Patriny]], jako platbu [[Osoby a skupiny#Kazimir|Kazimirovi]] za pomoc s [[Tajemství Jantarového Chrámu|dovedením k Jantarové jeskyni]]
 - Osvobodit [[Osoby a skupiny#Emil|vlkodlaka Emila]]
