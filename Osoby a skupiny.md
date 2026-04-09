@@ -204,6 +204,7 @@ Pohůnek rychtáře [[Místa - Barovie#Vallaki|Vallaki]], [[#Vargas Valakovič|b
 - lovec z [[Místa - Barovie#Starý Berez|Berezu]]
 - zahynul v propasti nedaleko Berezu, kde poté strašil jako duch
 - měl u sebe medailonek s obrázkem ženy
+- měl u sebe mapku se značkami v [[Místa - Barovie#Ghakis, hora|Ghakiském pohoří]]
 - byl pohřben dobrodruhy v hrobě Valentíny, který si vybral
 ### Valentína Karuškin
 - zemřela roku 370
@@ -441,6 +442,8 @@ Elf, bard a bývalý cirkusák, ve skutečnosti alter-ego [[#Rudolf van Richten|
 - 10 ft dlouhá kočkovitá šelma - šavlozubý tygr
 - patří [[#Rudolf van Richten|van Richtenovi]]
 - má oblíbenou ožvýkanou panenku
+- Ve skutečnosti šlo o [[Hráčské postavy#Rheya|Rheu]] – tabaxi zakleta ježibabou [[#Lysaga †|Lysagou]] do podoby šavlozubého tygra pomocí figurky na závěsné hračce v jejím domku
+- Osvobozena [[Časová osa#17. Oťávra 735|17. Oťávra]] poté, co sama rozbila svou figurku
 ## Rodina Belvory
 - rodina, která podle [[#Opat|Opata]] trpěla leprou a přišla se léčit do [[Místa - Barovie#Klášter sv. Markovie|kláštera]]
 - Chtěli pak i vylepšení a jejich potomci jsou proto (dle [[#Opat|Opata]]) teď hybridi
