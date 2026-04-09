@@ -1,2 +1,3 @@
 - [[Osoby a skupiny#Opat|Opat]] chce vyléčit [[Strád von Zarovič|Strádovu]] "chorobu" tím, že mu dá za ženu [[Osoby a skupiny#Vasilka|Vasilku]]
 - Požádal nás, ať mu přineseme svatební šaty
+- [x] Získat svatební šaty – vzali jsme je banshee [[Osoby a skupiny#Filoména Vaduz †|Filomény Vaduz]] v [[Místa - Barovie#Starý Berez|Berezu]]
