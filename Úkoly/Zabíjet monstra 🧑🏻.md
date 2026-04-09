@@ -17,5 +17,6 @@
 - U [[Místa - Barovie#Vinařství U mága|vinařství U mága]] na nás zaútočil oživlý strašák, rozbili jsme jej (nemám trofej!) 
 - [[Místa - Barovie#Vinařství U mága|Vinařství U mága]] obsadili druidi a chodící rostliny
 	- pozabíjeli jsme spousty středně velkých trnových humanoidních rostlin
- 
+- Na úpatí [[Místa - Barovie#Ghakis, hora|Ghakiského pohoří]] na nás zaútočili dva Remorhazi, porazili jsme je
+- V [[Místa - Barovie#Starý Berez|Berezu]] nás napadla výbušná zombie
 
