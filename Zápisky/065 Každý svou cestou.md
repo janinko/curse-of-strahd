@@ -1,0 +1,29 @@
+## 19. Oťávra
+- Debatovali jsme o dalším postupu
+	- **Aurelius** chtěl jít do [[Místa - Barovie#Vinařství U mága|vinařství]] ukrást [[Vinařství v ohrožení|artefakt]], což se nelíbílo **Netharovi**
+	- Vymysleli jsme několik možností, jak se dostat z [[Místa - Barovie#Ravenloft|Ravenloftu]] pryč, ale málo jak se dostat dovnitř
+	- Klonili jsme se k tomu přijmout [[Strád von Zarovič|Strádovu]] pozvánku na večeři
+		- Problém ale co s [[Osoby a skupiny#Irina Koljanovna|Irinou]] - padla myšlenka že kdyby se ztratila, tak pak můžeme [[Strád von Zarovič|Strádovi]] říct, že nevíme kde je.
+	- Nakonec jsme se rozhodli nejprve vyrazit do [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]] a Strádovu pozvánku přijmout až po návratu
+- Vydali jsme se k [[Osoby a skupiny#Soumrační elfové|elfům]], požádat [[Osoby a skupiny#Kazimir|Kazimíra]], aby nám dělal průvodce
+	- Když jsme přišli, byl [[Osoby a skupiny#Kazimir|Kazimír]] u [[Osoby a skupiny#Vistani|Vistánců]], kde se taky nacházel [[Osoby a skupiny#Dragomir|Dragomir]]
+	- [[Osoby a skupiny#Kazimir|Kazimír]] nám řekl více o jeho [[Osoby a skupiny#Patrina|sestře Patrině]]
+		- Elfové ji zabili, aby ušetřili její duši, [[Strád von Zarovič|Strád]] se jim za to pomstil
+		- Kazimír si sundal pokrývku hlavy a odhalil uřízlé uši 
+	- Kazimír sám do chrámu nikdy nedošel, jen ví, že cesta je nebezpečná, ale souhlasil že s námi půjde jako průvodce
+- Než jsme vyrazili na cestu, [[Osoby a skupiny#Ezmerelda|Ezmeralda]] se rozhodla, že se rozdělíme a ona se vydá na průzkum, jak se dostat do [[Místa - Barovie#Ravenloft|Ravenloftu]]
+	- Máme se setkat u [[Místa - Barovie#Západní brána|Západní brány]]
+- Na cestě jsme se zastavili u [[Místa - Barovie#Kamenné kruhy|kamenného kruhu]] u [[Místa - Barovie#Svalichská cesta|Svalichské cesty]]
+	- **Aurelius**, **Nethar** a **Rheya** kruh prozkoumali
+- Na křižovatce u [[Místa - Barovie#Havraní řeka|Havraní řeky]] se směrem na [[Místa - Barovie#Krezk|Krezk]] rozlévala podivná mlha
+	- Chovala se, jakoby narážela na neviditelnou skálu tekla vzhůru jako obrácený vodopád
+	- **Nethar** s [[Osoby a skupiny#Firan|Firanem]] cítili z mlhy strach a tak **Nethar** pobídnul **Malkaie** ať pobídne koně pryč
+	- **Rheya** chtěla mlhu prozkoumat, ale odjeli jsme rychlej než to stihla
+- Během cesty
+	- [[Osoby a skupiny#Ismark Koljanovič|Ismark]] a [[Osoby a skupiny#Irina Koljanovna|Irina]] se nenápadně vytratili
+	- Sdělili jsme [[Osoby a skupiny#Kazimir|Kazimírovi]], co jsme se dozvěděli o [[Strád von Zarovič|Strádovi]] ze vzpomínky na [[Osoby a skupiny#Tatiana †|Tatianu]]
+	- **Nethar** učil svého nového havrana Krabana říkat slova 
+- Přijeli jsme do [[Místa - Barovie#Baratocké hory|hor]]
+	- Zasáhla nás nepřirozená zima a špatné počasí
+	- [[Osoby a skupiny#Kazimir|Kazimír]] nás varoval, že cesta do chrámu od teď bude náročná
+	- Rozhodli jsme se, že budeme pokračovat dál i přes noc.

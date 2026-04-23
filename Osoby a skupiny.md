@@ -217,9 +217,17 @@ Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlou
 - Karavana lidí, co se zastavila v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]], než pokračovala dál na jih
 ## Kazimir
 Nejstarší [[#Soumrační elfové|Soumračný elf]]
-- Sní o své setře, Patrině, která dávno zemřela, ale její duše(?) je uvězněna v Ravenloftu
+- Má uřízlé uši — pomsta [[Strád von Zarovič|Stráda]] za smrt [[#Patrina|Patriny]]
+- Sní o své sestře [[#Patrina|Patrině]], která mu ve snech zjevuje informace o [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]]
+- Sám do chrámu nikdy nedošel
 ### Patrina
-sestra Kazimira
+Sestra Kazimira, dávno zemřela
+- Měla být [[Strád von Zarovič|Strádovou]] nevěstou
+- [[#Soumrační elfové|Soumrační elfové]] ji zabili, aby ušetřili její duši
+- [[Strád von Zarovič|Strád]] se za to pomstil — mimo jiné uřízl Kazimírovi uši
+- Její duše je uvězněna v [[Místa - Barovie#Ravenloft|Ravenloftu]]
+- Ve snech se zjevuje Kazimírovi
+	- Říká, že [[Strád von Zarovič|Strád]] v [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]] získal tajemství, jak se stát upírem
 ## Koláčová Bába
 Prodavačka masových koláčů a údajná čarodějnice
 - Velmi stará žena, shrbená a v hadrech

@@ -211,6 +211,7 @@ Kalendář:
 - [[064 Noc na strašidelné samotě]]
 ### 19. Oťávra 735 🌒
 - [[064 Noc na strašidelné samotě]]
+- [[065 Každý svou cestou]]
 ### 20. Oťávra 735 
 ### 21. Oťávra 735 
 - Poslední datum pro večeři v [[Místa - Barovie#Ravenloft|Ravenloftu]]

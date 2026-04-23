@@ -129,6 +129,10 @@ title: Místa - Barovie
 	- Jde o 6 tmavých kamenů se symboly, uprostřed vždy jeden významný symbol
 	- Zdá se že jde skutečně o teleportační magii, se 6 destinacemi
 	- V zrcadle se kameny jeví bílé a zářivé
+- Kruh u cesty z [[#Vallaki]] do [[#Krezk|Krezku]]
+	- Ploché kameny s jedním uprostřed
+	- runy na povrchu — lehce stíratelné a špatně čitelné
+	- Někdo (asi [[Osoby a skupiny#Kultisti z Vallaki|Kultisti z Vallaki]]) se zde pokusili o neumělý rituál - povolání [[Osoby a skupiny#Gorgul|Gorgula]]
 ## Kopec Minulosti
 - Kopec asi 3 hodiny cesty na jih od [[#Vinařství U mága]]
 - Usadili se tam [[Osoby a skupiny#Druidi z Kopce minulosti|druidi]]

@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[065 Každý svou cestou]]
 [[064 Noc na strašidelné samotě]]  
 [[063 Inhumace a exhumace]]  
 [[062 Kdo trpí bolestí jiných]]  
@@ -7,16 +8,15 @@
 [[060 Pravá tvář Drápka]]  
 [[059 Vzal kořeny na ramena]]  
 [[058 Červená nit pro Abukaie]]  
-[[057 Poražení kletby Matky noci]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
+### Probíhající
 [[Vyřešit věštbu od Madam Evy]]  
 [[Vinařství v ohrožení]]  
 [[Tajemství Jantarového Chrámu]]  
 [[Mnohá osvobození Ravenloftská]]  
 [[Lék na Strádovu chorobu]]  
-### Probíhající
 [[Osvobodit Udo Lukoviče]]  
 [[Klidný spánek dračí]]  
 [[Eskorta Koljanovičů]]  
