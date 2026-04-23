@@ -1,6 +1,6 @@
 # Strádovo prokletí
 ## Epizody
-[[065 Každý svou cestou]]
+[[065 Každý svou cestou]]  
 [[064 Noc na strašidelné samotě]]  
 [[063 Inhumace a exhumace]]  
 [[062 Kdo trpí bolestí jiných]]  
