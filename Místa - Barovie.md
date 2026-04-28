@@ -13,7 +13,7 @@ title: Místa - Barovie
 	- Ukrývali uprchlíky při bojích se Strádem
 - V jedné místnosti jsou 3 vitráže:
 	- [[Osoby a skupiny#Pán Jitra|Pán Jitra]], [[Osoby a skupiny#Markovia †|sv. Markovia]] a [[Osoby a skupiny#Taša Petrovna †|Taša Petrovna]]
-### Alchybistův domek
+### Alchymistův domek
 - Asi 10 minut cesty od Argynvostholtu
 - Nalézá se v něm zničená alchymistická laboratoř
 	- Obrahuje zbytky: ingredience, kosti, ruka obrovského humanoida
@@ -118,11 +118,15 @@ title: Místa - Barovie
 ## Jantarový chrám
 - Někdo v pohoří Balinok
 - Zdroj zlé moci
+- Vede k němu [[#Průsmyk Tsolenka|průsmyk Tsolenka]] v [[#Ghakis, hora|Ghakiském pohoří]]
+- Podle [[Osoby a skupiny#Kazimir|Kazimírovy]] vize od [[Osoby a skupiny#Patrina|Patriny]] jde o kolmou skálu vysoko v horách s vysekaným průčelím ve skalní stěně
+- Podle Kazimíra (který se k chrámu kdysi pokusil dostat) je vstup tvořen branou vysoko nad řekou — v bráně hoří zelený plamen
 ## Kamenné kruhy
 - Několik kamenných kruhů, nacházejících se různě po Barovii
 - Lokace:
 	- U cesty z [[#Vallaki]] do [[#Krezk|Krezku]]
 	- Ve [[#Starý Berez|Starém Berezu]]
+	- V [[#Průsmyk Tsolenka|průsmyku Tsolenka]] poblíž [[#Měsíční řeka|Měsíční řeky]], asi 100 stop pod cestou — nakloněný pod úhlem cca 45°, podobný kruhu v [[#Starý Berez|Berezu]]
 - Podle [[Osoby a skupiny#Victoria †|Viktorie]] můžou sloužit pro přesun mezi místy
 - Kruh ve [[#Starý Berez|Starém Berezu]]:
 	- Uvnitř nefunguje magie
@@ -210,10 +214,25 @@ Okolí [[#Barovie, území|Barovie]] halí mlha
 - Známé taky jako Luna
 - Na jihozápadě [[#Barovie, území|Barovie]]
 - Je u něj nějaká věž
+## Měsíční řeka
+- Teče ze severu na jih a vlévá se do [[#Měsíční, jezero|Měsíčního jezera]]
+- [[#Svalichská cesta|Svalichská cesta]] ji překračuje mostem na [[#Křižovatka u Měsíční řeky|křižovatce]] západně od [[#Vallaki|Vallaki]]
+- U jejího jižního konce, blízko [[#Měsíční, jezero|jezera]], je vstup do [[#Průsmyk Tsolenka|průsmyku Tsolenka]]
 ## Mlýn Dorstových
 Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 - Lokace: Jeden a půl míle jihovýchodně od [[#Vallaki]]
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] lidé říkají že tam straší a vyhýbají se mu
+## Průsmyk Tsolenka
+- Průsmyk vedoucí [[#Ghakis, hora|Ghakiským pohořím]] směrem k [[#Jantarový chrám|Jantarovému chrámu]]
+- Nepřirozeně chladný, pravidelně zasněžený a hostí prudké horské počasí
+- Cesta průsmykem překračuje horskou řeku po mostě, u kterého stojí brána se zeleným plamenem
+- U vstupu do průsmyku, poblíž [[#Měsíční řeka|Měsíční řeky]], se asi 100 stop pod cestou nachází nakloněný [[#Kamenné kruhy|kamenný kruh]]
+### Výklenek se svíčkami
+- Vysoko ve skále při kraji cesty, výklenek s ikonou [[Osoby a skupiny#Pán Jitra|Pána Jitra]]
+- Před ikonou stojí sedm svíček
+	- Jedna ze svíček je magická a hoří neuhasitelně
+	- Ostatní svíčky lze zapálit, ale ve větru hor okamžitě zhasnou
+	- Pokud všech sedm hoří a ikona se leskne
 ## Ravenloft
 - Hrad, tyčící se nad [[#Barovie, vesnice|vesnicí Barovií]]
 - Obývá [[Strád von Zarovič|Strád von Zarovič]]

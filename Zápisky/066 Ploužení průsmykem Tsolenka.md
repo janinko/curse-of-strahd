@@ -1,0 +1,23 @@
+## 19. Oťávra
+- Stoupali jsme [[Místa - Barovie#Průsmyk Tsolenka|průsmykem Tsolenka]] hlouběji do [[Místa - Barovie#Ghakis, hora|Ghakiského pohoří]]
+	- Po cestě jsme [[Osoby a skupiny#Kazimir|Kazimíra]] vyzpovídali, co všechno o [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]] ví
+		- Vyprávěl nám o své vizi od [[Osoby a skupiny#Patrina|Patriny]]: kolmá skála vysoko v horách s vysekaným průčelím ve skalní stěně
+		- Sám se tam kdysi vydal - došel průsmykem k bráně u mostu přes řeku, v níž hořel zelený plamen. Dál se však neodvážil.
+- Při kraji cesty jsme zahlédli [[Místa - Barovie#Výklenek se svíčkami|výklenek]] vysoko ve skále
+	- Uvnitř ikona [[Osoby a skupiny#Pán Jitra|Pána Jitra]] a sedm svíček, z nichž jediná hořela - magická, neuhasitelná
+	- **Rheya** se pokusila zapálila ostatní, ty ale okamžitě zhasly v ledovém větru
+		- **Malakai**  jí pujčil svůj plášť, ať výklenek zastíní - svíčky vydržely a ikona se zaleskla
+- Narazily do nás horské kozy
+	- S hlasitým "puf" nám jeden kůň zmizel
+	- **Nethar** s **Rheyou** vůz prozkoumali a podařilo se jim koně přivolat zpátky
+- Vyrazil na nás [[Osoby a skupiny#Sandžor|divoch s lebkou jednorožce]] na hlavě a dlouhým zakrváceným kopím
+	- Dožadoval se koně, aby mohl uniknout z hor pryč; vyhrožoval **Netharovi**
+		- Ten se mu pokusil vysvětlit, že na těch magických koních neodjede
+	- Když zkusil koně ukrást, kůň pod ním zmizel a došlo k boji
+		- **Malakai** ho hned povalil a stoupl si na něj, zatímco **Aurelius** s **Netharem** kouzlili. **Rheya** boj prospala ve voze.
+	- **Malakai** mu nakonec nabídl, že když uzná porážku, necháme jej jít. Sandžor uznal, že ho trpaslík v přesile přemohl, a dal se na odchod.
+	- Ještě jsme z něj dostali, že se zde objevil [[Časová osa#17. Oťávra 735|před dvěma dny]]
+		- pravděpodobně jeden z těch, které [[Osoby a skupiny#Lysaga †|Lysaga]] zaklela do [[Zápisky/060 Pravá tvář Drápka|sošky horského jednokozorožce]], sám to ale ani nepotvrdil, ani nepopřel
+- Otevřel se nám výhled ze srázu
+	- Zhruba 100 stop pod cestou jsme zahlédli [[Místa - Barovie#Kamenné kruhy|kamenný kruh]], nakloněný pod úhlem 45°
+	- **Nethar** vyslal Krabana, ať to obhlédne zblízka

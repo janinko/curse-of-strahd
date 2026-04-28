@@ -219,7 +219,8 @@ Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlou
 Nejstarší [[#Soumrační elfové|Soumračný elf]]
 - Má uřízlé uši — pomsta [[Strád von Zarovič|Stráda]] za smrt [[#Patrina|Patriny]]
 - Sní o své sestře [[#Patrina|Patrině]], která mu ve snech zjevuje informace o [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]]
-- Sám do chrámu nikdy nedošel
+	- Z vize: kolmá skála vysoko v horách s vysekaným průčelím ve skalní stěně
+- Sám se kdysi pokusil k chrámu dostat — došel [[Místa - Barovie#Průsmyk Tsolenka|průsmykem Tsolenka]] až k bráně u mostu přes řeku, dál se však neodvážil
 ### Patrina
 Sestra Kazimira, dávno zemřela
 - Měla být [[Strád von Zarovič|Strádovou]] nevěstou
@@ -718,6 +719,12 @@ první rytíř [[#Argynvost|Argynvosta]], stříbrného draka
 - Holohlavý, podobný nemrtvým z kaple
 - Chce, aby [[Strád von Zarovič|Strád]] trpěl, za to že zabil Argynvosta
 - Řekl: „Pokud jste přišli osvobodit Barovii od Stráda, vězte tohle: Já před více než čtyřmi staletími zahynul při obraně této země před zlem a kvůli mému selhání jsem navždy zatracen. Pokud zničíte tohle tělo, můj duch si najde nového hostitele a já si vás najdu. Z mého zatracení mě nemůžete vysvobodit, ani kdybych si to přál.“ „Pokud jste přišli osvobodit tuto zemi od stvoření, které se živí krví nevinných, vězte tohle: Není monstra, které bych nenáviděl víc než Stráda von Zaroviče. Zabil Argynvosta, ukončil život rytíře, kterého jsem miloval, a zničil šlechetný řád, kterému jsem obětoval svůj život. Strád však již jednou zemřel. Nesmí mu být dovoleno, aby zemřel podruhé. Místo toho musí navždy trpět v pekle, které si sám stvořil a ze kterého nemůže nikdy uniknout. Udělám cokoliv, co mu způsobí utrpení a neklid, a zničím kohokoliv, kdo by se pokusil jeho trýzeň ukončit.“
+## Sandžor
+Zarostlý divoch s lebkou jednorožce na hlavě, ozbrojený dlouhým zakrváceným kopím
+- Bojuje jako barbar
+- Potkali jsme jej v [[Místa - Barovie#Průsmyk Tsolenka|průsmyku Tsolenka]] — pokoušel se nám ukrást koně, aby mohl uniknout z hor
+- Po prohraném boji uznal **Malakaiovi** porážku
+- Tvrdil, že se v horách "objevil" [[Časová osa#17. Oťávra 735|17. Oťávra 735]] — pravděpodobně byl jednou z [[#Lysaga †|Lysažiných]] zakletých sošek (Horský jednokozorožec ze [[Zápisky/060 Pravá tvář Drápka|závěsné hračky]]); sám to ale ani nepotvrdil, ani nepopřel
 ## Savid
 [[#Soumrační elfové|Soumračný elf]], který se vydal hledat [[#Arabela †|Arabelu]] do [[Místa - Barovie#Argynvostholt|Argynvostholtu]]
 ## Sekta Dorstových

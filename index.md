@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[066 Ploužení průsmykem Tsolenka]]  
 [[065 Každý svou cestou]]  
 [[064 Noc na strašidelné samotě]]  
 [[063 Inhumace a exhumace]]  
@@ -7,14 +8,13 @@
 [[061 Večer plný poznávání]]  
 [[060 Pravá tvář Drápka]]  
 [[059 Vzal kořeny na ramena]]  
-[[058 Červená nit pro Abukaie]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
+[[Tajemství Jantarového Chrámu]]  
 ### Probíhající
 [[Vyřešit věštbu od Madam Evy]]  
 [[Vinařství v ohrožení]]  
-[[Tajemství Jantarového Chrámu]]  
 [[Mnohá osvobození Ravenloftská]]  
 [[Lék na Strádovu chorobu]]  
 [[Osvobodit Udo Lukoviče]]  
