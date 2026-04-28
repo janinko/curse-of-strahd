@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # Curse of Strahd — pokyny pro Claude
 
 ## Přehled repozitáře
