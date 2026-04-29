@@ -203,7 +203,7 @@ title: Místa - Barovie
 - Dav vesničanů zde oběsil [[Osoby a skupiny#Léčitelka / Čarodějnice|mladou dívku]]
 - Lano z oprátky se po odříznutí pokusilo utéct, než jej **Aurelius** spálil
 ## Luvašův tábor
-- Tábor [[Osoby a skupiny#Vistani|Vistani]], odkud pochází [[Osoby a skupiny#Alenka, Mirabel a Sabia|Alenka, Mirabel a Sabia]]
+- Tábor [[Osoby a skupiny#Tábor Luvaše|Luvaše]], jednoho z [[Osoby a skupiny#Vistani|vistánských]] kmenů
 - Nachází se na jihozápad od [[#Vallaki|Vallaki]], na západní cestě, odbočkou na jih
 - Je na kopci, ve kterém žijou v malých domcíh zabudovaných do kopce [[Osoby a skupiny#Soumrační elfové|soumrační elfové]]
 ## Mlha
@@ -275,7 +275,7 @@ Dům [[Smlouva o koupi rezidence|koupený]] Dorstovými
 - Lokace: Východní strana Wolf's Way, tři parcely severně od Svalich Road, [[#Barovie, vesnice|vesnice Barovie]]
 ## Tserské jezero
 - Jezero na [[#Ivlis|řece Ivlis]], nalézající se západně od [[#Barovie, vesnice|Barovie]] na odbočce ze [[#Svalichská cesta|Svalichské cesty]] směrem do [[#Vallaki|Vallaki]]
-- Nachází se tam tábor [[Osoby a skupiny#Vistani|Vistani]], ve kterém je [[Osoby a skupiny#Madam Eva|Madam Eva]]
+- Nachází se tam [[Osoby a skupiny#Vistani|vistánský]] [[Osoby a skupiny#Tábor Madam Evy|Tábor Madam Evy]]
 	- 4 vozy, 5 stanů (jeden větší), 8 koní
 ## Tserské vodopády
 - Kus proti proudu od [[#Tserské jezero|Tserského jezera]] na [[#Ivlis|řece Ivlis]]

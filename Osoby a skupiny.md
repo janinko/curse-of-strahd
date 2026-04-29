@@ -28,7 +28,7 @@ Majitel [[Místa - Barovie#Arasekovy sklady|skladů ve Vallaki]]
 Pán [[Místa - Barovie#Argynvostholt|Argynvostholtu]], údajně stříbrný drak
 - Podle portrétu v Argynvostholdu vypadá jako starší, silný s hřívou stříbřitě bílých vlasů
 ## Arrigal
-Vistanec z [[Místa - Barovie#Luvašův tábor|Luvašova tábora]]
+Vistanec z [[#Tábor Luvaše|Tábora Luvaše]]
 - Možná příbuzný s [[Osoby a skupiny#Luvaš|Luvašem]]
 - Je mladší, v dobré kondici a s bradkou
 - Nabízel elixír na cestování mlhou za 50 zlatých
@@ -153,6 +153,7 @@ vezír ledu a oceli
 - Teorie?  Potkali jsme dvakrát elementála vzduchu, který prosil **Aurelia** o pomoc, je nějak spojený?
 ## Ezmerelda
 Žačka [[#Rudolf van Richten|van Richtena]], mladá [[#Vistani|Vistanka]]
+- Pochází z [[#Radanovičův klan †|Radanovičova klanu]]; po jeho vyvraždění ji [[#Rudolf van Richten|van Richten]] vychoval jako adoptivní otec
 - Místo jedné nohy má mechanickou protézu
 - Strávila nějaký čas v [[Místa - Barovie#Klášter sv. Markovie|klášteře]]
 ## Filoména Vaduz  †
@@ -295,7 +296,7 @@ Kněz v [[Místa - Barovie#Kostel sv. Andrela|kostele sv. Andrela]] ve [[Místa 
 - zmíněn knězem "Jisko, kde je Miluvoj"
 - Podle [[#Urvin|Urvina]] je to vcelku velký pomocník kněze, starší než Jiska
 ## Luvaš
-Vůdce [[Místa - Barovie#Luvašův tábor|tábora]] [[#Vistani|Vistanců]]
+Vůdce [[#Tábor Luvaše|Tábora Luvaše]], kmene [[#Vistani|Vistanců]]
 - Je velký, svalnatý s černohnědými vlasy a divokými vousy. Nosí červenohnědou vestu
 - Možná příbuzný s [[#Arrigal|Arrigalem]]
 - má mladou dceru
@@ -314,12 +315,11 @@ Vůdce [[Místa - Barovie#Luvašův tábor|tábora]] [[#Vistani|Vistanců]]
 - Nemá ráda Matku havranů a havrany
 - Chtěla abysme přinesli od [[Strád von Zarovič#Sirius Belviu|Siriuse]] jeho náhrdelník
 ## Madam Eva
-[[#Vistani|Vistani]] Vědma ze sdíleného snu
+[[#Vistani|Vistani]] Vědma ze sdíleného snu, vůdkyně [[#Tábor Madam Evy|Tábora Madam Evy]] u [[Místa - Barovie#Tserské jezero|Tserského jezera]]
 - Vyložila dobrodruhům karty (diviner, monk, mists, marionet, broken one)
 - Pověděla jim o hlubokém tmavém lese a o [[#Pavouk|Pavoukovi]] v [[Místa - Barovie#Barovie, území|údolí]] a že se jim možná podaří uniknout nebezpečí, nebo alespoň přežít.
 - Ve vhodnou příležitost mají dobrodruzi Madam Evu vyhledat, aby jim znovu vyložila budoucnost a dobrodruzi pak snad  [[#Pavouk|Pavouka]] porazí
 - Podle [[#Alenka, Mirabel a Sabia|Mirabel]] mají některé [[#Vistani|Vistanské]] ženy dar vidět budoucnost a madam Eva je jednou z nich
-- Měla by být členkou klanu, který táboří u [[Místa - Barovie#Tserské jezero|Tserského jezera]]
 - Podle vlastních slov je její úlohou starat se o [[#Vistani|Vistánský lid]]
 	- [[Místa - Barovie#Barovie, území|Barovie]] je jejich domovem, proto podle madam Evy neodejdou, i když by mohli
 - O [[Strád von Zarovič|Strádovi]] řekla: "Myslím si, že stav v jakém Strád je, je prokletí pro něj i pro [[Místa - Barovie#Barovie, území|Barovii]]"
@@ -434,8 +434,6 @@ Obrovský pavouk, který podle [[#Madam Eva]] žije uprostřed [[Místa - Barovi
 ## Rab
 Gnom, trhovec z [[Místa - Materiální pláň#Liamova tvrz|Liamovy Tvrze]], zabývající se pěstováním česneku.
 - Prodal dobrodruhům 3 speciálně vypěstované odrůdy česneku
-## Radanovičův klan
-- Klan [[#Vistani|Vistánců]], jež byl vyvražděn [[#Rudolf van Richten|van Richtenem]]
 ## Raven Queen
 Bohyně uctívaná shadar-kai v Shadowfellu
 - Známá také jako: Paní Havranů
@@ -688,11 +686,11 @@ Podle [[Strád von Zarovič|Stráda]] se jedná o krvelačného vraha
 - Nosí hrubý cestovní kabát, bílou košili, kožené boty a vyházkovou hůl
 	- Jeho předchozí hůl našel **Nethar** poté co 
 - Podle [[Strád von Zarovič|Stráda]] zabil 37 [[#Vistani|vistánců]], včetně žen a dětí
-	- Podle [[#Arrigal|Arrigala]] vyzabíjel [[#Radanovičův klan|Radanovičův klan]]
+	- Podle [[#Arrigal|Arrigala]] vyzabíjel [[#Radanovičův klan †|Radanovičův klan]]
 	- více infa by mohla mít [[#Madam Eva|Madam Eva]]
 - [[Strád von Zarovič|Strád]] chtěl, aby jsme jej [[✅ Pátrání po van Richtenovi|nalezli]] a podali o něm informace
 - [[Strád von Zarovič|Strád]] se s ním "chce vypořádat"
-	- Stejně tak na něj [[#Vistani|Vistani]] vypsali odměnu, chtějí se mu pomstít za [[#Radanovičův klan|Radanovičův klan]]
+	- Stejně tak na něj [[#Vistani|Vistani]] vypsali odměnu, chtějí se mu pomstít za [[#Radanovičův klan †|Radanovičův klan]]
 - Jeho alter-ego je [[#Riktavio|Riktavio]]
 - Patří mu [[#Drápek]]
 - Jeho plány jsou prý prozkoumat [[Místa - Barovie#Argynvostholt|Argynvostholt]] a [[Místa - Barovie#Ravenloft|Ravenloft]]
@@ -775,22 +773,33 @@ Osoba, která byla nalezena mrtvá v tajné místnosti [[Místa - panství Dorst
 - V ruce držel [[Dopis Gustavovi Durstovi od Stráda von Zaroviče|dopis]]
 - Byl zabit šipkovou pastí na truhle v tajné místnosti
 ## Vistani
-Potulný národ
-- [[#Madam Eva]] je jednou z nich
-- 3 ženy byly v [[Místa - Barovie#Hostinec Krvavé Víno|hostinci Krvavé Víno]], oblečené v pestrobarevných barvách popíjely víno a hrály karty
-- [[#Ismark Koljanovič|Ismark]] tvrdil, že snad slouží [[Strád von Zarovič|Strádovi]], protože můžou opustiti [[Místa - Barovie#Barovie, území|Barovii]]
-- Mají od [[Strád von Zarovič|Stráda]] povolení cestovat skrze Mlhy
+Potulný národ, dělící se na několik kmenů/táborů
+- Mají od [[Strád von Zarovič|Stráda]] povolení cestovat skrze [[Místa - Barovie#Mlha|Mlhy]]
 	- [[Místa - Barovie#Barovie, území|Barovie]] je jejich domovem, proto podle [[#Madam Eva|madam Evy]] neodejdou, i když by mohli
-- Podle [[#Arrigal|Arrigala]] jejich povolení cestovat [[Místa - Barovie#Mlha|mlhou]] z Barovie prý pochází kvůli něčemu v dávné minulosti
-	- Když se pokoušeli cestovat pryč s někým, dotyčný zmizel
-#### Alexej, vistanec
-- někdo jiný, než [[#Alexej|Alexej]]??
-- měl hlídat [[Osoby a skupiny#Arabela †|Arabelu]], ale místo toho chlastal a ta se ztratila
-### Oleg
-Vypravěč příběhů z Luvašova tábora
+	- Podle [[#Arrigal|Arrigala]] jejich povolení pochází kvůli něčemu v dávné minulosti
+		- Když se pokoušeli cestovat pryč s někým jiným, dotyčný zmizel
+- [[#Ismark Koljanovič|Ismark]] tvrdil, že snad slouží [[Strád von Zarovič|Strádovi]], protože můžou opustit [[Místa - Barovie#Barovie, území|Barovii]]
+- [[#Kazimir|Kazimir]] tvrdil, že Luvašovský tábor je nad elfy proto, aby na ně skrz ně mohl Strád dohlížet
+- S Vistany cestují i další osoby, které sami Vistanci nejsou — např. [[#Riktavio|Riktavio]]
+### Tábor Luvaše
+Tábor [[Místa - Barovie#Luvašův tábor|na jihozápad od Vallaki]]
+- Vůdce: [[#Luvaš|Luvaš]]
+- Členové: [[#Arrigal|Arrigal]], [[#Luvaš#Arabela †|Arabela]] (Luvašova dcera)
 #### Alenka, Mirabel a Sabia
-Skupina 3 vistani žen, které navštěvují [[Místa - Barovie#Hostinec Krvavé Víno|hostinec Krvavé Víno]]
+Skupina 3 vistánských žen, navštěvují [[Místa - Barovie#Hostinec Krvavé Víno|hostinec Krvavé Víno]]
 - Rády hrají karetní hry, jako třeba Krysí Poker
+#### Alexej, vistanec
+- někdo jiný, než [[#Alexej|Alexej]] ze [[#Skupina Cassie a Broma|skupiny Cassie a Broma]]
+- měl hlídat [[#Arabela †|Arabelu]], ale místo toho chlastal a ta se ztratila
+### Tábor Madam Evy
+Tábor [[Místa - Barovie#Tserské jezero|u Tserského jezera]] (4 vozy, 5 stanů, 8 koní)
+- Vědma a vůdkyně: [[#Madam Eva]]
+#### Oleg
+Vypravěč příběhů z tábora
+### Radanovičův klan †
+Klan vyvražděný [[#Rudolf van Richten|van Richtenem]]
+- Pochází z něj [[#Ezmerelda]] — po vyvraždění klanu ji van Richten vychoval jako adoptivní otec
+- [[#Vistani|Vistani]] na van Richtena vypsali odměnu, chtějí se mu pomstít
 ## Vlkodlaci
 Skupina vlkodlaků napadající vesnice poblíž [[Místa - Materiální pláň#Brod Dýky|Brodu Dýky]]
 - Zosnovali [[Útok vlků a vlkodlaků na Liamovu Tvrz]]
