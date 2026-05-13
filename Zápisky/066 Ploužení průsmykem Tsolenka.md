@@ -5,7 +5,7 @@
 		- Sám se tam kdysi vydal - došel průsmykem k bráně u mostu přes řeku, v níž hořel zelený plamen. Dál se však neodvážil.
 - Při kraji cesty jsme zahlédli [[Místa - Barovie#Výklenek se svíčkami|výklenek]] vysoko ve skále
 	- Uvnitř ikona [[Osoby a skupiny#Pán Jitra|Pána Jitra]] a sedm svíček, z nichž jediná hořela - magická, neuhasitelná
-	- **Rheya** se pokusila zapálila ostatní, ty ale okamžitě zhasly v ledovém větru
+	- **Rheya** se pokusila zapálit ostatní, ty ale okamžitě zhasly v ledovém větru
 		- **Malakai**  jí pujčil svůj plášť, ať výklenek zastíní - svíčky vydržely a ikona se zaleskla
 - Narazily do nás horské kozy
 	- S hlasitým "puf" nám jeden kůň zmizel

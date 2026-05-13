@@ -132,7 +132,11 @@ title: Místa - Barovie
 	- Uvnitř nefunguje magie
 	- Jde o 6 tmavých kamenů se symboly, uprostřed vždy jeden významný symbol
 	- Zdá se že jde skutečně o teleportační magii, se 6 destinacemi
-	- V zrcadle se kameny jeví bílé a zářivé
+	- V zrcadle se kameny jeví bílé a zářivé, krom jednoho se symbolem havrana
+- Kruh v [[#Průsmyk Tsolenka|průsmyku Tsolenka]]:
+	- Antimagické pole stejně jako u Berezského kruhu
+	- V zrcátku všechny kameny bílé, krom jednoho se symbolem "údolí nad řekou"
+	- Skutečně teleportační — je zde teleportační kotva a každý kámen vede na různá místa v [[#Barovie, území|Barovii]]; jde o podivný typ teleportace
 - Kruh u cesty z [[#Vallaki]] do [[#Krezk|Krezku]]
 	- Ploché kameny s jedním uprostřed
 	- runy na povrchu — lehce stíratelné a špatně čitelné
@@ -225,8 +229,19 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 ## Průsmyk Tsolenka
 - Průsmyk vedoucí [[#Ghakis, hora|Ghakiským pohořím]] směrem k [[#Jantarový chrám|Jantarovému chrámu]]
 - Nepřirozeně chladný, pravidelně zasněžený a hostí prudké horské počasí
-- Cesta průsmykem překračuje horskou řeku po mostě, u kterého stojí brána se zeleným plamenem
 - U vstupu do průsmyku, poblíž [[#Měsíční řeka|Měsíční řeky]], se asi 100 stop pod cestou nachází nakloněný [[#Kamenné kruhy|kamenný kruh]]
+- Dále východně po cestě stojí [[#Brána nad měsíční řekou|Brána nad měsíční řekou]] a za ní [[#Strážní věž v průsmyku|strážní věž]]
+- Východně od strážní věže cesta překračuje [[#Měsíční řeka|Měsíční řeku]] po mostě
+### Brána nad měsíční řekou
+- Brána v cestě průsmykem Tsolenka, mezi [[#Kamenné kruhy|kamenným kruhem]] na západě a [[#Strážní věž v průsmyku|strážní věží]] na východě
+- Při přiblížení v ní vzplane zelený plamen
+- Nad bránou na zdi stály 2 groteskní sochy — ve skutečnosti spící démoni
+### Strážní věž v průsmyku
+- Strážní věž v průsmyku Tsolenka, východně od [[#Brána nad měsíční řekou|brány]]
+- Na střeše stojí několik soch
+- Uvnitř nic zajímavého
+	- V patře zbytky po conjuration magii
+	- Žádná vazba na [[#Argynvostholt]]
 ### Výklenek se svíčkami
 - Vysoko ve skále při kraji cesty, výklenek s ikonou [[Osoby a skupiny#Pán Jitra|Pána Jitra]]
 - Před ikonou stojí sedm svíček

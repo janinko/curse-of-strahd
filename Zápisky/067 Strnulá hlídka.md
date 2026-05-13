@@ -1,0 +1,23 @@
+## 19. Oťávra
+- **Rheya** se vydala prozkoumat [[Místa - Barovie#Kamenné kruhy|kamenný kruh]] pod cestou
+	- V zrcátku byly všechny kameny bílé, krom jednoho se symbolem "údolí nad řekou"
+	- Seslala identifikaci, ta ale kvůli antimagickému poli byla jen částečně úspěšná — silnější identifikace by zjistila více
+- Přišli jsme k [[Místa - Barovie#Brána nad měsíční řekou|bráně]], ve které při přiblížení vzplanul zelený plamen
+	- Nad bránou byly na zdi 2 groteskní sochy, za bránou byla [[Místa - Barovie#Strážní věž v průsmyku|strážní věž]] s několika sochami na střeše
+	- Po pár pokusech o zprůchodnění brány se **Rheya** vydala na koštěti okolo, což probralo sochy na bráně
+- Z kamenných soch se vyklubali démoni, kteří na nás zaútočili
+	- **Aurelius** strávil většinu boje strnulý jejich skřeky
+	- **Rheya** zjistila že její útoky nefungují, tak dala **Malakaiovi** své koště
+	- **Malakai** se snažil nahánět létající démony na věž a z věže, jak dostal koště, naháněl je ve vzduchu
+	- **Nethar** jednoho z nich zmrazil ve vzduchu a pak jim pokládal hádanky
+	- Poslední zraněný démon se pokusil uprchnout, načež jej **Malakai** dohnal jak turnajový rytíř a nabodl
+## 20. Oťávra
+- Po boji jsme se na koštěti přemístili za bránu ke strážní věži
+	- **Malakaiovi** se z toho všeho lítání udělalo nevolno
+	- **Nethar** se pokoušel s vypětím svých magických sil překonat dveře, **Rheya** poukázala že v patře je otevřené okno
+	- **Rheya** a **Aurelius** s vypětím svých fyzických sil otevřeli dveře zevnitř
+	- Prohledali jsme důkladně věž
+		- Skoro nic zajímavého v ní není
+		- V patře byly zbytky po nějaké conjuration magii
+		- Na střechu jsme se zatím nevydali
+	- **Malakai** zhodnotil věž jako dobré místo k přespání a navrhl odpočinek

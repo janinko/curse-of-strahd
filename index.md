@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[067 Strnulá hlídka]]  
 [[066 Ploužení průsmykem Tsolenka]]  
 [[065 Každý svou cestou]]  
 [[064 Noc na strašidelné samotě]]  
@@ -7,7 +8,6 @@
 [[062 Kdo trpí bolestí jiných]]  
 [[061 Večer plný poznávání]]  
 [[060 Pravá tvář Drápka]]  
-[[059 Vzal kořeny na ramena]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované

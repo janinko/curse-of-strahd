@@ -213,7 +213,9 @@ Kalendář:
 - [[064 Noc na strašidelné samotě]]
 - [[065 Každý svou cestou]]
 - [[066 Ploužení průsmykem Tsolenka]]
+- [[067 Strnulá hlídka]]
 ### 20. Oťávra 735 
+- [[067 Strnulá hlídka]]
 ### 21. Oťávra 735 
 - Poslední datum pro večeři v [[Místa - Barovie#Ravenloft|Ravenloftu]]
 ### 22. Oťávra 735 🌓
