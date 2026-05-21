@@ -128,6 +128,12 @@ title: Místa - Barovie
 	- Ve [[#Starý Berez|Starém Berezu]]
 	- V [[#Průsmyk Tsolenka|průsmyku Tsolenka]] poblíž [[#Měsíční řeka|Měsíční řeky]], asi 100 stop pod cestou — nakloněný pod úhlem cca 45°, podobný kruhu v [[#Starý Berez|Berezu]]
 - Podle [[Osoby a skupiny#Victoria †|Viktorie]] můžou sloužit pro přesun mezi místy
+- Po identifikaci [[Osoby a skupiny#Firan|Firanem]] jsme se dověděli:
+	- Pro přemístění pomocí kruhů je třeba všechny přemisťované zobrazit v zrcadle a dotknout se cílového symbolu
+		- Pokud někdo nebude plně zobrazen, může být přemístěna jen jeho část
+	- Magie kruhů přemisťuje osoby skrz zrcadlovou dimenzi
+		- Při smůle je možné, že se s námi ze zrcadlové dimenze něco dostane zpátky
+	- Použití kruhů nás připraví o veškerou magii na nějaký čas, odhadem hodinu
 - Kruh ve [[#Starý Berez|Starém Berezu]]:
 	- Uvnitř nefunguje magie
 	- Jde o 6 tmavých kamenů se symboly, uprostřed vždy jeden významný symbol
@@ -238,7 +244,7 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 - Nad bránou na zdi stály 2 groteskní sochy — ve skutečnosti spící démoni
 ### Strážní věž v průsmyku
 - Strážní věž v průsmyku Tsolenka, východně od [[#Brána nad měsíční řekou|brány]]
-- Na střeše stojí několik soch
+- Na střeše stojí několik soch vysokých bojovníků
 - Uvnitř nic zajímavého
 	- V patře zbytky po conjuration magii
 	- Žádná vazba na [[#Argynvostholt]]
