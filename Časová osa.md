@@ -216,6 +216,8 @@ Kalendář:
 - [[067 Strnulá hlídka]]
 ### 20. Oťávra 735 
 - [[067 Strnulá hlídka]]
+- [[068 Generál za úsvitu]]
+- [[069 Pěkné pozdvižení]]
 ### 21. Oťávra 735 
 - Poslední datum pro večeři v [[Místa - Barovie#Ravenloft|Ravenloftu]]
 ### 22. Oťávra 735 🌓

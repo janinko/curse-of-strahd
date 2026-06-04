@@ -24,6 +24,7 @@ Bývalý majitel [[Místa - Barovie#Rezidence Dorstových|rezidence]], který [[
 ## Arasek
 Majitel [[Místa - Barovie#Arasekovy sklady|skladů ve Vallaki]]
 - Prodává všelijaké zboží, včetně piva
+- Podle [[Rahadinovy dopisy|Rahadinových dopisů]] zásobuje [[Místa - Barovie#Ravenloft|Ravenloft]] — dodávky k hlavní bráně každý třetí den, nejpozději ve druhé hodině po půlnoci
 ## Argynvost
 Pán [[Místa - Barovie#Argynvostholt|Argynvostholtu]], údajně stříbrný drak
 - Podle portrétu v Argynvostholdu vypadá jako starší, silný s hřívou stříbřitě bílých vlasů
@@ -132,6 +133,7 @@ Druidi, co napadli [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
  - Dělají něco podivného s mlhou
  - Krom chodících rostlinných potvor jim prý pomáhají i nějací divoši.
  - Podle [[Strád von Zarovič|Stráda]] jednali druidi za sebe: "Mí poddaní mají různé způsoby, jak vyjádřit úctu."
+ - Možná jde o [[#Lesní pozůstatky|Lesní pozůstatky]] z [[Rahadinovy dopisy|Rahadinových dopisů]]
 ## Elminster
 - Známý a mocný čaroděj
 ## Evon
@@ -163,6 +165,7 @@ vezír ledu a oceli
 ## Firan
 - **Netharem** nazývaný "[[Návštěvník 🧑🏻|Návštěvník]]"
 - Jeví se asi jako 2 metry vysoký, mužské postavy
+- Pomohl s identifikací [[Místa - Barovie#Kamenné kruhy|kamenného kruhu]] v průsmyku Tsolenka — za to mu **Nethar** dluží magické knihy, svitky nebo informace z [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]]
 ## Gadolt Blinsky
 Výrobce hraček ve [[Místa - Barovie#Vallaki|Vallaki]]
  - podsaditý, zavalitý s vousy, nosí šaškovskou čepici
@@ -270,6 +273,11 @@ Mladá havranodlačka z [[Místa - Barovie#Vallaki|Vallaki]]
 - Kráska s čiernymi havraními vlasmi, hnedými očami a špičatým nosíkom. Na krku má uviazaný strieborný medajlónik. Oblečená je v ľahkej koženej zbroji a čižmách po kolená.
 - Zdá se, že je rodina s [[#Muriel|Muriel]]
 - ![[Pasted image 20250807173905.png]]
+## Lesní pozůstatky
+Neznámá skupina zmíněná ve [[Rahadinovy dopisy|Strádově dopise Rahadinovi]]
+- Požádaly [[Strád von Zarovič|Stráda]] o přízeň a podmíněně ji dostaly — jejich kouzelníci obdrželi dary jantaru, ostatní si „kousnutí vyslouží jedině úspěchem"
+- „Budou jednat, až budou připraveni" — Strád s Rahadinem chtěli z hřebene sledovat, zda lze nějakou skupinu přimět k volbě mezi dětmi a vlastním ústupem (nevíme, zda jde o nás, nebo někoho jiného)
+- Nevíme, kdo to je — možná [[#Druidi z Kopce minulosti|druidi z Kopce minulosti]] (spíše), možná [[#Vlkodlaci|vlkodlaci]] (o vlkodlačích kouzelnících ale nevíme), možná někdo jiný
 ## Lovci z Vallaki
 - Podle svých slov u břehu [[Místa - Barovie#Baratok, jezero|Baratockého jezera]] zabili vlkodlaka
 - Nabízejí doprovod za 5 zl / den, ale pouze přes den, nikoli v noci
@@ -781,6 +789,7 @@ Potulný národ, dělící se na několik kmenů/táborů
 - [[#Ismark Koljanovič|Ismark]] tvrdil, že snad slouží [[Strád von Zarovič|Strádovi]], protože můžou opustit [[Místa - Barovie#Barovie, území|Barovii]]
 - [[#Kazimir|Kazimir]] tvrdil, že Luvašovský tábor je nad elfy proto, aby na ně skrz ně mohl Strád dohlížet
 - S Vistany cestují i další osoby, které sami Vistanci nejsou — např. [[#Riktavio|Riktavio]]
+- „Oči Cest" — zřejmě vistanská síť donášející [[Strád von Zarovič|Strádovi]] zprávy z cest a [[Místa#Domény hrůzy|domén]]; [[Rahadinovy dopisy|hlášení Východního okruhu]] doručila na hrad jistá Mirela z Kamii
 ### Tábor Luvaše
 Tábor [[Místa - Barovie#Luvašův tábor|na jihozápad od Vallaki]]
 - Vůdce: [[#Luvaš|Luvaš]]
@@ -807,6 +816,7 @@ Skupina vlkodlaků napadající vesnice poblíž [[Místa - Materiální pláň#
 - Podle Vaslova unesli [[#Kelen|Kelena]] a [[#Marcus|Marcuse]]
 - Podle [[#Rodina Dorstových|dětí]] ze [[Místa - panství Dorstových|Strašidelného panství]] je vlkodlaků nejméně 6
 - Podle [[#Rodina Dorstových|dětí]] ze [[Místa - panství Dorstových|Strašidelného panství]] používají vlkodlaci panství k tomu, aby cestovali mezi [[Místa - Barovie#Barovie, území|Barovií]] a jinými místy
+- Možná jde o [[#Lesní pozůstatky|Lesní pozůstatky]] z [[Rahadinovy dopisy|Rahadinových dopisů]] (o vlkodlačích kouzelnících ale nevíme)
 ### Emil
 Bývalý vůdce vlkodlaků
 ### Kiril

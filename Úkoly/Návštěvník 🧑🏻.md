@@ -49,3 +49,6 @@ Večer jsem začal meditovat s druidskou temnou holí položenou na kolenou
 - Při [[055 Lekce o Strádovi|Souboji se Strádem]] ve vzpomínce na [[Osoby a skupiny#Tatiana †|Tatianu]] při jeho slovech: "Nemusíš na to být sám" jsem cítil nával velké antipatie ke [[Strád von Zarovič|Strádovi]]
 - Když **Malakai** naznačil, že asi zabil [[Osoby a skupiny#Ilmar Lirieneth|Ilmara]], přemýšlel jsem jestli **Malakaiovi** ublíží
 	- Firan mě přesvědčoval že nemám rozbíjet partu a že existují způsoby jak zjistit, jestli je Ilmar v pořádku
+#### 20. Oťávra
+- Firan mi pomohl s identifikací [[Místa - Barovie#Kamenné kruhy|kamenného kruhu]] v průsmyku Tsolenka
+	- Za to po mně chce magické knihy, svitky nebo informace z [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]]

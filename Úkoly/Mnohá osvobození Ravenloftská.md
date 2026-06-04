@@ -8,4 +8,8 @@ Je třeba z Ravenloftu osvobodit nebo získat následující:
 - Potenciálně získat [[Věštba madam Evy|informace o Strádově historii]]
 - potencionálně najít [[Vinařství v ohrožení|zelený artefakt]]
 - pro mrtvou [[Osoby a skupiny#Lysaga †|Lysagu]] získat náhrdelník od [[Strád von Zarovič#Sirius Belviu|Siria]]
-- 
+
+Užitečné pro infiltraci ([[Rahadinovy dopisy]], stav k ~20. Oťávra 735):
+- [[Osoby a skupiny#Arasek|Arasekovy]] dodávky k hlavní bráně každý třetí den, nejpozději ve druhé hodině po půlnoci — brána je otevřená
+- Kouzelný strážce na severní zdi je poškozený a nepředvídatelný, severnímu přístupu se obyvatelé vyhýbají; jižní zdi a vnitřní nádvoří zůstávají chráněny
+- Prasklý hromosvod vysoké věže — má jej přijet opravit kovář z Vallaki

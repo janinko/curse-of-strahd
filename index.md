@@ -1,21 +1,21 @@
 # Strádovo prokletí
 ## Epizody
+[[069 Pěkné pozdvižení]]  
+[[068 Generál za úsvitu]]  
 [[067 Strnulá hlídka]]  
 [[066 Ploužení průsmykem Tsolenka]]  
 [[065 Každý svou cestou]]  
 [[064 Noc na strašidelné samotě]]  
 [[063 Inhumace a exhumace]]  
 [[062 Kdo trpí bolestí jiných]]  
-[[061 Večer plný poznávání]]  
-[[060 Pravá tvář Drápka]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
 [[Tajemství Jantarového Chrámu]]  
+[[Mnohá osvobození Ravenloftská]]  
 ### Probíhající
 [[Vyřešit věštbu od Madam Evy]]  
 [[Vinařství v ohrožení]]  
-[[Mnohá osvobození Ravenloftská]]  
 [[Lék na Strádovu chorobu]]  
 [[Osvobodit Udo Lukoviče]]  
 [[Klidný spánek dračí]]  

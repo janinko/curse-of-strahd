@@ -20,6 +20,11 @@ title: Místa
 	- [[Místa - Barovie#Barovie, území|Barovie]] je vězení, kde [[Strád von Zarovič|Strád]] je zároveň vězněm i věznitelem
 	- duše nemůžou opustit doménu a je možné, že se reinkarnují
 	- [[Osoby a skupiny#Rudolf van Richten|van Richten]] pochází z Darkonu
+- Podle [[Rahadinovy dopisy|hlášení „Očí Cest" pro Stráda]] (~Oťávra 735):
+	- Darkon se hroutí — „žere se sám od středu ven": cesty, které vedly dovnitř, se stáčejí ven, osady a tábory u hranice mizí a duše hledají trhliny ven
+		- Někdo (druhý rukopis hlášení) uzavřel trhlinu, kterou se cosi velkého pokoušelo protlačit z darkonské strany
+	- Existuje doména Har'Akir — cesty poblíž jsou už dva měsíce podezřele tiché
+	- Slabé zvěsti o potížích u Lamordie
 ## Gloomwrought
 - Město v Shadowfellu
 - Pochází odtud **Nethar**

@@ -1,12 +1,13 @@
-- **Aurelius** s **Netharem** se vydali porzkoumat jak otevřít bránu
-	- Kdž **Nethar** aktivoval past, šla na ně **Rheya** dohlédnout
+## 20. Oťávra
+- **Aurelius** s **Netharem** se vydali prozkoumat jak otevřít [[Místa - Barovie#Brána nad měsíční řekou|bránu]]
+	- Když **Nethar** aktivoval past, šla na ně **Rheya** dohlédnout
 	- Na vrcholu brány byly objeveny 3 magické symboly, jejich opatrným narušením se podařilo zrušit plamen
 - Šli jsme zpátky ke [[Místa - Barovie#Kamenné kruhy|kruhu]]
-	- **Aurelius** a **Rhea** šli hledat dříví
+	- **Aurelius** a **Rheya** šli hledat dříví
 	- **Nethar** s **Malakaiovým** jištěním prozkoumával magický kruh
 	- [[Osoby a skupiny#Firan|Firan]] pomohl s [[Místa - Barovie#Kamenné kruhy|identifikací]], ale požadoval za to, aby mu **Nethar** poskytl magické knihy, svitky nebo informace z [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]]
-- Připravili jsme se k odpočinku ve věži
+- Připravili jsme se k odpočinku ve [[Místa - Barovie#Strážní věž v průsmyku|věži]]
 	- Při chystání ohně **Aurelius** odpálil kus dřeva **Malakaiovi** do hlavy
 - Za časného rána se do věže teleportoval [[Strád von Zarovič#Rahadin|Rahadin]]
-	- Začal nám vyhrožovat, že o naší výpravě řekne [[Strád von Zarovič|Strádovi]] a tak jej **Nethar** v příhodném momentu paralizoval
+	- Začal nám vyhrožovat, že o naší výpravě řekne [[Strád von Zarovič|Strádovi]] a tak jej **Nethar** v příhodném momentu paralyzoval
 	- Následoval masakr Strádova Generála

@@ -125,6 +125,10 @@ Bratr
 soumračný elf
 - zradil ostatní [[Osoby a skupiny#Soumrační elfové|soumračné elfy]] a přidal se k Barovovi
 - sloužil v Barovově a Strádově armádě jako generál
+- byl Strádovým komořím — řídil zásobování a opravy [[Místa - Barovie#Ravenloft|Ravenloftu]] a držel třetí pečeť „[[Rahadinovy dopisy|Vrcholné komory]]"
+- zabit [[Časová osa#20. Oťávra 735|20. Oťávra 735]] poté, co se teleportoval za námi do [[Místa - Barovie#Strážní věž v průsmyku|strážní věže v průsmyku Tsolenka]] a vyhrožoval, že o naší výpravě řekne Strádovi
+	- u těla jsme našli [[Rahadinovy dopisy|jeho dopisy]] a jantarovou tyčku (jeden ze tří pilířů nějakého mechanismu — možná pečeť)
+	- jeho očarovaný pytel po doteku vybuchl a vyvolal tři vzdušné elementály
 ## Společníci
 ### Lady Ludmila Vilsavic
 - první nevěsta Stráda
@@ -143,5 +147,11 @@ soumračný elf
 
 ### Sirius Belviu
 - Měl by žít na [[Místa - Barovie#Ravenloft|hradě]] a mít náhrdelník, který chctěla [[Osoby a skupiny#Lysaga †|Lysaga]]
+### Učenkyně
+- Neznámá osoba zmíněná v [[Rahadinovy dopisy|Rahadinových dopisech]]
+- Odpovídá za celistvost pouta Třetí pečeti „Vrcholné komory", kontroluje ji prvního dne každého měsíce
+### Správce knih
+- Neznámá osoba zmíněná v [[Rahadinovy dopisy|Rahadinových dopisech]]
+- Vede záznamy o přístupu k „Vrcholné komoře" a drží jednu z jejích pečetí
 ## Pečeť
 ![[Pečeť Strád.png]]

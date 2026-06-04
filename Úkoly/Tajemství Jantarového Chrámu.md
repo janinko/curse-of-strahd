@@ -9,3 +9,8 @@
 ## Ostatní informace
 - Podle [[Osoby a skupiny#Victoria †|Victorie]] mají [[Osoby a skupiny#Rodina Wachterů|Wachterovi]] v knihovně knihu o Jantarovém Chrámu
 - Tapiserie v [[Místa - Barovie#Khazanova věž|Khazanově věži]] znázorňovala něco, co by mohla být jantarový chrám
+- [[Osoby a skupiny#Firan|Firanovi]] dlužíme za identifikaci [[Místa - Barovie#Kamenné kruhy|kamenného kruhu]] magické knihy, svitky nebo informace z chrámu
+- [[Rahadinovy dopisy]] zmiňují „Vrcholnou komoru" — entitu drženou třemi pečetěmi (Strádova učenkyně, správce knih, Rahadin) — možná se nachází v chrámu (jantarová pouta, dary jantaru)
+	- Jantarová tyčka nalezená u [[Strád von Zarovič#Rahadin|Rahadina]] je podle naší teorie jednou z pečetí („jeden ze tří pilířů" mechanismu)
+	- Třetí pečeť selhala „*opět* šestnáctého" — zdá se, že selhává opakovaně 16. dne měsíce
+	- Entita vytlačuje skrz „vrcholový průduch" do údolí proud nesoucí *záměr* a hledá příjemce

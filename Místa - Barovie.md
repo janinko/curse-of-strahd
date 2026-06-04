@@ -241,6 +241,7 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 ### Brána nad měsíční řekou
 - Brána v cestě průsmykem Tsolenka, mezi [[#Kamenné kruhy|kamenným kruhem]] na západě a [[#Strážní věž v průsmyku|strážní věží]] na východě
 - Při přiblížení v ní vzplane zelený plamen
+	- Na vrcholu brány jsou 3 magické symboly — jejich opatrným narušením se plamen podařilo zrušit
 - Nad bránou na zdi stály 2 groteskní sochy — ve skutečnosti spící démoni
 ### Strážní věž v průsmyku
 - Strážní věž v průsmyku Tsolenka, východně od [[#Brána nad měsíční řekou|brány]]
@@ -264,6 +265,11 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 	- Měly by tam být ostatky [[Osoby a skupiny#Markovia †|sv. Markovie]]
 	- Podle [[Osoby a skupiny#Tatiana †|Tatiany]] by v nejnižším patře katakomb měl být pohřben [[Strád von Zarovič#Sergej|Sergej]]
 - Kaple se nachází na přízemí, u vyhlídky
+- Podle [[Rahadinovy dopisy|Rahadinových dopisů]] (stav k ~20. Oťávra 735):
+	- [[Osoby a skupiny#Arasek|Arasek]] vozí dodávky k hlavní bráně každý třetí den, nejpozději ve druhé hodině po půlnoci — brána je otevřená a někdo dodávku přijímá
+	- Hromosvod vysoké věže je prasklý po zásahu bleskem; na opravu má přijet kovář z [[#Vallaki]]
+	- Kouzelný strážce na severní zdi byl zasažen bleskem a chová se nepředvídatelně — obyvatelé hradu se severnímu přístupu vyhýbají
+	- Jižní zdi a vnitřní nádvoří zůstávají chráněny
 ## Samota u Vallaki
 - Osamělý statek nedaleko [[#Vallaki]] 
 - Žili v něm muž a žena a dvě další osoby
