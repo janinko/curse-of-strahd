@@ -121,6 +121,9 @@ title: Místa - Barovie
 - Vede k němu [[#Průsmyk Tsolenka|průsmyk Tsolenka]] v [[#Ghakis, hora|Ghakiském pohoří]]
 - Podle [[Osoby a skupiny#Kazimir|Kazimírovy]] vize od [[Osoby a skupiny#Patrina|Patriny]] jde o kolmou skálu vysoko v horách s vysekaným průčelím ve skalní stěně
 - Podle Kazimíra (který se k chrámu kdysi pokusil dostat) je vstup tvořen branou vysoko nad řekou — v bráně hoří zelený plamen
+- Průčelí tvoří kolmá skála se šesti výklenky s jantarovými sochami — postavy bez tváří, v kápích, ruce sepjaté v modlitbě; uprostřed je černý vchod
+- Za vchodem vstupní hala se střílnami — za jednou střílnou ležela mrtvola červeného mága s hůlkou tajemství
+- V hlavní síni je odpočívadlo a obrovská socha; po doteku jantarové stěny se **Nethar** rozkašlal černým hlenem a z té sochy se telepaticky ozval Hlas: „Návštěvníci v mém chrámě, pojďte sem a pokloňte se."
 ## Kamenné kruhy
 - Několik kamenných kruhů, nacházejících se různě po Barovii
 - Lokace:
@@ -238,6 +241,7 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 - U vstupu do průsmyku, poblíž [[#Měsíční řeka|Měsíční řeky]], se asi 100 stop pod cestou nachází nakloněný [[#Kamenné kruhy|kamenný kruh]]
 - Dále východně po cestě stojí [[#Brána nad měsíční řekou|Brána nad měsíční řekou]] a za ní [[#Strážní věž v průsmyku|strážní věž]]
 - Východně od strážní věže cesta překračuje [[#Měsíční řeka|Měsíční řeku]] po mostě
+	- Na mostě se zjevil jezdec připravený k boji; po útoku se rozplynul v kouř, který lehce zranil **Aurelia**, než zmizel
 ### Brána nad měsíční řekou
 - Brána v cestě průsmykem Tsolenka, mezi [[#Kamenné kruhy|kamenným kruhem]] na západě a [[#Strážní věž v průsmyku|strážní věží]] na východě
 - Při přiblížení v ní vzplane zelený plamen
@@ -245,7 +249,8 @@ Dům [[Smlouva o koupi mlýna|koupený]] Dorstovými
 - Nad bránou na zdi stály 2 groteskní sochy — ve skutečnosti spící démoni
 ### Strážní věž v průsmyku
 - Strážní věž v průsmyku Tsolenka, východně od [[#Brána nad měsíční řekou|brány]]
-- Na střeše stojí několik soch vysokých bojovníků
+- Na střeše stojí sedm zlacených soch vysokých bojovníků (jedna spadla, když na střechu v noci dosedl obrovský pták)
+	- Ve sněhu na střeše ležely kostlivci s magickými šípy v tělech — při vytahování šípů ožili
 - Uvnitř nic zajímavého
 	- V patře zbytky po conjuration magii
 	- Žádná vazba na [[#Argynvostholt]]

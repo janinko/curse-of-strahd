@@ -123,6 +123,9 @@ Bratr
 - Podle [[Osoby a skupiny#Tatiana †|Tatiany]] by měl být pohřben v nejnižším patře katakomb pod [[Místa - Barovie#Ravenloft|Ravenloftem]]
 ### Rahadin
 soumračný elf
+- podle [[Osoby a skupiny#Kazimir|Kazimíra]] odmítl poslušnost elfímu princi, byl za to králem vyhoštěn a z pomsty se přidal k invazní armádě, která [[Osoby a skupiny#Soumrační elfové|soumračné elfy]] téměř vyhladila
+- za odměnu se stal čestným členem rodiny
+- nikdy neprojevil soucit — od té doby je v jeho okolí slyšet křik těch, které zabil
 - zradil ostatní [[Osoby a skupiny#Soumrační elfové|soumračné elfy]] a přidal se k Barovovi
 - sloužil v Barovově a Strádově armádě jako generál
 - byl Strádovým komořím — řídil zásobování a opravy [[Místa - Barovie#Ravenloft|Ravenloftu]] a držel třetí pečeť „[[Rahadinovy dopisy|Vrcholné komory]]"

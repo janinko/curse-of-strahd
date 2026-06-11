@@ -1,0 +1,18 @@
+## 20. Oťávra
+- Ráno jsme se vrátili na střechu [[Místa - Barovie#Strážní věž v průsmyku|věže]] pro zbytek magických šípů, o které stála **Rheya**
+	- V noci na střechu dosedl obrovský pták a shodil jednu ze sedmi zlacených soch bojovníků
+	- Ve sněhu leželi kostlivci s magickými šípy v tělech — při vytahování šípů ožili, ale boj byl rychlý
+- Nad **Netharem** se znenadání zhmotnila dárková krychle s mašlí
+	- Šlo o narozeninový dar od impa [[Osoby a skupiny#Scrivix|Scrivixe]] adresovaný démonu [[Osoby a skupiny#Nedhe'rr|Nedhe'rrovi]] „Ničiteli" — k **Netharovi** dorazil zjevně omylem
+	- **Nethar** si nasadil papírový čepec a ochutnal dort, **Rheya** zatím všechny [[Osoby a skupiny#Scrivix|dárky]] prozkoumala
+- Na mostě přes [[Místa - Barovie#Měsíční řeka|Měsíční řeku]] nedaleko věže stál jezdec připravený k boji
+	- Na **Netharovo** oslovení nereagoval
+	- Když k němu **Aurelius** přiletěl a hodil po něm dýku, ta jím proletěla — jezdec se rozplynul v kouř, který se po **Aureliovi** sápal a lehce ho zranil, než zmizel
+- Dál nás průsmykem vedl [[Osoby a skupiny#Kazimir|Kazimír]], který ale u [[Místa - Barovie#Jantarový chrám|chrámu]] nikdy nebyl
+	- Chvíli jsme hledali správnou odbočku a někteří z nás přitom prochladli
+	- Cestou nám Kazimír vyprávěl o [[Strád von Zarovič#Rahadin|Rahadinovi]] a o tom, jak [[Osoby a skupiny#Soumrační elfové|soumrační elfové]] kdysi přišli o svou zemi
+- Krátce po poledni jsme dorazili k [[Místa - Barovie#Jantarový chrám|Jantarovému chrámu]]
+	- Průčelím byla kolmá skála se šesti jantarovými sochami v kápích a černým vchodem uprostřed
+	- Vstupní halou jsme procházeli opatrně — za jednou střílnou ležela mrtvola červeného mága s hůlkou tajemství
+	- V hlavní síni se **Nethar** na odpočívadle dotkl jantarové stěny a rozkašlal se černým hlenem
+	- Z obrovské sochy v hlavní síni se telepaticky ozval Hlas: *„Návštěvníci v mém chrámě, pojďte sem a pokloňte se."*

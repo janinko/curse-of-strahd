@@ -228,7 +228,7 @@ Nejstarší [[#Soumrační elfové|Soumračný elf]]
 ### Patrina
 Sestra Kazimira, dávno zemřela
 - Měla být [[Strád von Zarovič|Strádovou]] nevěstou
-- [[#Soumrační elfové|Soumrační elfové]] ji zabili, aby ušetřili její duši
+- [[#Soumrační elfové|Soumrační elfové]] ji ukamenovali, aby ušetřili její duši
 - [[Strád von Zarovič|Strád]] se za to pomstil — mimo jiné uřízl Kazimírovi uši
 - Její duše je uvězněna v [[Místa - Barovie#Ravenloft|Ravenloftu]]
 - Ve snech se zjevuje Kazimírovi
@@ -382,6 +382,10 @@ Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašideln�
 - Jedná se o [[#Lysaga †|ježibabu]]??? tvrdí že ne
 	- Nebyla překvapena, když jí **Nethar** řekl o tom, že zabili strašáky u [[Místa - Barovie#Vinařství U mága|vinařství]]
 - Zdá se, že je rodina s [[#Lena|Lenou]]
+## Nedhe'rr
+Démon přezdívaný „Ničitel"
+- Známe ho jen z [[Dopis od Scrivixe|dopisu]] impa [[#Scrivix|Scrivixe]], který mu adresoval narozeninový dárek (omylem doručený **Netharovi**)
+- Podle dopisu byl „u té věci v Avernu"
 ## Nemrtvý jezdec
 Nemrtvý jezdec na nemrtvém koni
 - Vypadá průsvitně a namordrale
@@ -733,6 +737,15 @@ Zarostlý divoch s lebkou jednorožce na hlavě, ozbrojený dlouhým zakrvácen�
 - Tvrdil, že se v horách "objevil" [[Časová osa#17. Oťávra 735|17. Oťávra 735]] — pravděpodobně byl jednou z [[#Lysaga †|Lysažiných]] zakletých sošek (Horský jednokozorožec ze [[Zápisky/060 Pravá tvář Drápka|závěsné hračky]]); sám to ale ani nepotvrdil, ani nepopřel
 ## Savid
 [[#Soumrační elfové|Soumračný elf]], který se vydal hledat [[#Arabela †|Arabelu]] do [[Místa - Barovie#Argynvostholt|Argynvostholtu]]
+## Scrivix
+Imp, který nás nikdy nepotkal
+- Nad **Netharem** se zhmotnila jeho dárková krychle s [[Dopis od Scrivixe|dopisem]] — narozeninový dar adresovaný démonu [[#Nedhe'rr|Nedhe'rrovi]] „Ničiteli", k **Netharovi** dorazil omylem
+- Z dopisu: je „velmi loajální a hodný", dort prý dělal sám, korunu považuje za strašidelnou a mocnou; tvrdí, že byl „u té věci v Avernu"
+- Dárky (prozkoumala **Rheya**):
+	- **Medailon Scrivixe** (common) — nese *Friends* cantrip; nositel musí každý úsvit uspět na DC 11 Charisma save, jinak na něj *Friends* působí. Každý ďábel CR 4+ ho ihned prokoukne
+	- **Šaškovská koruna** (uncommon, vyžaduje attunement) — papírový čepec, po nasazení ho lze sundat jen vlastní rukou nositele; akcí lze seslat *Hideous Laughter* (DC 14) do 30 ft, 1×/long rest
+	- **Scrivixův proslulý dort** (uncommon) — 6 kousků, magie drží 3 dny po rozbalení; snědení kousku dá 5 dočasných HP a advantage na příští save (1×/long rest)
+	- **Trubka** — vystřeluje konfety, které cíl rozptýlí (bez reakce) a na moment oslepí
 ## Sekta Dorstových
 Sekta, která pod [[Místa - panství Dorstových|domem Dorstových]] prováděla temné rituály
 - Viděli jsme 13 artefaktů a 13 přízraků ve [[Místa - panství Dorstových#Sklep - druhé patro|sklepě]]. Pravděpodobně tedy 13 členů?
@@ -761,6 +774,9 @@ Různí strážní ve vallaki
 - Žijou pod [[Místa - Barovie#Luvašův tábor|Luvašovým táborem]]
 - Podle [[Osoby a skupiny#Ismark Koljanovič|Ismarka]] soumrační elfové kladli velký odpor armádě [[Strád von Zarovič|Strádova]] otce při [[Dobývání Barovie|dobývání]] [[Místa - Barovie#Barovie, území|Barovie]]
 - Zbyli už jen muži, žádná elfka
+- Podle [[#Kazimir|Kazimíra]] žili na tomto území ještě před vznikem Barovie — vládl jim král (průměrný, ale spravedlivý), jeho syn-princ se měl stát králem
+	- [[Strád von Zarovič#Rahadin|Rahadin]] odmítl poslušnost princi, byl králem vyhoštěn a z pomsty se přidal k invazní armádě, která elfy téměř vyhladila
+	- Kazimír nic neví o osudu královské rodiny
 ## Sunder Halynd Liam
 Kouzelník, který žil ve své věži v [[Místa - Materiální pláň#Liamova tvrz|Liamově Tvrzi]]
 - Před mnoha lety bojoval s [[#Dávná sekta|dávnou sektou]]
