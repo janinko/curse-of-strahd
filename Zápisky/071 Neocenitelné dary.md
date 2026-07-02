@@ -1,0 +1,11 @@
+## 20. Oťávra
+- **Nethar** se obrovské sochy v hlavní síni zeptal, kdo je
+	- *„Jsem zvěstovatel boha tajemství a magie Neferona a strážím tento chrám. Pokud přicházíte jako poutníci, je vaše povinnost se poklonit. Pokud přicházíte jako raubíři, odejděte, jinak vás zhouba nemine."*
+	- Jako poctu po nás [[Osoby a skupiny#Zvěstovatel Neferona|Zvěstovatel]] žádal obětinu — poklonili jsme se a dali, co dům dal
+		- Nevraživě přijal papírový čepec od **Nethara**, lektvar hrdinství od **Aurelia**, ohořelou hůlku magických střel od **Rheyi** a konfetový kanónek od **Malakaie**; další nabídnuté dary odmítl
+		- **Netharovi** oznámil, že jeho laciný dar bude brát jako znak jeho malosti, nikoli jako neúctu
+- Vydali jsme se prozkoumat východní část [[Místa - Barovie#Jantarový chrám|chrámu]]
+	- Hned za dveřmi zela v podlaze díra vedoucí o patro níž — dřevo, kterým jsme měřili hloubku, dole probudilo zelená světla a z díry vyletěly tři zeleně hořící lebky
+	- Do boje se proti nám přidal i jantarový golem, který do té chvíle na severním konci chodby zíral na stěnu, jako by ji skenoval
+	- Lebky jsme rozdrtili a padl i golem
+- Chystáme se odpočívat a **Rheyie** při pohledu na lebky něco vrtá v hlavě

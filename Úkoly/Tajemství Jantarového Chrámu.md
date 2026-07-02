@@ -11,6 +11,8 @@
 - Průčelí: kolmá skála se šesti výklenky s jantarovými sochami (postavy bez tváří, v kápích, ruce v modlitbě), uprostřed černý vchod
 - Ve vstupní hale za střílnou mrtvola červeného mága s hůlkou tajemství
 - V hlavní síni stojí obrovská socha; po doteku jantarové stěny se z ní telepaticky ozval Hlas: „Návštěvníci v mém chrámě, pojďte sem a pokloňte se."
+- Socha je [[Osoby a skupiny#Zvěstovatel Neferona|Zvěstovatel]] boha tajemství a magie [[Osoby a skupiny#Neferon|Neferona]] — chrám patří Neferonovi; poklonili jsme se a odevzdali obětiny
+- Ve východní části díra v podlaze vedoucí o patro níž — vyletěly z ní tři hořící lebky; spolu s jantarovým golemem, který „skenoval" stěnu, na nás zaútočily (zničeny)
 
 ## Ostatní informace
 - Podle [[Osoby a skupiny#Victoria †|Victorie]] mají [[Osoby a skupiny#Rodina Wachterů|Wachterovi]] v knihovně knihu o Jantarovém Chrámu

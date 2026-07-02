@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[071 Neocenitelné dary]]  
 [[070 Všecko nejlepší k narozeninám, Ničiteli]]  
 [[069 Pěkné pozdvižení]]  
 [[068 Generál za úsvitu]]  
@@ -7,7 +8,6 @@
 [[066 Ploužení průsmykem Tsolenka]]  
 [[065 Každý svou cestou]]  
 [[064 Noc na strašidelné samotě]]  
-[[063 Inhumace a exhumace]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované

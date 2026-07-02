@@ -386,6 +386,9 @@ Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašideln�
 Démon přezdívaný „Ničitel"
 - Známe ho jen z [[Dopis od Scrivixe|dopisu]] impa [[#Scrivix|Scrivixe]], který mu adresoval narozeninový dárek (omylem doručený **Netharovi**)
 - Podle dopisu byl „u té věci v Avernu"
+## Neferon
+Bůh tajemství a magie
+- [[Místa - Barovie#Jantarový chrám|Jantarový chrám]] je jeho chrámem — střeží ho jeho [[#Zvěstovatel Neferona|Zvěstovatel]]
 ## Nemrtvý jezdec
 Nemrtvý jezdec na nemrtvém koni
 - Vypadá průsvitně a namordrale
@@ -853,3 +856,8 @@ vysoko postavená ďáblice
 ## Zephyros
 **Aureliův** pán z pláně ohně
 - Líbily by se mu 3 artefakty z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
+## Zvěstovatel Neferona
+Obrovská socha v hlavní síni [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]], mluví telepaticky („Hlas")
+- Střeží chrám [[#Neferon|Neferona]], boha tajemství a magie: poutníci se musí poklonit, raubíře čeká zhouba
+- Od poutníků žádá poctu v podobě obětiny
+- Nelíbí se mu kouzlení v chrámu
