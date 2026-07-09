@@ -220,6 +220,7 @@ Kalendář:
 - [[069 Pěkné pozdvižení]]
 - [[070 Všecko nejlepší k narozeninám, Ničiteli]]
 - [[071 Neocenitelné dary]]
+- [[072 Mrtví nedají spát]]
 ### 21. Oťávra 735 
 - Poslední datum pro večeři v [[Místa - Barovie#Ravenloft|Ravenloftu]]
 ### 22. Oťávra 735 🌓

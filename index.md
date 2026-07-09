@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[072 Mrtví nedají spát]]  
 [[071 Neocenitelné dary]]  
 [[070 Všecko nejlepší k narozeninám, Ničiteli]]  
 [[069 Pěkné pozdvižení]]  
@@ -7,13 +8,12 @@
 [[067 Strnulá hlídka]]  
 [[066 Ploužení průsmykem Tsolenka]]  
 [[065 Každý svou cestou]]  
-[[064 Noc na strašidelné samotě]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
 [[Tajemství Jantarového Chrámu]]  
-[[Mnohá osvobození Ravenloftská]]  
 ### Probíhající
+[[Mnohá osvobození Ravenloftská]]  
 [[Vyřešit věštbu od Madam Evy]]  
 [[Vinařství v ohrožení]]  
 [[Lék na Strádovu chorobu]]  

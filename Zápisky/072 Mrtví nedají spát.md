@@ -1,0 +1,20 @@
+## 20. Oťávra
+- Začali jsme odpočívat
+	- **Nethar** s **Rheyou** při tom prohlédli díru v podlaze
+		- O patro níž stojí tři jantarové podstavce, v každém zřejmě něco uvězněno (duše?), a další magicky očarované jantarové dveře; tam se vrátíme asi až naposled
+	- **Rheya** se **Aurelia** zeptala, pro co je ochoten zemřít, a významně přitom mávala magickým šípem
+	- **Nethar** neúspěšně prohledával stěnu, jestli neskrývá tajný vchod — na zpáteční cestě na něj spadla kyselina, která shora číhala, až pod ní projde; **Rheya** ji z něj stírala jednou z rozdrcených lebek
+- Po odpočinku **Nethar** přenášel lebku a ta vzplála
+	- Dvě z poražených lebek znovu ožily a boj se opakoval; ta vymáchaná v kyselině ne
+	- Tentokrát jsme byli důkladní: lebky jsme rozdrtili, vymáchali v kyselině a polili svěcenou vodou
+- Nasbírali jsme nějaké dřevo a odpočinuli jsme si v [[Osoby a skupiny#Ezmerelda|Ezmeraldině]] voze před [[Místa - Barovie#Jantarový chrám|chrámem]]
+- **Aurelius** s **Malakaiem** našli tajné dveře, které předtím **Nethar** ve stěně nenašel
+	- Vedou za střílny vstupní haly
+	- U mrtvého červeného mága jsme našli papíry
+	- **Malakai** prohledal i golema a vytáhl z něj rubín, který mu sloužil jako šém
+- Prohledávali jsme chrám dál
+	- Předsálí a svatyni za dveřmi na severovýchodním balkonku
+	- Kožešina na stěně po doteku vypustila spóry
+	- Ve svatyni stojí obsidiánová socha, násilně rozbitá — znázorňuje totéž co socha v hlavní síni
+	- V místnůstce s papíry jsme našli kresbu pohoří [[Místa - Barovie#Ghakis, hora|Ghakis]] a kresbu polonahé bojovnice s popiskem „Velitelka [[Osoby a skupiny#Kara|Kara]]"
+		- Její zbroj nám připomínala [[Místa - Barovie#Argynvostholt|Argynvostholt]] — dohadujeme se, že tu kdysi pobývali vojáci z Argynvostholtu a kreslili si svou velitelku

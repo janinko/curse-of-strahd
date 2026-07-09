@@ -217,6 +217,9 @@ Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlou
 - Pochází z [[Místa - Barovie#Vallaki|Vallaki]]
 ## Jocaste Geistlinger
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
+## Kara
+Velitelka z kresby polonahé bojovnice nalezené v [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]] (popisek „Velitelka Kara")
+- Zbroj připomíná [[Místa - Barovie#Argynvostholt|Argynvostholt]] — možná velitelka vojáků z Argynvostholtu, kteří kdysi pobývali v chrámu
 ## Karavana
 - Karavana lidí, co se zastavila v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]], než pokračovala dál na jih
 ## Kazimir

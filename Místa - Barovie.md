@@ -123,9 +123,19 @@ title: Místa - Barovie
 - Podle Kazimíra (který se k chrámu kdysi pokusil dostat) je vstup tvořen branou vysoko nad řekou — v bráně hoří zelený plamen
 - Průčelí tvoří kolmá skála se šesti výklenky s jantarovými sochami — postavy bez tváří, v kápích, ruce sepjaté v modlitbě; uprostřed je černý vchod
 - Za vchodem vstupní hala se střílnami — za jednou střílnou ležela mrtvola červeného mága s hůlkou tajemství
+	- Prostor za střílnami je přístupný tajnými dveřmi; mrtvý mág měl u sebe papíry
 - V hlavní síni je odpočívadlo a obrovská socha — [[Osoby a skupiny#Zvěstovatel Neferona|Zvěstovatel]] boha tajemství a magie [[Osoby a skupiny#Neferon|Neferona]], mluví telepaticky; po doteku jantarové stěny se **Nethar** rozkašlal černým hlenem
+	- Temnota sochy je evokační magie
 - Východní část: hned za dveřmi díra v podlaze vedoucí o patro níž — po vhození dřeva se dole rozzářila zelená světla a vyletěly z ní tři hořící lebky (zničeny)
+	- Zničené lebky po čase znovu ožívají — zneškodněny rozdrcením, vymácháním v kyselině a politím svěcenou vodou
+	- O patro níž v díře stojí tři jantarové podstavce — v každém zřejmě něco uvězněno (duše?) — a magicky očarované jantarové dveře
+	- U stropu číhá kyselina a padá na toho, kdo projde pod ní
 	- Na severním konci chodby jantarový golem zíral na stěnu, jako by ji skenoval; přidal se do boje proti nám (zničen)
+		- Uvnitř měl rubín sloužící jako šém (má **Malakai**)
+- Za dveřmi na severovýchodním balkonku je předsálí a svatyně
+	- Kožešina na stěně po doteku vypouští spóry
+	- Ve svatyni násilně rozbitá obsidiánová socha — znázorňuje totéž co socha v hlavní síni
+	- Místnůstka s papíry — kresba pohoří [[#Ghakis, hora|Ghakis]] a kresba polonahé bojovnice s popiskem „Velitelka [[Osoby a skupiny#Kara|Kara]]"; její zbroj připomíná [[#Argynvostholt]]
 ## Kamenné kruhy
 - Několik kamenných kruhů, nacházejících se různě po Barovii
 - Lokace:
