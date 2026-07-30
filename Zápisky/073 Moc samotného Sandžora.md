@@ -1,0 +1,14 @@
+## 20. Oťávra
+- Pokračovali jsme v průzkumu [[Místa - Barovie#Jantarový chrám|chrámu]]
+	- Dveře v jihozápadním rohu hlavní síně byly zabarikádované
+	- Sotva jsme je otevřeli, vyrazil zpoza nich vlk a zaútočil na **Malakaie**
+- Za dveřmi se ukázalo nocležiště a v něm lidé
+	- Bojovnice, dva barbaři a kouzelník s černýma očima
+	- Věděli, kdo jsme, a nebyli jsme vítáni; strhl se boj
+	- Bojovnice se holedbala: „Byla mi dána moc samotného [[Osoby a skupiny#Sandžor|Sandžora]]!"
+	- Kouzelník měl na hrudi vyrytý symbol [[Strád von Zarovič|Stráda]] a místo krve z něj vytékala černá tekutina
+	- Vlk byl během boje oživen jako nemrtvý a poslán pryč
+		- Jako jediný unikl, ostatní jsme pobili
+- Mezi kořistí byl malý krystal s kapkou krve, ze které je cítit Fey magie
+	- Vzal si ho **Aurelius** - dodává odolnost proti vystrašení
+- Šli jsme odpočívat

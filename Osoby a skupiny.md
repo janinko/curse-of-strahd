@@ -134,6 +134,14 @@ Druidi, co napadli [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
  - Krom chodících rostlinných potvor jim prý pomáhají i nějací divoši.
  - Podle [[Strád von Zarovič|Stráda]] jednali druidi za sebe: "Mí poddaní mají různé způsoby, jak vyjádřit úctu."
  - Možná jde o [[#Lesní pozůstatky|Lesní pozůstatky]] z [[Rahadinovy dopisy|Rahadinových dopisů]]
+## Druidi z Jantarového chrámu †
+Skupina sloužící [[Strád von Zarovič|Strádovi]] — bojovnice, dva barbaři a kouzelník s černýma očima; zřejmě druidi
+- Přebývali s vlkem v nocležišti za zabarikádovanými dveřmi v [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]]
+- Věděli, kdo jsme, a nebyli jsme vítáni — pobili jsme je
+- Bojovnice tvrdila: „Byla mi dána moc samotného [[#Sandžor|Sandžora]]"
+- Kouzelník měl na hrudi vyrytý symbol Stráda a místo krve z něj vytékala černá tekutina
+- Jejich vlk byl při boji oživen jako nemrtvý a poslán pryč
+- Měli u sebe malý krystal s kapkou krve, ze které je cítit Fey magie — dodává odolnost proti vystrašení (má **Aurelius**)
 ## Elminster
 - Známý a mocný čaroděj
 ## Evon
@@ -741,6 +749,7 @@ Zarostlý divoch s lebkou jednorožce na hlavě, ozbrojený dlouhým zakrvácen�
 - Potkali jsme jej v [[Místa - Barovie#Průsmyk Tsolenka|průsmyku Tsolenka]] — pokoušel se nám ukrást koně, aby mohl uniknout z hor
 - Po prohraném boji uznal **Malakaiovi** porážku
 - Tvrdil, že se v horách "objevil" [[Časová osa#17. Oťávra 735|17. Oťávra 735]] — pravděpodobně byl jednou z [[#Lysaga †|Lysažiných]] zakletých sošek (Horský jednokozorožec ze [[Zápisky/060 Pravá tvář Drápka|závěsné hračky]]); sám to ale ani nepotvrdil, ani nepopřel
+- Bojovnice z [[#Druidi z Jantarového chrámu †|druidů v Jantarovém chrámu]] tvrdila, že jí „byla dána moc samotného Sandžora"
 ## Savid
 [[#Soumrační elfové|Soumračný elf]], který se vydal hledat [[#Arabela †|Arabelu]] do [[Místa - Barovie#Argynvostholt|Argynvostholtu]]
 ## Scrivix

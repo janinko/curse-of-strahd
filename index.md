@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[073 Moc samotného Sandžora]]  
 [[072 Mrtví nedají spát]]  
 [[071 Neocenitelné dary]]  
 [[070 Všecko nejlepší k narozeninám, Ničiteli]]  
@@ -7,7 +8,6 @@
 [[068 Generál za úsvitu]]  
 [[067 Strnulá hlídka]]  
 [[066 Ploužení průsmykem Tsolenka]]  
-[[065 Každý svou cestou]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované

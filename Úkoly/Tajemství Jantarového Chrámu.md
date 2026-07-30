@@ -15,9 +15,11 @@
 - Ve východní části díra v podlaze vedoucí o patro níž — vyletěly z ní tři hořící lebky; spolu s jantarovým golemem, který „skenoval" stěnu, na nás zaútočily (zničeny)
 	- V golemovi byl rubín sloužící jako šém (má **Malakai**)
 - O patro níž v díře tři jantarové podstavce — v každém zřejmě něco uvězněno (duše?) — a magicky očarované jantarové dveře; necháváme si je asi až na konec
-- Za tajnými dveřmi prostor za střílnami vstupní haly — u mrtvého červeného mága nalezeny papíry
+- Za tajnými dveřmi prostor za střílnami vstupní haly — u mrtvého červeného mága nalezeny papíry (psané v infernal a v neznámém jazyce)
 - Za dveřmi na severovýchodním balkonku předsálí a svatyně — násilně rozbitá obsidiánová socha (znázorňuje totéž co hlavní socha, jejíž temnota je evokační magie)
 - Podle kreseb v místnůstce s papíry v chrámu kdysi možná pobývali vojáci z [[Místa - Barovie#Argynvostholt|Argynvostholtu]]
+- Za zabarikádovanými dveřmi v JZ rohu hlavní síně nocležiště — přebývali tam [[Osoby a skupiny#Druidi z Jantarového chrámu †|Strádovi druidi]] s vlkem; pobili jsme je (nemrtvý vlk unikl)
+	- Mezi kořistí malý krystal s kapkou krve s Fey magií — odolnost proti vystrašení (má **Aurelius**)
 
 ## Ostatní informace
 - Podle [[Osoby a skupiny#Victoria †|Victorie]] mají [[Osoby a skupiny#Rodina Wachterů|Wachterovi]] v knihovně knihu o Jantarovém Chrámu
