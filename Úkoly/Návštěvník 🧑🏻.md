@@ -52,3 +52,5 @@ Večer jsem začal meditovat s druidskou temnou holí položenou na kolenou
 #### 20. Oťávra
 - Firan mi pomohl s identifikací [[Místa - Barovie#Kamenné kruhy|kamenného kruhu]] v průsmyku Tsolenka
 	- Za to po mně chce magické knihy, svitky nebo informace z [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]]
+- Při odpočinku v [[Místa - Barovie#Jantarový chrám|chrámu]] jsem Firanovi předal papíry od mrtvého červeného mága
+	- „[[Osoby a skupiny#Sas Tan|Sas Tan]] je prefíkaný mág. Nepřekvapuje mě, že [[Osoby a skupiny#Rudí mágové z Thay|Rudí mágové z Thay]] poslali výpravu i sem."

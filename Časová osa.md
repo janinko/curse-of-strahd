@@ -222,6 +222,7 @@ Kalendář:
 - [[071 Neocenitelné dary]]
 - [[072 Mrtví nedají spát]]
 - [[073 Moc samotného Sandžora]]
+- [[074 Mrtví furt ožívají]]
 ### 21. Oťávra 735 
 - Poslední datum pro večeři v [[Místa - Barovie#Ravenloft|Ravenloftu]]
 ### 22. Oťávra 735 🌓

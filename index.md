@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[074 Mrtví furt ožívají]]  
 [[073 Moc samotného Sandžora]]  
 [[072 Mrtví nedají spát]]  
 [[071 Neocenitelné dary]]  
@@ -7,7 +8,6 @@
 [[069 Pěkné pozdvižení]]  
 [[068 Generál za úsvitu]]  
 [[067 Strnulá hlídka]]  
-[[066 Ploužení průsmykem Tsolenka]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované

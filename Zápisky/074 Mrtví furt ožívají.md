@@ -1,0 +1,21 @@
+## 20. Oťávra
+- Při odpočinku jsme debatovali o vlkovi, který nám unikl
+	- Domýšleli jsme se, že pokud běžel ke [[Strád von Zarovič|Strádovi]], měli bysme počítat s tím, že o nás do 24 hodin bude vědět (pokud už neví)
+- Pokračovali jsme v průzkumu [[Místa - Barovie#Jantarový chrám|chrámu]] chodbou na západní straně
+	- Narazili jsme na ohořelou mrtvolu člověka a tři lebky
+		- Ožily a strhl se boj
+		- lebky jsme opět rozdrtili a polili svěcenou vodou
+	- Mrtvý měl u sebe:
+		- odpornou hůl s březovým motivem a jemně modrým krystalem
+		- náhrdelník ze surového železa s ostrým symbolem hřebenu (vzal si jej **Malakai**)
+- **Rheya** magicky zkoumala věci co jsme našli
+	- Magická je jen hůl
+		- Když se jí **Rheya** chvíli dotýkala, promluvil k ní z hole [[Osoby a skupiny#Jakarion|Jakarion]], duch člověka, u kterého jsme ji našli
+			- Hned **Rheyu** urazil, když po ní chtěl, ať hůl předá někomu, kdo umí pořádně čarovat
+			- **Rheya** si k tomu ještě domyslela, že ji urazil i jako ženu
+	- Debatovali jsme, co s holí
+		- **Malakai** byl mírně ohromen tím, že **Nethar** byl ochoten se jí vzdát
+		- Nakonec ji dostal **Aurelius**
+- Šli jsme si pořádně odpočinout
+	- **Nethar** při meditaci předal [[Osoby a skupiny#Firan|Firanovi]] papíry od mrtvého červeného mága
+		- Firan: „[[Osoby a skupiny#Sas Tan|Sas Tan]] je prefíkaný mág. Nepřekvapuje mě, že [[Osoby a skupiny#Rudí mágové z Thay|Rudí mágové z Thay]] poslali výpravu i sem."

@@ -123,10 +123,12 @@ title: Místa - Barovie
 - Podle Kazimíra (který se k chrámu kdysi pokusil dostat) je vstup tvořen branou vysoko nad řekou — v bráně hoří zelený plamen
 - Průčelí tvoří kolmá skála se šesti výklenky s jantarovými sochami — postavy bez tváří, v kápích, ruce sepjaté v modlitbě; uprostřed je černý vchod
 - Za vchodem vstupní hala se střílnami — za jednou střílnou ležela mrtvola červeného mága s hůlkou tajemství
-	- Prostor za střílnami je přístupný tajnými dveřmi; mrtvý mág měl u sebe papíry — psané v infernal a v neznámém jazyce
+	- Prostor za střílnami je přístupný tajnými dveřmi; mrtvý mág měl u sebe papíry — psané v infernal a v neznámém jazyce (**Nethar** je předal [[Osoby a skupiny#Firan|Firanovi]])
 - V hlavní síni je odpočívadlo a obrovská socha — [[Osoby a skupiny#Zvěstovatel Neferona|Zvěstovatel]] boha tajemství a magie [[Osoby a skupiny#Neferon|Neferona]], mluví telepaticky; po doteku jantarové stěny se **Nethar** rozkašlal černým hlenem
 	- Temnota sochy je evokační magie
 	- V jihozápadním rohu síně zabarikádované dveře — za nimi nocležiště, kde přebývali [[Osoby a skupiny#Druidi z Jantarového chrámu †|Strádovi druidi]] s vlkem (pobiti, nemrtvý vlk unikl)
+- Chodba na západní straně: ohořelá mrtvola člověka a tři lebky — ožily a zaútočily (zničeny)
+	- U mrtvoly odporná hůl s březovým motivem a jemně modrým krystalem, v níž sídlí duch [[Osoby a skupiny#Jakarion|Jakarion]] (má **Aurelius**), a náhrdelník ze surového železa s ostrým symbolem hřebenu (má **Malakai**)
 - Východní část: hned za dveřmi díra v podlaze vedoucí o patro níž — po vhození dřeva se dole rozzářila zelená světla a vyletěly z ní tři hořící lebky (zničeny)
 	- Zničené lebky po čase znovu ožívají — zneškodněny rozdrcením, vymácháním v kyselině a politím svěcenou vodou
 	- O patro níž v díře stojí tři jantarové podstavce — v každém zřejmě něco uvězněno (duše?) — a magicky očarované jantarové dveře

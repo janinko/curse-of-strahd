@@ -174,6 +174,7 @@ vezír ledu a oceli
 - **Netharem** nazývaný "[[Návštěvník 🧑🏻|Návštěvník]]"
 - Jeví se asi jako 2 metry vysoký, mužské postavy
 - Pomohl s identifikací [[Místa - Barovie#Kamenné kruhy|kamenného kruhu]] v průsmyku Tsolenka — za to mu **Nethar** dluží magické knihy, svitky nebo informace z [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]]
+- Od **Nethara** dostal papíry od mrtvého červeného mága z chrámu — podle něj je [[#Sas Tan|Sas Tan]] prefíkaný mág a nepřekvapuje ho, že [[#Rudí mágové z Thay|Rudí mágové z Thay]] poslali výpravu i do Barovie
 ## Gadolt Blinsky
 Výrobce hraček ve [[Místa - Barovie#Vallaki|Vallaki]]
  - podsaditý, zavalitý s vousy, nosí šaškovskou čepici
@@ -223,6 +224,11 @@ Pohůnek rychtáře [[Místa - Barovie#Vallaki|Vallaki]], [[#Vargas Valakovič|b
 ## Hortensia Verzi
 Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlouva o koupi mlýna|prodala]] [[#Rodina Dorstových|Dorstovým]]
 - Pochází z [[Místa - Barovie#Vallaki|Vallaki]]
+## Jakarion
+Duch sídlící v holi nalezené u ohořelé mrtvoly v [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]] — duch člověka, u kterého jsme hůl našli
+- Promluví k tomu, kdo se hole chvíli dotýká; arogantní — žádá, aby hůl třímal někdo, kdo „umí pořádně čarovat"
+- Hůl má březový motiv a jemně modrý krystal, působí odporně (nosí ji **Aurelius**)
+- Chce dokázat co nezvládl v životě
 ## Jocaste Geistlinger
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
 ## Kara
@@ -706,6 +712,10 @@ Významná rodina ve [[Místa - Barovie#Wachterhaus|Vallaki]]
 - tmavé krátké vlasy, přivřené oči
 ### Sluha 2
 - nižší, zavalitý
+## Rudí mágové z Thay
+Čarodějná organizace z Thay
+- Podle [[#Firan|Firana]] poslali výpravu i do [[Místa - Barovie#Barovie, území|Barovie]]
+- Červeným mágem byl i [[#Andreas z Bezantaru †|Andreas z Bezantaru]]
 ## Rudolf van Richten
 Podle [[Strád von Zarovič|Stráda]] se jedná o krvelačného vraha
 - Starý muž, houževnatý, zvětralá tvář, nosí brýle
@@ -750,6 +760,9 @@ Zarostlý divoch s lebkou jednorožce na hlavě, ozbrojený dlouhým zakrvácen�
 - Po prohraném boji uznal **Malakaiovi** porážku
 - Tvrdil, že se v horách "objevil" [[Časová osa#17. Oťávra 735|17. Oťávra 735]] — pravděpodobně byl jednou z [[#Lysaga †|Lysažiných]] zakletých sošek (Horský jednokozorožec ze [[Zápisky/060 Pravá tvář Drápka|závěsné hračky]]); sám to ale ani nepotvrdil, ani nepopřel
 - Bojovnice z [[#Druidi z Jantarového chrámu †|druidů v Jantarovém chrámu]] tvrdila, že jí „byla dána moc samotného Sandžora"
+## Sas Tan
+Mág spojený s [[#Rudí mágové z Thay|Rudými mágy z Thay]]
+- Podle [[#Firan|Firana]] prefíkaný mág — zmínil ho, když od **Nethara** dostal papíry od mrtvého červeného mága z [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]]
 ## Savid
 [[#Soumrační elfové|Soumračný elf]], který se vydal hledat [[#Arabela †|Arabelu]] do [[Místa - Barovie#Argynvostholt|Argynvostholtu]]
 ## Scrivix

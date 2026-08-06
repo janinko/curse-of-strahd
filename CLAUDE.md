@@ -78,6 +78,9 @@ Fakta (vlastnosti postav, popis lokací, zjištěné informace) patří do pří
 ### Styl
 
 - Psáno v první osobě množného čísla (*"vydali jsme se"*, *"zastavili jsme se"*)
+- Nespojovat dvě myšlenky pomlčkou na jednom řádku — navazující myšlenka patří jako vnořená odrážka na nový řádek
+  - Špatně: *"Narazili jsme na mrtvolu — ožila a strhl se boj"*
+  - Správně: odrážka *"Narazili jsme na mrtvolu"* a pod ní sub-odrážka *"Ožila a strhl se boj"*
 - Hráčské postavy tučně: **Malakai**, **Nethar**, **Rheya**, **Aurelius**
 - Ostatní postavy a místa jako Obsidian odkazy: `[[Osoby a skupiny#Kazimir|Kazimír]]`
 - Název souboru: číslo + výstižný název zachycující téma session (ne doslovný popis)
