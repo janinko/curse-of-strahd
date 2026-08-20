@@ -8,6 +8,7 @@ Je třeba z Ravenloftu osvobodit nebo získat následující:
 - Potenciálně získat [[Věštba madam Evy|informace o Strádově historii]]
 - potencionálně najít [[Vinařství v ohrožení|zelený artefakt]]
 - pro mrtvou [[Osoby a skupiny#Lysaga †|Lysagu]] získat náhrdelník od [[Strád von Zarovič#Sirius Belviu|Siria]]
+- podle **Aureliova** snu volá o pomoc/osvobození hlas z nejvyšší věže Ravenloftu ("pomoz mi", "osvoboď mě") — možná souvisí s teorií o [[Osoby a skupiny#Exalos Ben Axun|Exalosi Ben Axunovi]] a elementálu vzduchu
 
 Užitečné pro infiltraci ([[Rahadinovy dopisy]], stav k ~20. Oťávra 735):
 - [[Osoby a skupiny#Arasek|Arasekovy]] dodávky k hlavní bráně každý třetí den, nejpozději ve druhé hodině po půlnoci — brána je otevřená

@@ -1,0 +1,37 @@
+## 20. Oťávra
+- Před půlnocí jsme se uložili k odpočinku ve voze
+	- Kolem půlnoci, když hlídal **Nethar**, se **Aureliovi** zdálo, že letí nad [[Místa - Barovie#Ravenloft|Ravenloftem]]
+		- Z nejvyšší věže slyšel hlasy: "pomoz mi", "osvoboď mě"
+## 21. Oťávra
+- Po půlnoci, když hlídala **Rheya**, se u [[Místa - Barovie#Jantarový chrám|chrámu]] objevili dva duchové — zjevně rytíři/vojáci [[Místa - Barovie#Argynvostholt|Argynvostholtu]]
+	- Zavolala **Malakaie** a **Nethara** a šli je vyzpovídat
+	- Pokusili jsme s z nich dostat nějaké informace:
+		- "Chrám ukrývá pozůstatky vážných zlých bytostí, které zde jsou uvězněny."
+		- Jméno [[Osoby a skupiny#Neferon|Neferon]] jim nic neříkalo
+		- Zeptali jsme se, jestli máme uvězněné bytosti propustit, pokud z chrámu něco získá Strád
+			- "Zlo musí zůstat uvězněné v chrámu."
+	- Duchové ještě řekli: "Strád vede armádu údolím."
+		- Pak jednoho z nich zabil šíp, jak na ně útočila spektrální Strádova armáda
+- Chtěli jsme aby si **Aurelius** promluvil s [[Osoby a skupiny#Jakarion|Jakarionem]] z hole, ale ten dělal caviky
+	- Tak se o to pokusil **Malakai**
+		- Naštval se a vyhrožoval, že hůl zlomí, až z hole vystřelil záblesk a zranil **Rheyu**
+	- Nakonec s Jakarionem **Aurelius** promluvil
+		- Jakarion vyprávěl, že ho jeho tehdejší pán poslal, aby o chrámu něco zjistil
+			- Zjistil že by tam měla být nějaká hlavní tajná místnost
+		- Varoval nás: "Můj bývalý pán je někdo, s kým nechceš mít nic společného."
+		- Šel tam se svým učněm, který ho v kritické chvíli zradil
+			- Jakarion ho teď chce zabít
+			- **Aurelius** nám zatajil část o učni
+- Pokračovali jsme v průzkumu chrámu
+	- Alchymistická laboratoř se třemi lektvary
+	- Chodby vedoucí dolů a tajné dveře do dvou sousedních místností
+	- Místnost s modelem Ravenloftu
+		- Hnědá plíseň, chladivá jako ta ve sklepě vinohradu u [[Místa - Barovie#Vinařství U mága|U mága]]
+			- Zničili jsme ji chladivým kouzlem
+		- Truhla s nástroji a měšcem plným peněz a smaragdem
+		- Začali jsme model překreslovat, zbytek dokreslíme až se sem vrátíme na odpočinek
+	- Místnost s iluzorní hostinou
+		- Na stole byl jedinou skutečnou věcí zelený měděný džbán s rytými medvědy, jeleny a vlky
+		- **Nethar** jej telekineticky zvedl
+			- Iluze zmizely
+			- Objevily se nehmotné postavy a zaútočily

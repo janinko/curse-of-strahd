@@ -24,6 +24,20 @@
 - V chodbě na západní straně ohořelá mrtvola člověka a tři lebky — ožily a zaútočily (zničeny)
 	- U mrtvoly odporná hůl s březovým motivem a jemně modrým krystalem — sídlí v ní [[Osoby a skupiny#Jakarion|Jakarion]], duch člověka, u kterého jsme hůl našli (hůl má **Aurelius**)
 	- Náhrdelník ze surového železa s ostrým symbolem hřebenu (má **Malakai**)
+- V noci se u chrámu objevili dva duchové — zjevně rytíři/vojáci [[Místa - Barovie#Argynvostholt|Argynvostholtu]] — vyzpovídali jsme je
+	- Jméno [[Osoby a skupiny#Neferon|Neferon]] jim nic neříkalo
+	- Na otázku, co nám můžou říct o chrámu, odpověděli: „Chrám ukrývá pozůstatky vážných zlých bytostí, které zde jsou uvězněny."
+	- Na otázku, jestli máme uvězněné bytosti propustit, pokud z chrámu něco získá Strád, odpověděli: „Zlo musí zůstat uvězněné v chrámu."
+	- Řekli také: „Strád vede armádu údolím." — po této větě viditelně zareagovali, z kontextu usuzujeme, že na ně kdysi zaútočila Strádova armáda
+- Další prozkoumaná místa v chrámu:
+	- Alchymistická laboratoř se třemi lektvary
+	- Chodby vedoucí dolů a tajné dveře do dvou sousedních místností
+	- Místnost s modelem Ravenloftu
+		- Hnědá plíseň, chladivá jako ta ve sklepě vinohradu u [[Místa - Barovie#Vinařství U mága|U mága]] — zničili jsme ji chladivým kouzlem
+		- Truhla s nástroji a měšcem plným peněz a smaragdem
+		- Začali jsme model překreslovat, zbytek dokreslíme až se sem vrátíme na odpočinek
+	- Místnost s iluzorní hostinou — na stole jedinou skutečnou věcí zelený měděný džbán s rytými medvědy, jeleny a vlky
+		- **Nethar** jej telekineticky zvedl, iluze zmizely a objevily se nehmotné postavy, které na nás zaútočily
 
 ## Ostatní informace
 - Podle [[Osoby a skupiny#Victoria †|Victorie]] mají [[Osoby a skupiny#Rodina Wachterů|Wachterovi]] v knihovně knihu o Jantarovém Chrámu

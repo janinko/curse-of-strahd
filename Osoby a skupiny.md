@@ -161,6 +161,7 @@ Osoba ve špinavém hnědém plášti, co nás sledovala ve [[Místa - Barovie#V
 vezír ledu a oceli
 - Podle [[#Zephyros|Zephyra]] zmizel a je po něm vyhlášeno pátrání
 - Teorie?  Potkali jsme dvakrát elementála vzduchu, který prosil **Aurelia** o pomoc, je nějak spojený?
+- **Aureliovi** se zdálo, že z nejvyšší věže [[Místa - Barovie#Ravenloft|Ravenloftu]] slyší hlas volající "pomoz mi", "osvoboď mě" — možná další stopa ke stejné teorii
 ## Ezmerelda
 Žačka [[#Rudolf van Richten|van Richtena]], mladá [[#Vistani|Vistanka]]
 - Pochází z [[#Radanovičův klan †|Radanovičova klanu]]; po jeho vyvraždění ji [[#Rudolf van Richten|van Richten]] vychoval jako adoptivní otec
@@ -229,6 +230,11 @@ Duch sídlící v holi nalezené u ohořelé mrtvoly v [[Místa - Barovie#Jantar
 - Promluví k tomu, kdo se hole chvíli dotýká; arogantní — žádá, aby hůl třímal někdo, kdo „umí pořádně čarovat"
 - Hůl má březový motiv a jemně modrý krystal, působí odporně (nosí ji **Aurelius**)
 - Chce dokázat co nezvládl v životě
+- Nerad mluví, dá se přemluvit jen k rozhovoru s **Aureliem**
+	- Když se o to pokusil **Malakai**, rozzlobil se a z hole vystřelil záblesk, který zranil **Rheyu**
+- Za života ho poslal jeho tehdejší pán (dnes už bývalý), aby o [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]] něco zjistil
+- Šel tam se svým učněm, který ho v kritické chvíli zradil — chce se mu pomstít a zabít ho
+- Jeho bývalý pán je „někdo, s kým nechceš mít nic společného"
 ## Jocaste Geistlinger
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
 ## Kara

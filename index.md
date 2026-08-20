@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[075 Hostina duchů]]  
 [[074 Mrtví furt ožívají]]  
 [[073 Moc samotného Sandžora]]  
 [[072 Mrtví nedají spát]]  
