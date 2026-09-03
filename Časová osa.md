@@ -226,6 +226,7 @@ Kalendář:
 - [[075 Hostina duchů]]
 ### 21. Oťávra 735 
 - [[075 Hostina duchů]]
+- [[076 Koberec versus brnění]]
 - Poslední datum pro večeři v [[Místa - Barovie#Ravenloft|Ravenloftu]]
 ### 22. Oťávra 735 🌓
 ### 23. Oťávra 735 

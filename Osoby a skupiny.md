@@ -141,6 +141,7 @@ Skupina sloužící [[Strád von Zarovič|Strádovi]] — bojovnice, dva barbař
 - Bojovnice tvrdila: „Byla mi dána moc samotného [[#Sandžor|Sandžora]]"
 - Kouzelník měl na hrudi vyrytý symbol Stráda a místo krve z něj vytékala černá tekutina
 - Jejich vlk byl při boji oživen jako nemrtvý a poslán pryč
+	- Vlk měl mašličku hodně podobnou té na vysušeném netopýrovi od [[Strád von Zarovič|Stráda]]
 - Měli u sebe malý krystal s kapkou krve, ze které je cítit Fey magie — dodává odolnost proti vystrašení (má **Aurelius**)
 ## Elminster
 - Známý a mocný čaroděj

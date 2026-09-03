@@ -6,7 +6,7 @@
 - Po půlnoci, když hlídala **Rheya**, se u [[Místa - Barovie#Jantarový chrám|chrámu]] objevili dva duchové — zjevně rytíři/vojáci [[Místa - Barovie#Argynvostholt|Argynvostholtu]]
 	- Zavolala **Malakaie** a **Nethara** a šli je vyzpovídat
 	- Pokusili jsme s z nich dostat nějaké informace:
-		- "Chrám ukrývá pozůstatky vážných zlých bytostí, které zde jsou uvězněny."
+		- "Chrám ukrývá pozůstatky různých zlých bytostí, které zde jsou uvězněny."
 		- Jméno [[Osoby a skupiny#Neferon|Neferon]] jim nic neříkalo
 		- Zeptali jsme se, jestli máme uvězněné bytosti propustit, pokud z chrámu něco získá Strád
 			- "Zlo musí zůstat uvězněné v chrámu."

@@ -1,0 +1,28 @@
+## 21. Oťávra
+- Duchové v [[Místa - Barovie#Jantarový chrám|chrámu]] nás zvali ke své zvrácené hostině, i když už na nás útočili
+	- „Sedněte si k nám, jedna velká hostina, než půjdeme na smrt“
+	- Vrhli se na nás a přitom zpívali písně o veselí a smrti
+	- Na otázku, na co si připijem, odpověděli: „Na našeho pána [[Osoby a skupiny#Argynvost|Argynvosta]], který zemřel v boji“
+	- Většinu jsme zničili, dva duchové unikli podlahou někam pryč
+- Udělali jsme si pauzu na odpočinek a zkoumání
+	- **Rheya** porovnala netopýra od [[Strád von Zarovič|Stráda]], jeho mašličku a mašličku z druidského vlka
+		- Netopír a jeho mašlička mají nekrotickou magie, ale každá jinou
+		- Mašlička z vlka je hodně podobná té na netopýrovi
+	- **Rheya** identifikovala džbán z hostiny, připadl **Malakaiovi**
+	- **Nethar** dokresloval plánek hradu podle modelu, **Malakai** model zkoumal
+	- **Aurelius** odpočíval
+- Šli jsme prozkoumat severozápadní předsálí a svatyni, zrcadlový obraz té severovýchodní
+	-  **Aurelius** odpočíval
+	- Ve svatyni ležela dvě vyschlá těla a na konci stála magická socha bez tváře
+	- **Rheya** se na sochu zahleděla a zůstala omámeně stát
+		- **Malakai** a **Nethar** ji šli zkontrolovat a skončili stejně
+	- **Aurelius** nás po hodině šel hledat
+		- Sochu rozbil salvou eldritch blastů a tím nás osvobodil
+- Za dveřmi vlevo z hlavního balkonu, hned u vstupu do chrámu, visela na lanech oživlá zbroj
+	- **Aurelius** s **Rheyou** začali řešit, jestli by zbroj přemohla náš oživlý koberec, a **Malakai** se k debatě přidal
+		- **Nethar** tedy vytáhl koberec z batohu a rozbalil ho pod zbrojí
+		- **Aurelius** a **Rheya** se vsadili o zlaťák, **Aurelius** na zbroj
+	- **Aurelius** narušil zbývající lana
+		- Zbroj spadla na koberec, který ji celou zabalil
+	- **Nethar** na **Rheyin** popud peroucí se chumel telekineticky shodil ze schodů
+		- Dole se z roztrženého koberce vyvalila zbroj a vydala se na nás

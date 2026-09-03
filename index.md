@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[076 Koberec versus brnění]]  
 [[075 Hostina duchů]]  
 [[074 Mrtví furt ožívají]]  
 [[073 Moc samotného Sandžora]]  

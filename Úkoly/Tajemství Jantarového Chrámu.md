@@ -32,12 +32,17 @@
 - Další prozkoumaná místa v chrámu:
 	- Alchymistická laboratoř se třemi lektvary
 	- Chodby vedoucí dolů a tajné dveře do dvou sousedních místností
-	- Místnost s modelem Ravenloftu
+	- Místnost s modelem Ravenloftu (vyrobil jej někdo menší, možná trpaslík)
 		- Hnědá plíseň, chladivá jako ta ve sklepě vinohradu u [[Místa - Barovie#Vinařství U mága|U mága]] — zničili jsme ji chladivým kouzlem
 		- Truhla s nástroji a měšcem plným peněz a smaragdem
-		- Začali jsme model překreslovat, zbytek dokreslíme až se sem vrátíme na odpočinek
-	- Místnost s iluzorní hostinou — na stole jedinou skutečnou věcí zelený měděný džbán s rytými medvědy, jeleny a vlky
-		- **Nethar** jej telekineticky zvedl, iluze zmizely a objevily se nehmotné postavy, které na nás zaútočily
+		- **Nethar** podle modelu překreslil plánek hradu
+	- Místnost s iluzorní hostinou — duchové vojáků [[Místa - Barovie#Argynvostholt|Argynvostholtu]] uvěznění ve zvrácené hostině „než půjdou na smrt“, připíjeli na [[Osoby a skupiny#Argynvost|Argynvosta]]
+		- **Nethar** telekineticky zvedl džbán ze stolu, iluze zmizely a duchové zaútočili — většinu jsme zničili, dva unikli podlahou
+		- Zelený měděný džbán s rytými medvědy, jeleny a vlky mění jedovaté pití na víno a jednou za den se sám naplní vínem (má **Malakai**)
+	- Severozápadní předsálí a svatyně (zrcadlo severovýchodních) — dvě vyschlá těla a magická socha bez tváře, která omámila každého, kdo se na ni zahleděl
+		- **Rheya**, **Malakai** a **Nethar** u ní ztratili hodinu, než ji **Aurelius** rozbil
+	- Za dveřmi vlevo z hlavního balkonu visela na lanech oživlá zbroj — po přeříznutí lan spadla na náš oživlý koberec, chumel sletěl ze schodů a zbroj na nás zaútočila (boj probíhá)
+- Netopýr od [[Strád von Zarovič|Stráda]] i jeho mašlička nesou nekrotickou magii, každý jinou; mašlička z nemrtvého vlka druidů je té netopýří hodně podobná
 
 ## Ostatní informace
 - Podle [[Osoby a skupiny#Victoria †|Victorie]] mají [[Osoby a skupiny#Rodina Wachterů|Wachterovi]] v knihovně knihu o Jantarovém Chrámu

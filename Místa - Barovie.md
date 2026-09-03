@@ -126,6 +126,9 @@ title: Místa - Barovie
 	- Prostor za střílnami je přístupný tajnými dveřmi; mrtvý mág měl u sebe papíry — psané v infernal a v neznámém jazyce (**Nethar** je předal [[Osoby a skupiny#Firan|Firanovi]])
 - V hlavní síni je odpočívadlo a obrovská socha — [[Osoby a skupiny#Zvěstovatel Neferona|Zvěstovatel]] boha tajemství a magie [[Osoby a skupiny#Neferon|Neferona]], mluví telepaticky; po doteku jantarové stěny se **Nethar** rozkašlal černým hlenem
 	- Temnota sochy je evokační magie
+	- Vstup z chrámu ústí na hlavní balkon síně; z něj vedou vlevo i vpravo schody dolů do sálu
+		- Dveře přímo vpravo vedou k díře v podlaze a lebkám, dveře přímo vlevo do nocležiště druidů
+		- Dveře vlevo směrem na jih: za nimi visela na lanech oživlá zbroj — po přeříznutí lan spadla, spolu s naším oživlým kobercem sletěla ze schodů a zaútočila
 	- V jihozápadním rohu síně zabarikádované dveře — za nimi nocležiště, kde přebývali [[Osoby a skupiny#Druidi z Jantarového chrámu †|Strádovi druidi]] s vlkem (pobiti, nemrtvý vlk unikl)
 - Chodba na západní straně: ohořelá mrtvola člověka a tři lebky — ožily a zaútočily (zničeny)
 	- U mrtvoly odporná hůl s březovým motivem a jemně modrým krystalem, v níž sídlí duch [[Osoby a skupiny#Jakarion|Jakarion]] (má **Aurelius**), a náhrdelník ze surového železa s ostrým symbolem hřebenu (má **Malakai**)
@@ -139,6 +142,19 @@ title: Místa - Barovie
 	- Kožešina na stěně po doteku vypouští spóry
 	- Ve svatyni násilně rozbitá obsidiánová socha — znázorňuje totéž co socha v hlavní síni
 	- Místnůstka s papíry — kresba pohoří [[#Ghakis, hora|Ghakis]] a kresba polonahé bojovnice s popiskem „Velitelka [[Osoby a skupiny#Kara|Kara]]"; její zbroj připomíná [[#Argynvostholt]]
+- Severozápadní předsálí a svatyně — zrcadlový obraz těch severovýchodních
+	- Ve svatyni dvě vyschlá těla (zřejmě dřívější oběti pasti) a na konci magická socha bez tváře
+	- Socha vydávala očarování — kdo se na ni zahleděl, zůstal omámeně stát (zničena **Aureliem**)
+- Alchymistická laboratoř se třemi lektvary
+- Chodby vedoucí dolů a tajné dveře do dvou sousedních místností
+- Místnost s modelem [[#Ravenloft|Ravenloftu]]
+	- Model vyrobil někdo menšího vzrůstu, možná trpaslík
+	- Hnědá plíseň, chladivá jako ta ve sklepě u [[#Vinařství U mága|U mága]] (zničena chladivým kouzlem)
+	- Truhla s nástroji a měšcem plným peněz a smaragdem
+	- **Nethar** podle modelu překreslil plánek hradu
+- Místnost s iluzorní hostinou — duchové vojáků [[#Argynvostholt|Argynvostholtu]] uvěznění ve zvrácené hostině „než půjdou na smrt“, připíjeli na svého pána [[Osoby a skupiny#Argynvost|Argynvosta]]
+	- Iluze zmizela po zvednutí džbánu ze stolu; duchové zaútočili, většina zničena, dva unikli podlahou
+	- Zelený měděný džbán s rytými medvědy, jeleny a vlky — mění jedovaté pití na víno a jednou za den se sám vínem naplní (má **Malakai**)
 ## Kamenné kruhy
 - Několik kamenných kruhů, nacházejících se různě po Barovii
 - Lokace:
