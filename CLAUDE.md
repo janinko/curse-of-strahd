@@ -56,10 +56,14 @@ Fakta (vlastnosti postav, popis lokací, zjištěné informace) patří do pří
 
 ### Struktura zápisků
 
+- Soubor začíná nadpisem s herním datem: `## 21. Oťávra`. Session přesahující půlnoc má jeden takový nadpis pro každý den.
 - **První úroveň odrážek = scény** (nebo důležité podscény). Pište je jako úvod do scény, ne jako výčet faktů.
   - Příklad: *"Vydali jsme se k elfům, požádat Kazimíra, aby nám dělal průvodce"* — říká co, proč a nastavuje kontext.
 - Sub-odrážky rozvádí klíčové momenty scény.
 - Méně důležité scény dostanou méně prostoru — stačí jedna odrážka s odkazem.
+- Pokud scéna k něčemu vedla (konec boje, výsledek jednání), nevynechat to.
+- Pokud je zajímavé, jak k objevu došlo, zapsat i cestu k němu, ne jen výsledek.
+- Citáty a výčty, které si zaslouží vlastní řádky, jdou jako sub-odrážky pod odrážku, která je uvozuje.
 
 ### Co patří do zápisků
 
@@ -75,6 +79,16 @@ Fakta (vlastnosti postav, popis lokací, zjištěné informace) patří do pří
 - Výsledky identifikace předmětů, magie, rituálů → příslušná sekce
 - Výsledky průzkumu lokace → sekce té lokace v `Místa - Barovie.md`
 
+### Věrnost tomu, co se stalo
+
+- Do wiki patří jen to, co postavy vědí (IC). Znalosti hráčů mimo hru (OOC) se nezapisují.
+- Rozlišovat, co postavy přímo viděly či slyšely, od toho, co si domyslely. Dohady psát jako dohady skupiny: *"Domýšleli jsme se, že…"*, *"usoudili jsme, že…"*.
+- Nespojovat entity bez důkazu (nalezená mrtvola není automaticky postava, o které se mluvilo).
+- Přesné počty místo vágního plurálu: *"dva duchové"*, ne *"duchové"*.
+- Nepřiostřovat formulace: *"byl ochoten se hole vzdát"* není *"hůl odmítl"*. Držet se toho, co se stalo.
+- Časovou perspektivu držet v době děje: *"(tehdy už bývalý) pán"* znamená bývalý z pohledu vypravěče dnes, ne v době vyprávěné události.
+- Procedurální detaily bez dopadu na děj (kdo první přeřízl lano) do zápisku nepatří.
+
 ### Styl
 
 - Psáno v první osobě množného čísla (*"vydali jsme se"*, *"zastavili jsme se"*)
@@ -88,3 +102,16 @@ Fakta (vlastnosti postav, popis lokací, zjištěné informace) patří do pří
   - Nesmí být tak obecné, aby sedělo na jakoukoliv session
   - Dobré je, pokud má náznak více významů: více věcí ze session, dva pohledy na totéž, slovní hříčka, nebo reference (na dřívější události v kampani, nebo popkulturní)
   - Příklady dobrých názvů z kampaně: *"A kurva, havran"*, *"In vino somnium"*, *"Smrtební hostina"*
+
+## Aktualizace dokumentů po session
+
+Každý nový fakt ze session má domovský dokument:
+
+- Nové postavy → `Osoby a skupiny.md`, nadpis `##` zařazený abecedně (ověřit okolní nadpisy). Postavy podřízené jiné (rodina, družina) jako `###` pod ní.
+- Nové poznatky o existující postavě → její stávající záznam.
+- Nové poznatky o lokaci → sekce lokace v `Místa - Barovie.md` (nebo jiném `Místa - *`). Přepisovat čistě, jako by text byl od začátku správný.
+- Progres úkolu → soubor v `Úkoly/`. Deníkové úkoly postavy (s příponou 🧑🏻) jsou psané v první osobě jednotného čísla z pohledu té postavy a členěné nadpisy `#### <datum>`.
+- `Časová osa.md` → odkaz na zápisek pod každý herní den, který session pokrývá.
+- `index.md` → zápisek na vršek sekce Epizody, nejstarší položka vypadne (seznam drží zhruba 10 položek). Aktualizovaný úkol do „Nové a aktualizované“, úkoly, které tam byly předtím, zpět do své kategorie.
+- Sporné údaje (protichůdné dřívější zápisy, nesedící světové strany) nahlásit, ne tiše sjednotit.
+- Drobné fakty, které přibudou při ručních úpravách zápisku, zpětně promítnout do dokumentů.
