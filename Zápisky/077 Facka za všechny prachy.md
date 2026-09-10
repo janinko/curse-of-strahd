@@ -1,0 +1,37 @@
+## 21. Oťávra
+- Zbroj vyrazivší z roztrženého koberce se vrhla na nás
+	- Po zásahu **Rheyiným** šípem z ní začalo vycházet podivné prskání
+	- Narozdíl od [[002 Strašidelné panství|zbroje dříve]] byl souboj vcelku jednoduchý
+	- Zbroj prskala a jiskřila i po poražení
+		- Nezkoumali jsme ho ze strachu, že to bouchne
+		- **Rheya** si ho nechává na nabíjení svých šípů bleskem, až bude potřebovat
+	- **Rheya** vyplatila **Aureliovi** prohraný zlaťák
+- Hned po boji jsme šli prozkoumat dveře ve východní chodbě [[Místa - Barovie#Jantarový chrám|chrámu]]
+	- Za nimi byl sál, se schody dolů po obou stranách, pódiem s obsidiánovým pultíkem a řadou laveček
+- Za pultíkem se schovával napůl ohořelý, jednooký muž, který se představil jako [[Osoby a skupiny#Vilnius|Vilnius]]
+	- Byl vystrašený a chtěl mermomocí pryč z chrámu
+	- **Malakai** se s ním pokusil sblížit: „Taky jsem kyklop“
+		- Vilnius na to: „Taky jsi hledačem skrytých tajemství?“
+		- Domnívali jsme se, že je to heslo a čeká na správnou odpověď; od **Malakaie** ji zřejmě nedostal
+	- **Nethar** tedy zkusil kouzlem poslanou zprávou, zda se chytí: „Hledáš [[Osoby a skupiny#Gorgul|Gorgula]]?“
+		- „Můj pán má mnoho jmen, ale toto neznám.“
+	- [[Osoby a skupiny#Jakarion|Jakarion]] z hole mezitím **Aureliovi** řekl: "to je můj učeň, zabij jej"
+		- Hůl se pokusila **Aurelia** ovládnout, aby na Vilniuse zaútočil
+		- **Malakai** ho probral fackou, která skrz **Aureliův** Armor of Agathys ublížila mnohonásobně víc **Malakaiovi**
+		- **Aurelius** pak šel s pravdou ven, včetně toho, co nám ráno o učni zatajil
+	- Vilnius řekl, že přišel sem s Jakarionem, došlo k souboji s hořícími lebkami, on utekl a schoval se tady
+	- Chtěl, abychom ho vyvedli ven a dali mu nějaké zásoby na cestu:
+		- **Aurelius** rázně odmítl předat hůl
+		- Souhlasili jsme, že jej vyvedeme, ale nejdřív jsme z něj chtěli něco dostat
+	- Vzali jsme ho do místnosti s modelem hradu
+		- **Malakai** mu dal napít piva a **Nethar** lektvar proti prochladnutí z kořisti po [[Osoby a skupiny#Lysaga †|Lysaze]]
+- Dali jsme si krátký odpočinek, pro bezpečí všech rozdělený
+	- **Aurelius** s **Malakaiem** v alchymistické laboratoři, kdyby hůl zase chtěla **Aurelia** ovládnout
+		- **Malakai** Jakariona zpovídal a vyhrožoval mu
+	- **Rheya**, **Nethar** a Vilnius v místnosti s modelem [[Místa - Barovie#Ravenloft|Ravenloftu]]
+		- **Rheya** identifikovala mašličku z netopýra od [[Strád von Zarovič|Stráda]]: uvolní magii, která dodá neživot předem připravené bytosti
+		- **Nethar** dál zkoumal model, a tak si nevšiml, že se mu někdo či něco neviditelného hrabe v bag of holding
+			- Všimla si toho **Rheya** a svýma „očima“ pak cítila přítomnost nějaké neviděné magie
+		- Vilnius slyší hlasy, které chtějí, aby z chrámu odešel; slyšel je už před chrámem
+- Vedli jsme Vilniuse ven
+	- V chodbě z chrámu ze země vyjeli dva duchové

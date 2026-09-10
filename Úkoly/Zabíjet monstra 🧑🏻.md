@@ -19,4 +19,5 @@
 	- pozabíjeli jsme spousty středně velkých trnových humanoidních rostlin
 - Na úpatí [[Místa - Barovie#Ghakis, hora|Ghakiského pohoří]] na nás zaútočili dva Remorhazi, porazili jsme je
 - V [[Místa - Barovie#Starý Berez|Berezu]] nás napadla výbušná zombie
+- V [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]] jsme zničili oživlou zbroj, tentokrát rychle
 

@@ -41,8 +41,13 @@
 		- Zelený měděný džbán s rytými medvědy, jeleny a vlky mění jedovaté pití na víno a jednou za den se sám naplní vínem (má **Malakai**)
 	- Severozápadní předsálí a svatyně (zrcadlo severovýchodních) — dvě vyschlá těla a magická socha bez tváře, která omámila každého, kdo se na ni zahleděl
 		- **Rheya**, **Malakai** a **Nethar** u ní ztratili hodinu, než ji **Aurelius** rozbil
-	- Za dveřmi vlevo z hlavního balkonu visela na lanech oživlá zbroj — po přeříznutí lan spadla na náš oživlý koberec, chumel sletěl ze schodů a zbroj na nás zaútočila (boj probíhá)
+	- Za dveřmi vlevo z hlavního balkonu visela na lanech oživlá zbroj — po přeříznutí lan spadla na náš oživlý koberec, chumel sletěl ze schodů a zbroj na nás zaútočila (zničena)
+		- Po zásahu šípem z ní vycházelo prskání a jiskření, i po poražení; nezkoumali jsme to
+	- Sál za dveřmi ve východní chodbě (mezi dírou a golemovou místností): schody dolů po obou stranách, řady laviček, pódium s obsidiánovým pultíkem, za ním břidlicový reliéf, po stěnách symboly (zatím nezkoumáno)
+		- Za pultíkem se schovával [[Osoby a skupiny#Vilnius|Vilnius]], Jakarionův učeň — přišel sem s Jakarionem, po souboji s hořícími lebkami utekl a schoval se
+		- Slyší hlasy, které chtějí, aby z chrámu odešel; chce pryč, vyvádíme ho ven
 - Netopýr od [[Strád von Zarovič|Stráda]] i jeho mašlička nesou nekrotickou magii, každý jinou; mašlička z nemrtvého vlka druidů je té netopýří hodně podobná
+	- Mašlička z netopýra po uvolnění dodá neživot předem připravené bytosti (identifikovala **Rheya**)
 
 ## Ostatní informace
 - Podle [[Osoby a skupiny#Victoria †|Victorie]] mají [[Osoby a skupiny#Rodina Wachterů|Wachterovi]] v knihovně knihu o Jantarovém Chrámu

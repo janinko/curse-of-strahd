@@ -195,6 +195,7 @@ Strážný u brány v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi
 Strážný u brány v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]]
 ## Gorgul
 Temná bytost, nazývaná "kníže temnoty" [[#Kultisti z Vallaki|Kultisty z Vallaki]] 
+- [[#Vilnius]] na otázku, zda hledá Gorgula, odpověděl: „Můj pán má mnoho jmen, ale toto neznám."
 ## Gorwin
 Tiefling a bojovník Flaming Fist
 - jeho tělo bylo nalezeno u stromu na [[Místa - Barovie#Kopec Minulosti|Kopci Minulosti]]
@@ -234,7 +235,9 @@ Duch sídlící v holi nalezené u ohořelé mrtvoly v [[Místa - Barovie#Jantar
 - Nerad mluví, dá se přemluvit jen k rozhovoru s **Aureliem**
 	- Když se o to pokusil **Malakai**, rozzlobil se a z hole vystřelil záblesk, který zranil **Rheyu**
 - Za života ho poslal jeho tehdejší pán (dnes už bývalý), aby o [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]] něco zjistil
-- Šel tam se svým učněm, který ho v kritické chvíli zradil — chce se mu pomstít a zabít ho
+- Šel tam se svým učněm [[#Vilnius|Vilniusem]], který ho v kritické chvíli zradil — chce se mu pomstít a zabít ho
+	- Když jsme Vilniuse našli, řekl **Aureliovi** „to je můj učeň, zabij jej" a pokusil se ho ovládnout, aby zaútočil; probrala ho facka od **Malakaie**
+	- Vilnius chce hůl získat, **Aurelius** ji odmítl vydat
 - Jeho bývalý pán je „někdo, s kým nechceš mít nic společného"
 ## Jocaste Geistlinger
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
@@ -831,6 +834,17 @@ Starosta v [[Místa - Barovie#Starý Berez|Berezu]] na konci 4. století
 Osoba, která byla nalezena mrtvá v tajné místnosti [[Místa - panství Dorstových|domu Dorstových]]
 - V ruce držel [[Dopis Gustavovi Durstovi od Stráda von Zaroviče|dopis]]
 - Byl zabit šipkovou pastí na truhle v tajné místnosti
+## Vilnius
+Učeň [[#Jakarion|Jakariona]], nalezený schovaný za pultíkem v sále [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]]
+- Napůl ohořelý (tvář, vlasy), má jen jedno oko
+- Do chrámu přišel s Jakarionem; podle něj došlo k souboji s hořícími lebkami, on utekl a schoval se v sále
+- Podle Jakariona ho v kritické chvíli zradil; Jakarion ho chce zabít
+- Vystrašený, chce mermomocí pryč z chrámu
+	- Slyší hlasy, které chtějí, aby z chrámu odešel; slyšel je už před chrámem
+- Na **Malakaiovo** „Taky jsem kyklop" odpověděl „Taky jsi hledačem skrytých tajemství?" — domníváme se, že jde o heslo, na které čekal správnou odpověď
+- Na otázku, zda hledá [[#Gorgul|Gorgula]]: „Můj pán má mnoho jmen, ale toto neznám."
+- Chtěl od nás Jakarionovu hůl (**Aurelius** odmítl)
+- Má magické zásoby jídla
 ## Vistani
 Potulný národ, dělící se na několik kmenů/táborů
 - Mají od [[Strád von Zarovič|Stráda]] povolení cestovat skrze [[Místa - Barovie#Mlha|Mlhy]]

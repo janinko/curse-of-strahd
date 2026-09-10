@@ -128,7 +128,8 @@ title: Místa - Barovie
 	- Temnota sochy je evokační magie
 	- Vstup z chrámu ústí na hlavní balkon síně; z něj vedou vlevo i vpravo schody dolů do sálu
 		- Dveře přímo vpravo vedou k díře v podlaze a lebkám, dveře přímo vlevo do nocležiště druidů
-		- Dveře vlevo směrem na jih: za nimi visela na lanech oživlá zbroj — po přeříznutí lan spadla, spolu s naším oživlým kobercem sletěla ze schodů a zaútočila
+		- Dveře vlevo směrem na jih: za nimi visela na lanech oživlá zbroj — po přeříznutí lan spadla, spolu s naším oživlým kobercem sletěla ze schodů a zaútočila (zničena)
+			- Po zásahu šípem z ní vycházelo podivné prskání a jiskření, i po poražení; nezkoumali jsme to
 	- V jihozápadním rohu síně zabarikádované dveře — za nimi nocležiště, kde přebývali [[Osoby a skupiny#Druidi z Jantarového chrámu †|Strádovi druidi]] s vlkem (pobiti, nemrtvý vlk unikl)
 - Chodba na západní straně: ohořelá mrtvola člověka a tři lebky — ožily a zaútočily (zničeny)
 	- U mrtvoly odporná hůl s březovým motivem a jemně modrým krystalem, v níž sídlí duch [[Osoby a skupiny#Jakarion|Jakarion]] (má **Aurelius**), a náhrdelník ze surového železa s ostrým symbolem hřebenu (má **Malakai**)
@@ -138,6 +139,9 @@ title: Místa - Barovie
 	- U stropu číhá kyselina a padá na toho, kdo projde pod ní
 	- Na severním konci chodby jantarový golem zíral na stěnu, jako by ji skenoval; přidal se do boje proti nám (zničen)
 		- Uvnitř měl rubín sloužící jako šém (má **Malakai**)
+	- Dveře v chodbě mezi místností s dírou a golemovou místností vedou do sálu jako přednáškového: schody dolů po obou stranách, řady laviček, pódium s obsidiánovým pultíkem
+		- Na zadní stěně za pultíkem břidlicový reliéf, po stěnách symboly (zatím nezkoumáno)
+		- Za pultíkem se schovával [[Osoby a skupiny#Vilnius|Vilnius]]
 - Za dveřmi na severovýchodním balkonku je předsálí a svatyně
 	- Kožešina na stěně po doteku vypouští spóry
 	- Ve svatyni násilně rozbitá obsidiánová socha — znázorňuje totéž co socha v hlavní síni

@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[077 Facka za všechny prachy]]  
 [[076 Koberec versus brnění]]  
 [[075 Hostina duchů]]  
 [[074 Mrtví furt ožívají]]  
@@ -9,11 +10,11 @@
 [[070 Všecko nejlepší k narozeninám, Ničiteli]]  
 [[069 Pěkné pozdvižení]]  
 [[068 Generál za úsvitu]]  
-[[067 Strnulá hlídka]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
 [[Tajemství Jantarového Chrámu]]  
+[[Zabíjet monstra 🧑🏻]]  
 ### Probíhající
 [[Mnohá osvobození Ravenloftská]]  
 [[Vyřešit věštbu od Madam Evy]]  
@@ -25,7 +26,6 @@ Zbytek viz vlevo.
 [[Eliminace Iseka]]  
 [[Najít tělo čaroděje]]  
 [[Záchrana Kelena a Marcuse]]  
-[[Zabíjet monstra 🧑🏻]]  
 [[Ztracená dcera]]  
 ### Dokončené
 [[✅ Záhady Irininy duše]]  
