@@ -1,0 +1,20 @@
+## 21. Oťávra
+
+Posledných dvoch uväznených duchov rytierov sme porazili pri východe z [[Místa - Barovie#Jantarový chrám|chrámu]] keď nám chceli zabrániť v opustení chrámu.
+
+Zadržali sme [[Osoby a skupiny#Vilnius †|Vilniusa]] v chodbe chrámu a vyspovedali.
+Doporučil nám bližšie si prezrieť obrazy v posluchárni rozprávajú príbeh o založení chrámu skupinov mágov, ktorý sa rozhodli chytať a vezniť bytosti o ktorých si mysleli, že sú proti ich princípom.
+
+Ďalej sme sa dozvedeli, že [[Osoby a skupiny#Druidi z Jantarového chrámu †|Barbari]] prišli do chrámu asi pred 5 dňami.
+
+**Aurelius** na popud [[Osoby a skupiny#Jakarion|Jakariona]] začal s dôsledným výsluchom. Vilnius sprvu odmietal prezradiť prečo prišli s Jakarionem do [[Místa - Barovie#Barovie, území|Barovie]]. Na **Aureliův** nátlak se Vilnius rozpovídal o nekromancii, povedal (pod nátlakom) že Jakariona nechal zámerne skapať, pretože ho dotiahol do Barovie. Pridal dokonca aj informáciu o [[Osoby a skupiny#Neumírající král|Neumírajícím králi]] o kterém se jenom šeptá.
+
+“Drž hubu” zvřískl [[Osoby a skupiny#Imp|imp]], který družinu potajme sledoval.
+“Zrádče,” ozval se jiný hluboký hlas (nepatril ani [[Osoby a skupiny#Neferon|Neferonovi]]) “nesplnil si úkol, nechal si svého učitele zemřít a porušil si prikázanie. Potrestán bude každý kto zradí Neumírajícího krále!” 
+Vilniusova postava sa začala meniť na tvora s jediným veľkým zeleným okem.
+
+Vypukl souboj, ve kterém se Notic snažil získať z družiny jejich tajemství. Z **Rheyi** neúspešne, za to úspešný bol pri **Netharovi** a prezradil, že **Nethar** uverí každému príbehu. (Čo **Rheya** okamžite spochybnila, že v tom prípade by musel byť **Nethar** **Rheyin** dvorný kronikár a zapisovať všetky **Rheyine** báje a povesti a to sa rozhodne nedeje.)
+
+Impovi sa vo vzniknutou zmätku podarilo zneviditeľniť a utiecť k **Rheyinej** nevôli.
+
+Ideme si do vozu odpočinúť. **Rheya** si spomenula, že označenie “[[Osoby a skupiny#Neumírající král|Neumierajúci Kráľ]]” sa objavuje v niektorých náboženských pojednaniach, veľmi sa o ňom nehovorí pokial človek nechodí po krivolakych chodníčkoch. Obecne jedná sa o človeka, ktorý sa stal najskôr lichom a neskôr zlým a hriešnym bohom. Svoj život, rovnako ako aj svoje činy halí do tajomstva.

@@ -140,8 +140,9 @@ title: Místa - Barovie
 	- Na severním konci chodby jantarový golem zíral na stěnu, jako by ji skenoval; přidal se do boje proti nám (zničen)
 		- Uvnitř měl rubín sloužící jako šém (má **Malakai**)
 	- Dveře v chodbě mezi místností s dírou a golemovou místností vedou do sálu jako přednáškového: schody dolů po obou stranách, řady laviček, pódium s obsidiánovým pultíkem
-		- Na zadní stěně za pultíkem břidlicový reliéf, po stěnách symboly (zatím nezkoumáno)
-		- Za pultíkem se schovával [[Osoby a skupiny#Vilnius|Vilnius]]
+		- Na zadní stěně za pultíkem břidlicový reliéf, po stěnách symboly (sami jsme je zatím neprohlíželi)
+			- Podle [[Osoby a skupiny#Vilnius †|Vilniuse]] vyprávějí o založení chrámu skupinou mágů, kteří se rozhodli chytat a věznit bytosti odporující jejich principům
+		- Za pultíkem se schovával [[Osoby a skupiny#Vilnius †|Vilnius]]
 - Za dveřmi na severovýchodním balkonku je předsálí a svatyně
 	- Kožešina na stěně po doteku vypouští spóry
 	- Ve svatyni násilně rozbitá obsidiánová socha — znázorňuje totéž co socha v hlavní síni
@@ -158,6 +159,7 @@ title: Místa - Barovie
 	- **Nethar** podle modelu překreslil plánek hradu
 - Místnost s iluzorní hostinou — duchové vojáků [[#Argynvostholt|Argynvostholtu]] uvěznění ve zvrácené hostině „než půjdou na smrt“, připíjeli na svého pána [[Osoby a skupiny#Argynvost|Argynvosta]]
 	- Iluze zmizela po zvednutí džbánu ze stolu; duchové zaútočili, většina zničena, dva unikli podlahou
+		- Ti dva nás pak napadli v chodbě u východu z chrámu (zničeni)
 	- Zelený měděný džbán s rytými medvědy, jeleny a vlky — mění jedovaté pití na víno a jednou za den se sám vínem naplní (má **Malakai**)
 ## Kamenné kruhy
 - Několik kamenných kruhů, nacházejících se různě po Barovii

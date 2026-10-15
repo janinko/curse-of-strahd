@@ -38,14 +38,18 @@
 		- **Nethar** podle modelu překreslil plánek hradu
 	- Místnost s iluzorní hostinou — duchové vojáků [[Místa - Barovie#Argynvostholt|Argynvostholtu]] uvěznění ve zvrácené hostině „než půjdou na smrt“, připíjeli na [[Osoby a skupiny#Argynvost|Argynvosta]]
 		- **Nethar** telekineticky zvedl džbán ze stolu, iluze zmizely a duchové zaútočili — většinu jsme zničili, dva unikli podlahou
+			- Ti dva nás pak napadli v chodbě u východu z chrámu (zničeni)
 		- Zelený měděný džbán s rytými medvědy, jeleny a vlky mění jedovaté pití na víno a jednou za den se sám naplní vínem (má **Malakai**)
 	- Severozápadní předsálí a svatyně (zrcadlo severovýchodních) — dvě vyschlá těla a magická socha bez tváře, která omámila každého, kdo se na ni zahleděl
 		- **Rheya**, **Malakai** a **Nethar** u ní ztratili hodinu, než ji **Aurelius** rozbil
 	- Za dveřmi vlevo z hlavního balkonu visela na lanech oživlá zbroj — po přeříznutí lan spadla na náš oživlý koberec, chumel sletěl ze schodů a zbroj na nás zaútočila (zničena)
 		- Po zásahu šípem z ní vycházelo prskání a jiskření, i po poražení; nezkoumali jsme to
-	- Sál za dveřmi ve východní chodbě (mezi dírou a golemovou místností): schody dolů po obou stranách, řady laviček, pódium s obsidiánovým pultíkem, za ním břidlicový reliéf, po stěnách symboly (zatím nezkoumáno)
-		- Za pultíkem se schovával [[Osoby a skupiny#Vilnius|Vilnius]], Jakarionův učeň — přišel sem s Jakarionem, po souboji s hořícími lebkami utekl a schoval se
-		- Slyší hlasy, které chtějí, aby z chrámu odešel; chce pryč, vyvádíme ho ven
+	- Sál za dveřmi ve východní chodbě (mezi dírou a golemovou místností): schody dolů po obou stranách, řady laviček, pódium s obsidiánovým pultíkem, za ním břidlicový reliéf, po stěnách symboly (sami jsme je zatím neprohlíželi)
+		- Podle Vilniuse vyprávějí o založení chrámu skupinou mágů, kteří se rozhodli chytat a věznit bytosti odporující jejich principům
+		- Za pultíkem se schovával [[Osoby a skupiny#Vilnius †|Vilnius]], Jakarionův učeň — přišel sem s Jakarionem, po souboji s hořícími lebkami utekl a schoval se
+		- Při výslechu v chodbě řekl, že [[Osoby a skupiny#Druidi z Jantarového chrámu †|Strádovi druidi]] přišli do chrámu asi pět dní před [[Časová osa#21. Oťávra 735|21. Oťávrou]], a přiznal, že slouží [[Osoby a skupiny#Neumírající král|Neumírajícímu králi]]
+			- Hluboký hlas odnikud ho označil za zrádce; proměnil se v tvora s jediným velkým zeleným okem a zabili jsme ho
+		- Sledoval nás neviditelný [[Osoby a skupiny#Imp|imp]] — zjevil se při výslechu, ve zmatku boje se zneviditelnil a utekl
 - Netopýr od [[Strád von Zarovič|Stráda]] i jeho mašlička nesou nekrotickou magii, každý jinou; mašlička z nemrtvého vlka druidů je té netopýří hodně podobná
 	- Mašlička z netopýra po uvolnění dodá neživot předem připravené bytosti (identifikovala **Rheya**)
 

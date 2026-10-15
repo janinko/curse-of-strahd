@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[078 Vilniusova poslední zpověď]]  
 [[077 Facka za všechny prachy]]  
 [[076 Koberec versus brnění]]  
 [[075 Hostina duchů]]  
@@ -9,7 +10,6 @@
 [[071 Neocenitelné dary]]  
 [[070 Všecko nejlepší k narozeninám, Ničiteli]]  
 [[069 Pěkné pozdvižení]]  
-[[068 Generál za úsvitu]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované

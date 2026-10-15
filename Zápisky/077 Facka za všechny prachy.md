@@ -8,7 +8,7 @@
 	- **Rheya** vyplatila **Aureliovi** prohraný zlaťák
 - Hned po boji jsme šli prozkoumat dveře ve východní chodbě [[Místa - Barovie#Jantarový chrám|chrámu]]
 	- Za nimi byl sál, se schody dolů po obou stranách, pódiem s obsidiánovým pultíkem a řadou laveček
-- Za pultíkem se schovával napůl ohořelý, jednooký muž, který se představil jako [[Osoby a skupiny#Vilnius|Vilnius]]
+- Za pultíkem se schovával napůl ohořelý, jednooký muž, který se představil jako [[Osoby a skupiny#Vilnius †|Vilnius]]
 	- Byl vystrašený a chtěl mermomocí pryč z chrámu
 	- **Malakai** se s ním pokusil sblížit: „Taky jsem kyklop“
 		- Vilnius na to: „Taky jsi hledačem skrytých tajemství?“

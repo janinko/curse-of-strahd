@@ -20,4 +20,6 @@
 - Na úpatí [[Místa - Barovie#Ghakis, hora|Ghakiského pohoří]] na nás zaútočili dva Remorhazi, porazili jsme je
 - V [[Místa - Barovie#Starý Berez|Berezu]] nás napadla výbušná zombie
 - V [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]] jsme zničili oživlou zbroj, tentokrát rychle
+- U východu z [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]] jsme dorazili dva duchy rytířů, co nám utekli z hostiny
+- [[Osoby a skupiny#Vilnius †|Vilnius]] se při výslechu proměnil v tvora s jedním velkým zeleným okem, zabili jsme ho
 

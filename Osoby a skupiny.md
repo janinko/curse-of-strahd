@@ -143,6 +143,7 @@ Skupina sloužící [[Strád von Zarovič|Strádovi]] — bojovnice, dva barbař
 - Jejich vlk byl při boji oživen jako nemrtvý a poslán pryč
 	- Vlk měl mašličku hodně podobnou té na vysušeném netopýrovi od [[Strád von Zarovič|Stráda]]
 - Měli u sebe malý krystal s kapkou krve, ze které je cítit Fey magie — dodává odolnost proti vystrašení (má **Aurelius**)
+- Podle [[#Vilnius †|Vilniuse]] přišli do chrámu asi pět dní před [[Časová osa#21. Oťávra 735|21. Oťávrou]]
 ## Elminster
 - Známý a mocný čaroděj
 ## Evon
@@ -195,7 +196,7 @@ Strážný u brány v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi
 Strážný u brány v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]]
 ## Gorgul
 Temná bytost, nazývaná "kníže temnoty" [[#Kultisti z Vallaki|Kultisty z Vallaki]] 
-- [[#Vilnius]] na otázku, zda hledá Gorgula, odpověděl: „Můj pán má mnoho jmen, ale toto neznám."
+- [[#Vilnius †|Vilnius]] na otázku, zda hledá Gorgula, odpověděl: „Můj pán má mnoho jmen, ale toto neznám."
 ## Gorwin
 Tiefling a bojovník Flaming Fist
 - jeho tělo bylo nalezeno u stromu na [[Místa - Barovie#Kopec Minulosti|Kopci Minulosti]]
@@ -208,6 +209,11 @@ Tiefling a bojovník Flaming Fist
 - člen (podle [[#Rudolf van Richten|van Richtena]] vůdce) kultu v [[Místa#Gloomwrought|Gloomwrought]], který se snažil uniknout z Shadowfellu
 - Podle **Malakaie** je šampionem [[Osoby a skupiny#Matka Noci|Matky noci]]
 	- Bojoval se stínovým kopím a magií
+## Imp
+Imp, který nás tajně sledoval v [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]]
+- Zjevil se, když [[#Vilnius †|Vilnius]] při [[078 Vilniusova poslední zpověď|výslechu]] mluvil o [[#Neumírající král|Neumírajícím králi]]: „Drž hubu"
+	- Usoudili jsme, že to on se předtím neviditelný hrabal **Netharovi** v bag of holding
+- Ve zmatku při boji s proměněným Vilniusem se zneviditelnil a utekl
 ## Isek Strážný
 Pohůnek rychtáře [[Místa - Barovie#Vallaki|Vallaki]], [[#Vargas Valakovič|barona Valakoviče]]
 - Má vysokou hrubiánskou postavu a jeho pravá ruka je znetvořená, jakoby popálená
@@ -235,9 +241,10 @@ Duch sídlící v holi nalezené u ohořelé mrtvoly v [[Místa - Barovie#Jantar
 - Nerad mluví, dá se přemluvit jen k rozhovoru s **Aureliem**
 	- Když se o to pokusil **Malakai**, rozzlobil se a z hole vystřelil záblesk, který zranil **Rheyu**
 - Za života ho poslal jeho tehdejší pán (dnes už bývalý), aby o [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]] něco zjistil
-- Šel tam se svým učněm [[#Vilnius|Vilniusem]], který ho v kritické chvíli zradil — chce se mu pomstít a zabít ho
+- Šel tam se svým učněm [[#Vilnius †|Vilniusem]], který ho v kritické chvíli zradil — chtěl se mu pomstít a zabít ho
 	- Když jsme Vilniuse našli, řekl **Aureliovi** „to je můj učeň, zabij jej" a pokusil se ho ovládnout, aby zaútočil; probrala ho facka od **Malakaie**
-	- Vilnius chce hůl získat, **Aurelius** ji odmítl vydat
+	- Vilnius chtěl hůl získat, **Aurelius** ji odmítl vydat
+	- Podněcoval **Aurelia** k důslednému [[078 Vilniusova poslední zpověď|výslechu]] Vilniuse; ten při něm přiznal, že Jakariona nechal záměrně zemřít, protože ho do Barovie dotáhl
 - Jeho bývalý pán je „někdo, s kým nechceš mít nic společného"
 ## Jocaste Geistlinger
 - Svědek na [[Smlouva o koupi rezidence|smlouvě]]
@@ -421,6 +428,13 @@ Nemrtvý jezdec na nemrtvém koni
 - Vypadá průsvitně a namordrale
 - Projel o půnoci ze [[014 Na cestě do Vallaki|4. na 5. Oťávra]] [[Místa - Barovie#Západní brána|Západní branou]]
 - 
+## Neumírající král
+Bytost, které podle vlastních slov sloužil [[#Vilnius †|Vilnius]]
+- Podle **Rheyi** se to označení objevuje v některých náboženských pojednáních; moc se o něm nemluví, pokud člověk nechodí po křivolakých stezkách
+	- Člověk, který se stal nejprve lichem a později zlým a hříšným bohem
+	- Svůj život i své činy halí do tajemství
+- Když o něm Vilnius při [[078 Vilniusova poslední zpověď|výslechu]] mluvil, hluboký hlas odnikud ho označil za zrádce: „Potrestán bude každý, kdo zradí Neumírajícího krále!"
+	- Vilnius se vzápětí proměnil v tvora s jediným velkým zeleným okem
 ## Nikolaj
 Ožrala z [[Místa - Barovie#Hostinec Na Širokém moři|hostince ve Vallaki]]
 ## Opat
@@ -834,17 +848,23 @@ Starosta v [[Místa - Barovie#Starý Berez|Berezu]] na konci 4. století
 Osoba, která byla nalezena mrtvá v tajné místnosti [[Místa - panství Dorstových|domu Dorstových]]
 - V ruce držel [[Dopis Gustavovi Durstovi od Stráda von Zaroviče|dopis]]
 - Byl zabit šipkovou pastí na truhle v tajné místnosti
-## Vilnius
+## Vilnius †
 Učeň [[#Jakarion|Jakariona]], nalezený schovaný za pultíkem v sále [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]]
-- Napůl ohořelý (tvář, vlasy), má jen jedno oko
+- Napůl ohořelý (tvář, vlasy), měl jen jedno oko
 - Do chrámu přišel s Jakarionem; podle něj došlo k souboji s hořícími lebkami, on utekl a schoval se v sále
-- Podle Jakariona ho v kritické chvíli zradil; Jakarion ho chce zabít
-- Vystrašený, chce mermomocí pryč z chrámu
-	- Slyší hlasy, které chtějí, aby z chrámu odešel; slyšel je už před chrámem
+- Podle Jakariona ho v kritické chvíli zradil; Jakarion ho chtěl zabít
+	- Při [[078 Vilniusova poslední zpověď|výslechu]] přiznal, že Jakariona nechal záměrně zemřít, protože ho do Barovie dotáhl
+- Vystrašený, chtěl mermomocí pryč z chrámu
+	- Slyšel hlasy, které chtěly, aby z chrámu odešel; slyšel je už před chrámem
 - Na **Malakaiovo** „Taky jsem kyklop" odpověděl „Taky jsi hledačem skrytých tajemství?" — domníváme se, že jde o heslo, na které čekal správnou odpověď
 - Na otázku, zda hledá [[#Gorgul|Gorgula]]: „Můj pán má mnoho jmen, ale toto neznám."
 - Chtěl od nás Jakarionovu hůl (**Aurelius** odmítl)
-- Má magické zásoby jídla
+- Měl magické zásoby jídla
+- Podle něj reliéf a symboly v sále vyprávějí o založení chrámu skupinou mágů, kteří se rozhodli chytat a věznit bytosti odporující jejich principům
+- Řekl, že [[#Druidi z Jantarového chrámu †|Strádovi druidi]] přišli do chrámu asi pět dní před [[Časová osa#21. Oťávra 735|21. Oťávrou]]
+- Při výslechu nejdřív odmítal říct, proč s Jakarionem přišli do Barovie; pod **Aureliovým** nátlakem mluvil o nekromancii a řekl, že slouží [[#Neumírající král|Neumírajícímu králi]]
+	- Hluboký hlas odnikud (nepatřil [[#Neferon|Neferonovi]]) ho označil za zrádce: nesplnil úkol, nechal učitele zemřít a porušil přikázání
+	- Proměnil se v tvora s jediným velkým zeleným okem, který z nás tahal tajemství; zabili jsme ho
 ## Vistani
 Potulný národ, dělící se na několik kmenů/táborů
 - Mají od [[Strád von Zarovič|Stráda]] povolení cestovat skrze [[Místa - Barovie#Mlha|Mlhy]]
