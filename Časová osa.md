@@ -229,6 +229,7 @@ Kalendář:
 - [[076 Koberec versus brnění]]
 - [[077 Facka za všechny prachy]]
 - [[078 Vilniusova poslední zpověď]]
+- [[079 Historie Jantaru v obrázkovém vydání]]
 - Poslední datum pro večeři v [[Místa - Barovie#Ravenloft|Ravenloftu]]
 ### 22. Oťávra 735 🌓
 ### 23. Oťávra 735 

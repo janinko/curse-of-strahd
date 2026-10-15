@@ -1,0 +1,30 @@
+## 21. Oťávra
+- Prohledali jsme [[Osoby a skupiny#Vilnius †|Vilniusovo]] tělo a našli u něj amulet ve tvaru obrněnce
+	- Identifikace ukázala, že něco ovládá, nejspíš tady v [[Místa - Barovie#Jantarový chrám|chrámu]]; až to **Malakai** uvidí, pozná to
+- Po krátkém odpočinku v [[Osoby a skupiny#Ezmerelda|Ezmereldině]] voze jsme se vraceli do chrámu
+	- **Nethar** se při vchodu ohlédl a všiml si, že se k chrámu blíží hejno netopýrů
+	- **Aurelius** s **Rheyou** zahrabali vůz sněhem a všichni jsme se schovali uvnitř
+		- **Nethar** nechal Krabana schovaného venku, aby skrz jeho oči sledoval, co se děje
+	- **Malakai** mezitím zkoumal, co by se amuletem dalo ovládat, ale na nic nepřišel
+	- Netopýři prozkoumali okolí chrámu a odletěli
+		- Jeden vlétl do skryté chodby, kterou z nocležiště [[Osoby a skupiny#Druidi z Jantarového chrámu †|druidů]] utekl vlk, a zasekl se tam
+		- Po mentatové poradě týmu jej **Rheya** nechala nerušeně být
+- Šli jsme do posluchárny prohlédnout si [[Obrazy z posluchárny Jantarového chrámu|obrazy na stěně]]
+	- Příběh jsme si vyložili tak, že nějaký čert sužoval lidi, až ho nějaká skupina dokázala zastavit, zaklít do jantaru a uvěznit v chrámu, který pro to postavili
+- Vydali jsme se na průzkum spodního patra dávaje pozor na pasti
+	- Pod balkonem jsou velké dveře, páčení nepomohlo
+		- **Rheya** kouzlem poznala, že jsou zavřené magicky, podobně jako jantarové dveře u podstavců
+	- Západní chodba je plná povětšinou zavřených dveří
+	- Na jejím severním konci stál před otevřenými dveřmi do místností čaroděj
+- Čaroděj [[Osoby a skupiny#Aldor Quill|Aldor Quill]] nás uvítal: „Konečně živí lidé, bál jsem se, že zde zemřu mezi mrtvými knihami mrtvých čarodějů“
+	- Stojí ve třech soustředných magických kruzích nakreslených na podlaze, které ho drží
+		- „Odpusťte mi ty kruhy, někdo je zde nechal a mě to chytilo“
+	- Vyzpovídali jsme jej:
+		- Je tu pět let, kruhy ho drží bez hladu a žízně
+		- Ze samoty se několikrát zbláznil a zase nabyl příčetnosti
+		- Občas za ním chodí [[Strád von Zarovič|Strád]] a chce, ať ho učí kouzla
+		- Přišel za [[Místa - Materiální pláň#Candlekeep|Candlekeep]], kde zjistili, že tajné magické organizace upřely pozornost na Barovii, a měl zjistit proč
+			- **Malakai** o Candlekeepu zřejmě už slyšel
+	- **Nethar** ho chtěl osvobodit, **Malakai** z něj chtěl nejdřív dostat informace
+		- **Nethar** křídou začmáral symboly a první kruh zmizel
+	- **Rheya** se chystala položit první otázku

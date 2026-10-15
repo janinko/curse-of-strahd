@@ -20,6 +20,7 @@
 - Za dveřmi na severovýchodním balkonku předsálí a svatyně — násilně rozbitá obsidiánová socha (znázorňuje totéž co hlavní socha, jejíž temnota je evokační magie)
 - Podle kreseb v místnůstce s papíry v chrámu kdysi možná pobývali vojáci z [[Místa - Barovie#Argynvostholt|Argynvostholtu]]
 - Za zabarikádovanými dveřmi v JZ rohu hlavní síně nocležiště — přebývali tam [[Osoby a skupiny#Druidi z Jantarového chrámu †|Strádovi druidi]] s vlkem; pobili jsme je (nemrtvý vlk unikl)
+	- Z nocležiště vede skrytá přírodní chodba ven, ústí kus na západ od hlavního vchodu (tudy vlk unikl)
 	- Mezi kořistí malý krystal s kapkou krve s Fey magií — odolnost proti vystrašení (má **Aurelius**)
 - V chodbě na západní straně ohořelá mrtvola člověka a tři lebky — ožily a zaútočily (zničeny)
 	- U mrtvoly odporná hůl s březovým motivem a jemně modrým krystalem — sídlí v ní [[Osoby a skupiny#Jakarion|Jakarion]], duch člověka, u kterého jsme hůl našli (hůl má **Aurelius**)
@@ -44,14 +45,21 @@
 		- **Rheya**, **Malakai** a **Nethar** u ní ztratili hodinu, než ji **Aurelius** rozbil
 	- Za dveřmi vlevo z hlavního balkonu visela na lanech oživlá zbroj — po přeříznutí lan spadla na náš oživlý koberec, chumel sletěl ze schodů a zbroj na nás zaútočila (zničena)
 		- Po zásahu šípem z ní vycházelo prskání a jiskření, i po poražení; nezkoumali jsme to
-	- Sál za dveřmi ve východní chodbě (mezi dírou a golemovou místností): schody dolů po obou stranách, řady laviček, pódium s obsidiánovým pultíkem, za ním břidlicový reliéf, po stěnách symboly (sami jsme je zatím neprohlíželi)
+	- Sál za dveřmi ve východní chodbě (mezi dírou a golemovou místností): schody dolů po obou stranách, řady laviček, pódium s obsidiánovým pultíkem, za ním břidlicový reliéf, po stěnách devět obrazů ([[Obrazy z posluchárny Jantarového chrámu]])
 		- Podle Vilniuse vyprávějí o založení chrámu skupinou mágů, kteří se rozhodli chytat a věznit bytosti odporující jejich principům
+		- Vyložili jsme si je tak, že nějaký čert sužoval lidi, až ho nějaká skupina zastavila, zaklela do jantaru a uvěznila v chrámu postaveném pro to; krychle na obrazech připomíná jantarové podstavce o patro níž
 		- Za pultíkem se schovával [[Osoby a skupiny#Vilnius †|Vilnius]], Jakarionův učeň — přišel sem s Jakarionem, po souboji s hořícími lebkami utekl a schoval se
 		- Při výslechu v chodbě řekl, že [[Osoby a skupiny#Druidi z Jantarového chrámu †|Strádovi druidi]] přišli do chrámu asi pět dní před [[Časová osa#21. Oťávra 735|21. Oťávrou]], a přiznal, že slouží [[Osoby a skupiny#Neumírající král|Neumírajícímu králi]]
 			- Hluboký hlas odnikud ho označil za zrádce; proměnil se v tvora s jediným velkým zeleným okem a zabili jsme ho
+			- U jeho těla amulet ve tvaru obrněnce — něco ovládá, nejspíš v chrámu; **Malakai** to prý pozná, až to uvidí (má **Malakai**)
 		- Sledoval nás neviditelný [[Osoby a skupiny#Imp|imp]] — zjevil se při výslechu, ve zmatku boje se zneviditelnil a utekl
 - Netopýr od [[Strád von Zarovič|Stráda]] i jeho mašlička nesou nekrotickou magii, každý jinou; mašlička z nemrtvého vlka druidů je té netopýří hodně podobná
 	- Mašlička z netopýra po uvolnění dodá neživot předem připravené bytosti (identifikovala **Rheya**)
+- Spodní patro hlavní síně ([[Časová osa#21. Oťávra 735|21. Oťávra]]):
+	- Pod hlavním balkonem velké dveře, páčení nepomohlo — podle **Rheyina** kouzla zavřené magicky, podobně jako jantarové dveře u podstavců
+	- Západní chodba plná povětšinou zavřených dveří (žádné jsme neotevřeli); na severním konci před otevřenými dveřmi stojí ve třech soustředných magických kruzích čaroděj [[Osoby a skupiny#Aldor Quill|Aldor Quill]] z [[Místa - Materiální pláň#Candlekeep|Candlekeep]]
+		- Je tu pět let; přišel zjistit, proč tajné magické organizace upřely pozornost na Barovii; občas za ním chodí [[Strád von Zarovič|Strád]] a chce, ať ho učí kouzla
+		- **Nethar** křídou zrušil první kruh; **Malakai** z něj chce nejdřív dostat informace, než ho osvobodíme
 
 ## Ostatní informace
 - Podle [[Osoby a skupiny#Victoria †|Victorie]] mají [[Osoby a skupiny#Rodina Wachterů|Wachterovi]] v knihovně knihu o Jantarovém Chrámu

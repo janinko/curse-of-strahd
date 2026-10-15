@@ -2,6 +2,15 @@
 title: Osoby a skupiny
 ---
 
+## Aldor Quill
+Starý čaroděj z [[Místa - Materiální pláň#Candlekeep|Candlekeep]], uvězněný v západní chodbě spodního patra [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]]
+- Špičatý klobouk, modré oči
+- Stojí ve třech soustředných magických kruzích nakreslených na podlaze; někdo je tam nechal a chytily ho
+	- Kruhy ho drží bez hladu a žízně
+	- **Nethar** křídou začmáral symboly prvního kruhu a ten zmizel
+- V chrámu je pět let; ze samoty se několikrát zbláznil a zase nabyl příčetnosti
+- Občas za ním chodí [[Strád von Zarovič|Strád]] a chce, ať ho učí kouzla
+- Do [[Místa - Barovie#Barovie, území|Barovie]] přišel za Candlekeep: tam zjistili, že tajné magické organizace upřely pozornost na Barovii, a měl zjistit proč
 ## Alena
 Majitelka hostince [[Místa - Materiální pláň#Hold Fast Inn|Hold fast Inn]] v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]]
 ### Kelen
@@ -865,6 +874,7 @@ Učeň [[#Jakarion|Jakariona]], nalezený schovaný za pultíkem v sále [[Míst
 - Při výslechu nejdřív odmítal říct, proč s Jakarionem přišli do Barovie; pod **Aureliovým** nátlakem mluvil o nekromancii a řekl, že slouží [[#Neumírající král|Neumírajícímu králi]]
 	- Hluboký hlas odnikud (nepatřil [[#Neferon|Neferonovi]]) ho označil za zrádce: nesplnil úkol, nechal učitele zemřít a porušil přikázání
 	- Proměnil se v tvora s jediným velkým zeleným okem, který z nás tahal tajemství; zabili jsme ho
+- U jeho těla jsme našli amulet ve tvaru obrněnce; něco ovládá, nejspíš v chrámu, a **Malakai** to prý pozná, až to uvidí (má **Malakai**)
 ## Vistani
 Potulný národ, dělící se na několik kmenů/táborů
 - Mají od [[Strád von Zarovič|Stráda]] povolení cestovat skrze [[Místa - Barovie#Mlha|Mlhy]]

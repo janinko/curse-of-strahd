@@ -106,6 +106,8 @@ title: Strád von Zarovič
 	- možná ve věži [[Místa - Barovie#Klášter sv. Markovie|Kláštera sv. Markovie]]
 #### Podle [[Osoby a skupiny#Tatiana †|Tatiany]]
 - Snažil se najít kouzlo a okultní věci, předtím než se stal upírem
+#### Podle [[Osoby a skupiny#Aldor Quill|Aldora Quilla]]
+- Občas za ním chodí do [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]] a chce, ať ho učí kouzla
 ### Vasilij von Holz
 - Podle [[Osoby a skupiny#Ulrich †|Ulricha]] je to strádovo iluzorní alter ego
 - Podle [[Osoby a skupiny#Marina †|Mariny]] měl bratra, co se uchlastal

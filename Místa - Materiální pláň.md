@@ -10,6 +10,7 @@ title: Místa - Materiální pláň
 - Město na Měčovém Pobřeží
 ## Candlekeep
 - Knihovna
+- [[Osoby a skupiny#Aldor Quill|Aldor Quill]] odtud přišel do [[Místa - Barovie#Barovie, území|Barovie]] zjistit, proč na ni tajné magické organizace upřely pozornost
 ## Klášter dávné sekty
 - Někde v okolí [[#Liamova tvrz]], byl sídlem dávné sekty, která bojovala s kouzelníkem [[Osoby a skupiny#Sunder Halynd Liam|Liamem]]
 ## Liamova Tvrz
