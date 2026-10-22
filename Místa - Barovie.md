@@ -136,13 +136,26 @@ title: Místa - Barovie
 		- Z nocležiště vede skrytá přírodní chodba ven; ústí kus na západ od hlavního vchodu a není dobře vidět (tudy vlk unikl)
 	- Spodní patro síně:
 		- Pod hlavním balkonem velké dveře; páčení nepomohlo, podle **Rheyina** kouzla jsou zavřené magicky, podobně jako jantarové dveře u podstavců
+			- Otevřel nám je [[Osoby a skupiny#Aldor Quill|Aldor Quill]] Klepnutím
+			- Podle Aldora mají magicky zavřené dveře v chrámu stejné heslo, které nezná
+		- Za nimi hrobka ve tvaru hranatého „O"
+			- V hlavní místnosti leží ve výklencích asi 17 mrtvých
+				- U některých jsou nápisy s tituly, například „pán pečetí" a „hlavní artificer"
+				- Někteří mají magické předměty
+			- Z hlavní místnosti vede chodba na východ a na západ do menších místností
+			- V západní místnosti jedovatý puch, který otravuje příchozí
+				- Ze západní chodby a místnosti je slyšet voda, kapání a proudění
+			- Ve východní místnosti socha stříbrného draka, která plive chlad, kdykoliv někoho spatří (zakryli jsme ji róbou)
+			- V rohu východní místnosti byla falešná zeď, za ní další mrtvola
+				- Měla u sebe balíček s lektvarem a róbu (má **Rheya** k identifikaci) a cenný náhrdelník ve tvaru draka (**Aurelius** ho poslal [[Osoby a skupiny#Zephyros|Zephyrovi]])
 		- Západní chodba spodního patra (zhruba pod horní západní chodbou, o něco západněji) je plná povětšinou zavřených dveří; žádné jsme neotevřeli
-			- Na severním konci otevřené dveře do místností; před nimi stojí ve třech soustředných magických kruzích [[Osoby a skupiny#Aldor Quill|Aldor Quill]]
+			- Na severním konci otevřené dveře do místností; před nimi ve třech soustředných magických kruzích stál uvězněný [[Osoby a skupiny#Aldor Quill|Aldor Quill]]
 - Chodba na západní straně: ohořelá mrtvola člověka a tři lebky — ožily a zaútočily (zničeny)
 	- U mrtvoly odporná hůl s březovým motivem a jemně modrým krystalem, v níž sídlí duch [[Osoby a skupiny#Jakarion|Jakarion]] (má **Aurelius**), a náhrdelník ze surového železa s ostrým symbolem hřebenu (má **Malakai**)
 - Východní část: hned za dveřmi díra v podlaze vedoucí o patro níž — po vhození dřeva se dole rozzářila zelená světla a vyletěly z ní tři hořící lebky (zničeny)
 	- Zničené lebky po čase znovu ožívají — zneškodněny rozdrcením, vymácháním v kyselině a politím svěcenou vodou
 	- O patro níž v díře stojí tři jantarové podstavce — v každém zřejmě něco uvězněno (duše?) — a magicky očarované jantarové dveře
+		- Podle [[Osoby a skupiny#Aldor Quill|Aldora]] je netřeba je otevírat, dá se k nim snadno dojít z druhé strany
 	- U stropu číhá kyselina a padá na toho, kdo projde pod ní
 	- Na severním konci chodby jantarový golem zíral na stěnu, jako by ji skenoval; přidal se do boje proti nám (zničen)
 		- Uvnitř měl rubín sloužící jako šém (má **Malakai**)

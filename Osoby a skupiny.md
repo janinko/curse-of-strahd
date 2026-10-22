@@ -3,14 +3,16 @@ title: Osoby a skupiny
 ---
 
 ## Aldor Quill
-Starý čaroděj z [[Místa - Materiální pláň#Candlekeep|Candlekeep]], uvězněný v západní chodbě spodního patra [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]]
+Starý čaroděj z [[Místa - Materiální pláň#Candlekeep|Candlekeep]], pět let uvězněný v západní chodbě spodního patra [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]]
 - Špičatý klobouk, modré oči
-- Stojí ve třech soustředných magických kruzích nakreslených na podlaze; někdo je tam nechal a chytily ho
-	- Kruhy ho drží bez hladu a žízně
-	- **Nethar** křídou začmáral symboly prvního kruhu a ten zmizel
-- V chrámu je pět let; ze samoty se několikrát zbláznil a zase nabyl příčetnosti
-- Občas za ním chodí [[Strád von Zarovič|Strád]] a chce, ať ho učí kouzla
+- Stál ve třech soustředných magických kruzích nakreslených na podlaze; někdo je tam nechal a chytily ho
+	- Kruhy ho držely bez hladu a žízně
+- Ze samoty se několikrát zbláznil a zase nabyl příčetnosti
+- Občas za ním chodil [[Strád von Zarovič|Strád]] a chtěl, ať ho učí kouzla, a pomoc se složitým kouzlem ([[Tři jantarové klíče|uvěznění elementála]])
 - Do [[Místa - Barovie#Barovie, území|Barovie]] přišel za Candlekeep: tam zjistili, že tajné magické organizace upřely pozornost na Barovii, a měl zjistit proč
+- **Nethar** mu pověděl o [[#Mocný čaroděj|Mocném čaroději]], že by si mohli rozumět
+- Ukousl si malíček a dal nám ho; je v něm magie na jedno otevření dveří (má **Nethar**)
+- [[Časová osa#21. Oťávra 735|21. Oťávra 735]] odešel pěšky do lesa, s dekou od **Rheyi**
 ## Alena
 Majitelka hostince [[Místa - Materiální pláň#Hold Fast Inn|Hold fast Inn]] v [[Místa - Materiální pláň#Liamova tvrz|Liamově tvrzi]]
 ### Kelen
@@ -157,6 +159,8 @@ Skupina sloužící [[Strád von Zarovič|Strádovi]] — bojovnice, dva barbař
 - Kouzelník měl na hrudi vyrytý symbol Stráda a místo krve z něj vytékala černá tekutina
 - Jejich vlk byl při boji oživen jako nemrtvý a poslán pryč
 	- Vlk měl mašličku hodně podobnou té na vysušeném netopýrovi od [[Strád von Zarovič|Stráda]]
+		- Netopýr i jeho mašlička nesou nekrotickou magii, každý jinou
+		- Mašlička z netopýra po uvolnění dodá neživot předem připravené bytosti (identifikovala **Rheya**)
 - Měli u sebe malý krystal s kapkou krve, ze které je cítit Fey magie — dodává odolnost proti vystrašení (má **Aurelius**)
 - Podle [[#Vilnius †|Vilniuse]] přišli do chrámu asi pět dní před [[Časová osa#21. Oťávra 735|21. Oťávrou]]
 ## Elminster

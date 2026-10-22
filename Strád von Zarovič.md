@@ -116,7 +116,9 @@ title: Strád von Zarovič
 #### Podle [[Osoby a skupiny#Tatiana †|Tatiany]]
 - Snažil se najít kouzlo a okultní věci, předtím než se stal upírem
 #### Podle [[Osoby a skupiny#Aldor Quill|Aldora Quilla]]
-- Občas za ním chodí do [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]] a chce, ať ho učí kouzla
+- Občas za ním chodil do [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]] a chtěl, ať ho učí kouzla
+- Chtěl po něm pomoc se složitým kouzlem, které uvěznilo elementála a Strádovi dovoluje čerpat jeho sílu ([[Tři jantarové klíče|podrobnosti]])
+- Jeho nebezpečí tkví v tom, že se umí učit z různých zdrojů
 ### Vasilij von Holz
 - Podle [[Osoby a skupiny#Ulrich †|Ulricha]] je to strádovo iluzorní alter ego
 - Podle [[Osoby a skupiny#Marina †|Mariny]] měl bratra, co se uchlastal
@@ -147,7 +149,7 @@ soumračný elf
 - sloužil v Barovově a Strádově armádě jako generál
 - byl Strádovým komořím — řídil zásobování a opravy [[Místa - Barovie#Ravenloft|Ravenloftu]] a držel třetí pečeť „[[Rahadinovy dopisy|Vrcholné komory]]"
 - zabit [[Časová osa#20. Oťávra 735|20. Oťávra 735]] poté, co se teleportoval za námi do [[Místa - Barovie#Strážní věž v průsmyku|strážní věže v průsmyku Tsolenka]] a vyhrožoval, že o naší výpravě řekne Strádovi
-	- u těla jsme našli [[Rahadinovy dopisy|jeho dopisy]] a jantarovou tyčku (jeden ze tří pilířů nějakého mechanismu — možná pečeť)
+	- u těla jsme našli [[Rahadinovy dopisy|jeho dopisy]] a jantarovou tyčku, jeden ze tří klíčů [[Tři jantarové klíče|elementálova vězení]] (potvrdil [[Osoby a skupiny#Aldor Quill|Aldor Quill]])
 	- jeho očarovaný pytel po doteku vybuchl a vyvolal tři vzdušné elementály
 ## Společníci
 Že jde o Strádovy společníky nám při [[043 Piknik při novoluní|pikniku u Baratockého jezera]] potvrdil [[Osoby a skupiny#Ismark Koljanovič|Ismark]]

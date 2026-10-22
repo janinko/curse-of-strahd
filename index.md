@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[080 Podání pomocného malíčku]]  
 [[079 Historie Jantaru v obrázkovém vydání]]  
 [[078 Vilniusova poslední zpověď]]  
 [[077 Facka za všechny prachy]]  
@@ -9,10 +10,10 @@
 [[073 Moc samotného Sandžora]]  
 [[072 Mrtví nedají spát]]  
 [[071 Neocenitelné dary]]  
-[[070 Všecko nejlepší k narozeninám, Ničiteli]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
+[[Tři jantarové klíče]]  
 [[Tajemství Jantarového Chrámu]]  
 ### Probíhající
 [[Mnohá osvobození Ravenloftská]]  

@@ -1,3 +1,12 @@
+Zjistit, co je [[Místa - Barovie#Jantarový chrám|Jantarový chrám]] zač a jestli nám pomůže porazit [[Strád von Zarovič|Stráda]]. 
+
+- [x] Najít chrám — [[Časová osa#20. Oťávra 735|20. Oťávra 735]] nás k němu dovedl [[Osoby a skupiny#Kazimir|Kazimír]]
+- [x] Osvobodit uvězněného čaroděje [[Osoby a skupiny#Aldor Quill|Aldora Quilla]] — výměnou nám řekl o [[Tři jantarové klíče|elementálově vězení]] a otevřel dveře pod balkonem
+- [ ] Prozkoumat hrobku za dveřmi pod balkonem (západní místnost s jedovatým puchem a zvukem vody, výklenky s mrtvými)
+- [ ] Prozkoumat zavřené dveře v západní chodbě spodního patra
+- [ ] Prozkoumat jantarové podstavce a jantarové dveře v díře (podle Aldora se k nim dá dojít z druhé strany)
+- [ ] Zjistit, co v chrámu ovládá amulet ve tvaru obrněnce od [[Osoby a skupiny#Vilnius †|Vilniuse]]
+
 ## Potencionální poloha
 - [[Osoby a skupiny#Kazimir|Kazimir]] (soumračný elf žijící u [[Místa - Barovie#Argynvostholt|Argynvostholtu]]) zná cestu a nabídl, že je tam zavede, pokud mu pomohou [[Mnohá osvobození Ravenloftská|osvobodit]] duši jeho sestry [[Osoby a skupiny#Patrina|Patriny]] uvězněnou v [[Místa - Barovie#Ravenloft|Ravenloftu]]
 - [[Osoby a skupiny#Victoria †|Victoria]] byla nalezena na vrcholu hory [[Místa - Barovie#Ghakis, hora|Ghakis]] – chrám je pravděpodobně někde v tomto pohoří
@@ -6,66 +15,26 @@
 - Vede k němu [[Místa - Barovie#Průsmyk Tsolenka|průsmyk Tsolenka]] — cesta překračuje řeku po mostě, u kterého stojí brána se zeleným plamenem (podle [[Osoby a skupiny#Kazimir|Kazimíra]], který se za bránu už neodvážil)
 - Z [[Osoby a skupiny#Patrina|Patriniy]] vize [[Osoby a skupiny#Kazimir|Kazimírovi]]: kolmá skála vysoko v horách s vysekaným průčelím ve skalní stěně
 
-## Na místě
-- [[Časová osa#20. Oťávra 735|20. Oťávra]] jsme k chrámu dorazili — [[Osoby a skupiny#Kazimir|Kazimír]] nás vedl, ale u chrámu nikdy nebyl
-- Průčelí: kolmá skála se šesti výklenky s jantarovými sochami (postavy bez tváří, v kápích, ruce v modlitbě), uprostřed černý vchod
-- Ve vstupní hale za střílnou mrtvola červeného mága s hůlkou tajemství
-- V hlavní síni stojí obrovská socha; po doteku jantarové stěny se z ní telepaticky ozval Hlas: „Návštěvníci v mém chrámě, pojďte sem a pokloňte se."
-- Socha je [[Osoby a skupiny#Zvěstovatel Neferona|Zvěstovatel]] boha tajemství a magie [[Osoby a skupiny#Neferon|Neferona]] — chrám patří Neferonovi; poklonili jsme se a odevzdali obětiny
-- Ve východní části díra v podlaze vedoucí o patro níž — vyletěly z ní tři hořící lebky; spolu s jantarovým golemem, který „skenoval" stěnu, na nás zaútočily (zničeny)
-	- V golemovi byl rubín sloužící jako šém (má **Malakai**)
-- O patro níž v díře tři jantarové podstavce — v každém zřejmě něco uvězněno (duše?) — a magicky očarované jantarové dveře; necháváme si je asi až na konec
-- Za tajnými dveřmi prostor za střílnami vstupní haly — u mrtvého červeného mága nalezeny papíry (psané v infernal a v neznámém jazyce)
-	- **Nethar** je předal [[Osoby a skupiny#Firan|Firanovi]] — podle něj je [[Osoby a skupiny#Sas Tan|Sas Tan]] prefíkaný mág a nepřekvapuje ho, že [[Osoby a skupiny#Rudí mágové z Thay|Rudí mágové z Thay]] poslali výpravu i sem
-- Za dveřmi na severovýchodním balkonku předsálí a svatyně — násilně rozbitá obsidiánová socha (znázorňuje totéž co hlavní socha, jejíž temnota je evokační magie)
-- Podle kreseb v místnůstce s papíry v chrámu kdysi možná pobývali vojáci z [[Místa - Barovie#Argynvostholt|Argynvostholtu]]
-- Za zabarikádovanými dveřmi v JZ rohu hlavní síně nocležiště — přebývali tam [[Osoby a skupiny#Druidi z Jantarového chrámu †|Strádovi druidi]] s vlkem; pobili jsme je (nemrtvý vlk unikl)
-	- Z nocležiště vede skrytá přírodní chodba ven, ústí kus na západ od hlavního vchodu (tudy vlk unikl)
-	- Mezi kořistí malý krystal s kapkou krve s Fey magií — odolnost proti vystrašení (má **Aurelius**)
-- V chodbě na západní straně ohořelá mrtvola člověka a tři lebky — ožily a zaútočily (zničeny)
-	- U mrtvoly odporná hůl s březovým motivem a jemně modrým krystalem — sídlí v ní [[Osoby a skupiny#Jakarion|Jakarion]], duch člověka, u kterého jsme hůl našli (hůl má **Aurelius**)
-	- Náhrdelník ze surového železa s ostrým symbolem hřebenu (má **Malakai**)
-- V noci se u chrámu objevili dva duchové — zjevně rytíři/vojáci [[Místa - Barovie#Argynvostholt|Argynvostholtu]] — vyzpovídali jsme je
-	- Jméno [[Osoby a skupiny#Neferon|Neferon]] jim nic neříkalo
-	- Na otázku, co nám můžou říct o chrámu, odpověděli: „Chrám ukrývá pozůstatky vážných zlých bytostí, které zde jsou uvězněny."
-	- Na otázku, jestli máme uvězněné bytosti propustit, pokud z chrámu něco získá Strád, odpověděli: „Zlo musí zůstat uvězněné v chrámu."
-	- Řekli také: „Strád vede armádu údolím." — po této větě viditelně zareagovali, z kontextu usuzujeme, že na ně kdysi zaútočila Strádova armáda
-- Další prozkoumaná místa v chrámu:
-	- Alchymistická laboratoř se třemi lektvary
-	- Chodby vedoucí dolů a tajné dveře do dvou sousedních místností
-	- Místnost s modelem Ravenloftu (vyrobil jej někdo menší, možná trpaslík)
-		- Hnědá plíseň, chladivá jako ta ve sklepě vinohradu u [[Místa - Barovie#Vinařství U mága|U mága]] — zničili jsme ji chladivým kouzlem
-		- Truhla s nástroji a měšcem plným peněz a smaragdem
-		- **Nethar** podle modelu překreslil plánek hradu
-	- Místnost s iluzorní hostinou — duchové vojáků [[Místa - Barovie#Argynvostholt|Argynvostholtu]] uvěznění ve zvrácené hostině „než půjdou na smrt“, připíjeli na [[Osoby a skupiny#Argynvost|Argynvosta]]
-		- **Nethar** telekineticky zvedl džbán ze stolu, iluze zmizely a duchové zaútočili — většinu jsme zničili, dva unikli podlahou
-			- Ti dva nás pak napadli v chodbě u východu z chrámu (zničeni)
-		- Zelený měděný džbán s rytými medvědy, jeleny a vlky mění jedovaté pití na víno a jednou za den se sám naplní vínem (má **Malakai**)
-	- Severozápadní předsálí a svatyně (zrcadlo severovýchodních) — dvě vyschlá těla a magická socha bez tváře, která omámila každého, kdo se na ni zahleděl
-		- **Rheya**, **Malakai** a **Nethar** u ní ztratili hodinu, než ji **Aurelius** rozbil
-	- Za dveřmi vlevo z hlavního balkonu visela na lanech oživlá zbroj — po přeříznutí lan spadla na náš oživlý koberec, chumel sletěl ze schodů a zbroj na nás zaútočila (zničena)
-		- Po zásahu šípem z ní vycházelo prskání a jiskření, i po poražení; nezkoumali jsme to
-	- Sál za dveřmi ve východní chodbě (mezi dírou a golemovou místností): schody dolů po obou stranách, řady laviček, pódium s obsidiánovým pultíkem, za ním břidlicový reliéf, po stěnách devět obrazů ([[Obrazy z posluchárny Jantarového chrámu]])
-		- Podle Vilniuse vyprávějí o založení chrámu skupinou mágů, kteří se rozhodli chytat a věznit bytosti odporující jejich principům
-		- Vyložili jsme si je tak, že nějaký čert sužoval lidi, až ho nějaká skupina zastavila, zaklela do jantaru a uvěznila v chrámu postaveném pro to; krychle na obrazech připomíná jantarové podstavce o patro níž
-		- Za pultíkem se schovával [[Osoby a skupiny#Vilnius †|Vilnius]], Jakarionův učeň — přišel sem s Jakarionem, po souboji s hořícími lebkami utekl a schoval se
-		- Při výslechu v chodbě řekl, že [[Osoby a skupiny#Druidi z Jantarového chrámu †|Strádovi druidi]] přišli do chrámu asi pět dní před [[Časová osa#21. Oťávra 735|21. Oťávrou]], a přiznal, že slouží [[Osoby a skupiny#Neumírající král|Neumírajícímu králi]]
-			- Hluboký hlas odnikud ho označil za zrádce; proměnil se v tvora s jediným velkým zeleným okem a zabili jsme ho
-			- U jeho těla amulet ve tvaru obrněnce — něco ovládá, nejspíš v chrámu; **Malakai** to prý pozná, až to uvidí (má **Malakai**)
-		- Sledoval nás neviditelný [[Osoby a skupiny#Imp|imp]] — zjevil se při výslechu, ve zmatku boje se zneviditelnil a utekl
-- Netopýr od [[Strád von Zarovič|Stráda]] i jeho mašlička nesou nekrotickou magii, každý jinou; mašlička z nemrtvého vlka druidů je té netopýří hodně podobná
-	- Mašlička z netopýra po uvolnění dodá neživot předem připravené bytosti (identifikovala **Rheya**)
-- Spodní patro hlavní síně ([[Časová osa#21. Oťávra 735|21. Oťávra]]):
-	- Pod hlavním balkonem velké dveře, páčení nepomohlo — podle **Rheyina** kouzla zavřené magicky, podobně jako jantarové dveře u podstavců
-	- Západní chodba plná povětšinou zavřených dveří (žádné jsme neotevřeli); na severním konci před otevřenými dveřmi stojí ve třech soustředných magických kruzích čaroděj [[Osoby a skupiny#Aldor Quill|Aldor Quill]] z [[Místa - Materiální pláň#Candlekeep|Candlekeep]]
-		- Je tu pět let; přišel zjistit, proč tajné magické organizace upřely pozornost na Barovii; občas za ním chodí [[Strád von Zarovič|Strád]] a chce, ať ho učí kouzla
-		- **Nethar** křídou zrušil první kruh; **Malakai** z něj chce nejdřív dostat informace, než ho osvobodíme
+## Co víme o chrámu
+- Chrám patří bohu tajemství a magie [[Osoby a skupiny#Neferon|Neferonovi]]
+	- Socha jeho [[Osoby a skupiny#Zvěstovatel Neferona|Zvěstovatele]] v hlavní síni k nám telepaticky promluvila: „Návštěvníci v mém chrámě, pojďte sem a pokloňte se."
+- [[Obrazy z posluchárny Jantarového chrámu|Obrazy v posluchárně]] podle [[Osoby a skupiny#Vilnius †|Vilniuse]] vyprávějí o založení chrámu skupinou mágů, kteří chytali a věznili bytosti odporující jejich principům
+	- Vyložili jsme si je tak, že nějaký čert sužoval lidi, až ho nějaká skupina zastavila, zaklela do jantaru a uvěznila v chrámu postaveném pro to
+	- Krychle na obrazech připomíná jantarové podstavce v díře, v každém je zřejmě něco uvězněno
+- Dva duchové rytířů [[Místa - Barovie#Argynvostholt|Argynvostholtu]], které jsme v noci u chrámu vyzpovídali:
+	- Jméno Neferon jim nic neříkalo
+	- „Chrám ukrývá pozůstatky vážných zlých bytostí, které zde jsou uvězněny."
+	- Na otázku, jestli máme uvězněné bytosti propustit, pokud z chrámu něco získá Strád: „Zlo musí zůstat uvězněné v chrámu."
+	- „Strád vede armádu údolím." — z jejich reakce usuzujeme, že na ně kdysi zaútočila Strádova armáda
+- Chrám je spjatý s [[Místa - Barovie#Argynvostholt|Argynvostholtem]]: kromě Argynvostovy stráže v něm podle kreseb kdysi možná pobývali jeho vojáci a duchové jeho vojáků tu byli uvěznění ve zvrácené hostině
+- V hrobce pod balkonem leží mrtví s tituly jako „pán pečetí" a „hlavní artificer"
+- O chrám se zajímají i další:
+	- Strád — za uvězněným Aldorem chodil a chtěl jeho pomoc s [[Tři jantarové klíče|elementálovým vězením]]; jeho [[Osoby a skupiny#Druidi z Jantarového chrámu †|druidi]] v chrámu přebývali
+	- [[Osoby a skupiny#Rudí mágové z Thay|Rudí mágové z Thay]] sem poslali výpravu (mrtvý červený mág ve vstupní hale)
+	- [[Osoby a skupiny#Jakarion|Jakarion]] s učněm [[Osoby a skupiny#Vilnius †|Vilniusem]], který sloužil [[Osoby a skupiny#Neumírající král|Neumírajícímu králi]]
 
 ## Ostatní informace
 - Podle [[Osoby a skupiny#Victoria †|Victorie]] mají [[Osoby a skupiny#Rodina Wachterů|Wachterovi]] v knihovně knihu o Jantarovém Chrámu
 - Tapiserie v [[Místa - Barovie#Khazanova věž|Khazanově věži]] znázorňovala něco, co by mohla být jantarový chrám
 - [[Osoby a skupiny#Firan|Firanovi]] dlužíme za identifikaci [[Místa - Barovie#Kamenné kruhy|kamenného kruhu]] magické knihy, svitky nebo informace z chrámu
-- [[Rahadinovy dopisy]] zmiňují „Vrcholnou komoru" — entitu drženou třemi pečetěmi (Strádova učenkyně, správce knih, Rahadin) — možná se nachází v chrámu (jantarová pouta, dary jantaru)
-	- Jantarová tyčka nalezená u [[Strád von Zarovič#Rahadin|Rahadina]] je podle naší teorie jednou z pečetí („jeden ze tří pilířů" mechanismu)
-	- Třetí pečeť selhala „*opět* šestnáctého" — zdá se, že selhává opakovaně 16. dne měsíce
-	- Entita vytlačuje skrz „vrcholový průduch" do údolí proud nesoucí *záměr* a hledá příjemce
+- [[Rahadinovy dopisy]] zmiňují „Vrcholnou komoru", která se možná nachází v chrámu — viz [[Tři jantarové klíče]]

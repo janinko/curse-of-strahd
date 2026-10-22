@@ -78,6 +78,7 @@ Fakta (vlastnosti postav, popis lokací, zjištěné informace) patří do pří
 - Vlastnosti, motivace a vztahy postav → `Osoby a skupiny.md`
 - Výsledky identifikace předmětů, magie, rituálů → příslušná sekce
 - Výsledky průzkumu lokace → sekce té lokace v `Místa - Barovie.md`
+- Teorie a dohady skupiny k otevřené otázce → soubor úkolu; zápisek je zmíní jen tehdy, když vznikly během session a mají narativní váhu
 
 ### Věrnost tomu, co se stalo
 
@@ -110,7 +111,7 @@ Každý nový fakt ze session má domovský dokument:
 - Nové postavy → `Osoby a skupiny.md`, nadpis `##` zařazený abecedně (ověřit okolní nadpisy). Postavy podřízené jiné (rodina, družina) jako `###` pod ní.
 - Nové poznatky o existující postavě → její stávající záznam.
 - Nové poznatky o lokaci → sekce lokace v `Místa - Barovie.md` (nebo jiném `Místa - *`). Přepisovat čistě, jako by text byl od začátku správný.
-- Progres úkolu → soubor v `Úkoly/`. Deníkové úkoly postavy (s příponou 🧑🏻) jsou psané v první osobě jednotného čísla z pohledu té postavy a členěné nadpisy `#### <datum>`.
+- Progres úkolu → soubor v `Úkoly/`. Úkoly jsou questlog: cíl, checkboxy co udělat a co je hotovo, indicie a dohady k cíli. Průzkum lokací a nesouvisející fakty do nich nepatří. Deníkové úkoly postavy (s příponou 🧑🏻) jsou psané v první osobě jednotného čísla z pohledu té postavy a členěné nadpisy `#### <datum>`.
 - `Časová osa.md` → odkaz na zápisek pod každý herní den, který session pokrývá.
 - `index.md` → zápisek na vršek sekce Epizody, nejstarší položka vypadne (seznam drží zhruba 10 položek). Aktualizovaný úkol do „Nové a aktualizované“, úkoly, které tam byly předtím, zpět do své kategorie.
 - Sporné údaje (protichůdné dřívější zápisy, nesedící světové strany) nahlásit, ne tiše sjednotit.
