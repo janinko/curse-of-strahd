@@ -1,0 +1,33 @@
+## 21. Oťávra
+- Po zrušení prvního kruhu si **Rheya** všimla, že na [[Osoby a skupiny#Aldor Quill|Aldorovi]] je transmutační magie
+	- Konfrontovala jej a ten odtušil, že tuší, že jde o kouzlo, které ho drží naživu
+- Mezi sebou i s Aldorem jsme pak rokovali, za jakých podmínek ho osvobodíme
+	- **Rheya** pronesla dlouhý monolog plný souvětí a výhrůžek smrtí
+		- **Nethar** ho přeložil jako žádost o pomoc s průzkumem chrámu
+	- Nakonec jsme se shodli na informacích a otevření dveří
+- **Nethar** zrušil druhý kruh a Aldor nám vyprávěl o [[Strád von Zarovič|Strádovi]]
+	- Strád po něm chtěl pomoc se složitým kouzlem na uvěznění elementála, ze kterého chce čerpat sílu
+	- Vězení drží tři klíče, jantarové tyčky
+- **Nethar** mu pověděl o [[Osoby a skupiny#Mocný čaroděj|Mocném čaroději]], že by si mohli rozumět, a zrušil třetí kruh
+- Aldor nám Klepnutím otevřel velké dveře pod balkonem v hlavní síni
+	- Dveře v díře prý otvírat netřeba, tak nám prozradil, že dveře tu sdílí stejné heslo
+		- **Nethar** se pokoušel, ale heslo neuhodl
+	- Před odchodem si ukousl malíček a dal nám ho se slovy, že je v něm magie na jedno otevření dveří
+	- Pak odešel pěšky do lesa
+		- **Rheya** mu dala na cestu deku, aby snad odvedl naši pachovou stopu
+- Za nově otevřenými dveřmi jsme objevili hrobku
+	- V hlavní místnosti leží ve výklencích několik mrtvých
+		- Někteří mají magické předměty a někteří tituly u jména
+	- Při pokusu o vstup do západní místnosti začal **Rheyu** a **Malakaie** otravovat jedovatý puch
+	- Ve východní místnosti stojí socha stříbrného draka, která plive chlad, kdykoliv někoho spatří
+		- Zakryli jsme ji róbou
+- V rohu východní místnosti jsme našli falešnou zeď
+	- **Aurelius** z ní začal vyndávat cihly, ale znejistěl, když za zdí objevil další mrtvolu
+		- **Nethar** ho nabádal, ať pokračuje, až se zeď svalila
+	- Vzali jsme si od ní balíček s lektvarem a róbu
+		- **Rheya** si je vzala k identifikaci
+	- Naše počínání nechalo mrtvolu v poněkud horším stavu
+	- **Aurelius** si vzal i cenný náhrdelník ve tvaru draka a poslal ho [[Osoby a skupiny#Zephyros|Zephyrovi]]
+- Chystali jsme se vzít předměty i ostatním mrtvým, když se ozvaly otřesy
+	- Kraban vyděšeně vletěl vchodem do chrámu a ozval se výbuch
+	- **Malakai** byl zrovna v hlavní místnosti hrobky, my ostatní ve východní
