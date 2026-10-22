@@ -2,6 +2,7 @@
 - Připravili jsme se na příchozí skupinu [[Osoby a skupiny#Kiril|Kirila]] na čenichu vstupu do [[Místa - Barovie#Vlkodlačí doupě|vlkodlačího doupěte]]
 - Ostřelováním, kouzly a nakonec i silou pěstí a meče jsme všechny 3 příchozí vlkodlaky porazili
 - **Abukai** a **Nethar** se bavili s havranodlačkou [[Osoby a skupiny#Lena|Lenou]] o tom co se tu stalo a o osudu vlkodlačat
+	- Nad pobitými vlkodlaky utrousila "To je průser... pro ně asi."
 - **Aurelius** a **Malakai** šli spočítat poklad
 	- Cestou byli překvapeni **Abukaiem** nastraženou sochou, kterou v odvetě rozsekali na kousky
 	- **Aurellius** poslal [[Osoby a skupiny#Zephyros|Zephyrosovi]] 12x 25 gp (300 gp) šperků

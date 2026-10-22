@@ -6,7 +6,7 @@
 	- Většinu jsme zničili, dva duchové unikli podlahou někam pryč
 - Udělali jsme si pauzu na odpočinek a zkoumání
 	- **Rheya** porovnala netopýra od [[Strád von Zarovič|Stráda]], jeho mašličku a mašličku z druidského vlka
-		- Netopír a jeho mašlička mají nekrotickou magie, ale každá jinou
+		- Netopír a jeho mašlička mají nekrotickou magii, ale každá jinou
 		- Mašlička z vlka je hodně podobná té na netopýrovi
 	- **Rheya** identifikovala džbán z hostiny, připadl **Malakaiovi**
 	- **Nethar** dokresloval plánek hradu podle modelu, **Malakai** model zkoumal

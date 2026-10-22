@@ -4,6 +4,8 @@
 	- Řekl nám že pánem domu byl [[Osoby a skupiny#Argynvost|Argynvost]], údajně stříbrný drak
 - Narazili jsme na sarkofág s vyobrazením královny, uvnitř kterého byl bar
 - Našli jsme místo, kde se rudý mág [[Osoby a skupiny#Andreas z Bezantaru †|Andreas]] pokusil teleportovat pryč z [[Místa - Barovie#Barovie, území|Barovie]] a zbyly po něm jen kusy
+	- Zůstal po něm kruh krve a kusů masa
+	- Jeho věci jsme našli v bag of holding, mezi nimi i jeho deník
 - V jednom rohu za závěsem, který se chvěl byl bílý podstavec s koulí přikrytou látkou
 	- Po odkrytí se tam objevila čerstvě uřezaná hlava **Nethara**/**Ilmara**
 	- Zakrývání a odkrývání hlavy různými lidmi ukazovalo různé hlavy

@@ -13,6 +13,7 @@
 		- Stavení začalo hořet od střechy
 		- Několik mrtvých vlků, zasažených šipkami z kuše
 	- Dům vypadal jako nějaká laboratoř
+		- Všude byly podivné věci a rozbité sklo
 		- V lahvi se zelenou tekutinou plavala obrovská ruka
 		- Nemrtví vlci plivající kyselinu
 	- Zjevil se tam [[Strád von Zarovič#Sir Ascher|Ascher]]

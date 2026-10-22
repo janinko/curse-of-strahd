@@ -45,6 +45,11 @@ Večer jsem začal meditovat s druidskou temnou holí položenou na kolenou
 - Darování magickách předmětů je jen dočasná pomoc, pro posílení pouta je třeba udělat jednoduchý rituál:
 	- Vytetovat si tuto runu na tělo
 	- \*Runa překreslena do poznámek*
+#### 12. Oťávra
+Při meditaci v [[Místa - Barovie#Lovecká chata|lovecké chatě]] postava přišla a sedla si ke mně
+- Naléhal, ať se rozhodnu o rituálu s runou:
+	- "Zvažuj rychle, oddalování rozhodnutí není vždy nejlepší možnost."
+	- "Mám spoustu kouzel, kterými ti můžu pomoci"
 #### 16. Oťávra
 - Při [[055 Lekce o Strádovi|Souboji se Strádem]] ve vzpomínce na [[Osoby a skupiny#Tatiana †|Tatianu]] při jeho slovech: "Nemusíš na to být sám" jsem cítil nával velké antipatie ke [[Strád von Zarovič|Strádovi]]
 - Když **Malakai** naznačil, že asi zabil [[Osoby a skupiny#Ilmar Lirieneth|Ilmara]], přemýšlel jsem jestli **Malakaiovi** ublíží

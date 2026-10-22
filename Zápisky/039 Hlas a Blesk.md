@@ -12,7 +12,8 @@
 	- Blesk zničil čistotu jezírka
 - Obyvatelé [[Místa - Barovie#Krezk|Krezku]] z nás nebyly nadšení a těšili se až odejdeme, jen sám [[Osoby a skupiny#Dimitrij Krezk|Krezk]] nám řekl, že je to poprvé co má lehký pocit naděje
 	- Dal **Malakaiovi** meč svéhp [[Osoby a skupiny#Ilja Krezk †|syna]], který **Malakai** pojmenoval Iljova pomsta
-- **Nethar** strávil den studiem magie a nechal si udělat pozlacenou lebku
+- **Nethar** strávil den studiem magie a u [[Osoby a skupiny#Miloš|kováře Miloše]] si nechal udělat pozlacenou lebku
+	- Zároveň si vyzvedl plášť, který měl objednaný z dřívějška
 - Odešli jsme na noc do [[Místa - Barovie#Lovecká chata|lovecké chaty u Krezku]]
 - **Abukai** šel s **Malakaiem** a [[Osoby a skupiny#Ezmerelda|Ezmeraldou]] do mlhy
 	- Abukaiovi tam opět byla mlha a při cestě zpátky se ho mlha snažila přesvědčit, že jde špatným směrem

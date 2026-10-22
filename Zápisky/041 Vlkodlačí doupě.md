@@ -1,7 +1,9 @@
 ## 13. Oťávra
 - Našli jsme [[Místa - Barovie#Vlkodlačí doupě|Vlkodlačí doupě]], které vypadalo jako skalní vlčí tlama
 - **Nethar** vyčarovatl stínového ducha, kterého poslal do jeskyně na průzkum
+- Z jeskyně se ozývala špatně hraná flétna
 - V jeskyni jsme vybili několik vlků a vlkodlaků
+	- Jeden z nich na nás křičel "Když se [[Osoby a skupiny#Kiril|Kiril]] vrátí, tak si vás podá!"
 - Při prozkoumávání jsme našli panenku, která byla až podezřele podobná **Malakaiovi**, jen v zombie podobě
 - [[Záchrana Kelena a Marcuse|Našli jsme]] [[Osoby a skupiny#Marcus|Marcuse]] v jeskyni s dalšími zajatými mládežníky (celkem 7 chlapců a 2 dívky)
 	- V jeskyni taky byla socha ženy s vlčí hlavou a spoustou květin

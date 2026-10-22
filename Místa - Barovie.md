@@ -13,6 +13,8 @@ title: Místa - Barovie
 	- Ukrývali uprchlíky při bojích se Strádem
 - V jedné místnosti jsou 3 vitráže:
 	- [[Osoby a skupiny#Pán Jitra|Pán Jitra]], [[Osoby a skupiny#Markovia †|sv. Markovia]] a [[Osoby a skupiny#Taša Petrovna †|Taša Petrovna]]
+- Ve vstupním sále jsou 4 alabastrové busty, z toho jedna rozbitá
+- Visí zde tapiserie rytíře ve stříbrné zbroji
 ### Alchymistův domek
 - Asi 10 minut cesty od Argynvostholtu
 - Nalézá se v něm zničená alchymistická laboratoř
@@ -116,7 +118,7 @@ title: Místa - Barovie
 - Leží na ní [[#Tserské vodopády|Tserské vodopády]], [[#Tserské jezero|Tserské jezero]] a protéká poblíž [[#Barovie, vesnice|vesnice Barovie]]
 - Most přes řeku, poblíž [[#Tserské vodopády|Tserských vodopádů]] je vysoko na útesech a jsou na něm na kraji vždy 2 chrliči
 ## Jantarový chrám
-- Někdo v pohoří Balinok
+- Někde v pohoří Balinok
 - Zdroj zlé moci
 - Vede k němu [[#Průsmyk Tsolenka|průsmyk Tsolenka]] v [[#Ghakis, hora|Ghakiském pohoří]]
 - Podle [[Osoby a skupiny#Kazimir|Kazimírovy]] vize od [[Osoby a skupiny#Patrina|Patriny]] jde o kolmou skálu vysoko v horách s vysekaným průčelím ve skalní stěně
@@ -224,6 +226,7 @@ title: Místa - Barovie
 - Obehnaný pevnou kamennou stěnou, spousta borovic a mezi nimi jen několik domů
 - Samostaná komunita
 	- Pravidlem je být nápomocný a slušný
+- Je zde kovářství, kovářem je [[Osoby a skupiny#Miloš|Miloš]]
 ### Klášter sv. Markovie
 - [[Časová osa#Rok 352|roku 352]] přejmenován z Klášter Zářivé Pobožnosti na klášter [[Osoby a skupiny#Markovia †|sv. Markovie]]
 - Bydlí v něm [[Osoby a skupiny#Opat|Opat]] a hybridizovaní potomci [[Osoby a skupiny#Rodina Belvory|rodiny Belvory]]
@@ -233,6 +236,7 @@ title: Místa - Barovie
 - Na cedulce u dveří na nádvoří je napsáno: "Nechť její záře vyléčí všechny nemoci."
 - Na nádvoří se převalovala podivně hustá mlha
 - Podle [[Osoby a skupiny#Ezmerelda|Ezmeraldy]] se [[Strád von Zarovič|Strád]] zjevil ve věži a podle [[Osoby a skupiny#Victoria †|Victorie]] by se tam mohl nacházet teleportační kruh
+	- [[Osoby a skupiny#Ezmerelda|Ezmeralda]] viděla na zvonici modro-zelený záblesk a poté z ní vyšel [[Strád von Zarovič|Strád]]
 - Je zde blázinec chráněn obrovskou bytostí sešitou z částí těl ("s Opatem jsme v bezpečí")
 - Zahrádka se spoustou strašáků, nicméně králíci zde žerou
 - Je zde pohřbená [[Osoby a skupiny#Taša Petrovna †|Taša Petrovna]]
@@ -445,6 +449,9 @@ Dům [[Smlouva o koupi rezidence|koupený]] Dorstovými
 	- Vistánské ženy údajně viděly vlkodlaky v západní části [[Místa - Barovie#Barovie, území|údolí]], západně o [[Místa - Barovie#Vallaki|Vallaki]]
 - Podle [[Osoby a skupiny#Oleg|Olega]] by se mělo nalézat na západ od [[Místa - Barovie#Zarovich, jezero|jezera Zarovich]]
 - Kus cesty na jihozápad od křižovaty [[Místa - Barovie#Starý Berez|Starý Berez]] - [[Místa - Barovie#Baratok, jezero|jezero Baratok]] x [[Místa - Barovie#Krezk|Krezk]] - [[Místa - Barovie#Vallaki|Vallaki]] šlo na severozápad slyšet vytí vlků
+- V jedné z jeskyní stojí socha ženy s vlčí hlavou, obložená spoustou květin
+	- Kolem sochy je nakupená spousta pokladů
+	- V téže jeskyni byli drženi zajatí mládežníci
 ## Zarovich, jezero
 - Velké jezero v [[#Barovie, území|Barovii]]
 ## Západní brána

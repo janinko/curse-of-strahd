@@ -37,6 +37,10 @@ title: Strád von Zarovič
 - Z [[024 A kurva, zase Strád|třetího setkání]]
 	- Viděli jsme jej za dne, ale byly těžké dešťové mraky nad námi
 	- Strnule stál a hleděl do [[Místa - Barovie#Mlha|Mlhy]] u [[Místa - Barovie#Kopec Minulosti|Kopce Minulosti]]
+- Ze [[038 Lekce pro Stráda|čtvrtého setkání]]
+	- Dokáže číst myšlenky a paměť
+		- V **Netharově** paměti si přečetl o kontaktu s [[Osoby a skupiny#Rudolf van Richten|van Richtenem]]
+	- **Netharovi** řekl "Zrazeni vlastní rodinou, v tom jsme si podobní"
 - Ze [[054 Smrtební hostina|vzpomínky na Tatianu]]
 	- Není imunní na nekrotické zranění, je na něj rezistentní
 ### Zvěsti
@@ -99,6 +103,11 @@ title: Strád von Zarovič
 - Strád je v Barovii zíroveň věznitelem i vězněm
 - tekoucí voda zraňuje upíry
 	- jednoho upíra zabili přesměrováním řeky do jeho sídla
+- Sluneční světlo nebo být v tekoucí vodě mu zabrání v přeměně v mlhu
+- "Nesmrtelní" jsou jen vysocí upíři, ti nižší po zabití zemřou nadobro
+- Jezero se nepočítá jako tekoucí voda
+- Viděla na zvonici [[Místa - Barovie#Klášter sv. Markovie|Kláštera sv. Markovie]] modro-zelený záblesk, načež z ní vyšel Strád
+	- Nasvědčuje to teleportaci
 #### Podle [[Osoby a skupiny#Victoria †|Victorie]]
 - Naučil se magii od nějakých mágů, co přišli do Barovie
 - Spekulace jsou o tom,že přes mlhu přišlo několik bytostí, od kterých se učil
@@ -123,6 +132,12 @@ matka
 Bratr
 - 
 - Podle [[Osoby a skupiny#Tatiana †|Tatiany]] by měl být pohřben v nejnižším patře katakomb pod [[Místa - Barovie#Ravenloft|Ravenloftem]]
+- Zjevil se [[Osoby a skupiny#Irina Koljanovna|Irině]] v [[Místa - Barovie#Svatyně Bílého slunce|jezírku u Svatyně Bílého slunce]] — mužské tělo a mladý, pevný hlas
+	- Oslovoval ji jako [[Osoby a skupiny#Tatiana †|Tatianu]]: "Tatiano moje milá, bylo to tak dávno co jsme byli spolu"
+	- Chtěl ji vzít s sebou: "Se mnou budeš v bezpečí, pryč z tohoto krutého světa"
+	- Když odmítla, protože nemůže ostatní nechat samotné, tvářil se smutně
+	- Poradil jí: "Tatiano, pokud o sobě chceš vědět víc, polož kytici na hrob [[Osoby a skupiny#Marina †|Mariny]] ve [[Místa - Barovie#Starý Berez|Starém Berezu]]"
+	- Řekl nám, ať najdeme jeho meč v katakombách [[Místa - Barovie#Ravenloft|Ravenloftu]]
 ### Rahadin
 soumračný elf
 - podle [[Osoby a skupiny#Kazimir|Kazimíra]] odmítl poslušnost elfímu princi, byl za to králem vyhoštěn a z pomsty se přidal k invazní armádě, která [[Osoby a skupiny#Soumrační elfové|soumračné elfy]] téměř vyhladila
@@ -135,6 +150,8 @@ soumračný elf
 	- u těla jsme našli [[Rahadinovy dopisy|jeho dopisy]] a jantarovou tyčku (jeden ze tří pilířů nějakého mechanismu — možná pečeť)
 	- jeho očarovaný pytel po doteku vybuchl a vyvolal tři vzdušné elementály
 ## Společníci
+Že jde o Strádovy společníky nám při [[043 Piknik při novoluní|pikniku u Baratockého jezera]] potvrdil [[Osoby a skupiny#Ismark Koljanovič|Ismark]]
+- Všichni tři pijí krev
 ### Lady Ludmila Vilsavic
 - první nevěsta Stráda
 - upír
@@ -142,6 +159,7 @@ soumračný elf
 ### Lady Volenta Popovsky
 - třetí nevěsta Stráda
 - upír
+- při [[043 Piknik při novoluní|pikniku u Baratockého jezera]] měla na sobě masku
 - při [[055 Lekce o Strádovi|setkání v Berezu]] na sobě měla zlaté šaty pocákané krvý, plyšového medvídka na rameni a v pravé ruce hůlku
 	- medvídek se jmenoval Momo, než byl při souboji zničen
 	- V souboji jsme ji zabili a rozpadla se na prach

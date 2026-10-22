@@ -26,6 +26,7 @@ Bývalý majitel [[Místa - Barovie#Rezidence Dorstových|rezidence]], který [[
 ## Andreas z Bezantaru †
  - Červený mág
  - Byl vyslán čarodějnou organizací prozkoumat uzavřené části Shadowfellu
+	 - Víme to z jeho deníku, který jsme našli mezi jeho věcmi v bag of holding
  - Asi před [[Časová osa#730|5 lety]] přišel do [[Místa - Barovie#Barovie, území|Barovie]]
 	 - Pokoušel se vyhíbat odhalení a zjistit kde je
 	 - Zjistil že nemůže odejít a pokusil se teleportovat pryč
@@ -112,6 +113,9 @@ Kněz [[#Pán Jitra|Pána Jitra]]
 - Doporučil, aby byla [[#Irina Koljanovna|Irina]] odvedena až do [[Místa - Barovie#Klášter sv. Markovie|opatství sv. Markovie]] v [[Místa - Barovie#Krezk|Krezku]]
 - Dohadoval se, že by [[Strád von Zarovič|Strád]] mohl s [[#Irina Koljanovna|Irinou]] provést to samé, co provedl s [[#Doru †]]
 - Při soukromém rozhovoru s [[#Ismark Koljanovič|Ismarkem]] o [[#Irina Koljanovna|Irině]] řekl něco o adoptování
+- Jeho syn [[#Doru †|Doru]] z něj udělal svého přisluhovače
+	- Když jsme jej [[040 Svatý otec a syn|potkali]] na cestě ke [[Místa - Barovie#Vlkodlačí doupě|Vlkodlačímu doupěti]], jeho tvář byla bílá a znetvořená hrozivým úšklebkem
+	- Po zabití se změnil na prach
 ### Doru †
 - Před rokem prý přišel nějaký "[[#Mocný čaroděj|mocný mág]]", který chtěl pomoc s poražením [[Strád von Zarovič|Stráda]] a Doru mu prý šel pomoci
 - Je zavřený ve sklepě [[Místa - Barovie#Kostel Pána Jitra|kostela Pána Jitra]]
@@ -122,6 +126,8 @@ Kněz [[#Pán Jitra|Pána Jitra]]
 - Volal na celý kostel:
 	- "Otče, já hladovím."
 	- "Já jsem tak hladový, pomoc."
+- Když jsme jej [[040 Svatý otec a syn|potkali]] na cestě ke [[Místa - Barovie#Vlkodlačí doupě|Vlkodlačímu doupěti]], byl mladý, bledý jako bez krve, se zsinalýma očima a cenil tesáky delší než lidské
+	- Po zabití se změnil na prach
 ## Dragomir
 - Byl zaklet v sošce potkana, kterou měla baba [[#Lysaga †|Lysaga]]
 - Osvobozen **Netharem**
@@ -355,6 +361,7 @@ Vůdce [[#Tábor Luvaše|Tábora Luvaše]], kmene [[#Vistani|Vistanců]]
 - Dcera Luvaše, má 7 let
 - černé vlasy
 - Byla utopena [[#Podezřelý rybář †|rybářem]]
+- Zjevuje se **Abukaiovi** v jeho snech o labyrintu duší a provází jej tam
 ## Lysaga †
 - Ježibaba z [[Místa - Barovie#Starý Berez|Berezu]]
 - podle [[#Davian|dědy z vinařství]] je to čarodějnice, co posílá oživlé strašáky do [[Místa - Barovie#Vinařství U mága|vinařství]] a žije ve [[Místa - Barovie#Starý Berez|Starém Berezu]]
@@ -410,6 +417,9 @@ Pes, nalezený v hudebním salónku [[Místa - panství Dorstových|strašideln�
 - Podle [[#Madam Eva]] je společně s [[#Pán Jitra|Pánem Jitra]] staré božstvo [[Místa - Barovie#Barovie, území|Barovie]], které nad ní drželo ochrannou ruku, předtím než byla prokletá. Její moc už není tak silná.
 - podle [[#Soumrační elfové|elfů]] je to bohyně temnoty, temného měsíce a zapomění
 - podle svých slov je jedniniu zbylou bohyní v Barovii
+## Miloš
+Kovář v [[Místa - Barovie#Krezk|Krezku]]
+- **Nethar** si u něj nechal udělat pozlacenou lebku
 ## Mocný čaroděj
 - Podle [[#Donovič †|Donoviče]] asi před rokem sesbíral skupinu lidí, kteří se měli vydat porazit upíra [[Strád von Zarovič|Stráda]]
 - Donovičův syn [[#Doru †]] byl prý součástí výpravy a vrátil se "jiný"
@@ -471,6 +481,7 @@ Obrovský létající tvor
 	- Podle bližšího střetnutí to vypadá na 120 stop
 - Zdá se být zesláblý a nemocný z nedostatku jídla
 - Možná jsme jej viděli létat kolem [[Místa - Barovie#Ghakis, hora|hory Ghakis]]
+- Podle [[#Savid|Savida]] se velký opeřený drak/pták vyskytuje nad [[Místa - Barovie#Ghakis, hora|pohořím Ghakis]] a neplive oheň
 - Přelétl kolem křižovatky [[Místa - Barovie#Vallaki|Vallaki]] x [[Místa - Barovie#Krezk|Krezk]] x [[Místa - Barovie#Vinařství U mága|Vinařství]]
 ## Osýbovi kněží
 Sekta, která stála za několika knížkami nepřesných rituálů v tajné místnosti v [[Místa - panství Dorstových|domově Dorstových]]
@@ -480,6 +491,9 @@ Sekta, která stála za několika knížkami nepřesných rituálů v tajné mí
  - Má moc nad ránem
  - Podle [[#Ismark Koljanovič|Ismarka]] si někteří lidé myslí, že je opustil
  - Podle [[#Madam Eva]] je společně s [[#Matka Noci|Matkou Noci]] staré božstvo [[Místa - Barovie#Barovie, území|Barovie]], které nad ní drželo ochrannou ruku, předtím než byla prokletá. Její moc už není tak silná.
+ - Při **Netharově** [[039 Hlas a Blesk|rituálu]] se zjevil duch ženy — mohutné tělo, kroužková zbroj se symbolem Pána Jitra
+	 - Slib, který si za pomoc vyžádala: **Nethar** pomůže nejbližšímu knězi Pána Jitra s jedním úkolem
+	 - Její pomoc měla podobu zářivého kulového útvaru; když jej **Nethar** vzal, bylo to jako teplá voda
 ## Pavouk
 viz [[Strád von Zarovič]]
 Obrovský pavouk, který podle [[#Madam Eva]] žije uprostřed [[Místa - Barovie#Barovie, území|údolí]].
@@ -598,6 +612,7 @@ Mladá žena s kaštanovými vlasy po ramena a hnědýma očima
 - Při soukromém rozhovoru mezi [[#Donovič †|Donovičem]] a [[#Ismark Koljanovič|Ismarkem]] o Irině zmínil Donovič něco o adopci
 	- Podle [[Dopis od Koljana Indiroviče|dopisu od Koljana]] je adoptována
 	- Podle Ismarka a jeho informací od [[#Donovič †|Donoviče]] je adoptovaná, jejich otec ji jednou přinesl z lovu
+- Při setkání se [[Strád von Zarovič#Sergej|Sergejem]] u [[Místa - Barovie#Svatyně Bílého slunce|Svatyně Bílého slunce]] měla pocit, že ho znala, ale už ne
 #### Tatiana †
 První inkarnace Irininy duše
 - [[Strád von Zarovič|Strád]] ji miloval
@@ -915,7 +930,7 @@ Skupina vlkodlaků napadající vesnice poblíž [[Místa - Materiální pláň#
 ### Emil
 Bývalý vůdce vlkodlaků
 ### Kiril
-Vůdce vlkodlaků, partner [[#Zuleika|Zulky]]
+Aktuální vůdce vlkodlaků
 ### Vaslov †
 Vlkodlak, kterého se podařilo strážím zajmout při [[Útok vlků a vlkodlaků na Liamovu Tvrz|útoku na Liamovu Tvrz]]
 - Jeden z útočníků na [[Místa - Materiální pláň#Liamova tvrz]]

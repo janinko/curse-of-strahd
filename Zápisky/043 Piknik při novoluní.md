@@ -2,6 +2,7 @@
 - Dopluli jsme na [[Místa - Barovie#Khazanova věž|ostrov s věží]]
 - [[Osoby a skupiny#Ezmerelda|Ezmeralda]] se pokusila kontaktovat [[Osoby a skupiny#Rudolf van Richten|van Richtena]], došlo ke spojení, ale nedostala odpověď
 - [[Osoby a skupiny#Ezmerelda|Ezmeralda]] pak vlezla do svého vozu - poklopem zespodu - a vyčarovala koně slovem "drovaš"
+- Před spaním jsme se na ostrově bavili o elfech, duších a podobných věcech
 - Šli jsme spát
 	- **Malakaiovi** se zdál sen, ve kterém mu  [[Osoby a skupiny#Matka Noci|Matka Noci]] nedopřála odpočinku
 	- **Aurelius** se kontaktoval se [[Osoby a skupiny#Zephyros|Zephyrem]], který mu dodal více ohnivé síly a připoměl mu dluh
@@ -14,7 +15,8 @@
 	- Pozvali nás na večeři v [[Místa - Barovie#Ravenloft|hradě Ravenloft]]
 		- Pozvání máme potvrdit nejpozději den předem
 		- Večeře se má uskutečnit nejpozději do 21. Oťávra
-		- Pozvánka byla doplněna pytlíkem s vysušeným netopírem, kterého máme použít pro zaslání odpovědi
+		- Pozvánkou byl složený pergamen, doplněný pytlíkem
+			- V pytlíku byl vysušený mrtvý netopír ovázaný červenými provázky, kterého máme použít pro zaslání odpovědi
 	- Podle [[Strád von Zarovič#Lady Ludmila Vilsavic|Ludmily]]
 		- Jsme [[Strád von Zarovič|Stráda]] zaujali a chce nás poznat blíže
 		- Hrabě byl pobaven tím, jak jsme si poradili s [[Osoby a skupiny#Vlkodlaci|Vlkodlaky]]

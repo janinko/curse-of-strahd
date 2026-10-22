@@ -5,7 +5,7 @@ Zápisky [[Osoby a skupiny#Mocný čaroděj|mocného čaroděje]], které jsme n
 - Pojednává o diskuzích s [[#Elminster|Elminsterem]] o magickém a metafyzickém významu plání a o morálních implikacích toho, že tam jsou uvězněny stovky duší
 - Přemýšlel nad rituálem, který by jej dokázal přenést do Panství Hruzy
 	- Rituál na bázi planeshift se podařil, ale start musel být v Shadowfellu
-- Přemýšlel, jaké je spojení Shadofellu a těchto demiplání Panství Hrůzy
+- Přemýšlel, jaké je spojení Shadowfellu a těchto demiplání Panství Hrůzy
 
 - Poznámky o Barovii a plány na setkání se [[Strád von Zarovič|Strádem]]
 	- musí jej dostat z hradu
