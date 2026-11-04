@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[081 Zavalení prací]]  
 [[080 Podání pomocného malíčku]]  
 [[079 Historie Jantaru v obrázkovém vydání]]  
 [[078 Vilniusova poslední zpověď]]  
@@ -9,7 +10,6 @@
 [[074 Mrtví furt ožívají]]  
 [[073 Moc samotného Sandžora]]  
 [[072 Mrtví nedají spát]]  
-[[071 Neocenitelné dary]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované

@@ -2,8 +2,11 @@ Zjistit, co je [[Místa - Barovie#Jantarový chrám|Jantarový chrám]] zač a j
 
 - [x] Najít chrám — [[Časová osa#20. Oťávra 735|20. Oťávra 735]] nás k němu dovedl [[Osoby a skupiny#Kazimir|Kazimír]]
 - [x] Osvobodit uvězněného čaroděje [[Osoby a skupiny#Aldor Quill|Aldora Quilla]] — výměnou nám řekl o [[Tři jantarové klíče|elementálově vězení]] a otevřel dveře pod balkonem
-- [ ] Prozkoumat hrobku za dveřmi pod balkonem (západní místnost s jedovatým puchem a zvukem vody, výklenky s mrtvými)
-- [ ] Prozkoumat zavřené dveře v západní chodbě spodního patra
+- [x] Prozkoumat hrobku za dveřmi pod balkonem — puch v západní místnosti šel z lebky, předměty z výklenků oživily tři golemy
+- [ ] Dostat se ze zasypaného chrámu
+	- Vchod je zasypaný nejméně 40 stop kamene a sněhu
+	- Možná cesta: odtok v západní místnosti hrobky vede 70 stop dolů k mříži, za kterou je vidět světlo
+- [ ] Prozkoumat zavřené dveře v západní chodbě spodního patra (podle Netharova ducha za nimi nejspíš nic živého není)
 - [ ] Prozkoumat jantarové podstavce a jantarové dveře v díře (podle Aldora se k nim dá dojít z druhé strany)
 - [ ] Zjistit, co v chrámu ovládá amulet ve tvaru obrněnce od [[Osoby a skupiny#Vilnius †|Vilniuse]]
 
@@ -28,8 +31,10 @@ Zjistit, co je [[Místa - Barovie#Jantarový chrám|Jantarový chrám]] zač a j
 	- „Strád vede armádu údolím." — z jejich reakce usuzujeme, že na ně kdysi zaútočila Strádova armáda
 - Chrám je spjatý s [[Místa - Barovie#Argynvostholt|Argynvostholtem]]: kromě Argynvostovy stráže v něm podle kreseb kdysi možná pobývali jeho vojáci a duchové jeho vojáků tu byli uvěznění ve zvrácené hostině
 - V hrobce pod balkonem leží mrtví s tituly jako „pán pečetí" a „hlavní artificer"
+	- Jedna z nich byla trpasličí artificerka, která podle nápisu vytvořila konstrukty
 - O chrám se zajímají i další:
 	- Strád — za uvězněným Aldorem chodil a chtěl jeho pomoc s [[Tři jantarové klíče|elementálovým vězením]]; jeho [[Osoby a skupiny#Druidi z Jantarového chrámu †|druidi]] v chrámu přebývali
+		- Když jsme byli uvnitř, přišly otřesy a vchod se zasypal; Kraban předtím viděl nad chrámem mračna a blesky, dohadujeme se, že Strád bleskem spustil lavinu
 	- [[Osoby a skupiny#Rudí mágové z Thay|Rudí mágové z Thay]] sem poslali výpravu (mrtvý červený mág ve vstupní hale)
 	- [[Osoby a skupiny#Jakarion|Jakarion]] s učněm [[Osoby a skupiny#Vilnius †|Vilniusem]], který sloužil [[Osoby a skupiny#Neumírající král|Neumírajícímu králi]]
 

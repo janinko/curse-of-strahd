@@ -124,10 +124,12 @@ title: Místa - Barovie
 - Podle [[Osoby a skupiny#Kazimir|Kazimírovy]] vize od [[Osoby a skupiny#Patrina|Patriny]] jde o kolmou skálu vysoko v horách s vysekaným průčelím ve skalní stěně
 - Podle Kazimíra (který se k chrámu kdysi pokusil dostat) je vstup tvořen branou vysoko nad řekou — v bráně hoří zelený plamen
 - Průčelí tvoří kolmá skála se šesti výklenky s jantarovými sochami — postavy bez tváří, v kápích, ruce sepjaté v modlitbě; uprostřed je černý vchod
+	- Po otřesech je vchod zasypaný nejméně 40 stop kamene a sněhu
 - Za vchodem vstupní hala se střílnami — za jednou střílnou ležela mrtvola červeného mága s hůlkou tajemství
 	- Prostor za střílnami je přístupný tajnými dveřmi; mrtvý mág měl u sebe papíry — psané v infernal a v neznámém jazyce (**Nethar** je předal [[Osoby a skupiny#Firan|Firanovi]])
 - V hlavní síni je odpočívadlo a obrovská socha — [[Osoby a skupiny#Zvěstovatel Neferona|Zvěstovatel]] boha tajemství a magie [[Osoby a skupiny#Neferon|Neferona]], mluví telepaticky; po doteku jantarové stěny se **Nethar** rozkašlal černým hlenem
 	- Temnota sochy je evokační magie
+	- Po otřesech soše chybí jedna ruka a jeden sloup síně je zřícený
 	- Síň má dvě patra; vstup z chrámu ústí na hlavní balkon a z něj vedou vlevo i vpravo schody dolů do spodního patra
 		- Dveře přímo vpravo vedou k díře v podlaze a lebkám, dveře přímo vlevo do nocležiště druidů
 		- Dveře vlevo směrem na jih: za nimi visela na lanech oživlá zbroj — po přeříznutí lan spadla, spolu s naším oživlým kobercem sletěla ze schodů a zaútočila (zničena)
@@ -141,14 +143,18 @@ title: Místa - Barovie
 		- Za nimi hrobka ve tvaru hranatého „O"
 			- V hlavní místnosti leží ve výklencích asi 17 mrtvých
 				- U některých jsou nápisy s tituly, například „pán pečetí" a „hlavní artificer"
-				- Někteří mají magické předměty
+				- U jedné z mrtvých nápis, že tato trpasličí artificerka vytvořila konstrukty
+				- Magické předměty měli jen dva: knihu (má **Nethar**) a sponu pláště
+			- V místnosti stáli tři golemové, kteří ožili, když jsme mrtvým vzali předměty (zničeni)
 			- Z hlavní místnosti vede chodba na východ a na západ do menších místností
-			- V západní místnosti jedovatý puch, který otravuje příchozí
-				- Ze západní chodby a místnosti je slyšet voda, kapání a proudění
+			- V západní místnosti chrlič chrlí vodu
+				- Lebka, které z úst šel žlutý jedovatý dým, byla zdrojem puchu, který otravoval příchozí (má **Malakai** v magickém vaku)
+				- Voda odtéká mříží v podlaze úzkou chodbou o 70 stop dolů a dál chodbou blokovanou mříží, za kterou je vidět světlo
 			- Ve východní místnosti socha stříbrného draka, která plive chlad, kdykoliv někoho spatří (zakryli jsme ji róbou)
 			- V rohu východní místnosti byla falešná zeď, za ní další mrtvola
-				- Měla u sebe balíček s lektvarem a róbu (má **Rheya** k identifikaci) a cenný náhrdelník ve tvaru draka (**Aurelius** ho poslal [[Osoby a skupiny#Zephyros|Zephyrovi]])
+				- Měla u sebe balíček s lektvarem, plášť ochrany (má **Malakai**) a cenný náhrdelník ve tvaru draka (**Aurelius** ho poslal [[Osoby a skupiny#Zephyros|Zephyrovi]])
 		- Západní chodba spodního patra (zhruba pod horní západní chodbou, o něco západněji) je plná povětšinou zavřených dveří; žádné jsme neotevřeli
+			- Podle **Netharova** nemrtvého ducha, který prošel skoro všemi, za nimi nejspíš nic živého není
 			- Na severním konci otevřené dveře do místností; před nimi ve třech soustředných magických kruzích stál uvězněný [[Osoby a skupiny#Aldor Quill|Aldor Quill]]
 - Chodba na západní straně: ohořelá mrtvola člověka a tři lebky — ožily a zaútočily (zničeny)
 	- U mrtvoly odporná hůl s březovým motivem a jemně modrým krystalem, v níž sídlí duch [[Osoby a skupiny#Jakarion|Jakarion]] (má **Aurelius**), a náhrdelník ze surového železa s ostrým symbolem hřebenu (má **Malakai**)

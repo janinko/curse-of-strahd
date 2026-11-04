@@ -1,0 +1,27 @@
+## 21. Oťávra
+- Když otřesy ustaly, rozhlédli jsme se, co zbylo z [[Místa - Barovie#Jantarový chrám|chrámu]]
+	- Zdá se stabilní, jen soše [[Osoby a skupiny#Zvěstovatel Neferona|Zvěstovatele]] v hlavní síni chybí jedna ruka a jeden sloup je zřícený
+	- Vchod je zasypaný
+- Předtím než vletěl dovnitř, Kraban viděl, jak se na obloze před chrámem sbíhají mračna a bijí blesky
+	- Dohadovali jsme se, že možná [[Strád von Zarovič|Strád]] udeřil bleskem do skály, aby spustil lavinu a zavalil nás
+- **Nethar** vyvolal svého nemrtvého ducha, aby prozkoumal, kudy ven
+	- Vchod je zasypaný nejméně 40 stop kamene a sněhu
+	- Prošel skoro všechny dveře v západní chodbě
+		- Za nimi nejspíš nic živého není
+	- Ze západní místnosti hrobky hlásil, že je tam možný východ, aspoň deset děr, kterými projde
+		- Ukázalo se, že tím myslel mříž odtoku v podlaze
+	- Mezitím **Rheya** identifikovala plášť od mrtvoly za falešnou zdí jako plášť ochrany a oblékl si ho **Malakai**
+		- **Aurelius** odpočíval
+- Do západní místnosti se jako první vydal **Malakai**
+	- Chrlič tam chrlí vodu a lebce z úst jde žlutý jedovatý dým
+		- **Malakai** ji schoval do magického vaku a puch přestal
+	- Voda odtéká úzkou chodbou o 70 stop dolů
+		- **Nethar** tam poslal Krabana se svítícím kamínkem od **Aurelia**
+		- Voda pak odtéká chodbou, která je blokována mříží, za kterou je vidět světlo
+- V hlavní místnosti hrobky jsme se vrátili k magickým předmětům mrtvých ve výklencích
+	- **Malakai** si u jedné z mrtvých přečetl nápis, že tato trpasličí artificerka vytvořila konstrukty
+	- Předměty měli nakonec jen dva mrtví, kniha (vzal si ji **Nethar**) a spona pláště
+	- Jakmile jsme je vzali, dle očekávní ožili tři zdejší golemové a my je museli porazit
+- Dali jsme si krátký odpočinek (?)
+	- **Rheya** identifikovala knihu
+-  Pak jsme uslyšeli kroky ze směru hlavní síně chrámu
