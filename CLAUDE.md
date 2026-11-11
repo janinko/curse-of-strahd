@@ -89,6 +89,7 @@ Fakta (vlastnosti postav, popis lokací, zjištěné informace) patří do pří
 - Nepřiostřovat formulace: *"byl ochoten se hole vzdát"* není *"hůl odmítl"*. Držet se toho, co se stalo.
 - Časovou perspektivu držet v době děje: *"(tehdy už bývalý) pán"* znamená bývalý z pohledu vypravěče dnes, ne v době vyprávěné události.
 - Procedurální detaily bez dopadu na děj (kdo první přeřízl lano) do zápisku nepatří.
+- Vysvětlení, jak funguje schopnost postavy, a nejisté detaily o tom, kde přesně předmět je, do zápisku nepatří.
 
 ### Styl
 
@@ -111,6 +112,8 @@ Každý nový fakt ze session má domovský dokument:
 - Nové postavy → `Osoby a skupiny.md`, nadpis `##` zařazený abecedně (ověřit okolní nadpisy). Postavy podřízené jiné (rodina, družina) jako `###` pod ní.
 - Nové poznatky o existující postavě → její stávající záznam.
 - Nové poznatky o lokaci → sekce lokace v `Místa - Barovie.md` (nebo jiném `Místa - *`). Přepisovat čistě, jako by text byl od začátku správný.
+- Do záznamu postavy a místa patří trvalé fakty. Dočasný stav (kde postava právě je, co zrovna chce) a průběh rozhovoru zůstávají v zápisku, případně v úkolu.
+- Vlastnost společnou celému místu (materiál dveří v chrámu) neopakovat u jednotlivých položek.
 - Progres úkolu → soubor v `Úkoly/`. Úkoly jsou questlog: cíl, checkboxy co udělat a co je hotovo, indicie a dohady k cíli. Průzkum lokací a nesouvisející fakty do nich nepatří. Deníkové úkoly postavy (s příponou 🧑🏻) jsou psané v první osobě jednotného čísla z pohledu té postavy a členěné nadpisy `#### <datum>`.
 - `Časová osa.md` → odkaz na zápisek pod každý herní den, který session pokrývá.
 - `index.md` → zápisek na vršek sekce Epizody, nejstarší položka vypadne (seznam drží zhruba 10 položek). Aktualizovaný úkol do „Nové a aktualizované“, úkoly, které tam byly předtím, zpět do své kategorie.

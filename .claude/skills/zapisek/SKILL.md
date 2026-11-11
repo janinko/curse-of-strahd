@@ -21,7 +21,7 @@ Poznámky jsou zkratkovité a většina kontextu je jen v hlavě uživatele. Pro
 ## Fáze 1: Vstup a přepis
 
 1. Cesty k fotkám jsou v argumentech. Bez argumentů použít `~/Stažené/notes_*.jpg`; vypsat nalezené soubory a nechat uživatele potvrdit, než se čtou.
-2. Přečíst všechny fotky a zjistit číslo nové session z `index.md` (poslední + 1).
+2. Fotky mimo repozitář nejdřív zkopírovat do scratchpadu a číst odtamtud; přímé čtení mimo pracovní adresář blokuje nastavení. Přečíst všechny fotky a zjistit číslo nové session z `index.md` (poslední + 1).
 3. Vypsat **doslovný přepis** celých poznámek:
    - řádek po řádku, v pořadí a členění originálu
    - nejistá čtení označit `???` přímo v textu, u každého uvést, co písmena naznačují, pokud něco naznačují

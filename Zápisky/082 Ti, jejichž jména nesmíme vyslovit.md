@@ -1,0 +1,26 @@
+## 21. Oťávra
+- **Rheya** se vydala za kroky do hlavní síně [[Místa - Barovie#Jantarový chrám|chrámu]]
+	- Nakoukla za roh, zakryla světlo, a letěla síň prozkoumat
+	- Cítila tam zápach smrti a shnilých knih vázaných v kůži, jež přicházel odněkud jinud
+	- Nad zříceným sloupem je škvíra, kterou dovnitř proniká světlo zvenku
+		- Byly u ní dva divné stalaktity, které na **Rheyu** skočily a zaútočily
+		- Rychle jsme je společně zabili
+- **Aurelius** hledal v síni stopy toho, kdo tu chodil, ale našel jen pasti
+- [[Osoby a skupiny#Kazimir|Kazimír]] začínal být více nervózní a chtěl prozkoumat jantarové podstavce
+	- Doufá, že by mohly napovědět, jak osvobodit jeho sestru [[Osoby a skupiny#Patrina|Patrinu]]
+- Pustili jsme se proto do východní chodby spodního patra
+	- Dvoje dveře jsou magicky zavřené, jedny z nich vedou do místnosti s dírou a podstavci
+	- **Nethar** na ně zkoušel různá jména
+		- Při slovech „ve jménu [[Osoby a skupiny#Neumírající král|Neumírajícího krále]]“ mu přeběhl mráz po zádech
+		- Shodli jsme se, že by raději neměl vzývat autoritu nebezpečných bytostí
+	- **Aurelius** zkusil „ve jménu [[Osoby a skupiny#Zephyros|Zephyra]]“ a asi na minutu mu zesklenatěly oči 
+		- Pak nám vyprávěl, že měl u Zephyra audienci
+		- Nabídl mu svou hůl s [[Osoby a skupiny#Jakarion|Jakarionem]] a Zephyros ji přijal
+		- Dostal za ni tři uhlíky ze žhavé sopky, tak žhavé, že mohou protavit dveře, ale i ublížit
+		- Zephyros se ptal, jak pokračuje pátrání po [[Osoby a skupiny#Exalos Ben Axun|vezírovi]], který je jeho nepřítel
+			- **Aurelius** mlžil, že nic nezjistil
+	- Ani jedny z těch dveří jsme neotevřeli
+- Další dvoje dveře v chodbě magicky zavřené nebyly
+	- Za prvními byla pracovna, podle vybavení a malé postele nejspíš té trpasličí artificerky z hrobky
+	- Za druhými stál golem
+		- **Malakai** ho ovládl amuletem ve tvaru obrněnce od [[Osoby a skupiny#Vilnius †|Vilniuse]] a může mu teď dávat rozkazy

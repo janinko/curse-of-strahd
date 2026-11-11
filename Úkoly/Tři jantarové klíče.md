@@ -28,5 +28,5 @@ Podle dopisů a setkání s elementály jsme usoudili, že uvězněný tvor už 
 	- Na kraji [[Místa - Barovie#Starý Berez|Starého Berezu]] se rozplynul a zbyl po něm safír, ve kterém se hemží bouře
 - Strád při [[012 Setkání s ďáblem Strádem|setkání]] o **Aureliovi** řekl: „Cítím z vás zvláštní magii, elementální."
 - [[075 Hostina duchů|20. Oťávra]] se **Aureliovi** zdálo, že letí nad [[Místa - Barovie#Ravenloft|Ravenloftem]], a z nejvyšší věže slyšel hlasy: „pomoz mi", „osvoboď mě" (viz [[Mnohá osvobození Ravenloftská]])
-- Teorie: elementálové prosící **Aurelia** o pomoc mohou souviset se zmizelým vezírem ledu a oceli [[Osoby a skupiny#Exalos Ben Axun|Exalosem Ben Axunem]], po kterém je podle [[Osoby a skupiny#Zephyros|Zephyra]] vyhlášeno pátrání
+- Teorie: elementálové prosící **Aurelia** o pomoc mohou souviset se zmizelým vezírem ledu a oceli [[Osoby a skupiny#Exalos Ben Axun|Exalosem Ben Axunem]], po kterém je podle [[Osoby a skupiny#Zephyros|Zephyra]] vyhlášeno pátrání a který je Zephyrovým nepřítelem
 - [[069 Pěkné pozdvižení|20. Oťávra]] z Rahadinova očarovaného pytle vyletěli tři vzdušní elementálové; může jít i o nesouvisející věc

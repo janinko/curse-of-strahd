@@ -181,6 +181,7 @@ Osoba ve špinavém hnědém plášti, co nás sledovala ve [[Místa - Barovie#V
 ## Exalos Ben Axun
 vezír ledu a oceli
 - Podle [[#Zephyros|Zephyra]] zmizel a je po něm vyhlášeno pátrání
+- Je Zephyrovým nepřítelem
 - Teorie?  Potkali jsme dvakrát elementála vzduchu, který prosil **Aurelia** o pomoc, je nějak spojený?
 - **Aureliovi** se zdálo, že z nejvyšší věže [[Místa - Barovie#Ravenloft|Ravenloftu]] slyší hlas volající "pomoz mi", "osvoboď mě" — možná další stopa ke stejné teorii
 ## Ezmerelda
@@ -255,7 +256,8 @@ Bývalá majitelka [[Místa - Barovie#Mlýn Dorstových|mlýna]], který [[Smlou
 ## Jakarion
 Duch sídlící v holi nalezené u ohořelé mrtvoly v [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]] — duch člověka, u kterého jsme hůl našli
 - Promluví k tomu, kdo se hole chvíli dotýká; arogantní — žádá, aby hůl třímal někdo, kdo „umí pořádně čarovat"
-- Hůl má březový motiv a jemně modrý krystal, působí odporně (nosí ji **Aurelius**)
+- Hůl má březový motiv a jemně modrý krystal, působí odporně
+	- **Aurelius** ji dal [[#Zephyros|Zephyrovi]] výměnou za tři uhlíky ze žhavé sopky
 - Chce dokázat co nezvládl v životě
 - Nerad mluví, dá se přemluvit jen k rozhovoru s **Aureliem**
 	- Když se o to pokusil **Malakai**, rozzlobil se a z hole vystřelil záblesk, který zranil **Rheyu**
@@ -458,6 +460,7 @@ Bytost, které podle vlastních slov sloužil [[#Vilnius †|Vilnius]]
 	- Svůj život i své činy halí do tajemství
 - Když o něm Vilnius při [[078 Vilniusova poslední zpověď|výslechu]] mluvil, hluboký hlas odnikud ho označil za zrádce: „Potrestán bude každý, kdo zradí Neumírajícího krále!"
 	- Vilnius se vzápětí proměnil v tvora s jediným velkým zeleným okem
+- Když **Nethar** u magicky zavřených dveří v [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]] vyslovil „ve jménu Neumírajícího krále“, přeběhl mu mráz po zádech
 ## Nikolaj
 Ožrala z [[Místa - Barovie#Hostinec Na Širokém moři|hostince ve Vallaki]]
 ## Opat
@@ -893,7 +896,7 @@ Učeň [[#Jakarion|Jakariona]], nalezený schovaný za pultíkem v sále [[Míst
 - Při výslechu nejdřív odmítal říct, proč s Jakarionem přišli do Barovie; pod **Aureliovým** nátlakem mluvil o nekromancii a řekl, že slouží [[#Neumírající král|Neumírajícímu králi]]
 	- Hluboký hlas odnikud (nepatřil [[#Neferon|Neferonovi]]) ho označil za zrádce: nesplnil úkol, nechal učitele zemřít a porušil přikázání
 	- Proměnil se v tvora s jediným velkým zeleným okem, který z nás tahal tajemství; zabili jsme ho
-- U jeho těla jsme našli amulet ve tvaru obrněnce; něco ovládá, nejspíš v chrámu, a **Malakai** to prý pozná, až to uvidí (má **Malakai**)
+- U jeho těla jsme našli amulet ve tvaru obrněnce, který ovládá golema ve spodním patře chrámu; **Malakai** jím golemovi dává rozkazy (má **Malakai**)
 ## Vistani
 Potulný národ, dělící se na několik kmenů/táborů
 - Mají od [[Strád von Zarovič|Stráda]] povolení cestovat skrze [[Místa - Barovie#Mlha|Mlhy]]
@@ -951,6 +954,7 @@ vysoko postavená ďáblice
 ## Zephyros
 **Aureliův** pán z pláně ohně
 - Líbily by se mu 3 artefakty z [[Místa - Barovie#Vinařství U mága|Vinařství U mága]]
+- Jeho nepřítelem je vezír [[#Exalos Ben Axun|Exalos Ben Axun]]
 ## Zvěstovatel Neferona
 Obrovská socha v hlavní síni [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]], mluví telepaticky („Hlas")
 - Střeží chrám [[#Neferon|Neferona]], boha tajemství a magie: poutníci se musí poklonit, raubíře čeká zhouba

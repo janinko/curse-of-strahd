@@ -130,6 +130,7 @@ title: Místa - Barovie
 - V hlavní síni je odpočívadlo a obrovská socha — [[Osoby a skupiny#Zvěstovatel Neferona|Zvěstovatel]] boha tajemství a magie [[Osoby a skupiny#Neferon|Neferona]], mluví telepaticky; po doteku jantarové stěny se **Nethar** rozkašlal černým hlenem
 	- Temnota sochy je evokační magie
 	- Po otřesech soše chybí jedna ruka a jeden sloup síně je zřícený
+		- Nad zříceným sloupem je škvíra, kterou dovnitř proniká světlo zvenku; důkladně jsme ji nezkoumali
 	- Síň má dvě patra; vstup z chrámu ústí na hlavní balkon a z něj vedou vlevo i vpravo schody dolů do spodního patra
 		- Dveře přímo vpravo vedou k díře v podlaze a lebkám, dveře přímo vlevo do nocležiště druidů
 		- Dveře vlevo směrem na jih: za nimi visela na lanech oživlá zbroj — po přeříznutí lan spadla, spolu s naším oživlým kobercem sletěla ze schodů a zaútočila (zničena)
@@ -137,7 +138,7 @@ title: Místa - Barovie
 	- V jihozápadním rohu síně zabarikádované dveře — za nimi nocležiště, kde přebývali [[Osoby a skupiny#Druidi z Jantarového chrámu †|Strádovi druidi]] s vlkem (pobiti, nemrtvý vlk unikl)
 		- Z nocležiště vede skrytá přírodní chodba ven; ústí kus na západ od hlavního vchodu a není dobře vidět (tudy vlk unikl)
 	- Spodní patro síně:
-		- Pod hlavním balkonem velké dveře; páčení nepomohlo, podle **Rheyina** kouzla jsou zavřené magicky, podobně jako jantarové dveře u podstavců
+		- Pod hlavním balkonem velké dveře; páčení nepomohlo, podle **Rheyina** kouzla jsou zavřené magicky, podobně jako dveře u podstavců
 			- Otevřel nám je [[Osoby a skupiny#Aldor Quill|Aldor Quill]] Klepnutím
 			- Podle Aldora mají magicky zavřené dveře v chrámu stejné heslo, které nezná
 		- Za nimi hrobka ve tvaru hranatého „O"
@@ -153,14 +154,18 @@ title: Místa - Barovie
 			- Ve východní místnosti socha stříbrného draka, která plive chlad, kdykoliv někoho spatří (zakryli jsme ji róbou)
 			- V rohu východní místnosti byla falešná zeď, za ní další mrtvola
 				- Měla u sebe balíček s lektvarem, plášť ochrany (má **Malakai**) a cenný náhrdelník ve tvaru draka (**Aurelius** ho poslal [[Osoby a skupiny#Zephyros|Zephyrovi]])
-		- Západní chodba spodního patra (zhruba pod horní západní chodbou, o něco západněji) je plná povětšinou zavřených dveří; žádné jsme neotevřeli
+		- Západní chodba spodního patra (zhruba pod horní západní chodbou, o něco západněji) je plná povětšinou zavřených dveří, některé z nich magicky; žádné jsme neotevřeli
 			- Podle **Netharova** nemrtvého ducha, který prošel skoro všemi, za nimi nejspíš nic živého není
 			- Na severním konci otevřené dveře do místností; před nimi ve třech soustředných magických kruzích stál uvězněný [[Osoby a skupiny#Aldor Quill|Aldor Quill]]
+		- Východní chodba spodního patra je podobná západní, jen její severní část je zřícená a zasypaná
+			- Dvoje dveře jsou zavřené magicky (neotevřeny); jedny z nich jsou dveře u podstavců v místnosti s dírou
+			- Pracovna, podle vybavení a malé postele, která unese trpaslíka, nejspíš trpasličí artificerky z hrobky
+			- Místnost s golemem, kterého ovládá amulet ve tvaru obrněnce od [[Osoby a skupiny#Vilnius †|Vilniuse]] (golemovi dává rozkazy **Malakai**)
 - Chodba na západní straně: ohořelá mrtvola člověka a tři lebky — ožily a zaútočily (zničeny)
-	- U mrtvoly odporná hůl s březovým motivem a jemně modrým krystalem, v níž sídlí duch [[Osoby a skupiny#Jakarion|Jakarion]] (má **Aurelius**), a náhrdelník ze surového železa s ostrým symbolem hřebenu (má **Malakai**)
+	- U mrtvoly odporná hůl s březovým motivem a jemně modrým krystalem, v níž sídlí duch [[Osoby a skupiny#Jakarion|Jakarion]] (**Aurelius** ji dal [[Osoby a skupiny#Zephyros|Zephyrovi]]), a náhrdelník ze surového železa s ostrým symbolem hřebenu (má **Malakai**)
 - Východní část: hned za dveřmi díra v podlaze vedoucí o patro níž — po vhození dřeva se dole rozzářila zelená světla a vyletěly z ní tři hořící lebky (zničeny)
 	- Zničené lebky po čase znovu ožívají — zneškodněny rozdrcením, vymácháním v kyselině a politím svěcenou vodou
-	- O patro níž v díře stojí tři jantarové podstavce — v každém zřejmě něco uvězněno (duše?) — a magicky očarované jantarové dveře
+	- O patro níž v díře stojí tři jantarové podstavce — v každém zřejmě něco uvězněno (duše?) — a magicky očarované dveře, které vedou do východní chodby spodního patra
 		- Podle [[Osoby a skupiny#Aldor Quill|Aldora]] je netřeba je otevírat, dá se k nim snadno dojít z druhé strany
 	- U stropu číhá kyselina a padá na toho, kdo projde pod ní
 	- Na severním konci chodby jantarový golem zíral na stěnu, jako by ji skenoval; přidal se do boje proti nám (zničen)
@@ -169,7 +174,7 @@ title: Místa - Barovie
 		- Na zadní stěně za pultíkem břidlicový reliéf, po stěnách devět obrazů ([[Obrazy z posluchárny Jantarového chrámu]])
 			- Podle [[Osoby a skupiny#Vilnius †|Vilniuse]] vyprávějí o založení chrámu skupinou mágů, kteří se rozhodli chytat a věznit bytosti odporující jejich principům
 		- Za pultíkem se schovával [[Osoby a skupiny#Vilnius †|Vilnius]]
-			- U jeho těla jsme později našli amulet ve tvaru obrněnce; něco ovládá, nejspíš v chrámu, a **Malakai** to prý pozná, až to uvidí (má **Malakai**)
+			- U jeho těla jsme později našli amulet ve tvaru obrněnce, který ovládá golema ve východní chodbě spodního patra (má **Malakai**)
 - Za dveřmi na severovýchodním balkonku je předsálí a svatyně
 	- Kožešina na stěně po doteku vypouští spóry
 	- Ve svatyni násilně rozbitá obsidiánová socha — znázorňuje totéž co socha v hlavní síni

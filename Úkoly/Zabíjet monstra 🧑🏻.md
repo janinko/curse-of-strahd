@@ -22,4 +22,6 @@
 - V [[Místa - Barovie#Jantarový chrám|Jantarovém chrámu]] jsme zničili oživlou zbroj, tentokrát rychle
 - U východu z [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]] jsme dorazili dva duchy rytířů, co nám utekli z hostiny
 - [[Osoby a skupiny#Vilnius †|Vilnius]] se při výslechu proměnil v tvora s jedním velkým zeleným okem, zabili jsme ho
+- V hrobce [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]] ožili tři golemové, když jsme mrtvým vzali předměty, porazili jsme je
+- V hlavní síni [[Místa - Barovie#Jantarový chrám|Jantarového chrámu]] zaútočily dva divné stalaktity, rychle jsme je zabili
 

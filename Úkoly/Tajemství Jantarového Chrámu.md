@@ -3,12 +3,21 @@ Zjistit, co je [[Místa - Barovie#Jantarový chrám|Jantarový chrám]] zač a j
 - [x] Najít chrám — [[Časová osa#20. Oťávra 735|20. Oťávra 735]] nás k němu dovedl [[Osoby a skupiny#Kazimir|Kazimír]]
 - [x] Osvobodit uvězněného čaroděje [[Osoby a skupiny#Aldor Quill|Aldora Quilla]] — výměnou nám řekl o [[Tři jantarové klíče|elementálově vězení]] a otevřel dveře pod balkonem
 - [x] Prozkoumat hrobku za dveřmi pod balkonem — puch v západní místnosti šel z lebky, předměty z výklenků oživily tři golemy
+- [x] Zjistit, co v chrámu ovládá amulet ve tvaru obrněnce od [[Osoby a skupiny#Vilnius †|Vilniuse]] — golema ve východní chodbě spodního patra, **Malakai** mu může dávat rozkazy
 - [ ] Dostat se ze zasypaného chrámu
 	- Vchod je zasypaný nejméně 40 stop kamene a sněhu
 	- Možná cesta: odtok v západní místnosti hrobky vede 70 stop dolů k mříži, za kterou je vidět světlo
+	- Možná cesta: škvíra nad zříceným sloupem v hlavní síni, kterou proniká světlo zvenku
 - [ ] Prozkoumat zavřené dveře v západní chodbě spodního patra (podle Netharova ducha za nimi nejspíš nic živého není)
-- [ ] Prozkoumat jantarové podstavce a jantarové dveře v díře (podle Aldora se k nim dá dojít z druhé strany)
-- [ ] Zjistit, co v chrámu ovládá amulet ve tvaru obrněnce od [[Osoby a skupiny#Vilnius †|Vilniuse]]
+- [ ] Prozkoumat jantarové podstavce a dveře v díře (podle Aldora se k nim dá dojít z druhé strany)
+	- Stojí o to [[Osoby a skupiny#Kazimir|Kazimír]], doufá, že napoví, jak osvobodit [[Osoby a skupiny#Patrina|Patrinu]]
+	- Dveře u podstavců vedou do východní chodby spodního patra a jsou magicky zavřené
+- [ ] Dostat se za magicky zavřené dveře (některé v západní chodbě spodního patra, dvoje ve východní)
+	- Podle [[Osoby a skupiny#Aldor Quill|Aldora]] mají všechny stejné heslo, které nezná
+	- „Ve jménu Neumírajícího krále“ ani „ve jménu Zephyra“ je neotevřelo
+	- **Aureliovy** tři uhlíky ze žhavé sopky od [[Osoby a skupiny#Zephyros|Zephyra]] mohou dveře protavit
+- [ ] Zjistit, odkud je v hlavní síni cítit zápach smrti a shnilých knih vázaných v kůži
+- [ ] Zjistit, čí kroky jsme slyšeli z hlavní síně (**Aurelius** tam stopy nenašel)
 
 ## Potencionální poloha
 - [[Osoby a skupiny#Kazimir|Kazimir]] (soumračný elf žijící u [[Místa - Barovie#Argynvostholt|Argynvostholtu]]) zná cestu a nabídl, že je tam zavede, pokud mu pomohou [[Mnohá osvobození Ravenloftská|osvobodit]] duši jeho sestry [[Osoby a skupiny#Patrina|Patriny]] uvězněnou v [[Místa - Barovie#Ravenloft|Ravenloftu]]

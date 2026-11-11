@@ -1,5 +1,6 @@
 # Strádovo prokletí
 ## Epizody
+[[082 Ti, jejichž jména nesmíme vyslovit]]  
 [[081 Zavalení prací]]  
 [[080 Podání pomocného malíčku]]  
 [[079 Historie Jantaru v obrázkovém vydání]]  
@@ -9,7 +10,6 @@
 [[075 Hostina duchů]]  
 [[074 Mrtví furt ožívají]]  
 [[073 Moc samotného Sandžora]]  
-[[072 Mrtví nedají spát]]  
 Zbytek viz vlevo.
 ## Úkoly
 ### Nové a aktualizované
