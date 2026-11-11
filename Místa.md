@@ -28,6 +28,9 @@ title: Místa
 ## Gloomwrought
 - Město v Shadowfellu
 - Pochází odtud **Nethar**
+## Jantarový chrám
+Viz [[Místa - Jantarový chrám]].
+
 ## Kostel sv. Andrala
 - 17. Rotting 435 zde byla podepsána [[Smlouva o koupi mlýna|smlouva o koupi mlýna]]
 

@@ -26,6 +26,7 @@ Důvod: **zamezení spoilerům** z oficiálního modulu. Vždy hledej a čti lok
 | `Strád von Zarovič.md`          | Dedikovaný profil Stráda — vzhled, pozorování ze setkání, zvěsti, rodina                                              |
 | `Místa.md`                      | Přehled domén hrůzy a dalších míst ve světě; rozcestník pro ostatní soubory `Místa - *`                               |
 | `Místa - Barovie.md`            | Lokace v Barovii (vesnice, Vallaki, Krezk, Ravenloft, vinařství, jezera…) — hlavní reference pro místa kampaně        |
+| `Místa - Jantarový chrám.md`    | Detailní popis Jantarového chrámu po patrech a místnostech                                                            |
 | `Místa - Materiální pláň.md`    | Lokace mimo Barovii (Liamova tvrz, Bowshot…) — kde kampaň začala                                                      |
 | `Místa - panství Dorstových.md` | Detailní popis panství Dorstových po místnostech                                                                      |
 | `Časová osa.md`                 | Chronologický přehled dějin Barovie od 3. stol. do současnosti (rok ~735)                                             |
